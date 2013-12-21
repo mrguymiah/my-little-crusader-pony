@@ -1,0 +1,121 @@
+namespace = PonyBreeding
+
+character_event = {
+	id = PonyBreeding.1 # Earth x Earth
+	desc = "PonyBreeding.0.desc"
+	picture = GFX_evt_child_play
+	
+	trigger = {
+		age = 0
+		NOT = {
+			trait = pegasus
+			trait = unicorn
+			trait = earth_pony
+		}
+		AND = {
+			mother = {trait = earth_pony}
+			father = {trait = earth_pony}
+		
+		}
+	}
+	option = {
+		name = "PonyBreeding.0.accept"
+		random = {
+			100 = {
+				add_trait earth_pony
+			}	
+		}
+	}
+}
+
+character_event = {
+	id = PonyBreeding.2 # Unicorn x Unicorn
+	desc = "PonyBreeding.2.desc"
+	picture = GFX_evt_child_play
+	trigger = {
+		age = 0
+		NOT = {
+			trait = pegasus
+			trait = unicorn
+			trait = earth_pony
+		}
+		AND = {
+			mother = {trait = unicorn}
+			father = {trait = unicorn}
+		
+		}
+	}
+	option = {
+		name = "PonyBreeding.0.accept"
+		random = {
+			100 = {
+				add_trait unicorn
+			}	
+		}
+	}
+}
+character_event = {
+	id = PonyBreeding.3 #Pegasus x Pegasus
+	desc = "PonyBreeding.3.desc"
+	picture = GFX_evt_child_play
+	trigger = {
+		age = 0
+		NOT = {
+			trait = pegasus
+			trait = unicorn
+			trait = earth_pony
+		}
+		AND = {
+			mother = {trait = pegasus}
+			father = {trait = pegasus}
+		
+		}
+	}
+	option = {
+		name = "PonyBreeding.0.accept"
+		random = {
+			100 = {
+				add_trait pegasus
+			}	
+		}
+	}
+}
+character_event = {
+	id = PonyBreeding.1 # Earth x Pegasus
+	desc = "PonyBreeding.1.desc"
+	picture = GFX_evt_child_play
+	trigger ={
+		
+		
+		NOT = {
+			trait = pegasus
+			trait = unicorn
+			trait = earth_pony
+		}
+		OR = {
+			AND = {
+				mother = {trait = pegasus}
+				father = {trait = earth_pony}
+			}
+			AND = {
+				mother = {trait = earth_pony}
+				father = {trait = pegasus}
+			}
+		}
+	}
+	option = {
+		name = "PonyBreeding.0.accept"
+		random_list = {
+			50 = {
+				add_trait earth_pony
+			}	
+			50 = {
+				add_trait pegasus
+			}
+		}
+	}
+}
+	
+	
+		
+			

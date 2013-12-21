@@ -1,0 +1,33 @@
+decisions = {
+
+	lay_eggs = {
+		name = "changeling.lay_eggs"
+		is_high_prio = yes
+		desc = "changeling.lay_eggs.desc"
+		potential = {
+			trait = "changeling_queen"
+			NOT = {
+				has_character_flag = laid_eggs
+			}
+			age = 16
+			independent = yes
+			
+			is_female = yes
+			
+		}
+		allow = {
+			is_ruler = yes
+			NOT = {
+				has_character_flag = laid_eggs
+			}
+			is_married = yes
+		}
+		effect = {
+			set_character_flag = laid_eggs
+			character_event = {
+				id = ChangelingEggsFert.1 days = 180
+			}
+		}
+	}
+	
+}

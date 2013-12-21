@@ -1,0 +1,21 @@
+namespace = ChangelingInbreeding
+character_event = {
+	id = ChangelingInbreeding.1
+	title = "changeling.inbreed.Title"
+	desc = "changeling.inbreed.Desc"
+	
+	trigger = {
+		trait = "changeling"
+		trait = "inbred"
+	}
+	option = {
+		name = "changeling.inbreed.prevent"
+		remove_trait="inbred"
+		inbred = no
+	}
+	
+}
+
+
+	
+		

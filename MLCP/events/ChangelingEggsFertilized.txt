@@ -1,0 +1,15 @@
+namespace = ChangelingEggsFert
+character_event = {
+	id = ChangelingEggsFert.1
+	title = "changeling.eggsFertile.Title"
+	desc = "changeling.eggsFertile.Desc"
+	trigger = {
+		has_character_flag = laid_eggs
+	}
+	option = {
+		name = "changeling.eggsFertile.confirmed" # Excellent!
+		add_trait = "changeling_eggs"
+		character_event = { id = ChangelingEggsHatch.1 days = 365}
+		clr_character_flag = laid_eggs
+	}
+}

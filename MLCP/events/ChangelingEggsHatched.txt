@@ -1,0 +1,84 @@
+namespace = ChangelingEggsHatch
+character_event = {
+	id = ChangelingEggsHatch.1
+	title = "changeling.eggsHatch.title"
+	desc = "changeling.eggsHatch.desc"
+	trigger = {
+		trait = changeling_eggs
+	}
+	
+	
+	option = {
+		name = "changeling.eggsHatch.confirmed" # Changeling children are born
+		
+		random_list = {
+			50 = {
+				create_character = {
+					age = 0
+					trait = "changeling"
+					
+				}
+				new_character = {
+					set_mother = PREV
+					dynasty = PREV
+				}
+				create_character = {
+					age = 0
+					trait = "changeling"
+					
+				}
+				new_character = {
+					set_mother = PREV
+					dynasty = PREV
+				}
+				create_character = {
+					age = 0
+					trait = "changeling"
+					
+				}
+				new_character = {
+					set_mother = PREV
+					dynasty = PREV
+				}
+			}
+			50 = {
+				create_character = {
+					age = 0
+					trait = "changeling"
+					
+					female = yes
+				}
+				new_character = {
+					set_mother = PREV
+					dynasty = PREV
+				}
+				create_character = {
+					age = 0
+					trait = "changeling"
+					
+					female = yes
+				}
+				new_character = {
+					set_mother = PREV
+					dynasty = PREV
+				}
+				create_character = {
+					age = 0
+					trait = "changeling"
+					
+					female = yes
+				}
+				new_character = {
+					set_mother = PREV
+					dynasty = PREV
+				}
+				
+			}
+		}
+	}
+			
+			
+			
+		remove_trait = "changeling_eggs"
+		
+}
