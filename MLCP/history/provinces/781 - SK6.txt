@@ -1,0 +1,15 @@
+# c_sk6
+
+# County Title
+title = c_sk6
+
+# Settlements
+max_settlements = 3
+
+b_sk6 = castle
+
+# Misc
+culture = high_griffin
+100.1.1 = {
+	religion = grifflyreise
+}

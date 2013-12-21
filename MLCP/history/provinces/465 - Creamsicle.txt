@@ -1,0 +1,15 @@
+# c_creamsicle
+
+# County Title
+title = c_creamsicle
+
+# Settlements
+max_settlements = 3
+
+b_creamsicle = castle
+
+# Misc
+culture = crystal_culture
+100.1.1 = {
+	religion = crystal_religion
+}

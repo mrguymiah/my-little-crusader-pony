@@ -1,0 +1,15 @@
+# c_froggy_side
+
+# County Title
+title = c_froggy_side
+
+# Settlements
+max_settlements = 1
+
+b_froggy_side = castle
+
+# Misc
+culture = caribou_culture
+100.1.1 = {
+	religion = mooselam
+}

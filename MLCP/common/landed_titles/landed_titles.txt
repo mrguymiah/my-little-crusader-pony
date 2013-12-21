@@ -1,0 +1,8311 @@
+###### AUTO GENERATED CONTENT ######
+
+
+e_zebrica = {
+	color={ 211 218 216 }
+	color2={ 255 255 20 }
+	
+	capital = 3 # Barno	
+	short_name = yes
+	
+	culture = zebradid
+	
+
+k_zebrazen = {
+	color={ 211 218 216 }
+	color2={ 255 255 255 }
+	
+	capital = 3 # Barno
+	
+	culture = zebradid
+	
+	
+	
+	d_easthorn = {
+			color={ 211 218 216 }
+			color2={ 255 255 255 }
+			
+			capital = 3 # Barno
+			
+		c_barno = {
+			color={ 211 218 216 }
+			color2={ 255 255 255 }
+		
+			b_barno1 = {
+}
+				b_barno2 = {
+}
+				b_barno3 = {
+}
+	}
+			c_durmane = {
+			color={ 206 213 211 }
+			color2={ 255 255 255 }
+		
+			b_durmane1 = {
+}
+				b_durmane2 = {
+}
+				b_durmane3 = {
+}
+	}
+	}
+		d_zebradore = {
+			color={ 199 207 205 }
+			color2={ 255 255 255 }
+			
+			capital = 5 # Hayq
+			
+		c_hayq = {
+			color={ 199 207 205 }
+			color2={ 255 255 255 }
+		
+			b_hayq1 = {
+}
+				b_hayq2 = {
+}
+				b_hayq3 = {
+}
+	}
+			c_motail = {
+			color={ 168 179 171 }
+			color2={ 255 255 255 }
+		
+			b_motail1 = {
+}
+				b_motail2 = {
+}
+				b_motail3 = {
+}
+	}
+			c_herdeta = {
+			color={ 183 191 193 }
+			color2={ 255 255 255 }
+		
+			b_herdeta1 = {
+}
+				b_herdeta2 = {
+}
+				b_herdeta3 = {
+}
+	}
+			c_yeeha = {
+			color={ 166 166 166 }
+			color2={ 255 255 255 }
+		
+			b_yeeha1 = {
+			}
+				b_yeeha2 = {
+			}
+				b_yeeha3 = {
+			}
+	}
+	}
+		d_maneamba = {
+			color={ 164 174 176 }
+			color2={ 255 255 255 }
+			
+			capital = 9 # Zebraway
+			
+		c_zebraway = {
+			color={ 164 174 176 }
+			color2={ 255 255 255 }
+		
+			b_zebraway1 = {
+}
+				b_zebraway2 = {
+}
+				b_zebraway3 = {
+}
+	}
+			c_maneamba = {
+			color={ 146 158 160 }
+			color2={ 255 255 255 }
+		
+			b_maneamba1 = {
+}
+				b_maneamba2 = {
+}
+				b_maneamba3 = {
+}
+	}
+			c_bridle_dar = {
+			color={ 147 159 156 }
+			color2={ 255 255 255 }
+		
+			b_bridle_dar1 = {
+}
+				b_bridle_dar2 = {
+}
+				b_bridle_dar3 = {
+}
+	}
+			c_agister = {
+			color={ 136 136 136 }
+			color2={ 255 255 255 }
+		
+			b_agister1 = {
+}
+				b_agister2 = {
+}
+				b_agister3 = {
+}
+	}
+			c_broncall = {
+			color={ 142 149 146 }
+			color2={ 255 255 255 }
+		
+			b_broncall1 = {
+}
+				b_broncall2 = {
+}
+				b_broncall = {
+}
+	}
+			c_tippoint = {
+			color={ 205 205 205 }
+			color2={ 255 255 255 }
+		
+			b_tippoint1 = {
+}
+				b_tippoint2 = {
+}
+				b_tippoint3 = {
+}
+	}
+	}
+		d_trotala = {
+			color={ 182 186 184 }
+			color2={ 255 255 255 }
+			
+			capital = 15 # Ring Sour
+			
+		c_ring_sour = {
+			color={ 182 186 184 }
+			color2={ 255 255 255 }
+		
+			b_ring_sour1 = {
+}
+				b_ring_sour2 = {
+}
+				b_ring_sour3 = {
+}
+	}
+			c_quirtar = {
+			color={ 128 134 131 }
+			color2={ 255 255 255 }
+		
+			b_quirtar1 = {
+}
+				b_quirtar2 = {
+}
+				b_quirtar3 = {
+}
+	}
+			c_nagallop = {
+			color={ 105 112 108 }
+			color2={ 255 255 255 }
+		
+			b_nagallop1 = {
+}
+				b_nagallop2 = {
+}
+				b_nagallop3 = {
+}
+	}
+	}
+		d_zebakar = {
+			color={ 81 85 83 }
+			color2={ 255 255 255 }
+			
+			capital = 18 # Zebroidar
+			
+		c_zebroidar = {
+			color={ 81 85 83 }
+			color2={ 255 255 255 }
+		
+			b_zebroidar = {
+}
+	}
+			c_zebakar = {
+			color={ 133 139 136 }
+			color2={ 255 255 255 }
+		
+			b_zebakar = {
+}
+	}
+			c_herder = {
+			color={ 96 102 99 }
+			color2={ 255 255 255 }
+		
+			b_herder = {
+}
+	}
+			c_turmule = {
+			color={ 157 164 160 }
+			color2={ 255 255 255 }
+		
+			b_turmule = {
+}
+	}
+	}
+		d_coltogo = {
+			color={ 199 202 198 }
+			color2={ 255 255 255 }
+			
+			capital = 22 # Sohorse
+			
+		c_sohorse = {
+			color={ 199 202 198 }
+			color2={ 255 255 255 }
+		
+			b_sohorse = {
+}
+	}
+			c_manechew = {
+			color={ 145 157 153 }
+			color2={ 255 255 255 }
+		
+			b_manechew = {
+}
+	}
+			c_latigo_gallop = {
+			color={ 199 199 199 }
+			color2={ 255 255 255 }
+		
+			b_latigo_gallop = {
+}
+	}
+			c_mareda = {
+			color={ 174 174 174 }
+			color2={ 255 255 255 }
+		
+			b_mareda = {
+}
+	}
+	}
+	}
+	
+k_zebora = {
+	color={ 184 185 172 }
+	color2={ 255 255 255 }
+	
+	capital = 26 # Zebroitan
+	
+	culture = zebrazen
+	
+	
+	
+	d_coltarga = {
+			color={ 184 185 172 }
+			color2={ 255 255 255 }
+			
+			capital = 26 # Zebroitan
+			
+		c_zebroitan = {
+			color={ 184 185 172 }
+			color2={ 255 255 255 }
+		
+			b_zebroitan = {
+}
+	}
+			c_haltra = {
+			color={ 124 139 134 }
+			color2={ 255 255 255 }
+		
+			b_haltra = {
+}
+	}
+			c_hockoro = {
+			color={ 134 141 131 }
+			color2={ 255 255 255 }
+		
+			b_hockoro = {
+}
+	}
+			c_kanoknacker = {
+			color={ 185 187 181 }
+			color2={ 255 255 255 }
+		
+			b_kanoknacker = {
+}
+	}
+			c_tamare = {
+			color={ 180 188 185 }
+			color2={ 255 255 255 }
+		
+			b_tamare = {
+}
+	}
+	}
+		d_coltegol = {
+			color={ 141 137 131 }
+			color2={ 255 255 255 }
+			
+			capital = 31 # Sunzebra
+			
+		c_sunzebra = {
+			color={ 141 137 131 }
+			color2={ 255 255 255 }
+		
+			b_sunzebra = {
+}
+	}
+			c_barnago = {
+			color={ 211 209 207 }
+			color2={ 255 255 255 }
+		
+			b_barnago = {
+}
+	}
+	}
+		d_ramzarba = {
+			color={ 177 182 175 }
+			color2={ 255 255 255 }
+			
+			capital = 33 # Manecara
+			
+		c_manecara = {
+			color={ 177 182 175 }
+			color2={ 255 255 255 }
+		
+			b_manecara = {
+}
+	}
+			c_kolto = {
+			color={ 74 79 72 }
+			color2={ 255 255 255 }
+		
+			b_kolto = {
+}
+	}
+			c_ramzarba = {
+			color={ 163 167 171 }
+			color2={ 255 255 255 }
+		
+			b_ramzarba = {
+}
+	}
+			c_baybaba = {
+			color={ 143 143 143 }
+			color2={ 255 255 255 }
+		
+			b_baybaba = {
+}
+	}
+	}
+		d_zebaba_island = {
+			color={ 187 184 181 }
+			color2={ 255 255 255 }
+			
+			capital = 37 # Pellagallop
+			
+		c_pellagallop = {
+			color={ 187 184 181 }
+			color2={ 255 255 255 }
+		
+			b_pellagallop = {
+}
+	}
+			c_gaitao = {
+			color={ 131 125 120 }
+			color2={ 255 255 255 }
+		
+			b_gaitao = {
+}
+	}
+	}
+		d_zamazeb = {
+			color={ 136 151 149 }
+			color2={ 255 255 255 }
+			
+			capital = 39 # Al Zebara
+			
+		c_al_zebara = {
+			color={ 136 151 149 }
+			color2={ 255 255 255 }
+		
+			b_al_zebara = {
+}
+	}
+			c_timbucktu = {
+			color={ 199 205 204 }
+			color2={ 255 255 255 }
+		
+			b_timbucktu = {
+}
+	}
+			c_coltiala = {
+			color={ 108 121 119 }
+			color2={ 255 255 255 }
+		
+			b_coltiala = {
+}
+	}
+			c_kumaresi = {
+			color={ 118 120 109 }
+			color2={ 255 255 255 }
+		
+			b_kumaresi = {
+}
+	}
+	}
+	}
+	
+k_zebrican_desert = {
+	color={ 141 145 81 }
+	color2={ 255 255 255 }
+	
+	capital = 43 # Grassased
+	
+	culture = zebrazen
+	
+	
+	
+	d_zebora-zeka = {
+			color={ 141 145 81 }
+			color2={ 255 255 255 }
+			
+			capital = 43 # Grassased
+			
+		c_grassased = {
+			color={ 141 145 81 }
+			color2={ 255 255 255 }
+		
+			b_grassased = {
+}
+	}
+			c_firegrass = {
+			color={ 153 147 72 }
+			color2={ 255 255 255 }
+		
+			b_firegrass = {
+}
+	}
+			c_barnah = {
+			color={ 159 157 113 }
+			color2={ 255 255 255 }
+		
+			b_barnah = {
+}
+	}
+	}
+		d_rittazed = {
+			color={ 184 177 105 }
+			color2={ 255 255 255 }
+			
+			capital = 46 # Nyighsighuba
+			
+		c_nyighsighuba = {
+			color={ 184 177 105 }
+			color2={ 255 255 255 }
+		
+			b_nyighsighuba = {
+}
+	}
+			c_fillyzan = {
+			color={ 185 167 66 }
+			color2={ 255 255 255 }
+		
+			b_fillyzan = {
+}
+	}
+			c_nyasihatua = {
+			color={ 215 213 119 }
+			color2={ 255 255 255 }
+		
+			b_nyasihatua = {
+}
+	}
+			c_nyighsimlima = {
+			color={ 199 196 63 }
+			color2={ 255 255 255 }
+		
+			b_nyighsimlima = {
+}
+	}
+			c_mareghreb = {
+			color={ 130 128 38 }
+			color2={ 255 255 255 }
+		
+			b_mareghreb = {
+}
+	}
+	}
+		d_hebazed = {
+			color={ 116 109 54 }
+			color2={ 255 255 255 }
+			
+			capital = 51 # Mareya
+			
+		c_mareya = {
+			color={ 116 109 54 }
+			color2={ 255 255 255 }
+		
+			b_mareya = {
+}
+	}
+			c_al_ferrier = {
+			color={ 162 120 43 }
+			color2={ 255 255 255 }
+		
+			b_al_ferrier = {
+}
+	}
+	}
+		d_zebgola = {
+			color={ 171 167 78 }
+			color2={ 255 255 255 }
+			
+			capital = 53 # Shyerstan
+			
+		c_shyerstan = {
+			color={ 171 167 78 }
+			color2={ 255 255 255 }
+		
+			b_shyerstan = {
+}
+	}
+			c_cabo = {
+			color={ 132 125 43 }
+			color2={ 255 255 255 }
+		
+			b_cabo = {
+}
+	}
+	}
+		d_mareakech = {
+			color={ 203 152 58 }
+			color2={ 255 255 255 }
+			
+			capital = 55 # Tobronc
+			
+		c_tobronc = {
+			color={ 203 152 58 }
+			color2={ 255 255 255 }
+		
+			b_tobronc = {
+}
+	}
+			c_crimson_waste = {
+			color={ 184 160 65 }
+			color2={ 255 255 255 }
+		
+			b_crimson_waste = {
+}
+	}
+			c_saddleban = {
+			color={ 120 117 54 }
+			color2={ 255 255 255 }
+		
+			b_saddleban = {
+}
+	}
+			c_scarlet_dunes = {
+			color={ 181 165 55 }
+			color2={ 255 255 255 }
+		
+			b_scarlet_dunes = {
+}
+	}
+	}
+		d_zes = {
+			color={ 111 101 34 }
+			color2={ 255 255 255 }
+			
+			capital = 59 # Sireha
+			
+		c_sireha = {
+			color={ 111 101 34 }
+			color2={ 255 255 255 }
+		
+			b_sireha = {
+}
+	}
+			c_damsiretta = {
+			color={ 185 183 115 }
+			color2={ 255 255 255 }
+		
+			b_damsiretta = {
+}
+	}
+			c_al_stable = {
+			color={ 179 176 104 }
+			color2={ 255 255 255 }
+		
+			b_al_stable = {
+}
+	}
+			c_maresteganem = {
+			color={ 151 147 55 }
+			color2={ 255 255 255 }
+		
+			b_maresteganem = {
+}
+	}
+	}
+		d_tlemane = {
+			color={ 202 187 81 }
+			color2={ 255 255 255 }
+			
+			capital = 63 # Tackna
+			
+		c_tackna = {
+			color={ 202 187 81 }
+			color2={ 255 255 255 }
+		
+			b_tackna = {
+}
+	}
+			c_pundaanyighumbani = {
+			color={ 182 176 67 }
+			color2={ 255 255 255 }
+		
+			b_pundaanyighumbani = {
+}
+	}
+			c_numnah = {
+			color={ 137 135 69 }
+			color2={ 255 255 255 }
+		
+			b_numnah = {
+}
+	}
+	}
+		d_zeger = {
+			color={ 100 98 51 }
+			color2={ 255 255 255 }
+			
+			capital = 66 # Beni Stock
+			
+		c_beni_stock = {
+			color={ 100 98 51 }
+			color2={ 255 255 255 }
+		
+			b_beni_stock = {
+}
+	}
+			c_manejaia = {
+			color={ 116 78 35 }
+			color2={ 255 255 255 }
+		
+			b_manejaia = {
+}
+	}
+			c_el_paced = {
+			color={ 183 180 34 }
+			color2={ 255 255 255 }
+		
+			b_el_paced = {
+}
+	}
+			c_stirrupe = {
+			color={ 211 206 105 }
+			color2={ 255 255 255 }
+		
+			b_stirrupe = {
+}
+	}
+	}
+		d_zebgier = {
+			color={ 219 215 62 }
+			color2={ 255 255 255 }
+			
+			capital = 70 # Girthaia
+			
+		c_girthaia = {
+			color={ 219 215 62 }
+			color2={ 255 255 255 }
+		
+			b_girthaia = {
+}
+	}
+			c_tailbessa = {
+			color={ 150 145 44 }
+			color2={ 255 255 255 }
+		
+			b_tailbessa = {
+}
+	}
+			c_darkpool = {
+			color={ 238 211 26 }
+			color2={ 255 255 255 }
+		
+			b_darkpool = {
+}
+	}
+	}
+		d_zabylia = {
+			color={ 128 91 36 }
+			color2={ 255 255 255 }
+			
+			capital = 73 # El Barnadh
+			
+		c_el_barnadh = {
+			color={ 128 91 36 }
+			color2={ 255 255 255 }
+		
+			b_el_barnadh = {
+}
+	}
+			c_zabylia = {
+			color={ 114 109 50 }
+			color2={ 255 255 255 }
+		
+			b_zabylia = {
+}
+	}
+			c_el_tailif = {
+			color={ 183 175 89 }
+			color2={ 255 255 255 }
+		
+			b_el_tailif = {
+}
+	}
+			c_maredea = {
+			color={ 146 106 48 }
+			color2={ 255 255 255 }
+		
+			b_maredea = {
+}
+	}
+	}
+	}
+	}
+	
+e_hayseed = {
+	color={ 190 192 125 }
+	color2={ 255 255 20 }
+	
+	capital = 77 # Marshend	
+	short_name = yes
+	
+	culture = earth_culture
+	
+
+k_hayseed = {
+	color={ 190 192 125 }
+	color2={ 255 255 255 }
+	
+	capital = 77 # Marshend
+	
+	culture = earth_culture
+	
+	
+	
+	d_marshend = {
+			color={ 190 192 125 }
+			color2={ 255 255 255 }
+			
+			capital = 77 # Marshend
+			
+		c_marshend = {
+			color={ 190 192 125 }
+			color2={ 255 255 255 }
+		
+			b_marshend = {
+}
+	}
+			c_hayside = {
+			color={ 212 214 120 }
+			color2={ 255 255 255 }
+		
+			b_hayside = {
+}
+	}
+			c_frogsgrove = {
+			color={ 155 167 55 }
+			color2={ 255 255 255 }
+		
+			b_frogsgrove = {
+}
+	}
+	}
+		d_blackwater = {
+			color={ 186 210 88 }
+			color2={ 255 255 255 }
+			
+			capital = 80 # Blackwater
+			
+		c_blackwater = {
+			color={ 186 210 88 }
+			color2={ 255 255 255 }
+		
+			b_blackwater = {
+}
+	}
+			c_hydraspond = {
+			color={ 143 224 39 }
+			color2={ 255 255 255 }
+		
+			b_hydraspond = {
+}
+	}
+			c_haygrove = {
+			color={ 106 205 47 }
+			color2={ 255 255 255 }
+		
+			b_haygrove = {
+}
+	}
+	}
+		d_frogsand = {
+			color={ 234 228 64 }
+			color2={ 255 255 255 }
+			
+			capital = 83 # Frogsand
+			
+		c_frogsand = {
+			color={ 234 228 64 }
+			color2={ 255 255 255 }
+		
+			b_frogsand = {
+}
+	}
+			c_greenwater = {
+			color={ 137 201 54 }
+			color2={ 255 255 255 }
+		
+			b_greenwater = {
+}
+	}
+			c_markamear = {
+			color={ 109 182 140 }
+			color2={ 255 255 255 }
+		
+			b_markamear = {
+}
+	}
+	}
+		d_swampser = {
+			color={ 134 212 116 }
+			color2={ 255 255 255 }
+			
+			capital = 86 # Swamptown
+			
+		c_swamptown = {
+			color={ 134 212 116 }
+			color2={ 255 255 255 }
+		
+			b_swamptwon = {
+}
+	}
+			c_gators_rest = {
+			color={ 111 227 84 }
+			color2={ 255 255 255 }
+		
+			b_gators_rest = {
+}
+	}
+	}
+		d_hayseed = {
+			color={ 53 111 19 }
+			color2={ 255 255 255 }
+			
+			capital = 88 # Hayseed
+			
+		c_hayseed = {
+			color={ 53 111 19 }
+			color2={ 255 255 255 }
+		
+			b_hayseed = {
+}
+	}
+			c_fythmarsh = {
+			color={ 103 173 126 }
+			color2={ 255 255 255 }
+		
+			b_fythmarsh = {
+}
+	}
+			c_rockmarsh = {
+			color={ 79 128 49 }
+			color2={ 255 255 255 }
+		
+			b_rockmarsh = {
+}
+	}
+			c_applemud = {
+			color={ 103 173 103 }
+			color2={ 255 255 255 }
+		
+			b_applemud = {
+}
+	}
+	}
+		d_westmarsh = {
+			color={ 17 115 38 }
+			color2={ 255 255 255 }
+			
+			capital = 92 # Greenroot
+			
+		c_greenroot = {
+			color={ 17 115 38 }
+			color2={ 255 255 255 }
+		
+			b_greenroot = {
+}
+	}
+			c_mangostone = {
+			color={ 42 99 66 }
+			color2={ 255 255 255 }
+		
+			b_mangostone = {
+}
+	}
+			c_gators_creek = {
+			color={ 13 70 13 }
+			color2={ 255 255 255 }
+		
+			b_gators_creek = {
+}
+	}
+			c_great_marsh = {
+			color={ 79 200 105 }
+			color2={ 255 255 255 }
+		
+			b_great_marsh = {
+}
+	}
+	}
+		d_smokey_marsh = {
+			color={ 3 169 73 }
+			color2={ 255 255 255 }
+			
+			capital = 96 # Stillwater
+			
+		c_stillwater = {
+			color={ 3 169 73 }
+			color2={ 255 255 255 }
+		
+			b_stillwater = {
+}
+	}
+			c_frogstone = {
+			color={ 128 174 138 }
+			color2={ 255 255 255 }
+		
+			b_frogstone = {
+}
+	}
+			c_smokey_marsh = {
+			color={ 58 114 90 }
+			color2={ 255 255 255 }
+		
+			b_smokey_marsh = {
+}
+	}
+	}
+		d_eastside = {
+			color={ 42 172 94 }
+			color2={ 255 255 255 }
+			
+			capital = 99 # Moskato
+			
+		c_moskato = {
+			color={ 42 172 94 }
+			color2={ 255 255 255 }
+		
+			b_moskato = {
+}
+	}
+			c_firespout = {
+			color={ 62 140 68 }
+			color2={ 255 255 255 }
+		
+			b_firespout = {
+}
+	}
+	}
+		d_north_hay = {
+			color={ 77 160 102 }
+			color2={ 255 255 255 }
+			
+			capital = 101 # Trottpa
+			
+		c_trottpa = {
+			color={ 77 160 102 }
+			color2={ 255 255 255 }
+		
+			b_trottpa = {
+}
+	}
+			c_north_marsh = {
+			color={ 102 150 121 }
+			color2={ 255 255 255 }
+		
+			b_north_marsh = {
+}
+	}
+			c_raggrich = {
+			color={ 58 186 58 }
+			color2={ 255 255 255 }
+		
+			b_raggrich = {
+}
+	}
+			c_keyside = {
+			color={ 19 183 69 }
+			color2={ 255 255 255 }
+		
+			b_keyside = {
+}
+	}
+			c_north_point = {
+			color={ 33 131 86 }
+			color2={ 255 255 255 }
+		
+			b_north_point = {
+}
+	}
+	}
+	}
+	
+k_golden_forest = {
+	color={ 56 36 120 }
+	color2={ 255 255 255 }
+	
+	capital = 231 # Forest's End
+	
+	culture = unicorn_culture
+	
+	
+	
+	d_southway = {
+			color={ 56 36 120 }
+			color2={ 255 255 255 }
+			
+			capital = 231 # Forest's End
+			
+		c_forests_end = {
+			color={ 56 36 120 }
+			color2={ 255 255 255 }
+		
+			b_forests_end = {
+}
+	}
+			c_meadowburg = {
+			color={ 76 59 131 }
+			color2={ 255 255 255 }
+		
+			b_meadowburg = {
+}
+	}
+			c_goldville = {
+			color={ 80 53 168 }
+			color2={ 255 255 255 }
+		
+			b_goldville = {
+}
+	}
+	}
+		d_hovendale = {
+			color={ 48 27 118 }
+			color2={ 255 255 255 }
+			
+			capital = 234 # Gaiter
+			
+		c_gaiter = {
+			color={ 48 27 118 }
+			color2={ 255 255 255 }
+		
+			b_gaiter = {
+}
+	}
+			c_barngundy = {
+			color={ 44 8 161 }
+			color2={ 255 255 255 }
+		
+			b_barngundy = {
+}
+	}
+			c_plainsgraze = {
+			color={ 39 47 89 }
+			color2={ 255 255 255 }
+		
+			b_plainsgraze = {
+}
+	}
+			c_appleville = {
+			color={ 120 72 210 }
+			color2={ 255 255 255 }
+		
+			b_appleville = {
+}
+	}
+	}
+		d_goldery = {
+			color={ 80 73 101 }
+			color2={ 255 255 255 }
+			
+			capital = 238 # Buck
+			
+		c_buck = {
+			color={ 80 73 101 }
+			color2={ 255 255 255 }
+		
+			b_buck = {
+}
+	}
+			c_meadowlands = {
+			color={ 103 91 163 }
+			color2={ 255 255 255 }
+		
+			b_meadowlands = {
+}
+	}
+			c_oldgrove = {
+			color={ 88 48 202 }
+			color2={ 255 255 255 }
+		
+			b_oldgrove = {
+}
+	}
+	}
+		d_south_horseshoe = {
+			color={ 83 73 131 }
+			color2={ 255 255 255 }
+			
+			capital = 241 # Applestan
+			
+		c_applestan = {
+			color={ 83 73 131 }
+			color2={ 255 255 255 }
+		
+			b_applestan = {
+}
+	}
+			c_amber = {
+			color={ 64 47 154 }
+			color2={ 255 255 255 }
+		
+			b_amber = {
+}
+	}
+			c_scarlet_waves = {
+			color={ 78 76 95 }
+			color2={ 255 255 255 }
+		
+			b_scarlet_waves = {
+}
+	}
+	}
+		d_autumnsborough = {
+			color={ 80 70 209 }
+			color2={ 255 255 255 }
+			
+			capital = 244 # Autumnsborough
+			
+		c_autumnsborough = {
+			color={ 80 70 209 }
+			color2={ 255 255 255 }
+		
+			b_autumnsborough = {
+}
+	}
+			c_greenruff = {
+			color={ 68 44 159 }
+			color2={ 255 255 255 }
+		
+			b_greenruff = {
+}
+	}
+			c_saddaley_ridge = {
+			color={ 33 35 50 }
+			color2={ 255 255 255 }
+		
+			b_saddaley_ridge = {
+}
+	}
+	}
+		d_goldwood = {
+			color={ 64 44 122 }
+			color2={ 255 255 255 }
+			
+			capital = 247 # Vex
+			
+		c_vex = {
+			color={ 64 44 122 }
+			color2={ 255 255 255 }
+		
+			b_vex = {
+}
+	}
+			c_herden = {
+			color={ 25 29 110 }
+			color2={ 255 255 255 }
+		
+			b_herden = {
+}
+	}
+	}
+		d_dodgeland = {
+			color={ 63 71 116 }
+			color2={ 255 255 255 }
+			
+			capital = 249 # Appletide
+			
+		c_appletide = {
+			color={ 63 71 116 }
+			color2={ 255 255 255 }
+		
+			b_appletide = {
+}
+	}
+			c_dodgeland = {
+			color={ 59 72 140 }
+			color2={ 255 255 255 }
+		
+			b_sandenfort = {
+}
+				b_dodge_junction = {
+}
+	}
+			c_stokesand = {
+			color={ 17 33 115 }
+			color2={ 255 255 255 }
+		
+			b_stokesand = {
+}
+	}
+	}
+		d_redtrail = {
+			color={ 74 24 149 }
+			color2={ 255 255 255 }
+			
+			capital = 252 # Medlesburg
+			
+		c_medlesburg = {
+			color={ 74 24 149 }
+			color2={ 255 255 255 }
+		
+			b_medlesburg = {
+}
+	}
+			c_rain = {
+			color={ 41 15 164 }
+			color2={ 255 255 255 }
+		
+			b_rain = {
+}
+	}
+	}
+		d_everside = {
+			color={ 94 89 166 }
+			color2={ 255 255 255 }
+			
+			capital = 254 # Grainshire
+			
+		c_grainshire = {
+			color={ 94 89 166 }
+			color2={ 255 255 255 }
+		
+			b_grainshire = {
+}
+	}
+			c_nuzzleshire = {
+			color={ 26 19 85 }
+			color2={ 255 255 255 }
+		
+			b_nuzzleshire = {
+}
+	}
+			c_hepfruit = {
+			color={ 70 66 100 }
+			color2={ 255 255 255 }
+		
+			b_hepfruit = {
+}
+	}
+			c_hayden = {
+			color={ 101 98 125 }
+			color2={ 255 255 255 }
+		
+			b_hayden = {
+}
+	}
+			c_rurala = {
+			color={ 95 87 135 }
+			color2={ 255 255 255 }
+		
+			b_rurala = {
+}
+	}
+	}
+		d_greendale = {
+			color={ 53 66 133 }
+			color2={ 255 255 255 }
+			
+			capital = 259 # Seeden
+			
+		c_seeden = {
+			color={ 53 66 133 }
+			color2={ 255 255 255 }
+		
+			b_seeden = {
+}
+	}
+			c_greendale = {
+			color={ 115 125 172 }
+			color2={ 255 255 255 }
+		
+			b_greendale = {
+}
+	}
+			c_greenpeak = {
+			color={ 34 93 191 }
+			color2={ 255 255 255 }
+		
+			b_greenpeak = {
+}
+	}
+			c_vineland = {
+			color={ 80 31 179 }
+			color2={ 255 255 255 }
+		
+			b_vineland = {
+}
+	}
+	}
+		d_mapleleaf = {
+			color={ 75 82 154 }
+			color2={ 255 255 255 }
+			
+			capital = 263 # Trottengrain
+			
+		c_trottengrain = {
+			color={ 75 82 154 }
+			color2={ 255 255 255 }
+		
+			b_trottengrain = {
+}
+	}
+			c_goldenbourg = {
+			color={ 39 13 93 }
+			color2={ 255 255 255 }
+		
+			b_goldenbourg = {
+}
+	}
+			c_sap = {
+			color={ 35 30 147 }
+			color2={ 255 255 255 }
+		
+			b_sap = {
+}
+	}
+			c_grainden = {
+			color={ 43 27 164 }
+			color2={ 255 255 255 }
+		
+			b_grainden = {
+}
+	}
+	}
+		d_leafgate = {
+			color={ 48 43 73 }
+			color2={ 255 255 255 }
+			
+			capital = 267 # Leafgate
+			
+		c_leafgate = {
+			color={ 48 43 73 }
+			color2={ 255 255 255 }
+		
+			b_leafgate = {
+}
+	}
+			c_grazeland = {
+			color={ 41 31 178 }
+			color2={ 255 255 255 }
+		
+			b_grazeland = {
+}
+	}
+			c_canterlein = {
+			color={ 112 89 164 }
+			color2={ 255 255 255 }
+		
+			b_canterlein = {
+}
+	}
+	}
+	}
+	}
+	
+e_saddle_arabia = {
+	color={ 137 184 62 }
+	color2={ 255 255 20 }
+	
+	capital = 106 # Coltoba	
+	short_name = yes
+	
+	culture = saddle_arabian_culture
+	
+
+k_manedalus = {
+	color={ 137 184 62 }
+	color2={ 255 255 255 }
+	
+	capital = 106 # Coltoba
+	
+	culture = saddle_arabian_culture
+	
+	
+	
+	d_gramarea = {
+			color={ 137 184 62 }
+			color2={ 255 255 255 }
+			
+			capital = 106 # Coltoba
+			
+		c_coltoba = {
+			color={ 137 184 62 }
+			color2={ 255 255 255 }
+		
+			b_coltoba = {
+}
+				b_almanebra = {
+}
+				b_marezquita = {
+}
+	}
+			c_al-maneia = {
+			color={ 129 167 68 }
+			color2={ 255 255 255 }
+		
+			b_al-maneia = {
+}
+	}
+			c_yemare = {
+			color={ 155 202 81 }
+			color2={ 255 255 255 }
+		
+			b_yemare = {
+}
+	}
+	}
+		d_almaria = {
+			color={ 152 190 92 }
+			color2={ 255 255 255 }
+			
+			capital = 109 # Wadi Pony
+			
+		c_wadi_pony = {
+			color={ 152 190 92 }
+			color2={ 255 255 255 }
+		
+			b_wadi_pony = {
+}
+				b_coltrado = {
+}
+				b_ponytemple = {
+}
+	}
+			c_manelaga = {
+			color={ 155 206 74 }
+			color2={ 255 255 255 }
+		
+			b_manelaga = {
+}
+				b_marebella = {
+}
+				b_antecrin = {
+}
+	}
+			c_almaria = {
+			color={ 149 213 47 }
+			color2={ 255 255 255 }
+		
+			b_almaria = {
+}
+	}
+			c_coltdiz = {
+			color={ 132 196 32 }
+			color2={ 255 255 255 }
+		
+			b_coltdiz = {
+}
+	}
+			c_murasaddala = {
+			color={ 130 192 30 }
+			color2={ 255 255 255 }
+		
+			b_murasaddala = {
+}
+	}
+	}
+		d_marencia = {
+			color={ 118 184 12 }
+			color2={ 255 255 255 }
+			
+			capital = 114 # Coltellon
+			
+		c_coltellon = {
+			color={ 118 184 12 }
+			color2={ 255 255 255 }
+		
+			b_coltellon = {
+}
+	}
+			c_al-manecha = {
+			color={ 97 152 10 }
+			color2={ 255 255 255 }
+		
+			b_al-manecha = {
+}
+	}
+			c_coltrava = {
+			color={ 92 134 25 }
+			color2={ 255 255 255 }
+		
+			b_coltrava = {
+}
+	}
+			c_trottubah = {
+			color={ 84 117 32 }
+			color2={ 255 255 255 }
+		
+			b_trottubah = {
+}
+	}
+	}
+		d_trotledo = {
+			color={ 69 96 29 }
+			color2={ 255 255 255 }
+			
+			capital = 118 # Neighbela
+			
+		c_neighbela = {
+			color={ 69 96 29 }
+			color2={ 255 255 255 }
+		
+			b_neighbela = {
+}
+	}
+			c_buckeres = {
+			color={ 96 115 68 }
+			color2={ 255 255 255 }
+		
+			b_buckeres = {
+}
+	}
+			c_algecantras = {
+			color={ 72 89 46 }
+			color2={ 255 255 255 }
+		
+			b_algecantras = {
+}
+	}
+	}
+	}
+	
+k_saddle_arabia = {
+	color={ 167 174 58 }
+	color2={ 255 255 255 }
+	
+	capital = 563 # Mareque
+	
+	culture = saddle_arabian_culture
+	
+	
+	
+	d_al-manein = {
+			color={ 167 174 58 }
+			color2={ 255 255 255 }
+			
+			capital = 563 # Mareque
+			
+		c_mareque = {
+			color={ 167 174 58 }
+			color2={ 255 255 255 }
+		
+			b_mareque = {
+}
+	}
+			c_amble = {
+			color={ 174 183 39 }
+			color2={ 255 255 255 }
+		
+			b_amble = {
+}
+	}
+			c_tabalk = {
+			color={ 171 178 70 }
+			color2={ 255 255 255 }
+		
+			b_tabalk = {
+}
+	}
+			c_hadib_island = {
+			color={ 176 182 64 }
+			color2={ 255 255 255 }
+		
+			b_hadib_island = {
+}
+	}
+	}
+		d_desark = {
+			color={ 164 184 103 }
+			color2={ 255 255 255 }
+			
+			capital = 567 # Al Barnhah
+			
+		c_al_barnhah = {
+			color={ 164 184 103 }
+			color2={ 255 255 255 }
+		
+			b_al_barnhah = {
+}
+	}
+			c_stirrupu = {
+			color={ 156 164 15 }
+			color2={ 255 255 255 }
+		
+			b_stirrupu = {
+}
+	}
+			c_clippa = {
+			color={ 159 174 87 }
+			color2={ 255 255 255 }
+		
+			b_clippa = {
+}
+	}
+	}
+		d_manedina = {
+			color={ 133 164 39 }
+			color2={ 255 255 255 }
+			
+			capital = 570 # Neighjaz
+			
+		c_neighjaz = {
+			color={ 133 164 39 }
+			color2={ 255 255 255 }
+		
+			b_neighjaz = {
+}
+	}
+			c_astallion = {
+			color={ 211 218 95 }
+			color2={ 255 255 255 }
+		
+			b_astallion = {
+}
+	}
+			c_marecca = {
+			color={ 143 148 63 }
+			color2={ 255 255 255 }
+		
+			b_tamane = {
+}
+				b_buckddah = {
+}
+				b_marecca = {
+}
+				b_johoofa = {
+}
+				b_turuneigh = {
+}
+	}
+			c_al_colwf = {
+			color={ 209 219 46 }
+			color2={ 255 255 255 }
+		
+			b_al_colwf = {
+}
+	}
+			c_manedina = {
+			color={ 148 155 41 }
+			color2={ 255 255 255 }
+		
+			b_khaybar = {
+}
+				b_marebu = {
+}
+				b_manedina = {
+}
+				b_coltbig = {
+}
+				b_maneiha = {
+}
+	}
+	}
+		d_saddlia = {
+			color={ 195 202 11 }
+			color2={ 255 255 255 }
+			
+			capital = 575 # Al Mareza
+			
+		c_al_mareza = {
+			color={ 195 202 11 }
+			color2={ 255 255 255 }
+		
+			b_al_mareza = {
+}
+	}
+			c_unshod = {
+			color={ 158 167 19 }
+			color2={ 255 255 255 }
+		
+			b_unshod = {
+}
+	}
+			c_foala = {
+			color={ 152 158 53 }
+			color2={ 255 255 255 }
+		
+			b_foala = {
+}
+	}
+			c_vannerlus = {
+			color={ 154 159 77 }
+			color2={ 255 255 255 }
+		
+			b_vannerlus = {
+}
+	}
+	}
+		d_yemare = {
+			color={ 164 159 15 }
+			color2={ 255 255 255 }
+			
+			capital = 579 # Manejar
+			
+		c_manejar = {
+			color={ 164 159 15 }
+			color2={ 255 255 255 }
+		
+			b_manejar = {
+}
+	}
+			c_marefar = {
+			color={ 187 184 92 }
+			color2={ 255 255 255 }
+		
+			b_marefar = {
+}
+	}
+			c_muscanter = {
+			color={ 90 117 12 }
+			color2={ 255 255 255 }
+		
+			b_muscanter = {
+}
+	}
+			c_manehar = {
+			color={ 96 118 30 }
+			color2={ 255 255 255 }
+		
+			b_manehar = {
+}
+	}
+	}
+		d_omane = {
+			color={ 177 187 92 }
+			color2={ 255 255 255 }
+			
+			capital = 583 # Rot
+			
+		c_rot = {
+			color={ 177 187 92 }
+			color2={ 255 255 255 }
+		
+			b_rot = {
+}
+	}
+			c_manecate = {
+			color={ 124 149 50 }
+			color2={ 255 255 255 }
+		
+			b_manecate = {
+}
+	}
+			c_sandroll = {
+			color={ 103 128 27 }
+			color2={ 255 255 255 }
+		
+			b_sandroll = {
+}
+	}
+			c_omane = {
+			color={ 164 187 92 }
+			color2={ 255 255 255 }
+		
+			b_omane = {
+}
+	}
+			c_al_gallop = {
+			color={ 148 170 45 }
+			color2={ 255 255 255 }
+		
+			b_al_gallop = {
+}
+	}
+	}
+	}
+	
+k_styria = {
+	color={ 171 168 131 }
+	color2={ 255 255 255 }
+	
+	capital = 588 # Damarescus
+	
+	culture = saddle_arabian_culture
+	
+	
+	
+	d_damarescus = {
+			color={ 171 168 131 }
+			color2={ 255 255 255 }
+			
+			capital = 588 # Damarescus
+			
+		c_damarescus = {
+			color={ 171 168 131 }
+			color2={ 255 255 255 }
+		
+			b_damarescus = {
+}
+	}
+			c_al_mareaq = {
+			color={ 136 136 103 }
+			color2={ 255 255 255 }
+		
+			b_al_mareaq = {
+}
+	}
+			c_az_starqa = {
+			color={ 158 154 112 }
+			color2={ 255 255 255 }
+		
+			b_az_starqa = {
+}
+	}
+			c_amane = {
+			color={ 131 128 99 }
+			color2={ 255 255 255 }
+		
+			b_amane = {
+}
+	}
+	}
+		d_styria = {
+			color={ 140 137 110 }
+			color2={ 255 255 255 }
+			
+			capital = 592 # Buckstra
+			
+		c_buckstra = {
+			color={ 140 137 110 }
+			color2={ 255 255 255 }
+		
+			b_buckstra = {
+}
+	}
+			c_coltuz = {
+			color={ 148 148 115 }
+			color2={ 255 255 255 }
+		
+			b_coltuz = {
+}
+	}
+			c_suwamare = {
+			color={ 127 126 100 }
+			color2={ 255 255 255 }
+		
+			b_suwamare = {
+}
+	}
+			c_al-stallhmane = {
+			color={ 174 177 134 }
+			color2={ 255 255 255 }
+		
+			b_al-stallhmane = {
+}
+	}
+			c_al-_buckri = {
+			color={ 144 148 125 }
+			color2={ 255 255 255 }
+		
+			b_buckri = {
+}
+				b_mare_al-zur = {
+}
+				b_horsrhoene = {
+}
+	}
+	}
+		d_al_trotters = {
+			color={ 150 148 126 }
+			color2={ 255 255 255 }
+			
+			capital = 597 # Al Trotters
+			
+		c_al_trotters = {
+			color={ 150 148 126 }
+			color2={ 255 255 255 }
+		
+			b_al_trotters = {
+}
+	}
+			c_baalbuck = {
+			color={ 167 173 140 }
+			color2={ 255 255 255 }
+		
+			b_baalbuck = {
+}
+				b_accoltar = {
+}
+				b_halbaneigh = {
+}
+	}
+	}
+		d_algalloppo = {
+			color={ 168 168 119 }
+			color2={ 255 255 255 }
+			
+			capital = 599 # Horsoms
+			
+		c_horsoms = {
+			color={ 168 168 119 }
+			color2={ 255 255 255 }
+		
+			b_horsoms = {
+}
+				b_emaresa = {
+}
+				b_zweneigha = {
+}
+	}
+			c_manema = {
+			color={ 143 143 105 }
+			color2={ 255 255 255 }
+		
+			b_manema = {
+}
+				b_mareardah = {
+}
+				b_hamareath = {
+}
+	}
+			c_algalloppo = {
+			color={ 148 145 113 }
+			color2={ 255 255 255 }
+		
+			b_algalloppo = {
+}
+				b_azanigh = {
+}
+				b_maneshala = {
+}
+				b_sarmarein = {
+}
+	}
+	}
+		d_neighessa = {
+			color={ 120 116 84 }
+			color2={ 255 255 255 }
+			
+			capital = 602 # Neighessa
+			
+		c_neighessa = {
+			color={ 120 116 84 }
+			color2={ 255 255 255 }
+		
+			b_neighessa = {
+}
+	}
+			c_aitrotabad = {
+			color={ 109 108 87 }
+			color2={ 255 255 255 }
+		
+			b_aitrotabad = {
+}
+	}
+	}
+		d_colticia = {
+			color={ 89 88 77 }
+			color2={ 255 255 255 }
+			
+			capital = 604 # Colticia
+			
+		c_colticia = {
+			color={ 89 88 77 }
+			color2={ 255 255 255 }
+		
+			b_colticia = {
+}
+	}
+			c_trotluch = {
+			color={ 156 159 127 }
+			color2={ 255 255 255 }
+		
+			b_trotluch = {
+}
+	}
+			c_palmareyra = {
+			color={ 115 112 88 }
+			color2={ 255 255 255 }
+		
+			b_palmareyra = {
+}
+	}
+	}
+	}
+	
+k_maresopotamia = {
+	color={ 51 143 20 }
+	color2={ 255 255 255 }
+	
+	capital = 607 # Buckdad
+	
+	culture = saddle_arabian_culture
+	
+	
+	
+	d_buckdad = {
+			color={ 51 143 20 }
+			color2={ 255 255 255 }
+			
+			capital = 607 # Buckdad
+			
+		c_buckdad = {
+			color={ 51 143 20 }
+			color2={ 255 255 255 }
+		
+			b_baqbuck = {
+}
+				b_iscanteriya = {
+}
+				b_buckdad = {
+}
+				b_hayllah = {
+}
+				b_trotji = {
+}
+				b_latifillya = {
+}
+	}
+			c_mareir = {
+			color={ 105 151 89 }
+			color2={ 255 255 255 }
+		
+			b_aneigh = {
+}
+				b_rutbah = {
+}
+				b_amarebar = {
+}
+				b_saddlerawa = {
+}
+				b_hoofit = {
+}
+	}
+			c_samarea = {
+			color={ 65 137 40 }
+			color2={ 255 255 255 }
+		
+			b_samrea = {
+}
+				b_buckyji = {
+}
+				b_trottgrit = {
+}
+				b_bucklad = {
+}
+				b_amareli = {
+}
+	}
+			c_kirbuck = {
+			color={ 80 127 64 }
+			color2={ 255 255 255 }
+		
+			b_kribuck = {
+}
+				b_coltaquq = {
+}
+				b_raneigh = {
+}
+				b_coltrtan = {
+}
+	}
+			c_karcantala = {
+			color={ 59 130 35 }
+			color2={ 255 255 255 }
+		
+			b_karcantala = {
+}
+	}
+			c_al_haybbariyah = {
+			color={ 62 114 44 }
+			color2={ 255 255 255 }
+		
+			b_al_haybbariyah = {
+}
+	}
+	}
+		d_basmarea = {
+			color={ 76 147 51 }
+			color2={ 255 255 255 }
+			
+			capital = 613 # Basmarea
+			
+		c_basmarea = {
+			color={ 76 147 51 }
+			color2={ 255 255 255 }
+		
+			b_basmarea = {
+}
+	}
+			c_kufoala = {
+			color={ 26 71 11 }
+			color2={ 255 255 255 }
+		
+			b_kufoala = {
+}
+	}
+			c_kucoltait = {
+			color={ 59 109 42 }
+			color2={ 255 255 255 }
+		
+			b_kucoltait = {
+}
+	}
+	}
+		d_kermareshah = {
+			color={ 90 151 69 }
+			color2={ 255 255 255 }
+			
+			capital = 616 # Kermareshah
+			
+		c_kermareshah = {
+			color={ 90 151 69 }
+			color2={ 255 255 255 }
+		
+			b_kermareshah = {
+}
+	}
+			c_lunaristan = {
+			color={ 78 132 60 }
+			color2={ 255 255 255 }
+		
+			b_lunaristan = {
+}
+	}
+			c_qazmarein = {
+			color={ 89 133 74 }
+			color2={ 255 255 255 }
+		
+			b_qazmarein = {
+}
+	}
+	}
+		d_tigtreins = {
+			color={ 74 105 63 }
+			color2={ 255 255 255 }
+			
+			capital = 619 # Al Neighjaf
+			
+		c_al_neighjaf = {
+			color={ 74 105 63 }
+			color2={ 255 255 255 }
+		
+			b_al_neighjaf = {
+}
+	}
+			c_al_amareah = {
+			color={ 62 113 45 }
+			color2={ 255 255 255 }
+		
+			b_al_amareah = {
+}
+	}
+			c_al_neighreins = {
+			color={ 78 171 46 }
+			color2={ 255 255 255 }
+		
+			b_al_neighreins = {
+}
+	}
+			c_tigtreins = {
+			color={ 96 127 85 }
+			color2={ 255 255 255 }
+		
+			b_tigtreins = {
+}
+	}
+	}
+		d_maresul = {
+			color={ 68 133 45 }
+			color2={ 255 255 255 }
+			
+			capital = 623 # Maresul
+			
+		c_maresul = {
+			color={ 68 133 45 }
+			color2={ 255 255 255 }
+		
+			b_maresul = {
+}
+	}
+			c_sineighar = {
+			color={ 75 144 50 }
+			color2={ 255 255 255 }
+		
+			b_sineighar = {
+}
+	}
+			c_rumamaneah = {
+			color={ 96 158 74 }
+			color2={ 255 255 255 }
+		
+			b_rumamaneah = {
+}
+	}
+			c_coltistan = {
+			color={ 77 123 62 }
+			color2={ 255 255 255 }
+		
+			b_coltistan = {
+}
+	}
+	}
+		d_jazmare = {
+			color={ 72 114 57 }
+			color2={ 255 255 255 }
+			
+			capital = 627 # Al Jazmare
+			
+		c_al_jazmare = {
+			color={ 72 114 57 }
+			color2={ 255 255 255 }
+		
+			b_al_jazmare = {
+}
+	}
+			c_bineigh = {
+			color={ 63 157 30 }
+			color2={ 255 255 255 }
+		
+			b_bineigh = {
+}
+	}
+			c_amainda = {
+			color={ 95 143 78 }
+			color2={ 255 255 255 }
+		
+			b_amainda = {
+}
+	}
+			c_nisibuck = {
+			color={ 83 151 59 }
+			color2={ 255 255 255 }
+		
+			b_nisibuck = {
+}
+	}
+			c_taruntia = {
+			color={ 69 136 45 }
+			color2={ 255 255 255 }
+		
+			b_taruntia = {
+}
+	}
+	}
+	}
+	
+k_coltiva = {
+	color={ 129 160 118 }
+	color2={ 255 255 255 }
+	
+	capital = 632 # Coltiva
+	
+	culture = saddle_arabian_culture
+	
+	
+	
+	d_coltiva = {
+			color={ 129 160 118 }
+			color2={ 255 255 255 }
+			
+			capital = 632 # Coltiva
+			
+		c_coltiva = {
+			color={ 129 160 118 }
+			color2={ 255 255 255 }
+		
+			b_coltiva = {
+}
+	}
+			c_dashneighuz = {
+			color={ 102 141 88 }
+			color2={ 255 255 255 }
+		
+			b_dashneighuz = {
+}
+	}
+			c_atal = {
+			color={ 103 128 94 }
+			color2={ 255 255 255 }
+		
+			b_atal = {
+}
+	}
+	}
+		d_stallionand = {
+			color={ 119 160 94 }
+			color2={ 255 255 255 }
+			
+			capital = 635 # Hearh
+			
+		c_hearh = {
+			color={ 119 160 94 }
+			color2={ 255 255 255 }
+		
+			b_hearh = {
+}
+	}
+			c_stallionand = {
+			color={ 101 132 82 }
+			color2={ 255 255 255 }
+		
+			b_stallionand = {
+}
+	}
+			c_buckh = {
+			color={ 96 117 83 }
+			color2={ 255 255 255 }
+		
+			b_buckh = {
+}
+	}
+	}
+		d_buckhara = {
+			color={ 102 130 86 }
+			color2={ 255 255 255 }
+			
+			capital = 638 # Buckhara
+			
+		c_buckhara = {
+			color={ 102 130 86 }
+			color2={ 255 255 255 }
+		
+			b_buckhara = {
+}
+	}
+			c_ashcoltbad = {
+			color={ 95 111 86 }
+			color2={ 255 255 255 }
+		
+			b_ashcoltbad = {
+}
+	}
+			c_kara-colt = {
+			color={ 115 135 102 }
+			color2={ 255 255 255 }
+		
+			b_kara-colt = {
+}
+	}
+	}
+	}
+	
+k_maregypt = {
+	color={ 188 222 106 }
+	color2={ 255 255 255 }
+	
+	capital = 641 # El-Mareish
+	
+	culture = saddle_arabian_culture
+	
+	
+	
+	d_stallonai = {
+			color={ 188 222 106 }
+			color2={ 255 255 255 }
+			
+			capital = 641 # El-Mareish
+			
+		c_el-mareish = {
+			color={ 188 222 106 }
+			color2={ 255 255 255 }
+		
+			b_el-mareish = {
+}
+	}
+			c_stallonai = {
+			color={ 170 199 101 }
+			color2={ 255 255 255 }
+		
+			b_stallonai = {
+}
+	}
+			c_manelat = {
+			color={ 145 173 78 }
+			color2={ 255 255 255 }
+		
+			b_manelat = {
+}
+	}
+			c_foalrama = {
+			color={ 122 152 51 }
+			color2={ 255 255 255 }
+		
+			b_foalrama = {
+}
+	}
+	}
+		d_asmane = {
+			color={ 191 210 87 }
+			color2={ 255 255 255 }
+			
+			capital = 645 # Coltena
+			
+		c_coltena = {
+			color={ 191 210 87 }
+			color2={ 255 255 255 }
+		
+			b_coltena = {
+}
+	}
+			c_maresyut = {
+			color={ 176 190 97 }
+			color2={ 255 255 255 }
+		
+			b_maresyut = {
+}
+	}
+			c_asmane = {
+			color={ 155 170 73 }
+			color2={ 255 255 255 }
+		
+			b_asmane = {
+}
+	}
+	}
+		d_coltiro = {
+			color={ 106 152 51 }
+			color2={ 255 255 255 }
+			
+			capital = 648 # Coltiro
+			
+		c_coltiro = {
+			color={ 106 152 51 }
+			color2={ 255 255 255 }
+		
+			b_coltiro = {
+}
+	}
+			c_alexmanedria = {
+			color={ 137 181 51 }
+			color2={ 255 255 255 }
+		
+			b_alexmanedria = {
+}
+	}
+	}
+		d_damanetta = {
+			color={ 154 203 47 }
+			color2={ 255 255 255 }
+			
+			capital = 650 # Damanetta
+			
+		c_damanetta = {
+			color={ 154 203 47 }
+			color2={ 255 255 255 }
+		
+			b_damanetta = {
+}
+	}
+			c_canterlusia = {
+			color={ 113 138 58 }
+			color2={ 255 255 255 }
+		
+			b_canterlusia = {
+}
+	}
+			c_maneupura = {
+			color={ 139 171 70 }
+			color2={ 255 255 255 }
+		
+			b_maneupura = {
+}
+	}
+			c_gabridleha = {
+			color={ 120 155 44 }
+			color2={ 255 255 255 }
+		
+			b_gabridleha = {
+}
+	}
+			c_buckrya = {
+			color={ 115 141 58 }
+			color2={ 255 255 255 }
+		
+			b_buckrya = {
+}
+	}
+	}
+	}
+	}
+	
+e_buffalonia = {
+	color={ 211 218 97 }
+	color2={ 255 255 20 }
+	
+	capital = 121 # Rivervale	
+	short_name = yes
+	
+	culture = blackhoof
+	
+
+k_badlands = {
+	color={ 211 218 97 }
+	color2={ 255 255 255 }
+	
+	capital = 121 # Rivervale
+	
+	culture = blackhoof
+	
+	
+	
+	d_river_rock = {
+			color={ 211 218 97 }
+			color2={ 255 255 255 }
+			
+			capital = 121 # Rivervale
+			
+		c_rivervale = {
+			color={ 211 218 97 }
+			color2={ 255 255 255 }
+		
+			b_rivervale = {
+}
+	}
+			c_stampers_pass = {
+			color={ 140 143 88 }
+			color2={ 255 255 255 }
+		
+			b_stampers_pass = {
+}
+	}
+	}
+		d_southlands = {
+			color={ 188 169 63 }
+			color2={ 255 255 255 }
+			
+			capital = 123 # Redcrest
+			
+		c_redcrest = {
+			color={ 188 169 63 }
+			color2={ 255 255 255 }
+		
+			b_redcrest = {
+}
+	}
+			c_brokensand = {
+			color={ 206 192 111 }
+			color2={ 255 255 255 }
+		
+			b_brokensand = {
+}
+	}
+			c_planesend = {
+			color={ 204 189 104 }
+			color2={ 255 255 255 }
+		
+			b_planesend = {
+}
+	}
+	}
+		d_the_basen = {
+			color={ 213 174 40 }
+			color2={ 255 255 255 }
+			
+			capital = 126 # Crackedsand
+			
+		c_crackedsand = {
+			color={ 213 174 40 }
+			color2={ 255 255 255 }
+		
+			b_crackedsand = {
+}
+	}
+			c_redsand = {
+			color={ 107 97 37 }
+			color2={ 255 255 255 }
+		
+			b_redsand = {
+}
+	}
+			c_boneplane = {
+			color={ 219 102 83 }
+			color2={ 255 255 255 }
+		
+			b_boneplane = {
+}
+	}
+			c_deadhooves = {
+			color={ 169 56 37 }
+			color2={ 255 255 255 }
+		
+			b_deadhooves = {
+}
+	}
+	}
+		d_crimson_hills = {
+			color={ 184 94 79 }
+			color2={ 255 255 255 }
+			
+			capital = 130 # Stamping Mesa
+			
+		c_stamping_mesa = {
+			color={ 184 94 79 }
+			color2={ 255 255 255 }
+		
+			b_stamping_mesa = {
+}
+	}
+			c_bloodslopes = {
+			color={ 185 81 19 }
+			color2={ 255 255 255 }
+		
+			b_bloodslopes = {
+}
+	}
+	}
+		d_fiersand_ridge = {
+			color={ 146 45 40 }
+			color2={ 255 255 255 }
+			
+			capital = 132 # Firesand
+			
+		c_firesand = {
+			color={ 146 45 40 }
+			color2={ 255 255 255 }
+		
+			b_firesand = {
+}
+	}
+			c_scarlet_slopes = {
+			color={ 127 21 16 }
+			color2={ 255 255 255 }
+		
+			b_scarlet_slopes = {
+}
+	}
+			c_iron_hills = {
+			color={ 104 39 36 }
+			color2={ 255 255 255 }
+		
+			b_iron_hills = {
+}
+	}
+			c_deadhorse_way = {
+			color={ 83 15 11 }
+			color2={ 255 255 255 }
+		
+			b_deadhorse_way = {
+}
+	}
+	}
+	}
+	
+k_tazapan = {
+	color={ 179 153 74 }
+	color2={ 255 255 255 }
+	
+	capital = 136 # Tazapan1
+	
+	culture = tazapan
+	
+	
+	
+	d_bakapax = {
+			color={ 179 153 74 }
+			color2={ 255 255 255 }
+			
+			capital = 136 # Tazapan1
+			
+		c_tazapan1 = {
+			color={ 179 153 74 }
+			color2={ 255 255 255 }
+		
+			b_tazapan1 = {
+}
+	}
+			c_tazapan2 = {
+			color={ 201 172 86 }
+			color2={ 255 255 255 }
+		
+			b_tazapan2 = {
+}
+	}
+			c_tazapan3 = {
+			color={ 139 122 63 }
+			color2={ 255 255 255 }
+		
+			b_tazapan3 = {
+}
+	}
+	}
+		d_stakhacotal = {
+			color={ 139 130 16 }
+			color2={ 255 255 255 }
+			
+			capital = 139 # Tazapan4
+			
+		c_tazapan4 = {
+			color={ 139 130 16 }
+			color2={ 255 255 255 }
+		
+			b_tazapan4 = {
+}
+	}
+			c_tazapan5 = {
+			color={ 148 122 28 }
+			color2={ 255 255 255 }
+		
+			b_tazapan5 = {
+}
+	}
+			c_tazapan6 = {
+			color={ 157 144 99 }
+			color2={ 255 255 255 }
+		
+			b_tazapan6 = {
+}
+	}
+	}
+		d_chuckhaca = {
+			color={ 146 119 29 }
+			color2={ 255 255 255 }
+			
+			capital = 142 # Tazapan7
+			
+		c_tazapan7 = {
+			color={ 146 119 29 }
+			color2={ 255 255 255 }
+		
+			b_tazapan7 = {
+}
+	}
+			c_tazapan8 = {
+			color={ 152 148 38 }
+			color2={ 255 255 255 }
+		
+			b_tazapan8 = {
+}
+	}
+			c_tazapan9 = {
+			color={ 157 129 30 }
+			color2={ 255 255 255 }
+		
+			b_tazapan9 = {
+}
+	}
+	}
+		d_taxaplatca = {
+			color={ 139 125 48 }
+			color2={ 255 255 255 }
+			
+			capital = 145 # Tazapan10
+			
+		c_tazapan10 = {
+			color={ 139 125 48 }
+			color2={ 255 255 255 }
+		
+			b_tazapan10 = {
+}
+	}
+			c_tazapan11 = {
+			color={ 166 162 48 }
+			color2={ 255 255 255 }
+		
+			b_tazapan11 = {
+}
+	}
+			c_tazapan12 = {
+			color={ 164 154 89 }
+			color2={ 255 255 255 }
+		
+			b_tazapan12 = {
+}
+	}
+	}
+		d_mecxicoltto = {
+			color={ 183 165 62 }
+			color2={ 255 255 255 }
+			
+			capital = 148 # Tazapan13
+			
+		c_tazapan13 = {
+			color={ 183 165 62 }
+			color2={ 255 255 255 }
+		
+			b_tazapan13 = {
+}
+	}
+			c_tazapan14 = {
+			color={ 205 191 109 }
+			color2={ 255 255 255 }
+		
+			b_tazapan14 = {
+}
+	}
+			c_mecxicoltto = {
+			color={ 213 188 17 }
+			color2={ 255 255 255 }
+		
+			b_halmanox_palace = {
+}
+				b_mecxicoltto = {
+}
+				b_shepatekata_steps = {
+}
+	}
+			c_tazapan16 = {
+			color={ 223 178 17 }
+			color2={ 255 255 255 }
+		
+			b_tazapan16 = {
+}
+	}
+			c_tazapan17 = {
+			color={ 214 171 15 }
+			color2={ 255 255 255 }
+		
+			b_tazapan17 = {
+}
+	}
+			c_tenocoltlan = {
+			color={ 173 169 61 }
+			color2={ 255 255 255 }
+		
+			b_tenocoltlan = {
+}
+	}
+	}
+		d_zapamearpan = {
+			color={ 202 161 16 }
+			color2={ 255 255 255 }
+			
+			capital = 154 # Tazapan19
+			
+		c_tazapan19 = {
+			color={ 202 161 16 }
+			color2={ 255 255 255 }
+		
+			b_tazapan19 = {
+}
+	}
+			c_sunora = {
+			color={ 187 150 15 }
+			color2={ 255 255 255 }
+		
+			b_sunora = {
+}
+	}
+	}
+		d_macintosh_hills = {
+			color={ 175 140 13 }
+			color2={ 255 255 255 }
+			
+			capital = 156 # Tazapan21
+			
+		c_tazapan21 = {
+			color={ 175 140 13 }
+			color2={ 255 255 255 }
+		
+			b_tazapan21 = {
+}
+	}
+			c_tazapan22 = {
+			color={ 163 130 9 }
+			color2={ 255 255 255 }
+		
+			b_tazapan22 = {
+}
+	}
+			c_andes = {
+			color={ 150 121 13 }
+			color2={ 255 255 255 }
+		
+			b_andes = {
+}
+	}
+			c_tazapan24 = {
+			color={ 143 116 19 }
+			color2={ 255 255 255 }
+		
+			b_tazapan24 = {
+}
+	}
+	}
+		d_xackhapan = {
+			color={ 184 177 56 }
+			color2={ 255 255 255 }
+			
+			capital = 160 # Tazapan25
+			
+		c_tazapan25 = {
+			color={ 184 177 56 }
+			color2={ 255 255 255 }
+		
+			b_tazapan25 = {
+}
+	}
+			c_tazapan26 = {
+			color={ 160 153 48 }
+			color2={ 255 255 255 }
+		
+			b_tazapan26 = {
+}
+	}
+			c_tazapan27 = {
+			color={ 167 157 68 }
+			color2={ 255 255 255 }
+		
+			b_tazapan27 = {
+}
+	}
+	}
+	}
+	
+k_buffatania = {
+	color={ 218 179 88 }
+	color2={ 255 255 255 }
+	
+	capital = 163 # Amber Ridge
+	
+	culture = tazapan
+	
+	
+	
+	d_westplane = {
+			color={ 218 179 88 }
+			color2={ 255 255 255 }
+			
+			capital = 163 # Amber Ridge
+			
+		c_amber_ridge = {
+			color={ 218 179 88 }
+			color2={ 255 255 255 }
+		
+			b_amber_ridge = {
+}
+	}
+			c_locustess = {
+			color={ 242 172 102 }
+			color2={ 255 255 255 }
+		
+			b_locustess = {
+}
+	}
+			c_cornwall = {
+			color={ 224 201 65 }
+			color2={ 255 255 255 }
+		
+			b_cornwall = {
+}
+	}
+			c_painted_plain = {
+			color={ 231 207 75 }
+			color2={ 255 255 255 }
+		
+			b_painted_plain = {
+}
+	}
+	}
+		d_darkstamp = {
+			color={ 189 183 100 }
+			color2={ 255 255 255 }
+			
+			capital = 167 # Thundergrad
+			
+		c_thundergrad = {
+			color={ 189 183 100 }
+			color2={ 255 255 255 }
+		
+			b_thundergrad = {
+}
+	}
+			c_piele = {
+			color={ 137 131 58 }
+			color2={ 255 255 255 }
+		
+			b_piele = {
+}
+	}
+			c_chinacabinet = {
+			color={ 122 130 34 }
+			color2={ 255 255 255 }
+		
+			b_chinacabinet = {
+}
+	}
+	}
+		d_goldgrass = {
+			color={ 224 214 84 }
+			color2={ 255 255 255 }
+			
+			capital = 170 # Lombucky
+			
+		c_lombucky = {
+			color={ 224 214 84 }
+			color2={ 255 255 255 }
+		
+			b_lombucky = {
+}
+	}
+			c_golden_grass = {
+			color={ 162 148 49 }
+			color2={ 255 255 255 }
+		
+			b_golden_grass = {
+}
+	}
+			c_stomponine = {
+			color={ 169 154 52 }
+			color2={ 255 255 255 }
+		
+			b_stomponine = {
+}
+	}
+			c_planeland = {
+			color={ 205 191 90 }
+			color2={ 255 255 255 }
+		
+			b_planeland = {
+}
+	}
+	}
+		d_applegrounds = {
+			color={ 176 169 74 }
+			color2={ 255 255 255 }
+			
+			capital = 174 # Greeningtrees
+			
+		c_greeningtrees = {
+			color={ 176 169 74 }
+			color2={ 255 255 255 }
+		
+			b_greeningtrees = {
+}
+	}
+			c_appleloosa = {
+			color={ 156 168 17 }
+			color2={ 255 255 255 }
+		
+			b_appleloosa = {
+}
+	}
+			c_thundergounds = {
+			color={ 208 182 28 }
+			color2={ 255 255 255 }
+		
+			b_thundergounds = {
+}
+	}
+			c_greatstamp = {
+			color={ 131 125 54 }
+			color2={ 255 255 255 }
+		
+			b_greatstamp = {
+}
+	}
+	}
+		d_eastgrounds = {
+			color={ 189 179 47 }
+			color2={ 255 255 255 }
+			
+			capital = 178 # Gallopgrass
+			
+		c_gallopgrass = {
+			color={ 189 179 47 }
+			color2={ 255 255 255 }
+		
+			b_gallopgrass = {
+}
+	}
+			c_eastplane = {
+			color={ 167 128 37 }
+			color2={ 255 255 255 }
+		
+			b_eastplane = {
+}
+	}
+			c_sandgrass = {
+			color={ 182 174 80 }
+			color2={ 255 255 255 }
+		
+			b_sandgrass = {
+}
+	}
+			c_buffalan = {
+			color={ 105 101 44 }
+			color2={ 255 255 255 }
+		
+			b_buffalan = {
+}
+	}
+	}
+	}
+	
+k_sioxen = {
+	color={ 177 149 39 }
+	color2={ 255 255 255 }
+	
+	capital = 182 # Las Pegasus
+	
+	culture = pegasi_culture
+	
+	
+	
+	d_las_pegasus = {
+			color={ 177 149 39 }
+			color2={ 255 255 255 }
+			
+			capital = 182 # Las Pegasus
+			
+		c_las_pegasus = {
+			color={ 177 149 39 }
+			color2={ 255 255 255 }
+		
+			b_las_pegasus = {
+}
+	}
+			c_ibex_hills = {
+			color={ 193 182 54 }
+			color2={ 255 255 255 }
+		
+			b_ibex_hills = {
+}
+	}
+			c_applewood = {
+			color={ 155 126 46 }
+			color2={ 255 255 255 }
+		
+			b_applewood = {
+}
+	}
+	}
+		d_the_hoofbuck = {
+			color={ 172 177 39 }
+			color2={ 255 255 255 }
+			
+			capital = 185 # Hooftenai
+			
+		c_hooftenai = {
+			color={ 172 177 39 }
+			color2={ 255 255 255 }
+		
+			b_hooftenai = {
+}
+	}
+			c_hoofo = {
+			color={ 194 185 77 }
+			color2={ 255 255 255 }
+		
+			b_hoofo = {
+}
+	}
+			c_applehoe = {
+			color={ 148 169 62 }
+			color2={ 255 255 255 }
+		
+			b_applehoe = {
+}
+	}
+			c_sauk = {
+			color={ 233 227 122 }
+			color2={ 255 255 255 }
+		
+			b_sauk = {
+}
+	}
+	}
+		d_san_oxe = {
+			color={ 190 202 106 }
+			color2={ 255 255 255 }
+			
+			capital = 189 # Mashbucket
+			
+		c_mashbucket = {
+			color={ 190 202 106 }
+			color2={ 255 255 255 }
+		
+			b_mashbucket = {
+}
+	}
+			c_saltnee = {
+			color={ 180 192 74 }
+			color2={ 255 255 255 }
+		
+			b_saltnee = {
+}
+	}
+			c_stampedium = {
+			color={ 187 155 30 }
+			color2={ 255 255 255 }
+		
+			b_stampedium = {
+}
+	}
+			c_manemee = {
+			color={ 209 198 69 }
+			color2={ 255 255 255 }
+		
+			b_manemee = {
+}
+	}
+			c_berry_creek = {
+			color={ 141 118 22 }
+			color2={ 255 255 255 }
+		
+			b_berry_creek = {
+}
+	}
+	}
+		d_tepakanan = {
+			color={ 243 225 101 }
+			color2={ 255 255 255 }
+			
+			capital = 194 # Kickapoo
+			
+		c_kickapoo = {
+			color={ 243 225 101 }
+			color2={ 255 255 255 }
+		
+			b_kickapoo = {
+}
+	}
+			c_tepakanan = {
+			color={ 179 178 41 }
+			color2={ 255 255 255 }
+		
+			b_tepakanan = {
+}
+	}
+			c_ponica = {
+			color={ 208 196 102 }
+			color2={ 255 255 255 }
+		
+			b_ponica = {
+}
+	}
+			c_bloodhoof = {
+			color={ 191 184 32 }
+			color2={ 255 255 255 }
+		
+			b_bloodhoof = {
+}
+	}
+	}
+		d_hekkanoapkan = {
+			color={ 199 183 71 }
+			color2={ 255 255 255 }
+			
+			capital = 198 # Pinefur
+			
+		c_pinefur = {
+			color={ 199 183 71 }
+			color2={ 255 255 255 }
+		
+			b_pinefur = {
+}
+	}
+			c_kalibuf = {
+			color={ 217 205 138 }
+			color2={ 255 255 255 }
+		
+			b_kalibuf = {
+}
+	}
+			c_grazi = {
+			color={ 146 153 38 }
+			color2={ 255 255 255 }
+		
+			b_grazi = {
+}
+	}
+			c_golden_fur = {
+			color={ 155 183 87 }
+			color2={ 255 255 255 }
+		
+			b_golden_fur = {
+}
+	}
+			c_wichitrot = {
+			color={ 211 219 70 }
+			color2={ 255 255 255 }
+		
+			b_wichitrot = {
+}
+	}
+	}
+		d_katomakka = {
+			color={ 171 191 74 }
+			color2={ 255 255 255 }
+			
+			capital = 203 # Standing Rock
+			
+		c_standing_rock = {
+			color={ 171 191 74 }
+			color2={ 255 255 255 }
+		
+			b_standing_rock = {
+}
+	}
+			c_troto = {
+			color={ 217 229 81 }
+			color2={ 255 255 255 }
+		
+			b_troto = {
+}
+	}
+			c_sage = {
+			color={ 152 177 34 }
+			color2={ 255 255 255 }
+		
+			b_sage = {
+}
+	}
+	}
+		d_stampahkalekka = {
+			color={ 169 168 62 }
+			color2={ 255 255 255 }
+			
+			capital = 206 # Stalwart
+			
+		c_stalwart = {
+			color={ 169 168 62 }
+			color2={ 255 255 255 }
+		
+			b_stalwart = {
+}
+	}
+			c_furer = {
+			color={ 155 169 62 }
+			color2={ 255 255 255 }
+		
+			b_furer = {
+}
+	}
+			c_rosa = {
+			color={ 177 153 39 }
+			color2={ 255 255 255 }
+		
+			b_rosa = {
+}
+	}
+			c_amberstead = {
+			color={ 187 210 77 }
+			color2={ 255 255 255 }
+		
+			b_amberstead = {
+}
+	}
+	}
+		d_yeggagalwa = {
+			color={ 91 138 44 }
+			color2={ 255 255 255 }
+			
+			capital = 210 # Rabbitwood
+			
+		c_rabbitwood = {
+			color={ 91 138 44 }
+			color2={ 255 255 255 }
+		
+			b_rabbitwood = {
+}
+	}
+			c_elk_valley = {
+			color={ 180 204 113 }
+			color2={ 255 255 255 }
+		
+			b_elk_valley = {
+}
+	}
+			c_blackhoof = {
+			color={ 146 154 53 }
+			color2={ 255 255 255 }
+		
+			b_blackhoof = {
+}
+	}
+	}
+		d_applewood = {
+			color={ 92 117 20 }
+			color2={ 255 255 255 }
+			
+			capital = 213 # Appleche
+			
+		c_appleche = {
+			color={ 92 117 20 }
+			color2={ 255 255 255 }
+		
+			b_appleche = {
+}
+	}
+			c_chicacharge = {
+			color={ 144 153 64 }
+			color2={ 255 255 255 }
+		
+			b_chicacharge = {
+}
+	}
+			c_colton = {
+			color={ 193 188 97 }
+			color2={ 255 255 255 }
+		
+			b_colton = {
+}
+	}
+			c_hoofi = {
+			color={ 161 130 22 }
+			color2={ 255 255 255 }
+		
+			b_hoofi = {
+}
+	}
+			c_clippity = {
+			color={ 148 147 41 }
+			color2={ 255 255 255 }
+		
+			b_clippity = {
+}
+	}
+			c_shalenee = {
+			color={ 183 160 34 }
+			color2={ 255 255 255 }
+		
+			b_shalenee = {
+}
+	}
+	}
+		d_negakapaken = {
+			color={ 171 171 71 }
+			color2={ 255 255 255 }
+			
+			capital = 219 # Furdreu
+			
+		c_furdreu = {
+			color={ 171 171 71 }
+			color2={ 255 255 255 }
+		
+			b_furdreu = {
+}
+	}
+			c_marepee = {
+			color={ 213 168 86 }
+			color2={ 255 255 255 }
+		
+			b_marepee = {
+}
+	}
+			c_los_coltes = {
+			color={ 169 168 70 }
+			color2={ 255 255 255 }
+		
+			b_los_coltes = {
+}
+	}
+	}
+		d_oppadeloka = {
+			color={ 153 141 64 }
+			color2={ 255 255 255 }
+			
+			capital = 222 # Oaklahoofa
+			
+		c_oaklahoofa = {
+			color={ 153 141 64 }
+			color2={ 255 255 255 }
+		
+			b_oaklahoofa = {
+}
+	}
+			c_bisongrain = {
+			color={ 109 121 50 }
+			color2={ 255 255 255 }
+		
+			b_bisongrain = {
+}
+	}
+			c_manitrotba = {
+			color={ 159 163 42 }
+			color2={ 255 255 255 }
+		
+			b_manitrotba = {
+}
+	}
+			c_pasteur = {
+			color={ 170 175 20 }
+			color2={ 255 255 255 }
+		
+			b_pasteur = {
+}
+	}
+	}
+		d_evanafreeka = {
+			color={ 155 126 38 }
+			color2={ 255 255 255 }
+			
+			capital = 226 # Bison Pauite
+			
+		c_bison_pauite = {
+			color={ 155 126 38 }
+			color2={ 255 255 255 }
+		
+			b_bison_pauite = {
+}
+	}
+			c_whoofshone = {
+			color={ 172 164 67 }
+			color2={ 255 255 255 }
+		
+			b_whoofshone = {
+}
+	}
+			c_assinibone = {
+			color={ 166 156 67 }
+			color2={ 255 255 255 }
+		
+			b_assinibone = {
+}
+	}
+			c_atfur = {
+			color={ 191 158 58 }
+			color2={ 255 255 255 }
+		
+			b_atfur = {
+}
+	}
+			c_euthe = {
+			color={ 157 147 65 }
+			color2={ 255 255 255 }
+		
+			b_euthe = {
+}
+	}
+	}
+	}
+	}
+	
+e_equestria = {
+	color={ 124 157 68 }
+	color2={ 255 255 20 }
+	
+	capital = 270 # East Ghastly	
+	short_name = yes
+	
+	culture = caribou_culture
+
+}	
+
+k_everfree = {
+	color={ 124 157 68 }
+	color2={ 255 255 255 }
+	
+	capital = 270 # East Ghastly
+	
+	culture = caribou_culture
+	
+	
+	
+	d_ghastly_gorge = {
+			color={ 124 157 68 }
+			color2={ 255 255 255 }
+			
+			capital = 270 # East Ghastly
+			
+		c_east_ghastly = {
+			color={ 124 157 68 }
+			color2={ 255 255 255 }
+		
+			b_east_ghastly = {
+}
+	}
+			c_west_ghasty = {
+			color={ 56 98 34 }
+			color2={ 255 255 255 }
+		
+			b_west_ghasty = {
+}
+	}
+			c_quarray_bend = {
+			color={ 89 140 61 }
+			color2={ 255 255 255 }
+		
+			b_quarray_bend = {
+}
+	}
+			c_windy_cave = {
+			color={ 145 204 113 }
+			color2={ 255 255 255 }
+		
+			b_windy_cave = {
+}
+	}
+			c_dimview = {
+			color={ 23 114 84 }
+			color2={ 255 255 255 }
+		
+			b_dimview = {
+}
+	}
+	}
+		d_froggy_bottom_bogg = {
+			color={ 28 61 86 }
+			color2={ 255 255 255 }
+			
+			capital = 275 # Froggy Bottom
+			
+		c_froggy_bottom = {
+			color={ 28 61 86 }
+			color2={ 255 255 255 }
+		
+			b_froggy_bottom = {
+}
+	}
+			c_froggy_side = {
+			color={ 28 86 67 }
+			color2={ 255 255 255 }
+		
+			b_froggy_side = {
+}
+	}
+			c_frog_meddow = {
+			color={ 13 55 85 }
+			color2={ 255 255 255 }
+		
+			b_frog_meddow = {
+}
+	}
+	}
+		d_west_everfree = {
+			color={ 35 171 109 }
+			color2={ 255 255 255 }
+			
+			capital = 278 # Everfree1
+			
+		c_everfree1 = {
+			color={ 35 171 109 }
+			color2={ 255 255 255 }
+		
+			b_everfree1 = {
+}
+	}
+			c_everfree2 = {
+			color={ 11 170 112 }
+			color2={ 255 255 255 }
+		
+			b_everfree2 = {
+}
+	}
+			c_everfree3 = {
+			color={ 53 190 159 }
+			color2={ 255 255 255 }
+		
+			b_everfree3 = {
+}
+	}
+			c_everfree4 = {
+			color={ 46 124 109 }
+			color2={ 255 255 255 }
+		
+			b_everfree4 = {
+}
+	}
+	}
+		d_central_everfree = {
+			color={ 82 180 142 }
+			color2={ 255 255 255 }
+			
+			capital = 282 # Everfree5
+			
+		c_everfree5 = {
+			color={ 82 180 142 }
+			color2={ 255 255 255 }
+		
+			b_everfree5 = {
+}
+	}
+			c_everfree6 = {
+			color={ 40 149 114 }
+			color2={ 255 255 255 }
+		
+			b_everfree6 = {
+}
+	}
+			c_everfree7 = {
+			color={ 17 95 66 }
+			color2={ 255 255 255 }
+		
+			b_everfree7 = {
+}
+	}
+	}
+		d_greater_everfree = {
+			color={ 97 169 160 }
+			color2={ 255 255 255 }
+			
+			capital = 285 # The Palace of the Two Sisters
+			
+		c_the_palace_of_the_two_sisters = {
+			color={ 97 169 160 }
+			color2={ 255 255 255 }
+		
+			b_the_palace_of_the_two_sisters = {
+}
+	}
+			c_everwatch = {
+			color={ 12 144 99 }
+			color2={ 255 255 255 }
+		
+			b_everwatch = {
+}
+	}
+			c_rockwood = {
+			color={ 86 141 134 }
+			color2={ 255 255 255 }
+		
+			b_rockwood = {
+}
+	}
+	}
+		d_south_everfree = {
+			color={ 52 135 128 }
+			color2={ 255 255 255 }
+			
+			capital = 288 # Everfree8
+			
+		c_everfree8 = {
+			color={ 52 135 128 }
+			color2={ 255 255 255 }
+		
+			b_everfree8 = {
+}
+	}
+			c_everfree9 = {
+			color={ 8 49 65 }
+			color2={ 255 255 255 }
+		
+			b_everfree9 = {
+}
+	}
+			c_everfree10 = {
+			color={ 18 62 79 }
+			color2={ 255 255 255 }
+		
+			b_everfree10 = {
+}
+	}
+	}
+		d_east_everfree = {
+			color={ 43 73 93 }
+			color2={ 255 255 255 }
+			
+			capital = 291 # Everfree11
+			
+		c_everfree11 = {
+			color={ 43 73 93 }
+			color2={ 255 255 255 }
+		
+			b_everfree11 = {
+}
+	}
+			c_everfree12 = {
+			color={ 43 83 93 }
+			color2={ 255 255 255 }
+		
+			b_everfree12 = {
+}
+	}
+			c_everfree13 = {
+			color={ 60 128 105 }
+			color2={ 255 255 255 }
+		
+			b_everfree13 = {
+}
+	}
+			c_everfree14 = {
+			color={ 60 128 126 }
+			color2={ 255 255 255 }
+		
+			b_everfree14 = {
+}
+	}
+			c_everfree15 = {
+			color={ 36 188 165 }
+			color2={ 255 255 255 }
+		
+			b_everfree15 = {
+}
+	}
+	}
+	}
+	
+k_unicornia = {
+	color={ 156 94 177 }
+	color2={ 255 255 255 }
+	
+	capital = 296 # Canterlot
+	
+	culture = unicorn_culture
+	
+	
+	
+	d_canterlot = {
+			color={ 156 94 177 }
+			color2={ 255 255 255 }
+			
+			capital = 296 # Canterlot
+			
+		c_canterlot = {
+			color={ 156 94 177 }
+			color2={ 255 255 255 }
+		
+			b_canterlot = {
+}
+				b_moonstreat = {
+}
+				b_irongate = {
+}
+				b_high_rock = {
+}
+				b_hornway = {
+}
+				b_managrove = {
+}
+				b_whitecliff = {
+}
+	}
+			c_saddlegrass = {
+			color={ 179 128 196 }
+			color2={ 255 255 255 }
+		
+			b_saddlegrass = {
+}
+	}
+			c_gemstone_hills = {
+			color={ 168 124 183 }
+			color2={ 255 255 255 }
+		
+			b_gemstone_hills = {
+}
+	}
+	}
+		d_bitaly = {
+			color={ 193 135 195 }
+			color2={ 255 255 255 }
+			
+			capital = 299 # Platinum Pass
+			
+		c_platinum_pass = {
+			color={ 193 135 195 }
+			color2={ 255 255 255 }
+		
+			b_platinum_pass = {
+}
+	}
+			c_saddleville = {
+			color={ 163 123 164 }
+			color2={ 255 255 255 }
+		
+			b_saddleville = {
+}
+	}
+			c_ramming_rock_ridge = {
+			color={ 208 132 217 }
+			color2={ 255 255 255 }
+		
+			b_ramming_rock_ridge = {
+}
+	}
+			c_easthay = {
+			color={ 135 93 137 }
+			color2={ 255 255 255 }
+		
+			b_easthay = {
+}
+	}
+			c_greenvale = {
+			color={ 167 89 170 }
+			color2={ 255 255 255 }
+		
+			b_leaf_farm = {
+}
+	}
+	}
+		d_pegasus_pass = {
+			color={ 160 82 171 }
+			color2={ 255 255 255 }
+			
+			capital = 304 # Pegasus Pass
+			
+		c_pegasus_pass = {
+			color={ 160 82 171 }
+			color2={ 255 255 255 }
+		
+			b_pegasus_pass = {
+}
+	}
+			c_gemglass = {
+			color={ 175 106 185 }
+			color2={ 255 255 255 }
+		
+			b_dusk_star_rise = {
+}
+	}
+	}
+		d_estmanedie = {
+			color={ 158 43 162 }
+			color2={ 255 255 255 }
+			
+			capital = 306 # Mortmane
+			
+		c_mortmane = {
+			color={ 158 43 162 }
+			color2={ 255 255 255 }
+		
+			b_mortmane = {
+}
+	}
+			c_roumare = {
+			color={ 190 107 193 }
+			color2={ 255 255 255 }
+		
+			b_roumare = {
+}
+	}
+			c_etalux = {
+			color={ 172 75 175 }
+			color2={ 255 255 255 }
+		
+			b_etalux = {
+}
+	}
+	}
+		d_coltpagne = {
+			color={ 188 31 227 }
+			color2={ 255 255 255 }
+			
+			capital = 309 # Galloping Grass
+			
+		c_galloping_grass = {
+			color={ 188 31 227 }
+			color2={ 255 255 255 }
+		
+			b_galloping_grass = {
+}
+	}
+			c_reins = {
+			color={ 152 67 211 }
+			color2={ 255 255 255 }
+		
+			b_reins = {
+}
+	}
+			c_everville = {
+			color={ 225 31 227 }
+			color2={ 255 255 255 }
+		
+			b_everville = {
+}
+	}
+	}
+		d_cheval = {
+			color={ 163 59 178 }
+			color2={ 255 255 255 }
+			
+			capital = 312 # La Mareche
+			
+		c_la_mareche = {
+			color={ 163 59 178 }
+			color2={ 255 255 255 }
+		
+			b_la_mareche = {
+}
+	}
+			c_eversin = {
+			color={ 190 101 203 }
+			color2={ 255 255 255 }
+		
+			b_eversin = {
+}
+	}
+	}
+		d_berry = {
+			color={ 195 48 216 }
+			color2={ 255 255 255 }
+			
+			capital = 314 # Toumane
+			
+		c_toumane = {
+			color={ 195 48 216 }
+			color2={ 255 255 255 }
+		
+			b_toumane = {
+}
+	}
+			c_mane = {
+			color={ 202 92 203 }
+			color2={ 255 255 255 }
+		
+			b_mane = {
+}
+	}
+			c_angoulemane = {
+			color={ 224 73 225 }
+			color2={ 255 255 255 }
+		
+			b_angoulemane = {
+}
+	}
+	}
+		d_mareonmane = {
+			color={ 157 58 171 }
+			color2={ 255 255 255 }
+			
+			capital = 317 # Stallionge
+			
+		c_stallionge = {
+			color={ 157 58 171 }
+			color2={ 255 255 255 }
+		
+			b_stallionge = {
+}
+	}
+			c_poulain = {
+			color={ 183 138 189 }
+			color2={ 255 255 255 }
+		
+			b_poulain = {
+}
+	}
+			c_coltoulouse = {
+			color={ 172 94 183 }
+			color2={ 255 255 255 }
+		
+			b_coltoulouse = {
+}
+	}
+			c_limehill = {
+			color={ 195 86 211 }
+			color2={ 255 255 255 }
+		
+			b_limehill = {
+}
+	}
+	}
+	}
+	
+k_manehatten = {
+	color={ 189 54 80 }
+	color2={ 255 255 255 }
+	
+	capital = 321 # Manehatten
+	
+	culture = earth_culture
+	
+	
+	
+	d_manehatten = {
+			color={ 189 54 80 }
+			color2={ 255 255 255 }
+			
+			capital = 321 # Manehatten
+			
+		c_manehatten = {
+			color={ 189 54 80 }
+			color2={ 255 255 255 }
+		
+			b_manehatten = {
+}
+				b_tortbetica = {
+}
+				b_greenminster = {
+}
+				b_haylem = {
+}
+				b_midton = {
+}
+				b_saddleton = {
+}
+				b_manester = {
+}
+	}
+			c_bucklyn = {
+			color={ 154 14 41 }
+			color2={ 255 255 255 }
+		
+			b_hooveridge = {
+}
+				b_eastfort = {
+}
+				b_midwood = {
+}
+				b_buckwick = {
+}
+				b_colt_island = {
+}
+				b_buckington = {
+}
+				b_hayhill = {
+}
+	}
+			c_newmane = {
+			color={ 209 111 129 }
+			color2={ 255 255 255 }
+		
+			b_newmane = {
+}
+				b_rammingbay = {
+}
+				b_ironwood_grove = {
+}
+				b_trottstreat = {
+}
+				b_freeside = {
+}
+				b_northdrop = {
+}
+				b_maneing_point = {
+}
+	}
+	}
+			d_eastpass = {
+			color={ 101 134 54 }
+			color2={ 255 255 255 }
+			
+			capital = 344 # Crystal Pass
+			
+		c_crystal_pass = {
+			color={ 101 134 54 }
+			color2={ 255 255 255 }
+		
+			b_crystal_pass = {
+}
+	}
+			c_goldslopes = {
+			color={ 80 123 21 }
+			color2={ 255 255 255 }
+		
+			b_goldslopes = {
+}
+	}
+	}
+		d_maneland = {
+			color={ 124 176 50 }
+			color2={ 255 255 255 }
+			
+			capital = 341 # Stallionbury
+			
+		c_stallionbury = {
+			color={ 124 176 50 }
+			color2={ 255 255 255 }
+		
+			b_quillwell = {
+}
+				b_elktown = {
+}
+				b_apples_bromly = {
+}
+				b_hornoxter = {
+}
+	}
+			c_hayshire = {
+			color={ 120 150 78 }
+			color2={ 255 255 255 }
+		
+			b_oatford = {
+}
+				b_cornsbury = {
+}
+				b_hoofbrough = {
+}
+				b_eatingham = {
+}
+	}
+			c_linecolt = {
+			color={ 83 112 42 }
+			color2={ 255 255 255 }
+		
+			b_ehointon = {
+}
+	}
+	}
+	d_marecia = {
+			color={ 117 174 87 }
+			color2={ 255 255 255 }
+			
+			capital = 337 # Saddleside
+			
+		c_saddleside = {
+			color={ 117 174 87 }
+			color2={ 255 255 255 }
+		
+			b_saddlebridge = {
+}
+				b_inkburrow = {
+}
+				b_lemonlow = {
+}
+				b_kingshill = {
+}
+	}
+			c_hayford = {
+			color={ 100 134 50 }
+			color2={ 255 255 255 }
+		
+			b_swansbury = {
+}
+				b_newpond = {
+}
+				b_parkbridge = {
+}
+				b_southam = {
+}
+	}
+			c_gallopcester = {
+			color={ 116 140 82 }
+			color2={ 255 255 255 }
+		
+			b_buckworth = {
+}
+				b_burningwood = {
+}
+				b_greenhart_hill = {
+}
+				b_greenharton = {
+}
+	}
+			c_reincester = {
+			color={ 80 152 41 }
+			color2={ 255 255 255 }
+		
+			b_winteringham = {
+}
+				b_cheeseton = {
+}
+				b_lemonminster = {
+}
+				b_ashbuck = {
+}
+	}
+	}
+	}
+	
+k_earth = {
+	color={ 87 153 38 }
+	color2={ 255 255 255 }
+	
+	capital = 324 # Baltimare
+	
+	culture = earth_culture
+	
+	
+	
+	d_baltimare = {
+			color={ 87 153 38 }
+			color2={ 255 255 255 }
+			
+			capital = 324 # Baltimare
+			
+		c_baltimare = {
+			color={ 87 153 38 }
+			color2={ 255 255 255 }
+		
+			b_baltiham = {
+}
+				b_baltamare = {
+}
+				b_firewood_hill = {
+}
+				b_sparrows_point = {
+}
+				b_rivermoth = {
+}
+				b_woodlaw = {
+}
+				b_dancertown = {
+}
+	}
+			c_gallopton = {
+			color={ 104 160 63 }
+			color2={ 255 255 255 }
+		
+			b_gallopton = {
+}
+				b_cross_falls = {
+}
+				b_dunel_hill = {
+}
+				b_edgewood = {
+}
+				b_bluestream = {
+}
+				b_fallstone = {
+}
+	}
+			c_mareford = {
+			color={ 121 165 89 }
+			color2={ 255 255 255 }
+		
+			b_mareford = {
+}
+				b_maredeen = {
+}
+				b_clover_hill = {
+}
+				b_woodsbrook = {
+}
+				b_bloomfield = {
+}
+	}
+			c_coltford = {
+			color={ 128 184 47 }
+			color2={ 255 255 255 }
+		
+			b_coltford = {
+}
+				b_mapolis = {
+}
+				b_farvue_hill = {
+}
+				b_appleapolis = {
+}
+				b_woodsbury = {
+}
+	}
+	}
+		d_north_horseshoe = {
+			color={ 105 155 67 }
+			color2={ 255 255 255 }
+			
+			capital = 328 # Horse Bay
+			
+		c_horse_bay = {
+			color={ 105 155 67 }
+			color2={ 255 255 255 }
+		
+			b_horse_bay = {
+}
+				b_stallinonton-on-sea = {
+}
+				b_humblestone = {
+}
+				b_runtford = {
+}
+				b_docking_rock = {
+}
+	}
+			c_maresbury = {
+			color={ 106 171 58 }
+			color2={ 255 255 255 }
+		
+			b_manebury = {
+}
+				b_fillysby = {
+}
+				b_lincolt = {
+}
+				b_marelock = {
+}
+				b_antlerstree = {
+}
+	}
+			c_horseshoe_point = {
+			color={ 84 140 43 }
+			color2={ 255 255 255 }
+		
+			b_hoofcliff = {
+}
+				b_horseshoe_point = {
+}
+				b_saddalding = {
+}
+				b_laughborough = {
+}
+				b_high_buckfield = {
+}
+				b_millhorse = {
+}
+	}
+	}
+		d_trottingham = {
+			color={ 66 131 30 }
+			color2={ 255 255 255 }
+			
+			capital = 331 # Trottingham
+			
+		c_trottingham = {
+			color={ 66 131 30 }
+			color2={ 255 255 255 }
+		
+			b_flankstaf_keep = {
+}
+				b_trottingham = {
+}
+				b_bruce_hill = {
+}
+				b_heartford = {
+}
+				b_greenlyn = {
+}
+				b_redbourn = {
+}
+	}
+			c_northmareton = {
+			color={ 88 148 56 }
+			color2={ 255 255 255 }
+		
+			b_northmareton = {
+}
+				b_buckford = {
+}
+				b_mereton_keynes = {
+}
+				b_bichester = {
+}
+	}
+			c_maneford = {
+			color={ 77 120 54 }
+			color2={ 255 255 255 }
+		
+			b_maneford = {
+}
+				b_tumpingotn = {
+}
+				b_appleseed_hill = {
+}
+				b_haltsteed = {
+}
+				b_aylesbury = {
+}
+	}
+	}
+		d_fillydelphia = {
+			color={ 150 177 56 }
+			color2={ 255 255 255 }
+			
+			capital = 334 # Fillydelphia
+			
+		c_fillydelphia = {
+			color={ 150 177 56 }
+			color2={ 255 255 255 }
+		
+			b_earthen_palace = {
+}
+				b_fillydelphia = {
+}
+				b_coltswood = {
+}
+				b_coltdam = {
+}
+				b_maresburg = {
+}
+				b_north_fillydelphia = {
+}
+				b_bookbay = {
+}
+	}
+			c_manesbury = {
+			color={ 98 177 56 }
+			color2={ 255 255 255 }
+		
+			b_manesbury = {
+}
+				b_haylow = {
+}
+				b_stableing = {
+}
+				b_dancers_end = {
+}
+				b_elsenham = {
+}
+	}
+			c_coltchester = {
+			color={ 127 177 56 }
+			color2={ 255 255 255 }
+		
+			b_coltcchester = {
+}
+				b_highwoods = {
+}
+				b_clopton-on-sea = {
+}
+				b_haywich = {
+}
+				b_oakley = {
+}
+	}
+	}
+		
+	
+		d_emerald_hills = {
+			color={ 32 139 21 }
+			color2={ 255 255 255 }
+			
+			capital = 346 # Mount Emerald
+			
+		c_mount_emerald = {
+			color={ 32 139 21 }
+			color2={ 255 255 255 }
+		
+			b_mount_emerald = {
+}
+	}
+			c_greenshire = {
+			color={ 41 170 29 }
+			color2={ 255 255 255 }
+		
+			b_greenshire = {
+}
+	}
+			c_emeraldwick = {
+			color={ 89 144 78 }
+			color2={ 255 255 255 }
+		
+			b_emeraldwick = {
+}
+	}
+	}
+		d_reinshire = {
+			color={ 22 93 9 }
+			color2={ 255 255 255 }
+			
+			capital = 349 # Reinshire
+			
+		c_reinshire = {
+			color={ 22 93 9 }
+			color2={ 255 255 255 }
+		
+			b_reinshire = {
+}
+	}
+			c_summer_hills = {
+			color={ 38 119 22 }
+			color2={ 255 255 255 }
+		
+			b_summer_hills = {
+}
+	}
+			c_appleshire = {
+			color={ 73 141 60 }
+			color2={ 255 255 255 }
+		
+			b_appleshire = {
+}
+	}
+	}
+		d_buckfast = {
+			color={ 87 145 76 }
+			color2={ 255 255 255 }
+			
+			capital = 352 # Lemonshire
+			
+		c_lemonshire = {
+			color={ 87 145 76 }
+			color2={ 255 255 255 }
+		
+			b_lemoncoln = {
+}
+				b_woodhall_spa = {
+}
+				b_mareingham = {
+}
+				b_skagars_ness = {
+}
+	}
+			c_buckfast = {
+			color={ 82 151 68 }
+			color2={ 255 255 255 }
+		
+			b_buckfast = {
+}
+				b_ashbuckton = {
+}
+				b_kingswood = {
+}
+				b_newton_buckligh = {
+}
+	}
+			c_hoofington = {
+			color={ 54 128 40 }
+			color2={ 255 255 255 }
+		
+			b_hoofington = {
+}
+				b_mareington_spa = {
+}
+				b_buckby = {
+}
+				b_trottingbrooke = {
+}
+	}
+	}
+		d_haywicce = {
+			color={ 105 130 98 }
+			color2={ 255 255 255 }
+			
+			capital = 355 # Horsehamshire
+			
+		c_horsehamshire = {
+			color={ 105 130 98 }
+			color2={ 255 255 255 }
+		
+			b_horsehamptom = {
+}
+				b_neighingborough = {
+}
+				b_gallopering = {
+}
+				b_buckbrooke = {
+}
+	}
+			c_canterbury = {
+			color={ 31 89 26 }
+			color2={ 255 255 255 }
+		
+			b_canterbury = {
+}
+				b_canterham_b) = {
+}
+				b_whitestable = {
+}
+				b_horseden = {
+}
+	}
+			c_ramsshire = {
+			color={ 79 128 74 }
+			color2={ 255 255 255 }
+		
+			b_ramsgate = {
+}
+				b_manewich = {
+}
+				b_woodensminster = {
+}
+				b_owls_hill = {
+}
+	}
+	}
+		d_neighingland = {
+			color={ 67 152 30 }
+			color2={ 255 255 255 }
+			
+			capital = 358 # South Neighagra
+			
+		c_south_neighagra = {
+			color={ 67 152 30 }
+			color2={ 255 255 255 }
+		
+			b_south_neighagra = {
+}
+	}
+			c_neighshire = {
+			color={ 38 94 32 }
+			color2={ 255 255 255 }
+		
+			b_neighshire = {
+}
+	}
+			c_crystalshire = {
+			color={ 83 132 62 }
+			color2={ 255 255 255 }
+		
+			b_crystalshire = {
+}
+	}
+	}
+		d_mustangia = {
+			color={ 42 117 38 }
+			color2={ 255 255 255 }
+			
+			capital = 361 # Rubyshire
+			
+		c_rubyshire = {
+			color={ 42 117 38 }
+			color2={ 255 255 255 }
+		
+			b_redstone_point = {
+}
+				b_redington = {
+}
+				b_scarletminster = {
+}
+	}
+			c_mustsex = {
+			color={ 80 126 78 }
+			color2={ 255 255 255 }
+		
+			b_bucksbey = {
+}
+				b_stallionton = {
+}
+				b_saddlestone = {
+}
+	}
+			c_mustangia = {
+			color={ 34 89 12 }
+			color2={ 255 255 255 }
+		
+			b_mustangingburg = {
+}
+				b_mustangton = {
+}
+				b_mustang_hill = {
+}
+				b_stallion_hill = {
+}
+	}
+			c_stallion_ridge = {
+			color={ 90 158 86 }
+			color2={ 255 255 255 }
+		
+			b_medford = {
+}
+				b_princhall = {
+}
+				b_dagger_ridge = {
+}
+	}
+	}
+	}
+	
+k_pegasopolis = {
+	color={ 16 49 134 }
+	color2={ 255 255 255 }
+	
+	capital = 365 # Hearth Pass
+	
+	culture = pegasi_culture
+	
+	
+	
+	d_hearth_pass = {
+			color={ 16 49 134 }
+			color2={ 255 255 255 }
+			
+			capital = 365 # Hearth Pass
+			
+		c_hearth_pass = {
+			color={ 16 49 134 }
+			color2={ 255 255 255 }
+		
+			b_hearth_pass = {
+}
+	}
+			c_airthniai = {
+			color={ 45 71 136 }
+			color2={ 255 255 255 }
+		
+			b_airthniai = {
+}
+	}
+	}
+		d_altolonika = {
+			color={ 66 84 128 }
+			color2={ 255 255 255 }
+			
+			capital = 367 # Altostratus
+			
+		c_altostratus = {
+			color={ 66 84 128 }
+			color2={ 255 255 255 }
+		
+			b_altostratus = {
+}
+	}
+			c_altocumulus = {
+			color={ 95 111 152 }
+			color2={ 255 255 255 }
+		
+			b_altocumulus = {
+}
+	}
+			c_altolonika = {
+			color={ 18 29 111 }
+			color2={ 255 255 255 }
+		
+			b_altolonika = {
+}
+	}
+	}
+		d_pegasopolis = {
+			color={ 46 86 188 }
+			color2={ 255 255 255 }
+			
+			capital = 370 # Pegasopolis
+			
+		c_pegasopolis = {
+			color={ 46 86 188 }
+			color2={ 255 255 255 }
+		
+			b_pegasopolis = {
+}
+	}
+			c_cloudsdale = {
+			color={ 54 54 189 }
+			color2={ 255 255 255 }
+		
+			b_cloudsdale = {
+}
+	}
+			c_arcus = {
+			color={ 28 28 176 }
+			color2={ 255 255 255 }
+		
+			b_arcus = {
+}
+	}
+	}
+		d_coltiat = {
+			color={ 30 49 99 }
+			color2={ 255 255 255 }
+			
+			capital = 373 # Manelitene
+			
+		c_manelitene = {
+			color={ 30 49 99 }
+			color2={ 255 255 255 }
+		
+			b_manelitene = {
+}
+	}
+			c_coltiat = {
+			color={ 13 35 89 }
+			color2={ 255 255 255 }
+		
+			b_coltiat = {
+}
+	}
+			c_cloponeia = {
+			color={ 43 61 107 }
+			color2={ 255 255 255 }
+		
+			b_cloponeia = {
+}
+	}
+	}
+		d_nimbus_pass = {
+			color={ 67 58 136 }
+			color2={ 255 255 255 }
+			
+			capital = 376 # Rainos
+			
+		c_rainos = {
+			color={ 67 58 136 }
+			color2={ 255 255 255 }
+		
+			b_rainos = {
+}
+	}
+			c_nimbus_pass = {
+			color={ 71 51 223 }
+			color2={ 255 255 255 }
+		
+			b_wind_acre_keep = {
+}
+				b_cloud_ranch = {
+}
+	}
+	}
+		d_maretolia = {
+			color={ 81 67 182 }
+			color2={ 255 255 255 }
+			
+			capital = 378 # Cirrus
+			
+		c_cirrus = {
+			color={ 81 67 182 }
+			color2={ 255 255 255 }
+		
+			b_cirrus = {
+}
+	}
+			c_hurriandria = {
+			color={ 51 46 159 }
+			color2={ 255 255 255 }
+		
+			b_hurriandria = {
+}
+	}
+	}
+		d_airpius = {
+			color={ 54 79 141 }
+			color2={ 255 255 255 }
+			
+			capital = 380 # Nacreous
+			
+		c_nacreous = {
+			color={ 54 79 141 }
+			color2={ 255 255 255 }
+		
+			b_nacreous = {
+}
+	}
+			c_maneathon = {
+			color={ 88 115 183 }
+			color2={ 255 255 255 }
+		
+			b_maneathon = {
+}
+	}
+			c_cloudon = {
+			color={ 70 90 141 }
+			color2={ 255 255 255 }
+		
+			b_cloudon = {
+}
+	}
+			c_maneipolis = {
+			color={ 103 122 169 }
+			color2={ 255 255 255 }
+		
+			b_maneipolis = {
+}
+	}
+	}
+		d_galloping_gorge = {
+			color={ 91 88 150 }
+			color2={ 255 255 255 }
+			
+			capital = 384 # West Gallop
+			
+		c_west_gallop = {
+			color={ 91 88 150 }
+			color2={ 255 255 255 }
+		
+			b_west_gallop = {
+}
+	}
+			c_east_gallop = {
+			color={ 59 54 158 }
+			color2={ 255 255 255 }
+		
+			b_east_gallop = {
+}
+	}
+			c_galloping_slopes = {
+			color={ 93 89 184 }
+			color2={ 255 255 255 }
+		
+			b_galloping_slopes = {
+}
+	}
+	}
+		d_hurricanion = {
+			color={ 24 20 120 }
+			color2={ 255 255 255 }
+			
+			capital = 387 # Airheart Mountains
+			
+		c_airheart_mountains = {
+			color={ 24 20 120 }
+			color2={ 255 255 255 }
+		
+			b_airheart_mountains = {
+}
+	}
+			c_airbydos = {
+			color={ 63 80 108 }
+			color2={ 255 255 255 }
+		
+			b_airbydos = {
+}
+	}
+			c_hurricanedretta = {
+			color={ 63 68 108 }
+			color2={ 255 255 255 }
+		
+			b_hurricanedretta = {
+}
+	}
+			c_rainisos = {
+			color={ 38 45 97 }
+			color2={ 255 255 255 }
+		
+			b_rainisos = {
+}
+	}
+	}
+		d_skydeia = {
+			color={ 31 60 110 }
+			color2={ 255 255 255 }
+			
+			capital = 391 # Thunderpolis
+			
+		c_thunderpolis = {
+			color={ 31 60 110 }
+			color2={ 255 255 255 }
+		
+			b_thunderpolis = {
+}
+	}
+			c_skydeia = {
+			color={ 53 71 103 }
+			color2={ 255 255 255 }
+		
+			b_skydeia = {
+}
+	}
+			c_crystalwing = {
+			color={ 42 72 123 }
+			color2={ 255 255 255 }
+		
+			b_crystalwing = {
+}
+	}
+	}
+		d_cold_wind_pass = {
+			color={ 31 86 176 }
+			color2={ 255 255 255 }
+			
+			capital = 394 # Mereitene
+			
+		c_mereitene = {
+			color={ 31 86 176 }
+			color2={ 255 255 255 }
+		
+			b_mereitene = {
+}
+	}
+			c_poniala = {
+			color={ 80 104 144 }
+			color2={ 255 255 255 }
+		
+			b_poniala = {
+}
+	}
+			c_cloudkonion = {
+			color={ 41 72 124 }
+			color2={ 255 255 255 }
+		
+			b_cloudkonion = {
+}
+	}
+	}
+	}
+	
+e_deeria = {
+	color={ 80 189 199 }
+	color2={ 255 255 20 }
+	
+	capital = 397 # Stagland	
+	short_name = yes
+	
+	culture = hindi_culture
+	
+
+k_whitetail = {
+	color={ 80 189 199 }
+	color2={ 255 255 255 }
+	
+	capital = 397 # Stagland
+	
+	culture = hindi_culture
+	
+	
+	
+	d_whitetail_woods = {
+			color={ 80 189 199 }
+			color2={ 255 255 255 }
+			
+			capital = 397 # Stagland
+			
+		c_stagland = {
+			color={ 80 189 199 }
+			color2={ 255 255 255 }
+		
+			b_stagland = {
+}
+	}
+			c_tillamare = {
+			color={ 61 180 191 }
+			color2={ 255 255 255 }
+		
+			b_tillamare = {
+}
+	}
+			c_whitetail_woods = {
+			color={ 24 132 142 }
+			color2={ 255 255 255 }
+		
+			b_whitetail_woods = {
+}
+	}
+			c_wasco = {
+			color={ 56 109 115 }
+			color2={ 255 255 255 }
+		
+			b_wasco = {
+}
+	}
+	}
+		d_stagtree = {
+			color={ 10 96 105 }
+			color2={ 255 255 255 }
+			
+			capital = 401 # Deerhill
+			
+		c_deerhill = {
+			color={ 10 96 105 }
+			color2={ 255 255 255 }
+		
+			b_deerhill = {
+}
+	}
+			c_umaretilla = {
+			color={ 47 177 166 }
+			color2={ 255 255 255 }
+		
+			b_umaretilla = {
+}
+	}
+			c_stagtree = {
+			color={ 24 86 84 }
+			color2={ 255 255 255 }
+		
+			b_stagtree = {
+}
+	}
+			c_maneheur = {
+			color={ 37 74 78 }
+			color2={ 255 255 255 }
+		
+			b_maneheur = {
+}
+	}
+	}
+		d_hartador = {
+			color={ 78 104 107 }
+			color2={ 255 255 255 }
+			
+			capital = 405 # Clopamas
+			
+		c_clopamas = {
+			color={ 78 104 107 }
+			color2={ 255 255 255 }
+		
+			b_clopamas = {
+}
+	}
+			c_barney = {
+			color={ 66 111 109 }
+			color2={ 255 255 255 }
+		
+			b_barney = {
+}
+	}
+			c_coltnomah = {
+			color={ 78 145 151 }
+			color2={ 255 255 255 }
+		
+			b_coltnomah = {
+}
+	}
+	}
+		d_goldleaf = {
+			color={ 17 82 110 }
+			color2={ 255 255 255 }
+			
+			capital = 408 # Morrow
+			
+		c_morrow = {
+			color={ 17 82 110 }
+			color2={ 255 255 255 }
+		
+			b_morrow = {
+}
+	}
+			c_deerhutes = {
+			color={ 44 83 81 }
+			color2={ 255 255 255 }
+		
+			b_deerhutes = {
+}
+	}
+			c_klamount = {
+			color={ 25 103 101 }
+			color2={ 255 255 255 }
+		
+			b_klamount = {
+}
+	}
+			c_cervidam = {
+			color={ 85 166 164 }
+			color2={ 255 255 255 }
+		
+			b_cervidam = {
+}
+	}
+	}
+		d_high_green = {
+			color={ 25 124 122 }
+			color2={ 255 255 255 }
+			
+			capital = 412 # Clatclop
+			
+		c_clatclop = {
+			color={ 25 124 122 }
+			color2={ 255 255 255 }
+		
+			b_clatclop = {
+}
+	}
+			c_hight_tree = {
+			color={ 58 142 141 }
+			color2={ 255 255 255 }
+		
+			b_hight_tree = {
+}
+	}
+			c_greenrock = {
+			color={ 15 145 157 }
+			color2={ 255 255 255 }
+		
+			b_greenrock = {
+}
+	}
+	}
+	}
+	
+k_doegon = {
+	color={ 39 192 190 }
+	color2={ 255 255 255 }
+	
+	capital = 415 # Seaddle
+	
+	culture = hindi_culture
+	
+	
+	
+	d_seaddle = {
+			color={ 39 192 190 }
+			color2={ 255 255 255 }
+			
+			capital = 415 # Seaddle
+			
+		c_seaddle = {
+			color={ 39 192 190 }
+			color2={ 255 255 255 }
+		
+			b_saddlestown = {
+}
+				b_seaddle = {
+}
+				b_seawood = {
+}
+				b_stagvew = {
+}
+				b_redmond = {
+}
+				b_woodgrove = {
+}
+				b_marecer = {
+}
+	}
+			c_adeer = {
+			color={ 119 206 205 }
+			color2={ 255 255 255 }
+		
+			b_adeer = {
+}
+	}
+			c_clopam = {
+			color={ 108 145 161 }
+			color2={ 255 255 255 }
+		
+			b_clopam = {
+}
+	}
+	}
+		d_tall_tale = {
+			color={ 115 141 151 }
+			color2={ 255 255 255 }
+			
+			capital = 418 # Tall Tale
+			
+		c_tall_tale = {
+			color={ 115 141 151 }
+			color2={ 255 255 255 }
+		
+			b_tall_tale = {
+}
+	}
+			c_red_wood = {
+			color={ 121 171 180 }
+			color2={ 255 255 255 }
+		
+			b_red_wood = {
+}
+	}
+			c_white_wood = {
+			color={ 75 133 144 }
+			color2={ 255 255 255 }
+		
+			b_white_wood = {
+}
+	}
+			c_small_tale = {
+			color={ 111 160 169 }
+			color2={ 255 255 255 }
+		
+			b_small_tale = {
+}
+	}
+			c_tallgrass = {
+			color={ 138 165 176 }
+			color2={ 255 255 255 }
+		
+			b_tallgrass = {
+}
+	}
+	}
+		d_chillibuck = {
+			color={ 49 230 228 }
+			color2={ 255 255 255 }
+			
+			capital = 423 # Whiterush
+			
+		c_whiterush = {
+			color={ 49 230 228 }
+			color2={ 255 255 255 }
+		
+			b_whiterush = {
+}
+	}
+			c_oatfield = {
+			color={ 136 183 183 }
+			color2={ 255 255 255 }
+		
+			b_oatfield = {
+}
+	}
+			c_elkton = {
+			color={ 70 140 169 }
+			color2={ 255 255 255 }
+		
+			b_elkton = {
+}
+	}
+			c_chillibuck = {
+			color={ 12 131 156 }
+			color2={ 255 255 255 }
+		
+			b_chillibuck = {
+}
+	}
+	}
+		d_smokey_mountain = {
+			color={ 71 125 123 }
+			color2={ 255 255 255 }
+			
+			capital = 427 # Elkerson
+			
+		c_elkerson = {
+			color={ 71 125 123 }
+			color2={ 255 255 255 }
+		
+			b_elkerson = {
+}
+	}
+			c_doeside = {
+			color={ 93 158 157 }
+			color2={ 255 255 255 }
+		
+			b_doeside = {
+}
+	}
+			c_smokey_mountain = {
+			color={ 49 152 150 }
+			color2={ 255 255 255 }
+		
+			b_smokey_mountain = {
+}
+	}
+	}
+		d_lower_doegon = {
+			color={ 41 155 179 }
+			color2={ 255 255 255 }
+			
+			capital = 430 # Stag
+			
+		c_stag = {
+			color={ 41 155 179 }
+			color2={ 255 255 255 }
+		
+			b_stag = {
+}
+	}
+			c_furry = {
+			color={ 35 159 158 }
+			color2={ 255 255 255 }
+		
+			b_furry = {
+}
+	}
+			c_skag_it = {
+			color={ 142 166 168 }
+			color2={ 255 255 255 }
+		
+			b_skag_it = {
+}
+	}
+			c_buckonagen = {
+			color={ 97 129 132 }
+			color2={ 255 255 255 }
+		
+			b_buckonagen = {
+}
+	}
+	}
+	}
+	
+k_coltumbia = {
+	color={ 34 151 184 }
+	color2={ 255 255 255 }
+	
+	capital = 434 # Vanhoover
+	
+	culture = hindi_culture
+	
+	
+	
+	d_vanhoover = {
+			color={ 34 151 184 }
+			color2={ 255 255 255 }
+			
+			capital = 434 # Vanhoover
+			
+		c_vanhoover = {
+			color={ 34 151 184 }
+			color2={ 255 255 255 }
+		
+			b_vanhoover = {
+}
+				b_antlerkeep = {
+}
+				b_vanwood = {
+}
+				b_buckmond = {
+}
+				b_staggey = {
+}
+				b_fawnaby = {
+}
+				b_coltuitlam = {
+}
+	}
+			c_antlerford = {
+			color={ 80 119 130 }
+			color2={ 255 255 255 }
+		
+			b_antlerford = {
+}
+	}
+			c_upper_vanhoover = {
+			color={ 58 129 149 }
+			color2={ 255 255 255 }
+		
+			b_upper_vanhoover = {
+}
+	}
+	}
+		d_antlerine = {
+			color={ 59 107 122 }
+			color2={ 255 255 255 }
+			
+			capital = 437 # Maines
+			
+		c_maines = {
+			color={ 59 107 122 }
+			color2={ 255 255 255 }
+		
+			b_maines = {
+}
+	}
+			c_stagway = {
+			color={ 90 122 130 }
+			color2={ 255 255 255 }
+		
+			b_stagway = {
+}
+	}
+	}
+		d_crystal_pass = {
+			color={ 26 93 114 }
+			color2={ 255 255 255 }
+			
+			capital = 439 # Caribou
+			
+		c_caribou = {
+			color={ 26 93 114 }
+			color2={ 255 255 255 }
+		
+			b_caribou = {
+}
+	}
+			c_elktians = {
+			color={ 73 139 153 }
+			color2={ 255 255 255 }
+		
+			b_elktians = {
+}
+	}
+	}
+		d_caraboo = {
+			color={ 82 140 144 }
+			color2={ 255 255 255 }
+			
+			capital = 441 # Deerneu
+			
+		c_deerneu = {
+			color={ 82 140 144 }
+			color2={ 255 255 255 }
+		
+			b_deerneu = {
+}
+	}
+			c_buckuta = {
+			color={ 41 138 144 }
+			color2={ 255 255 255 }
+		
+			b_buckuta = {
+}
+	}
+			c_elkutat = {
+			color={ 79 113 110 }
+			color2={ 255 255 255 }
+		
+			b_elkutat = {
+}
+	}
+			c_hooftaney = {
+			color={ 47 136 142 }
+			color2={ 255 255 255 }
+		
+			b_hooftaney = {
+}
+	}
+	}
+		d_doepine = {
+			color={ 18 126 119 }
+			color2={ 255 255 255 }
+			
+			capital = 445 # Westmarester
+			
+		c_westmarester = {
+			color={ 18 126 119 }
+			color2={ 255 255 255 }
+		
+			b_westmarester = {
+}
+	}
+			c_maremford = {
+			color={ 66 124 119 }
+			color2={ 255 255 255 }
+		
+			b_maremford = {
+}
+	}
+	}
+		d_vanhoover_islands = {
+			color={ 138 156 166 }
+			color2={ 255 255 255 }
+			
+			capital = 447 # Vanhoover Island
+			
+		c_vanhoover_island = {
+			color={ 138 156 166 }
+			color2={ 255 255 255 }
+		
+			b_vanhoover_island = {
+}
+	}
+			c_senbuck_island = {
+			color={ 138 162 166 }
+			color2={ 255 255 255 }
+		
+			b_senbuck_island = {
+}
+	}
+	}
+	}
+	}
+	
+e_crystal_empire = {
+	color={ 211 139 187 }
+	color2={ 255 255 20 }
+	
+	capital = 449 # Crystal City	
+	short_name = yes
+	
+	culture = crystal_culture
+	
+
+k_crystal_kingdom = {
+	color={ 211 139 187 }
+	color2={ 255 255 255 }
+	
+	capital = 449 # Crystal City
+	
+	culture = crystal_culture
+	
+	
+	
+	d_crystal_heartland = {
+			color={ 211 139 187 }
+			color2={ 255 255 255 }
+			
+			capital = 449 # Crystal City
+			
+		c_crystal_city = {
+			color={ 211 139 187 }
+			color2={ 255 255 255 }
+		
+			b_crystal_palace = {
+}
+				b_crystal_city = {
+}
+				b_highgem = {
+}
+				b_diamondside = {
+}
+				b_imperial_quarters = {
+}
+				b_merchant_alley = {
+}
+				b_lapuz_way = {
+}
+	}
+			c_crystal_vale = {
+			color={ 174 63 115 }
+			color2={ 255 255 255 }
+		
+			b_crystal_vale = {
+}
+	}
+			c_crystal_hills = {
+			color={ 220 24 116 }
+			color2={ 255 255 255 }
+		
+			b_crystal_hills = {
+}
+	}
+	}
+		d_east_ridge = {
+			color={ 191 60 131 }
+			color2={ 255 255 255 }
+			
+			capital = 452 # East Ridge
+			
+		c_east_ridge = {
+			color={ 191 60 131 }
+			color2={ 255 255 255 }
+		
+			b_east_ridge = {
+}
+	}
+			c_saphire_pass = {
+			color={ 143 79 114 }
+			color2={ 255 255 255 }
+		
+			b_saphire_pass = {
+}
+	}
+	}
+		d_neighagra_falls = {
+			color={ 148 71 107 }
+			color2={ 255 255 255 }
+			
+			capital = 454 # Kunzite
+			
+		c_kunzite = {
+			color={ 148 71 107 }
+			color2={ 255 255 255 }
+		
+			b_kunzite = {
+}
+	}
+			c_opalshire = {
+			color={ 166 98 130 }
+			color2={ 255 255 255 }
+		
+			b_opalshire = {
+}
+	}
+			c_neighagra_falls = {
+			color={ 178 121 159 }
+			color2={ 255 255 255 }
+		
+			b_neighagra_falls = {
+}
+	}
+	}
+		d_platinum_fiealds = {
+			color={ 174 63 125 }
+			color2={ 255 255 255 }
+			
+			capital = 457 # Platinum Fields
+			
+		c_platinum_fields = {
+			color={ 174 63 125 }
+			color2={ 255 255 255 }
+		
+			b_platinum_fields = {
+}
+	}
+			c_upper_platinum = {
+			color={ 169 52 107 }
+			color2={ 255 255 255 }
+		
+			b_upper_platinum = {
+}
+	}
+	}
+		d_diamond_plains = {
+			color={ 136 21 75 }
+			color2={ 255 255 255 }
+			
+			capital = 459 # CyKd8
+			
+		c_cykd8 = {
+			color={ 136 21 75 }
+			color2={ 255 255 255 }
+		
+			b_cykd8 = {
+}
+	}
+			c_orecum = {
+			color={ 162 11 82 }
+			color2={ 255 255 255 }
+		
+			b_orecum = {
+}
+	}
+	}
+		d_diamond_hills = {
+			color={ 74 37 54 }
+			color2={ 255 255 255 }
+			
+			capital = 461 # CyKd10
+			
+		c_cykd10 = {
+			color={ 74 37 54 }
+			color2={ 255 255 255 }
+		
+			b_cykd10 = {
+}
+	}
+			c_flawlessa = {
+			color={ 95 21 56 }
+			color2={ 255 255 255 }
+		
+			b_flawlessa = {
+}
+	}
+			c_cykd12 = {
+			color={ 151 79 113 }
+			color2={ 255 255 255 }
+		
+			b_cykd12 = {
+}
+	}
+	}
+		d_ice_pass = {
+			color={ 102 47 72 }
+			color2={ 255 255 255 }
+			
+			capital = 464 # Bergundy
+			
+		c_bergundy = {
+			color={ 102 47 72 }
+			color2={ 255 255 255 }
+		
+			b_bergundy = {
+}
+	}
+			c_creamsicle = {
+			color={ 100 14 54 }
+			color2={ 255 255 255 }
+		
+			b_creamsicle = {
+}
+	}
+			c_coatshire = {
+			color={ 106 24 62 }
+			color2={ 255 255 255 }
+		
+			b_coatshire = {
+}
+	}
+	}
+	}
+	
+k_diamond_hills = {
+	color={ 59 95 131 }
+	color2={ 255 255 255 }
+	
+	capital = 467 # DH1
+	
+	culture = crystal_culture
+	
+	
+	
+	d_shinging_edge = {
+			color={ 59 95 131 }
+			color2={ 255 255 255 }
+			
+			capital = 467 # DH1
+			
+		c_dh1 = {
+			color={ 59 95 131 }
+			color2={ 255 255 255 }
+		
+			b_dh1 = {
+}
+	}
+			c_dh2 = {
+			color={ 47 78 109 }
+			color2={ 255 255 255 }
+		
+			b_dh2 = {
+}
+	}
+			c_white_light = {
+			color={ 48 88 129 }
+			color2={ 255 255 255 }
+		
+			b_white_light = {
+}
+	}
+			c_dh4 = {
+			color={ 29 69 110 }
+			color2={ 255 255 255 }
+		
+			b_dh4 = {
+}
+	}
+	}
+		d_crystaligh = {
+			color={ 53 103 153 }
+			color2={ 255 255 255 }
+			
+			capital = 471 # DH5
+			
+		c_dh5 = {
+			color={ 53 103 153 }
+			color2={ 255 255 255 }
+		
+			b_dh5 = {
+}
+	}
+			c_dh6 = {
+			color={ 72 98 126 }
+			color2={ 255 255 255 }
+		
+			b_dh6 = {
+}
+	}
+			c_dh7 = {
+			color={ 102 130 158 }
+			color2={ 255 255 255 }
+		
+			b_dh7 = {
+}
+	}
+	}
+		d_benitoite = {
+			color={ 77 108 138 }
+			color2={ 255 255 255 }
+			
+			capital = 474 # DH8
+			
+		c_dh8 = {
+			color={ 77 108 138 }
+			color2={ 255 255 255 }
+		
+			b_dh8 = {
+}
+	}
+			c_dh9 = {
+			color={ 47 85 123 }
+			color2={ 255 255 255 }
+		
+			b_dh9 = {
+}
+	}
+			c_preussen = {
+			color={ 98 143 189 }
+			color2={ 255 255 255 }
+		
+			b_preussen = {
+}
+	}
+	}
+		d_coltbergite = {
+			color={ 115 153 191 }
+			color2={ 255 255 255 }
+			
+			capital = 477 # DH11
+			
+		c_dh11 = {
+			color={ 115 153 191 }
+			color2={ 255 255 255 }
+		
+			b_dh11 = {
+}
+	}
+			c_dh12 = {
+			color={ 115 145 175 }
+			color2={ 255 255 255 }
+		
+			b_dh12 = {
+}
+	}
+			c_dh13 = {
+			color={ 54 102 149 }
+			color2={ 255 255 255 }
+		
+			b_dh13 = {
+}
+	}
+			c_dh14 = {
+			color={ 79 100 122 }
+			color2={ 255 255 255 }
+		
+			b_dh14 = {
+}
+	}
+	}
+		d_jasper_hills = {
+			color={ 75 81 113 }
+			color2={ 255 255 255 }
+			
+			capital = 481 # DH15
+			
+		c_dh15 = {
+			color={ 75 81 113 }
+			color2={ 255 255 255 }
+		
+			b_dh15 = {
+}
+	}
+			c_dh16 = {
+			color={ 95 101 141 }
+			color2={ 255 255 255 }
+		
+			b_dh16 = {
+}
+	}
+	}
+		d_iolite = {
+			color={ 96 118 140 }
+			color2={ 255 255 255 }
+			
+			capital = 483 # DH17
+			
+		c_dh17 = {
+			color={ 96 118 140 }
+			color2={ 255 255 255 }
+		
+			b_dh17 = {
+}
+	}
+			c_dh18 = {
+			color={ 87 123 141 }
+			color2={ 255 255 255 }
+		
+			b_dh18 = {
+}
+	}
+			c_dh19 = {
+			color={ 84 125 167 }
+			color2={ 255 255 255 }
+		
+			b_dh19 = {
+}
+	}
+			c_dh20 = {
+			color={ 76 102 117 }
+			color2={ 255 255 255 }
+		
+			b_dh20 = {
+}
+	}
+			c_dh21 = {
+			color={ 82 142 203 }
+			color2={ 255 255 255 }
+		
+			b_dh21 = {
+}
+	}
+	}
+		d_eastgold = {
+			color={ 102 138 157 }
+			color2={ 255 255 255 }
+			
+			capital = 488 # DH22
+			
+		c_dh22 = {
+			color={ 102 138 157 }
+			color2={ 255 255 255 }
+		
+			b_dh22 = {
+}
+	}
+			c_dh23 = {
+			color={ 123 156 173 }
+			color2={ 255 255 255 }
+		
+			b_dh23 = {
+}
+	}
+			c_dh24 = {
+			color={ 126 148 159 }
+			color2={ 255 255 255 }
+		
+			b_dh24 = {
+}
+	}
+			c_dh25 = {
+			color={ 129 141 147 }
+			color2={ 255 255 255 }
+		
+			b_dh25 = {
+}
+	}
+	}
+	}
+	
+k_northlands = {
+	color={ 177 220 222 }
+	color2={ 255 255 255 }
+	
+	capital = 492 # Crystal Gap
+	
+	culture = crystal_culture
+	
+	
+	
+	d_crystal_gap = {
+			color={ 177 220 222 }
+			color2={ 255 255 255 }
+			
+			capital = 492 # Crystal Gap
+			
+		c_crystal_gap = {
+			color={ 177 220 222 }
+			color2={ 255 255 255 }
+		
+			b_crystal_gap = {
+}
+	}
+			c_east_pass = {
+			color={ 96 152 155 }
+			color2={ 255 255 255 }
+		
+			b_east_pass = {
+}
+	}
+			c_west_pass = {
+			color={ 130 171 173 }
+			color2={ 255 255 255 }
+		
+			b_west_pass = {
+}
+	}
+	}
+		d_diamond_river = {
+			color={ 70 129 132 }
+			color2={ 255 255 255 }
+			
+			capital = 495 # North1
+			
+		c_north1 = {
+			color={ 70 129 132 }
+			color2={ 255 255 255 }
+		
+			b_north1 = {
+}
+	}
+			c_north2 = {
+			color={ 92 163 166 }
+			color2={ 255 255 255 }
+		
+			b_north2 = {
+}
+	}
+			c_north3 = {
+			color={ 107 189 193 }
+			color2={ 255 255 255 }
+		
+			b_north3 = {
+}
+	}
+			c_amethysia = {
+			color={ 63 156 161 }
+			color2={ 255 255 255 }
+		
+			b_amethysia = {
+}
+	}
+	}
+		d_iceheart_mountin = {
+			color={ 26 118 124 }
+			color2={ 255 255 255 }
+			
+			capital = 499 # North5
+			
+		c_north5 = {
+			color={ 26 118 124 }
+			color2={ 255 255 255 }
+		
+			b_north5 = {
+}
+	}
+			c_north6 = {
+			color={ 56 102 105 }
+			color2={ 255 255 255 }
+		
+			b_north6 = {
+}
+	}
+			c_mane_mine = {
+			color={ 37 114 119 }
+			color2={ 255 255 255 }
+		
+			b_mane_mine = {
+}
+	}
+			c_north8 = {
+			color={ 71 129 132 }
+			color2={ 255 255 255 }
+		
+			b_north8 = {
+}
+	}
+			c_north9 = {
+			color={ 84 133 135 }
+			color2={ 255 255 255 }
+		
+			b_north9 = {
+}
+	}
+			c_north10 = {
+			color={ 48 120 125 }
+			color2={ 255 255 255 }
+		
+			b_north10 = {
+}
+	}
+			c_diamond_island = {
+			color={ 18 85 89 }
+			color2={ 255 255 255 }
+		
+			b_diamond_island = {
+}
+	}
+	}
+		d_diamondland = {
+			color={ 35 146 174 }
+			color2={ 255 255 255 }
+			
+			capital = 506 # Norht11
+			
+		c_norht11 = {
+			color={ 35 146 174 }
+			color2={ 255 255 255 }
+		
+			b_norht11 = {
+}
+	}
+			c_north12 = {
+			color={ 66 128 144 }
+			color2={ 255 255 255 }
+		
+			b_north12 = {
+}
+	}
+			c_norht12 = {
+			color={ 46 104 120 }
+			color2={ 255 255 255 }
+		
+			b_norht12 = {
+}
+	}
+			c_north13 = {
+			color={ 26 98 103 }
+			color2={ 255 255 255 }
+		
+			b_north13 = {
+}
+	}
+	}
+		d_crystalsnow = {
+			color={ 56 105 109 }
+			color2={ 255 255 255 }
+			
+			capital = 510 # Norht13
+			
+		c_norht13 = {
+			color={ 56 105 109 }
+			color2={ 255 255 255 }
+		
+			b_norht13 = {
+}
+	}
+			c_north14 = {
+			color={ 76 147 151 }
+			color2={ 255 255 255 }
+		
+			b_north14 = {
+}
+	}
+			c_norht14 = {
+			color={ 51 137 142 }
+			color2={ 255 255 255 }
+		
+			b_norht14 = {
+}
+	}
+			c_north15 = {
+			color={ 79 155 159 }
+			color2={ 255 255 255 }
+		
+			b_north15 = {
+}
+	}
+			c_norht15 = {
+			color={ 24 105 110 }
+			color2={ 255 255 255 }
+		
+			b_norht15 = {
+}
+	}
+	}
+		d_gliming_forest = {
+			color={ 10 59 92 }
+			color2={ 255 255 255 }
+			
+			capital = 515 # North16
+			
+		c_north16 = {
+			color={ 10 59 92 }
+			color2={ 255 255 255 }
+		
+			b_north16 = {
+}
+	}
+			c_norht16 = {
+			color={ 46 73 91 }
+			color2={ 255 255 255 }
+		
+			b_norht16 = {
+}
+	}
+			c_north17 = {
+			color={ 31 112 135 }
+			color2={ 255 255 255 }
+		
+			b_north17 = {
+}
+	}
+			c_norht17 = {
+			color={ 35 76 71 }
+			color2={ 255 255 255 }
+		
+			b_norht17 = {
+}
+	}
+	}
+		d_emerald_lake = {
+			color={ 44 105 124 }
+			color2={ 255 255 255 }
+			
+			capital = 519 # North18
+			
+		c_north18 = {
+			color={ 44 105 124 }
+			color2={ 255 255 255 }
+		
+			b_north18 = {
+}
+	}
+			c_norht18 = {
+			color={ 61 135 130 }
+			color2={ 255 255 255 }
+		
+			b_norht18 = {
+}
+	}
+			c_north19 = {
+			color={ 76 121 117 }
+			color2={ 255 255 255 }
+		
+			b_north19 = {
+}
+	}
+			c_norht19 = {
+			color={ 91 140 137 }
+			color2={ 255 255 255 }
+		
+			b_norht19 = {
+}
+	}
+	}
+		d_lapus = {
+			color={ 28 64 60 }
+			color2={ 255 255 255 }
+			
+			capital = 523 # North20
+			
+		c_north20 = {
+			color={ 28 64 60 }
+			color2={ 255 255 255 }
+		
+			b_north20 = {
+}
+	}
+			c_norht20 = {
+			color={ 29 94 96 }
+			color2={ 255 255 255 }
+		
+			b_norht20 = {
+}
+	}
+			c_north21 = {
+			color={ 33 54 59 }
+			color2={ 255 255 255 }
+		
+			b_north21 = {
+}
+	}
+			c_norht21 = {
+			color={ 44 90 100 }
+			color2={ 255 255 255 }
+		
+			b_norht21 = {
+}
+	}
+			c_north22 = {
+			color={ 52 81 88 }
+			color2={ 255 255 255 }
+		
+			b_north22 = {
+}
+	}
+			c_norht22 = {
+			color={ 58 149 171 }
+			color2={ 255 255 255 }
+		
+			b_norht22 = {
+}
+	}
+	}
+		d_frozenlands = {
+			color={ 53 130 145 }
+			color2={ 255 255 255 }
+			
+			capital = 529 # North23
+			
+		c_north23 = {
+			color={ 53 130 145 }
+			color2={ 255 255 255 }
+		
+			b_north23 = {
+}
+	}
+			c_norht23 = {
+			color={ 24 121 140 }
+			color2={ 255 255 255 }
+		
+			b_norht23 = {
+}
+	}
+			c_north24 = {
+			color={ 27 129 163 }
+			color2={ 255 255 255 }
+		
+			b_north24 = {
+}
+	}
+	}
+	}
+	}
+	
+e_changeling = {
+	color={ 109 203 78 }
+	color2={ 255 255 20 }
+	
+	capital = 532 # CH1	
+	short_name = yes
+	
+	culture = changeling_culture
+	
+
+k_changeling = {
+	color={ 109 203 78 }
+	color2={ 255 255 255 }
+	
+	capital = 532 # CH1
+	
+	culture = changeling_culture
+	
+	
+	
+	d_south = {
+			color={ 109 203 78 }
+			color2={ 255 255 255 }
+			
+			capital = 532 # CH1
+			
+		c_ch1 = {
+			color={ 109 203 78 }
+			color2={ 255 255 255 }
+		
+			b_ch1 = {
+}
+	}
+			c_ch2 = {
+			color={ 114 173 95 }
+			color2={ 255 255 255 }
+		
+			b_ch2 = {
+}
+	}
+			c_ch3 = {
+			color={ 84 181 53 }
+			color2={ 255 255 255 }
+		
+			b_ch3 = {
+}
+	}
+			c_ch4 = {
+			color={ 89 152 68 }
+			color2={ 255 255 255 }
+		
+			b_ch4 = {
+}
+	}
+	}
+		d_riverside = {
+			color={ 93 135 79 }
+			color2={ 255 255 255 }
+			
+			capital = 536 # CH5
+			
+		c_ch5 = {
+			color={ 93 135 79 }
+			color2={ 255 255 255 }
+		
+			b_ch5 = {
+}
+	}
+			c_ch6 = {
+			color={ 124 178 105 }
+			color2={ 255 255 255 }
+		
+			b_ch6 = {
+}
+	}
+			c_ch7 = {
+			color={ 94 146 77 }
+			color2={ 255 255 255 }
+		
+			b_ch7 = {
+}
+	}
+	}
+		d_southeast_bank = {
+			color={ 78 144 75 }
+			color2={ 255 255 255 }
+			
+			capital = 539 # CH8
+			
+		c_ch8 = {
+			color={ 78 144 75 }
+			color2={ 255 255 255 }
+		
+			b_ch8 = {
+}
+	}
+			c_ch9 = {
+			color={ 66 161 61 }
+			color2={ 255 255 255 }
+		
+			b_ch9 = {
+}
+	}
+			c_ch10 = {
+			color={ 84 154 80 }
+			color2={ 255 255 255 }
+		
+			b_ch10 = {
+}
+	}
+			c_ch11 = {
+			color={ 62 127 59 }
+			color2={ 255 255 255 }
+		
+			b_ch11 = {
+}
+	}
+	}
+		d_greenbank = {
+			color={ 37 109 18 }
+			color2={ 255 255 255 }
+			
+			capital = 543 # CH12
+			
+		c_ch12 = {
+			color={ 37 109 18 }
+			color2={ 255 255 255 }
+		
+			b_ch12 = {
+}
+	}
+			c_ch13 = {
+			color={ 81 151 83 }
+			color2={ 255 255 255 }
+		
+			b_ch13 = {
+}
+	}
+			c_ch14 = {
+			color={ 54 103 40 }
+			color2={ 255 255 255 }
+		
+			b_ch14 = {
+}
+	}
+			c_ch15 = {
+			color={ 57 123 39 }
+			color2={ 255 255 255 }
+		
+			b_ch15 = {
+}
+	}
+			c_ch16 = {
+			color={ 64 106 53 }
+			color2={ 255 255 255 }
+		
+			b_ch16 = {
+}
+	}
+	}
+		d_south_tip = {
+			color={ 100 153 106 }
+			color2={ 255 255 255 }
+			
+			capital = 548 # CH17
+			
+		c_ch17 = {
+			color={ 100 153 106 }
+			color2={ 255 255 255 }
+		
+			b_ch17 = {
+}
+	}
+			c_ch18 = {
+			color={ 37 142 50 }
+			color2={ 255 255 255 }
+		
+			b_ch18 = {
+}
+	}
+			c_ch19 = {
+			color={ 39 123 49 }
+			color2={ 255 255 255 }
+		
+			b_ch19 = {
+}
+	}
+			c_the_island = {
+			color={ 82 122 80 }
+			color2={ 255 255 255 }
+		
+			b_the_island = {
+}
+	}
+	}
+		d_east_side = {
+			color={ 67 140 76 }
+			color2={ 255 255 255 }
+			
+			capital = 552 # CH21
+			
+		c_ch21 = {
+			color={ 67 140 76 }
+			color2={ 255 255 255 }
+		
+			b_ch21 = {
+}
+	}
+			c_ch22 = {
+			color={ 75 190 20 }
+			color2={ 255 255 255 }
+		
+			b_ch22 = {
+}
+	}
+			c_ch23 = {
+			color={ 40 153 42 }
+			color2={ 255 255 255 }
+		
+			b_ch23 = {
+}
+	}
+	}
+		d_north_island = {
+			color={ 62 154 64 }
+			color2={ 255 255 255 }
+			
+			capital = 555 # CH24
+			
+		c_ch24 = {
+			color={ 62 154 64 }
+			color2={ 255 255 255 }
+		
+			b_ch24 = {
+}
+	}
+			c_ch25 = {
+			color={ 28 149 31 }
+			color2={ 255 255 255 }
+		
+			b_ch25 = {
+}
+	}
+			c_ch26 = {
+			color={ 29 154 8 }
+			color2={ 255 255 255 }
+		
+			b_ch26 = {
+}
+	}
+			c_ch27 = {
+			color={ 90 157 79 }
+			color2={ 255 255 255 }
+		
+			b_ch27 = {
+}
+	}
+	}
+		d_westlands = {
+			color={ 71 184 52 }
+			color2={ 255 255 255 }
+			
+			capital = 559 # CH28
+			
+		c_ch28 = {
+			color={ 71 184 52 }
+			color2={ 255 255 255 }
+		
+			b_ch28 = {
+}
+	}
+			c_ch29 = {
+			color={ 53 158 35 }
+			color2={ 255 255 255 }
+		
+			b_ch29 = {
+}
+	}
+			c_ch30 = {
+			color={ 21 142 1 }
+			color2={ 255 255 255 }
+		
+			b_ch30 = {
+}
+	}
+			c_ch31 = {
+			color={ 49 163 30 }
+			color2={ 255 255 255 }
+		
+			b_ch31 = {
+}
+	}
+	}
+	}
+	}
+	
+e_griffin_empire = {
+	color={ 195 173 192 }
+	color2={ 255 255 20 }
+	
+	capital = 655 # Skyaluzzo	
+	short_name = yes
+	
+	culture = south_griffin
+	
+
+k_wingbardy = {
+	color={ 195 173 192 }
+	color2={ 255 255 255 }
+	
+	capital = 655 # Skyaluzzo
+	
+	culture = south_griffin
+	
+	
+	
+	d_lowwing_gap = {
+			color={ 195 173 192 }
+			color2={ 255 255 255 }
+			
+			capital = 655 # Skyaluzzo
+			
+		c_skyaluzzo = {
+			color={ 195 173 192 }
+			color2={ 255 255 255 }
+		
+			b_skyaluzzo = {
+}
+	}
+			c_talononte = {
+			color={ 181 178 181 }
+			color2={ 255 255 255 }
+		
+			b_talononte = {
+}
+	}
+			c_mongerrnest = {
+			color={ 175 167 174 }
+			color2={ 255 255 255 }
+		
+			b_mongerrnest = {
+}
+	}
+	}
+		d_saddling_mountains = {
+			color={ 168 192 161 }
+			color2={ 255 255 255 }
+			
+			capital = 658 # Aquileia
+			
+		c_aquileia = {
+			color={ 168 192 161 }
+			color2={ 255 255 255 }
+		
+			b_aquileia = {
+}
+	}
+			c_kravin = {
+			color={ 197 211 193 }
+			color2={ 255 255 255 }
+		
+			b_kravin = {
+}
+	}
+			c_cubtria = {
+			color={ 171 191 165 }
+			color2={ 255 255 255 }
+		
+			b_cubtria = {
+}
+	}
+	}
+		d_talony = {
+			color={ 133 150 97 }
+			color2={ 255 255 255 }
+			
+			capital = 661 # Feathernze
+			
+		c_feathernze = {
+			color={ 133 150 97 }
+			color2={ 255 255 255 }
+		
+			b_feathernze = {
+}
+	}
+			c_lucihoot = {
+			color={ 164 183 121 }
+			color2={ 255 255 255 }
+		
+			b_lucihoot = {
+}
+	}
+			c_folwena = {
+			color={ 129 149 87 }
+			color2={ 255 255 255 }
+		
+			b_folwena = {
+}
+	}
+	}
+		d_pridea = {
+			color={ 131 153 139 }
+			color2={ 255 255 255 }
+			
+			capital = 664 # Pridea
+			
+		c_pridea = {
+			color={ 131 153 139 }
+			color2={ 255 255 255 }
+		
+			b_pridea = {
+}
+	}
+			c_panthmbino = {
+			color={ 156 174 162 }
+			color2={ 255 255 255 }
+		
+			b_panthmbino = {
+}
+	}
+	}
+		d_wingdena = {
+			color={ 157 184 166 }
+			color2={ 255 255 255 }
+			
+			capital = 666 # Wbd1
+			
+		c_wbd1 = {
+			color={ 157 184 166 }
+			color2={ 255 255 255 }
+		
+			b_wbd1 = {
+}
+	}
+			c_wbd2 = {
+			color={ 157 170 135 }
+			color2={ 255 255 255 }
+		
+			b_wbd2 = {
+}
+	}
+	}
+		d_soarleto = {
+			color={ 133 147 108 }
+			color2={ 255 255 255 }
+			
+			capital = 668 # Wbd3
+			
+		c_wbd3 = {
+			color={ 133 147 108 }
+			color2={ 255 255 255 }
+		
+			b_wbd3 = {
+}
+	}
+			c_wbd4 = {
+			color={ 172 195 132 }
+			color2={ 255 255 255 }
+		
+			b_wbd4 = {
+}
+	}
+	}
+		d_wingbardy = {
+			color={ 187 190 139 }
+			color2={ 255 255 255 }
+			
+			capital = 670 # Wingbardy
+			
+		c_wingbardy = {
+			color={ 187 190 139 }
+			color2={ 255 255 255 }
+		
+			b_maneano = {
+}
+				b_corveno = {
+}
+				b_imanza = {
+}
+				b_leondi = {
+}
+				b_cubavenna = {
+}
+				b_wingatenta = {
+}
+	}
+			c_beakia = {
+			color={ 167 169 124 }
+			color2={ 255 255 255 }
+		
+			b_beakia = {
+}
+	}
+			c_talont = {
+			color={ 146 148 115 }
+			color2={ 255 255 255 }
+		
+			b_talont = {
+}
+	}
+	}
+		d_corvemona = {
+			color={ 150 170 95 }
+			color2={ 255 255 255 }
+			
+			capital = 673 # Corvemona
+			
+		c_corvemona = {
+			color={ 150 170 95 }
+			color2={ 255 255 255 }
+		
+			b_corvemona = {
+}
+	}
+			c_greenback_island = {
+			color={ 127 129 87 }
+			color2={ 255 255 255 }
+		
+			b_greenback_island = {
+}
+	}
+	}
+		d_lartalonium = {
+			color={ 208 165 204 }
+			color2={ 255 255 255 }
+			
+			capital = 675 # Romua
+			
+		c_romua = {
+			color={ 208 165 204 }
+			color2={ 255 255 255 }
+		
+			b_romua = {
+}
+	}
+			c_orvalillo = {
+			color={ 188 165 186 }
+			color2={ 255 255 255 }
+		
+			b_orvalillo = {
+}
+	}
+			c_orbeakello = {
+			color={ 162 155 146 }
+			color2={ 255 255 255 }
+		
+			b_orbeakello = {
+}
+	}
+	}
+		d_feathara = {
+			color={ 157 161 113 }
+			color2={ 255 255 255 }
+			
+			capital = 678 # Feathara
+			
+		c_feathara = {
+			color={ 157 161 113 }
+			color2={ 255 255 255 }
+		
+			b_feathara = {
+}
+	}
+			c_raven = {
+			color={ 144 149 89 }
+			color2={ 255 255 255 }
+		
+			b_raven = {
+}
+	}
+			c_meerogna = {
+			color={ 192 198 127 }
+			color2={ 255 255 255 }
+		
+			b_meerogna = {
+}
+	}
+	}
+		d_verenia = {
+			color={ 142 179 89 }
+			color2={ 255 255 255 }
+			
+			capital = 681 # Verenia
+			
+		c_verenia = {
+			color={ 142 179 89 }
+			color2={ 255 255 255 }
+		
+			b_verenia = {
+}
+	}
+			c_manetua = {
+			color={ 156 183 117 }
+			color2={ 255 255 255 }
+		
+			b_manetua = {
+}
+	}
+			c_peckua = {
+			color={ 162 177 141 }
+			color2={ 255 255 255 }
+		
+			b_peckua = {
+}
+	}
+	}
+		d_griffinthia = {
+			color={ 141 203 175 }
+			color2={ 255 255 255 }
+			
+			capital = 684 # Taloneia
+			
+		c_taloneia = {
+			color={ 141 203 175 }
+			color2={ 255 255 255 }
+		
+			b_taloneia = {
+}
+	}
+			c_eagleia = {
+			color={ 86 149 120 }
+			color2={ 255 255 255 }
+		
+			b_eagleia = {
+}
+	}
+			c_karthin = {
+			color={ 110 166 140 }
+			color2={ 255 255 255 }
+		
+			b_karthin = {
+}
+	}
+			c_griffinten = {
+			color={ 95 131 101 }
+			color2={ 255 255 255 }
+		
+			b_griffinten = {
+}
+	}
+	}
+	}
+	
+k_feathisia = {
+	color={ 178 138 52 }
+	color2={ 255 255 255 }
+	
+	capital = 688 # Westwingland
+	
+	culture = south_griffin
+	
+	
+	
+	d_westwingland = {
+			color={ 178 138 52 }
+			color2={ 255 255 255 }
+			
+			capital = 688 # Westwingland
+			
+		c_westwingland = {
+			color={ 178 138 52 }
+			color2={ 255 255 255 }
+		
+			b_westwingland = {
+}
+	}
+			c_griffre = {
+			color={ 160 134 78 }
+			color2={ 255 255 255 }
+		
+			b_griffre = {
+}
+	}
+	}
+		d_feathers = {
+			color={ 156 132 80 }
+			color2={ 255 255 255 }
+			
+			capital = 690 # Yerapern
+			
+		c_yerapern = {
+			color={ 156 132 80 }
+			color2={ 255 255 255 }
+		
+			b_yerapern = {
+}
+	}
+			c_burdleon = {
+			color={ 171 136 60 }
+			color2={ 255 255 255 }
+		
+			b_burdleon = {
+}
+	}
+			c_airtois = {
+			color={ 154 136 22 }
+			color2={ 255 255 255 }
+		
+			b_airtois = {
+}
+	}
+			c_gentalon = {
+			color={ 157 122 48 }
+			color2={ 255 255 255 }
+		
+			b_gentalon = {
+}
+	}
+	}
+		d_beakland = {
+			color={ 206 162 57 }
+			color2={ 255 255 255 }
+			
+			capital = 694 # Osterwingland
+			
+		c_osterwingland = {
+			color={ 206 162 57 }
+			color2={ 255 255 255 }
+		
+			b_osterwingland = {
+}
+	}
+			c_beakland = {
+			color={ 206 153 27 }
+			color2={ 255 255 255 }
+		
+			b_beakland = {
+}
+	}
+			c_squawk = {
+			color={ 206 169 79 }
+			color2={ 255 255 255 }
+		
+			b_squawk = {
+}
+	}
+	}
+		d_brantbeak = {
+			color={ 186 159 93 }
+			color2={ 255 255 255 }
+			
+			capital = 697 # Brantbeak
+			
+		c_brantbeak = {
+			color={ 186 159 93 }
+			color2={ 255 255 255 }
+		
+			b_brantbeak = {
+}
+	}
+			c_rainaut = {
+			color={ 184 162 109 }
+			color2={ 255 255 255 }
+		
+			b_rainaut = {
+}
+	}
+			c_bredaland = {
+			color={ 182 147 71 }
+			color2={ 255 255 255 }
+		
+			b_bredaland = {
+}
+	}
+	}
+		d_firebeakland = {
+			color={ 165 145 98 }
+			color2={ 255 255 255 }
+			
+			capital = 700 # Firebeakland
+			
+		c_firebeakland = {
+			color={ 165 145 98 }
+			color2={ 255 255 255 }
+		
+			b_firebeakland = {
+}
+	}
+			c_upper_firebeak = {
+			color={ 168 143 83 }
+			color2={ 255 255 255 }
+		
+			b_upper_firebeak = {
+}
+	}
+	}
+	}
+	
+k_east_griffonia = {
+	color={ 211 211 211 }
+	color2={ 255 255 255 }
+	
+	capital = 702 # EG1
+	
+	culture = low_griffin
+	
+	
+	
+	d_wingland = {
+			color={ 211 211 211 }
+			color2={ 255 255 255 }
+			
+			capital = 702 # EG1
+			
+		c_eg1 = {
+			color={ 211 211 211 }
+			color2={ 255 255 255 }
+		
+			b_eg1 = {
+}
+	}
+			c_eg2 = {
+			color={ 199 201 203 }
+			color2={ 255 255 255 }
+		
+			b_eg2 = {
+}
+	}
+			c_eg3 = {
+			color={ 181 184 187 }
+			color2={ 255 255 255 }
+		
+			b_eg3 = {
+}
+	}
+	}
+		d_the_roost = {
+			color={ 118 125 131 }
+			color2={ 255 255 255 }
+			
+			capital = 705 # EG4
+			
+		c_eg4 = {
+			color={ 118 125 131 }
+			color2={ 255 255 255 }
+		
+			b_eg4 = {
+}
+	}
+			c_eg5 = {
+			color={ 120 122 124 }
+			color2={ 255 255 255 }
+		
+			b_eg5 = {
+}
+	}
+			c_eg6 = {
+			color={ 124 128 132 }
+			color2={ 255 255 255 }
+		
+			b_eg6 = {
+}
+	}
+	}
+		d_featherland = {
+			color={ 162 165 168 }
+			color2={ 255 255 255 }
+			
+			capital = 708 # EG7
+			
+		c_eg7 = {
+			color={ 162 165 168 }
+			color2={ 255 255 255 }
+		
+			b_eg7 = {
+}
+	}
+			c_eg8 = {
+			color={ 141 145 148 }
+			color2={ 255 255 255 }
+		
+			b_eg8 = {
+}
+	}
+			c_eg9 = {
+			color={ 178 189 200 }
+			color2={ 255 255 255 }
+		
+			b_eg9 = {
+}
+	}
+			c_eg10 = {
+			color={ 97 105 114 }
+			color2={ 255 255 255 }
+		
+			b_eg10 = {
+}
+	}
+			c_eg11 = {
+			color={ 108 112 116 }
+			color2={ 255 255 255 }
+		
+			b_eg11 = {
+}
+	}
+	}
+		d_owland = {
+			color={ 93 98 104 }
+			color2={ 255 255 255 }
+			
+			capital = 713 # EG12
+			
+		c_eg12 = {
+			color={ 93 98 104 }
+			color2={ 255 255 255 }
+		
+			b_eg12 = {
+}
+	}
+			c_eg13 = {
+			color={ 126 133 141 }
+			color2={ 255 255 255 }
+		
+			b_eg13 = {
+}
+	}
+			c_eg14 = {
+			color={ 108 115 123 }
+			color2={ 255 255 255 }
+		
+			b_eg14 = {
+}
+	}
+			c_eg15 = {
+			color={ 126 129 132 }
+			color2={ 255 255 255 }
+		
+			b_eg15 = {
+}
+	}
+	}
+		d_beakinge = {
+			color={ 106 112 119 }
+			color2={ 255 255 255 }
+			
+			capital = 717 # EG16
+			
+		c_eg16 = {
+			color={ 106 112 119 }
+			color2={ 255 255 255 }
+		
+			b_eg16 = {
+}
+	}
+			c_eg17 = {
+			color={ 82 94 107 }
+			color2={ 255 255 255 }
+		
+			b_eg17 = {
+}
+	}
+			c_eg18 = {
+			color={ 92 93 96 }
+			color2={ 255 255 255 }
+		
+			b_eg18 = {
+}
+	}
+			c_eg19 = {
+			color={ 88 96 105 }
+			color2={ 255 255 255 }
+		
+			b_eg19 = {
+}
+	}
+	}
+		d_kaw = {
+			color={ 168 173 178 }
+			color2={ 255 255 255 }
+			
+			capital = 721 # EG20
+			
+		c_eg20 = {
+			color={ 168 173 178 }
+			color2={ 255 255 255 }
+		
+			b_eg20 = {
+}
+	}
+			c_eg21 = {
+			color={ 126 128 131 }
+			color2={ 255 255 255 }
+		
+			b_eg21 = {
+}
+	}
+	}
+		d_frozen_claw = {
+			color={ 108 112 117 }
+			color2={ 255 255 255 }
+			
+			capital = 723 # EG22
+			
+		c_eg22 = {
+			color={ 108 112 117 }
+			color2={ 255 255 255 }
+		
+			b_eg22 = {
+}
+	}
+			c_eg23 = {
+			color={ 93 99 107 }
+			color2={ 255 255 255 }
+		
+			b_eg23 = {
+}
+	}
+	}
+		d_powys = {
+			color={ 100 108 117 }
+			color2={ 255 255 255 }
+			
+			capital = 725 # EG24
+			
+		c_eg24 = {
+			color={ 100 108 117 }
+			color2={ 255 255 255 }
+		
+			b_eg24 = {
+}
+	}
+			c_eg25 = {
+			color={ 73 83 93 }
+			color2={ 255 255 255 }
+		
+			b_eg25 = {
+}
+	}
+			c_eg26 = {
+			color={ 87 99 111 }
+			color2={ 255 255 255 }
+		
+			b_eg26 = {
+}
+	}
+			c_eg27 = {
+			color={ 132 143 153 }
+			color2={ 255 255 255 }
+		
+			b_eg27 = {
+}
+	}
+	}
+	}
+	
+k_talonringia = {
+	color={ 200 179 137 }
+	color2={ 255 255 255 }
+	
+	capital = 729 # TA1
+	
+	culture = low_griffin
+	
+	
+	
+	d_lynxwingbourg = {
+			color={ 200 179 137 }
+			color2={ 255 255 255 }
+			
+			capital = 729 # TA1
+			
+		c_ta1 = {
+			color={ 200 179 137 }
+			color2={ 255 255 255 }
+		
+			b_ta1 = {
+}
+	}
+			c_ta2 = {
+			color={ 180 154 103 }
+			color2={ 255 255 255 }
+		
+			b_ta2 = {
+}
+	}
+			c_ta3 = {
+			color={ 153 128 82 }
+			color2={ 255 255 255 }
+		
+			b_ta3 = {
+}
+	}
+			c_ta4 = {
+			color={ 159 114 27 }
+			color2={ 255 255 255 }
+		
+			b_ta4 = {
+}
+	}
+	}
+		d_upper_talonringia = {
+			color={ 129 105 58 }
+			color2={ 255 255 255 }
+			
+			capital = 733 # TA5
+			
+		c_ta5 = {
+			color={ 129 105 58 }
+			color2={ 255 255 255 }
+		
+			b_ta5 = {
+}
+	}
+			c_ta6 = {
+			color={ 137 102 33 }
+			color2={ 255 255 255 }
+		
+			b_ta6 = {
+}
+	}
+			c_ta7 = {
+			color={ 147 116 55 }
+			color2={ 255 255 255 }
+		
+			b_ta7 = {
+}
+	}
+	}
+		d_talonringia = {
+			color={ 123 106 17 }
+			color2={ 255 255 255 }
+			
+			capital = 736 # TA8
+			
+		c_ta8 = {
+			color={ 123 106 17 }
+			color2={ 255 255 255 }
+		
+			b_ta8 = {
+}
+	}
+			c_ta9 = {
+			color={ 136 130 63 }
+			color2={ 255 255 255 }
+		
+			b_ta9 = {
+}
+	}
+			c_ta10 = {
+			color={ 161 155 83 }
+			color2={ 255 255 255 }
+		
+			b_ta10 = {
+}
+	}
+			c_ta11 = {
+			color={ 155 137 36 }
+			color2={ 255 255 255 }
+		
+			b_ta11 = {
+}
+	}
+	}
+		d_lower_talonringia = {
+			color={ 159 148 27 }
+			color2={ 255 255 255 }
+			
+			capital = 740 # TA12
+			
+		c_ta12 = {
+			color={ 159 148 27 }
+			color2={ 255 255 255 }
+		
+			b_ta12 = {
+}
+	}
+			c_ta13 = {
+			color={ 128 118 23 }
+			color2={ 255 255 255 }
+		
+			b_ta13 = {
+}
+	}
+			c_ta14 = {
+			color={ 142 97 9 }
+			color2={ 255 255 255 }
+		
+			b_ta14 = {
+}
+	}
+	}
+	}
+	
+k_west_griffonia = {
+	color={ 34 49 127 }
+	color2={ 255 255 255 }
+	
+	capital = 743 # WG1
+	
+	culture = high_griffin
+	
+	
+	
+	d_angerbirdland = {
+			color={ 34 49 127 }
+			color2={ 255 255 255 }
+			
+			capital = 743 # WG1
+			
+		c_wg1 = {
+			color={ 34 49 127 }
+			color2={ 255 255 255 }
+		
+			b_wg1 = {
+}
+	}
+			c_wg2 = {
+			color={ 58 71 138 }
+			color2={ 255 255 255 }
+		
+			b_wg2 = {
+}
+	}
+			c_wg3 = {
+			color={ 73 86 156 }
+			color2={ 255 255 255 }
+		
+			b_wg3 = {
+}
+	}
+	}
+		d_norboden = {
+			color={ 102 125 167 }
+			color2={ 255 255 255 }
+			
+			capital = 746 # WG4
+			
+		c_wg4 = {
+			color={ 102 125 167 }
+			color2={ 255 255 255 }
+		
+			b_wg4 = {
+}
+	}
+			c_wg5 = {
+			color={ 104 119 147 }
+			color2={ 255 255 255 }
+		
+			b_wg5 = {
+}
+	}
+			c_wg6 = {
+			color={ 88 121 183 }
+			color2={ 255 255 255 }
+		
+			b_wg6 = {
+}
+	}
+	}
+		d_whorl = {
+			color={ 63 90 139 }
+			color2={ 255 255 255 }
+			
+			capital = 749 # WG7
+			
+		c_wg7 = {
+			color={ 63 90 139 }
+			color2={ 255 255 255 }
+		
+			b_wg7 = {
+}
+	}
+			c_wg8 = {
+			color={ 80 98 131 }
+			color2={ 255 255 255 }
+		
+			b_wg8 = {
+}
+	}
+	}
+		d_knossos = {
+			color={ 90 121 176 }
+			color2={ 255 255 255 }
+			
+			capital = 751 # WG9
+			
+		c_wg9 = {
+			color={ 90 121 176 }
+			color2={ 255 255 255 }
+		
+			b_wg9 = {
+}
+	}
+			c_wg10 = {
+			color={ 47 91 171 }
+			color2={ 255 255 255 }
+		
+			b_wg10 = {
+}
+	}
+			c_wg11 = {
+			color={ 22 82 192 }
+			color2={ 255 255 255 }
+		
+			b_wg11 = {
+}
+	}
+	}
+		d_birdepolis = {
+			color={ 80 88 131 }
+			color2={ 255 255 255 }
+			
+			capital = 754 # WG12
+			
+		c_wg12 = {
+			color={ 80 88 131 }
+			color2={ 255 255 255 }
+		
+			b_wg12 = {
+}
+	}
+			c_wg13 = {
+			color={ 82 93 148 }
+			color2={ 255 255 255 }
+		
+			b_wg13 = {
+}
+	}
+			c_wg14 = {
+			color={ 67 76 127 }
+			color2={ 255 255 255 }
+		
+			b_wg14 = {
+}
+	}
+			c_wg15 = {
+			color={ 38 50 115 }
+			color2={ 255 255 255 }
+		
+			b_wg15 = {
+}
+	}
+	}
+		d_cheepoa = {
+			color={ 23 38 116 }
+			color2={ 255 255 255 }
+			
+			capital = 758 # WG16
+			
+		c_wg16 = {
+			color={ 23 38 116 }
+			color2={ 255 255 255 }
+		
+			b_wg16 = {
+}
+	}
+			c_wg17 = {
+			color={ 73 87 160 }
+			color2={ 255 255 255 }
+		
+			b_wg17 = {
+}
+	}
+			c_wg18 = {
+			color={ 51 86 157 }
+			color2={ 255 255 255 }
+		
+			b_wg18 = {
+}
+	}
+			c_wg19 = {
+			color={ 75 106 167 }
+			color2={ 255 255 255 }
+		
+			b_wg19 = {
+}
+	}
+	}
+		d_lyana = {
+			color={ 54 61 103 }
+			color2={ 255 255 255 }
+			
+			capital = 762 # WG20
+			
+		c_wg20 = {
+			color={ 54 61 103 }
+			color2={ 255 255 255 }
+		
+			b_wg20 = {
+}
+	}
+			c_wg21 = {
+			color={ 52 70 167 }
+			color2={ 255 255 255 }
+		
+			b_wg21 = {
+}
+	}
+			c_wg22 = {
+			color={ 109 132 179 }
+			color2={ 255 255 255 }
+		
+			b_wg22 = {
+}
+	}
+			c_wg23 = {
+			color={ 79 96 185 }
+			color2={ 255 255 255 }
+		
+			b_wg23 = {
+}
+	}
+			c_wg24 = {
+			color={ 93 105 168 }
+			color2={ 255 255 255 }
+		
+			b_wg24 = {
+}
+	}
+	}
+		d_rumi = {
+			color={ 72 89 124 }
+			color2={ 255 255 255 }
+			
+			capital = 767 # WG25
+			
+		c_wg25 = {
+			color={ 72 89 124 }
+			color2={ 255 255 255 }
+		
+			b_wg25 = {
+}
+	}
+			c_wg26 = {
+			color={ 58 84 137 }
+			color2={ 255 255 255 }
+		
+			b_wg26 = {
+}
+	}
+			c_wg27 = {
+			color={ 80 102 106 }
+			color2={ 255 255 255 }
+		
+			b_wg27 = {
+}
+	}
+			c_wg28 = {
+			color={ 97 110 175 }
+			color2={ 255 255 255 }
+		
+			b_wg28 = {
+}
+	}
+			c_wg29 = {
+			color={ 77 89 152 }
+			color2={ 255 255 255 }
+		
+			b_wg29 = {
+}
+	}
+	}
+		d_beaknap = {
+			color={ 43 58 139 }
+			color2={ 255 255 255 }
+			
+			capital = 772 # WG30
+			
+		c_wg30 = {
+			color={ 43 58 139 }
+			color2={ 255 255 255 }
+		
+			b_wg30 = {
+}
+	}
+			c_wg31 = {
+			color={ 63 74 133 }
+			color2={ 255 255 255 }
+		
+			b_wg31 = {
+}
+	}
+			c_wg32 = {
+			color={ 69 82 156 }
+			color2={ 255 255 255 }
+		
+			b_wg32 = {
+}
+	}
+			c_wg33 = {
+			color={ 94 103 155 }
+			color2={ 255 255 255 }
+		
+			b_wg33 = {
+}
+	}
+	}
+	}
+	
+k_skydinavia = {
+	color={ 89 130 148 }
+	color2={ 255 255 255 }
+	
+	capital = 776 # SK1
+	
+	culture = high_griffin
+	
+	
+	
+	d_ostfløy = {
+			color={ 89 130 148 }
+			color2={ 255 255 255 }
+			
+			capital = 776 # SK1
+			
+		c_sk1 = {
+			color={ 89 130 148 }
+			color2={ 255 255 255 }
+		
+			b_sk1 = {
+}
+	}
+			c_sk2 = {
+			color={ 35 102 130 }
+			color2={ 255 255 255 }
+		
+			b_sk2 = {
+}
+	}
+			c_sk3 = {
+			color={ 70 119 140 }
+			color2={ 255 255 255 }
+		
+			b_sk3 = {
+}
+	}
+			c_sk4 = {
+			color={ 45 98 122 }
+			color2={ 255 255 255 }
+		
+			b_sk4 = {
+}
+	}
+	}
+		d_norrbeak = {
+			color={ 78 118 136 }
+			color2={ 255 255 255 }
+			
+			capital = 780 # SK5
+			
+		c_sk5 = {
+			color={ 78 118 136 }
+			color2={ 255 255 255 }
+		
+			b_sk5 = {
+}
+	}
+			c_sk6 = {
+			color={ 82 128 147 }
+			color2={ 255 255 255 }
+		
+			b_sk6 = {
+}
+	}
+			c_sk7 = {
+			color={ 49 88 105 }
+			color2={ 255 255 255 }
+		
+			b_sk7 = {
+}
+	}
+			c_sk8 = {
+			color={ 67 98 113 }
+			color2={ 255 255 255 }
+		
+			b_sk8 = {
+}
+	}
+	}
+		d_vestfløy = {
+			color={ 64 123 149 }
+			color2={ 255 255 255 }
+			
+			capital = 784 # SK9
+			
+		c_sk9 = {
+			color={ 64 123 149 }
+			color2={ 255 255 255 }
+		
+			b_sk9 = {
+}
+	}
+			c_sk10 = {
+			color={ 156 203 224 }
+			color2={ 255 255 255 }
+		
+			b_sk10 = {
+}
+	}
+			c_sk11 = {
+			color={ 112 161 184 }
+			color2={ 255 255 255 }
+		
+			b_sk11 = {
+}
+	}
+			c_sk12 = {
+			color={ 101 141 159 }
+			color2={ 255 255 255 }
+		
+			b_sk12 = {
+}
+	}
+	}
+		d_beakslagen = {
+			color={ 110 142 156 }
+			color2={ 255 255 255 }
+			
+			capital = 788 # SK13
+			
+		c_sk13 = {
+			color={ 110 142 156 }
+			color2={ 255 255 255 }
+		
+			b_sk13 = {
+}
+	}
+			c_beakslagen = {
+			color={ 64 98 114 }
+			color2={ 255 255 255 }
+		
+			b_beakslagen = {
+}
+	}
+			c_sk15 = {
+			color={ 97 116 126 }
+			color2={ 255 255 255 }
+		
+			b_sk15 = {
+}
+	}
+			c_sk16 = {
+			color={ 73 109 126 }
+			color2={ 255 255 255 }
+		
+			b_sk16 = {
+}
+	}
+	}
+		d_talonatland = {
+			color={ 37 123 160 }
+			color2={ 255 255 255 }
+			
+			capital = 792 # SK17
+			
+		c_sk17 = {
+			color={ 37 123 160 }
+			color2={ 255 255 255 }
+		
+			b_sk17 = {
+}
+	}
+			c_liftauf = {
+			color={ 30 130 172 }
+			color2={ 255 255 255 }
+		
+			b_liftauf = {
+}
+	}
+			c_sk19 = {
+			color={ 73 105 120 }
+			color2={ 255 255 255 }
+		
+			b_sk19 = {
+}
+	}
+	}
+		d_uppgriffenland = {
+			color={ 40 76 93 }
+			color2={ 255 255 255 }
+			
+			capital = 795 # Kristoff
+			
+		c_kristoff = {
+			color={ 40 76 93 }
+			color2={ 255 255 255 }
+		
+			b_kristoff = {
+}
+	}
+			c_sk21 = {
+			color={ 80 111 126 }
+			color2={ 255 255 255 }
+		
+			b_sk21 = {
+}
+	}
+			c_sk22 = {
+			color={ 56 89 104 }
+			color2={ 255 255 255 }
+		
+			b_sk22 = {
+}
+	}
+			c_sk23 = {
+			color={ 5 62 87 }
+			color2={ 255 255 255 }
+		
+			b_sk23 = {
+}
+	}
+	}
+	}
+	}
+	
+e_mooseland = {
+	color={ 94 146 139 }
+	color2={ 255 255 20 }
+	
+	capital = 799 # Moosenbaum	
+	short_name = yes
+	
+	culture = moose_culture
+	
+
+k_mooseland = {
+	color={ 94 146 139 }
+	color2={ 255 255 255 }
+	
+	capital = 799 # Moosenbaum
+	
+	culture = moose_culture
+	
+	
+	
+	d_east_mooseland = {
+			color={ 94 146 139 }
+			color2={ 255 255 255 }
+			
+			capital = 799 # Moosenbaum
+			
+		c_moosenbaum = {
+			color={ 94 146 139 }
+			color2={ 255 255 255 }
+		
+			b_moosenbaum = {
+}
+	}
+			c_deerer = {
+			color={ 38 124 112 }
+			color2={ 255 255 255 }
+		
+			b_deerer = {
+}
+	}
+			c_antlerdon = {
+			color={ 77 154 144 }
+			color2={ 255 255 255 }
+		
+			b_antlerdon = {
+}
+	}
+			c_tortroto = {
+			color={ 62 104 98 }
+			color2={ 255 255 255 }
+		
+			b_tortroto = {
+}
+	}
+	}
+		d_seal_bay = {
+			color={ 57 137 127 }
+			color2={ 255 255 255 }
+			
+			capital = 803 # Coniferdon
+			
+		c_coniferdon = {
+			color={ 57 137 127 }
+			color2={ 255 255 255 }
+		
+			b_coniferdon = {
+}
+	}
+			c_glacia = {
+			color={ 76 123 116 }
+			color2={ 255 255 255 }
+		
+			b_glacia = {
+}
+	}
+			c_seal_bay = {
+			color={ 45 146 133 }
+			color2={ 255 255 255 }
+		
+			b_seal_bay = {
+}
+	}
+	}
+		d_west_mooseland = {
+			color={ 73 151 141 }
+			color2={ 255 255 255 }
+			
+			capital = 806 # Pastureland
+			
+		c_pastureland = {
+			color={ 73 151 141 }
+			color2={ 255 255 255 }
+		
+			b_pastureland = {
+}
+	}
+			c_berrdon = {
+			color={ 67 133 124 }
+			color2={ 255 255 255 }
+		
+			b_berrdon = {
+}
+	}
+			c_vejalyk = {
+			color={ 53 130 120 }
+			color2={ 255 255 255 }
+		
+			b_vejalyk = {
+}
+	}
+	}
+	}
+	}
+	
+#################
+# Tribal Titles #
+#################
+
+d_unicorns_tribe = {
+	color={ 156 94 177 }
+	color2={ 255 255 255 }
+	
+	tribe = yes
+	
+	allow = {
+		always = no
+	}
+	
+	culture = unicorn_culture
+	title = "QUEEN"
+	foa = "QUEEN_FOA"
+	title_prefix = "PONY_TRIBE"
+}
+
+d_pegasi_tribe = {
+	color={ 16 49 134 }
+	color2={ 255 255 255 }
+	
+	tribe = yes
+	
+	allow = {
+		always = no
+	}
+	
+	culture = pegasi_culture
+	title = "COMMANDER"
+	foa = "COMMANDER_FOA"
+	title_prefix = "PONY_TRIBE"
+}
+
+d_earth_tribe = {
+	color={ 87 153 38 }
+	color2={ 255 255 255 }
+	
+	tribe = yes
+	
+	allow = {
+		always = no
+	}
+	
+	culture = earth_culture
+	title = "CHANCELLOR"
+	foa = "CHANCELLOR_FOA"
+	title_prefix = "PONY_TRIBE"
+}

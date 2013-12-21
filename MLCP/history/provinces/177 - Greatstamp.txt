@@ -1,0 +1,15 @@
+# c_greatstamp
+
+# County Title
+title = c_greatstamp
+
+# Settlements
+max_settlements = 3
+
+b_greatstamp = castle
+
+# Misc
+culture = sioxen
+100.1.1 = {
+	religion = buffalo_religion
+}

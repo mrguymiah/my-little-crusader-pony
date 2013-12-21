@@ -1,0 +1,15 @@
+# c_firespout
+
+# County Title
+title = c_firespout
+
+# Settlements
+max_settlements = 3
+
+b_firespout = castle
+
+# Misc
+culture = earth_culture
+100.1.1 = {
+	religion = earth_religion
+}

@@ -1,0 +1,15 @@
+# c_platinum_fields
+
+# County Title
+title = c_platinum_fields
+
+# Settlements
+max_settlements = 5
+
+b_platinum_fields = castle
+
+# Misc
+culture = crystal_culture
+100.1.1 = {
+	religion = crystal_religion
+}

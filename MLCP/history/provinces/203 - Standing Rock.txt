@@ -1,0 +1,15 @@
+# c_standing_rock
+
+# County Title
+title = c_standing_rock
+
+# Settlements
+max_settlements = 3
+
+b_standing_rock = castle
+
+# Misc
+culture = sioxen
+100.1.1 = {
+	religion = buffalo_religion
+}

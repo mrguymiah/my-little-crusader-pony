@@ -1,0 +1,15 @@
+# c_hayside
+
+# County Title
+title = c_hayside
+
+# Settlements
+max_settlements = 3
+
+b_hayside = castle
+
+# Misc
+culture = earth_culture
+100.1.1 = {
+	religion = earth_religion
+}

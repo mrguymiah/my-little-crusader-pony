@@ -1,0 +1,19 @@
+# c_mareford
+
+# County Title
+title = c_mareford
+
+# Settlements
+max_settlements = 5
+
+b_mareford = castle
+b_maredeen = city
+b_clover_hill = temple
+#b_woodsbrook = castle
+#b_bloomfield = city
+
+# Misc
+culture = earth_culture
+100.1.1 = {
+	religion = earth_religion
+}

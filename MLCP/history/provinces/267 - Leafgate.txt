@@ -1,0 +1,15 @@
+# c_leafgate
+
+# County Title
+title = c_leafgate
+
+# Settlements
+max_settlements = 3
+
+b_leafgate = castle
+
+# Misc
+culture = unicorn_culture
+100.1.1 = {
+	religion = unicorn_religion
+}

@@ -1,0 +1,15 @@
+# c_vejalyk
+
+# County Title
+title = c_vejalyk
+
+# Settlements
+max_settlements = 2
+
+b_vejalyk = castle
+
+# Misc
+culture = moose_culture
+100.1.1 = {
+	religion = mooselam
+}

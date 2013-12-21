@@ -1,0 +1,15 @@
+# c_bloodhoof
+
+# County Title
+title = c_bloodhoof
+
+# Settlements
+max_settlements = 3
+
+b_bloodhoof = castle
+
+# Misc
+culture = sioxen
+100.1.1 = {
+	religion = buffalo_religion
+}

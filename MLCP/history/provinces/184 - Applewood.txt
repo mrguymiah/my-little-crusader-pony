@@ -1,0 +1,13 @@
+# c_applewood
+
+# County Title
+title = c_applewood
+
+# Settlements
+max_settlements = 5
+
+b_applewood = castle
+
+# Misc
+culture = pegasi_culture
+religion = soarastrian

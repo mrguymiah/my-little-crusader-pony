@@ -1,0 +1,15 @@
+# c_meadowburg
+
+# County Title
+title = c_meadowburg
+
+# Settlements
+max_settlements = 3
+
+b_meadowburg = castle
+
+# Misc
+culture = unicorn_culture
+100.1.1 = {
+	religion = unicorn_religion
+}

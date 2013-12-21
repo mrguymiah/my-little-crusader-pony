@@ -1,0 +1,15 @@
+# c_dimview
+
+# County Title
+title = c_dimview
+
+# Settlements
+max_settlements = 1
+
+b_dimview = castle
+
+# Misc
+culture = caribou_culture
+100.1.1 = {
+	religion = mooselam
+}

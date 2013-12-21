@@ -1,0 +1,75 @@
+namespace = equestria
+
+# The Formation of Equestria
+narrative_event = {
+	id = LoR.20
+	title = EVTNAMELoR.20
+	desc = EVTDESCLoR.20
+	
+	picture = GFX_evt_rome_restored_byzantine
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		set_character_flag = achievement_legacy_of_rome
+	}
+	
+	option = {
+		name = EVTOPTAequestria.20
+		hidden_tooltip = {
+			primary_title = {
+				any_direct_de_jure_vassal_title = {
+					de_jure_liege = e_equestria
+				}
+			}
+		}
+		e_equestria = {
+			grant_title = ROOT
+			copy_title_laws = e_byzantium
+			copy_title_history = e_byzantium
+		}
+		k_unicornia = {
+			destroy_landed_title = THIS
+		}
+		k_pegasopolis = {
+			destroy_landed_title = THIS
+		}
+		k_earth = {
+			destroy_landed_title = THIS
+		}
+		hidden_tooltip = {
+			any_playable_ruler = {
+				limit = {
+					NOT = { has_landed_title = e_equestria }
+					ai = no
+				}
+				narrative_event = { id = equestria.21 }
+			}
+		}
+	}	
+}
+
+# Informed about formation of Equestria
+narrative_event = {
+	id = equestria.21
+	title = EVTNAMEequestria.21
+	desc = EVTDESCequestria.21
+	
+	picture = GFX_evt_rome_restored_byzantine
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTAequestria.21
+		trigger = {
+			NOT = { has_landed_title = e_crystal_empire }
+		}
+	}
+	option = {
+		name = EVTOPTBequestria.21
+		trigger = {
+			has_landed_title = e_crystal_empire
+		}
+		prestige = -500
+	}
+}

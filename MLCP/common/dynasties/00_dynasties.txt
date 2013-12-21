@@ -1,0 +1,27 @@
+1 = {
+	name="Galaxia"
+}
+2 = {
+	name="Whitegold"
+	culture = earth_culture
+}
+3 = {
+	name="Sparkle"
+	culture = unicorn_culture
+}
+4 = {
+	name="Gemshine"
+	culture = unicorn_culture
+}
+5 = {
+	name="Swiftwind"
+	culture = pegasi_culture
+}
+6 = {
+	name="Thunderbolt"
+	culture = pegasi_culture
+}
+7 = {
+	name="D'Apple"
+	culture = earth_culture
+}

@@ -1,0 +1,15 @@
+# c_cloudkonion
+
+# County Title
+title = c_cloudkonion
+
+# Settlements
+max_settlements = 4
+
+b_cloudkonion = castle
+
+# Misc
+culture = pegasi_culture
+100.1.1 = {
+	religion = soarastrian
+}

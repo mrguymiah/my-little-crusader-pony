@@ -1,0 +1,15 @@
+# c_saddleban
+
+# County Title
+title = c_saddleban
+
+# Settlements
+max_settlements = 3
+
+b_saddleban = castle
+
+# Misc
+culture = zebrazen
+100.1.1 = {
+	religion = dahomaine_religion
+}

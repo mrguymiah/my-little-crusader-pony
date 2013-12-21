@@ -1,0 +1,15 @@
+# c_sap
+
+# County Title
+title = c_sap
+
+# Settlements
+max_settlements = 3
+
+b_sap = castle
+
+# Misc
+culture = unicorn_culture
+100.1.1 = {
+	religion = unicorn_religion
+}

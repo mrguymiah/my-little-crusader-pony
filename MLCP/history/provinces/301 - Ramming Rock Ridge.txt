@@ -1,0 +1,15 @@
+# c_ramming_rock_ridge
+
+# County Title
+title = c_ramming_rock_ridge
+
+# Settlements
+max_settlements = 3
+
+b_ramming_rock_ridge = castle
+
+# Misc
+culture = unicorn_culture
+100.1.1 = {
+	religion = unicorn_religion
+}

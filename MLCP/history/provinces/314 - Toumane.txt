@@ -1,0 +1,15 @@
+# c_toumane
+
+# County Title
+title = c_toumane
+
+# Settlements
+max_settlements = 5
+
+b_toumane = castle
+
+# Misc
+culture = unicorn_culture
+100.1.1 = {
+	religion = unicorn_religion
+}

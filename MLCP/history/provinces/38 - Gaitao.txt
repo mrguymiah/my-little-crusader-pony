@@ -1,0 +1,15 @@
+# c_gaitao
+
+# County Title
+title = c_gaitao
+
+# Settlements
+max_settlements = 3
+
+b_gaitao = castle
+
+# Misc
+culture = zebrazen
+100.1.1 = {
+	religion = dahomaine_religion
+}

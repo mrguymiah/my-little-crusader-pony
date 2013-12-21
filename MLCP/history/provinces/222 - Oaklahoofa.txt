@@ -1,0 +1,15 @@
+# c_oaklahoofa
+
+# County Title
+title = c_oaklahoofa
+
+# Settlements
+max_settlements = 3
+
+b_oaklahoofa = castle
+
+# Misc
+culture = sioxen
+100.1.1 = {
+	religion = buffalo_religion
+}

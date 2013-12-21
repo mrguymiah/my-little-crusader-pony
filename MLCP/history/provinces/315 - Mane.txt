@@ -1,0 +1,15 @@
+# c_mane
+
+# County Title
+title = c_mane
+
+# Settlements
+max_settlements = 6
+
+b_mane = castle
+
+# Misc
+culture = unicorn_culture
+100.1.1 = {
+	religion = unicorn_religion
+}

@@ -1,0 +1,15 @@
+# c_piele
+
+# County Title
+title = c_piele
+
+# Settlements
+max_settlements = 3
+
+b_piele = castle
+
+# Misc
+culture = blackhoof
+100.1.1 = {
+	religion = buffalo_religion
+}

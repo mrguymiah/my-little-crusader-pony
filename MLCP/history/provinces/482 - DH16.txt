@@ -1,0 +1,15 @@
+# c_dh16
+
+# County Title
+title = c_dh16
+
+# Settlements
+max_settlements = 3
+
+b_dh16 = castle
+
+# Misc
+culture = crystal_culture
+100.1.1 = {
+	religion = crystal_religion
+}

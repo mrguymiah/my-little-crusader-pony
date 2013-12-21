@@ -1,0 +1,15 @@
+# c_vineland
+
+# County Title
+title = c_vineland
+
+# Settlements
+max_settlements = 3
+
+b_vineland = castle
+
+# Misc
+culture = unicorn_culture
+100.1.1 = {
+	religion = unicorn_religion
+}

@@ -1,0 +1,15 @@
+# c_el_barnadh
+
+# County Title
+title = c_el_barnadh
+
+# Settlements
+max_settlements = 3
+
+b_el_barnadh = castle
+
+# Misc
+culture = zebrazen
+100.1.1 = {
+	religion = dahomaine_religion
+}

@@ -1,0 +1,15 @@
+# c_zebroitan
+
+# County Title
+title = c_zebroitan
+
+# Settlements
+max_settlements = 3
+
+b_zebroitan = castle
+
+# Misc
+culture = zebrazen
+100.1.1 = {
+	religion = dahomaine_religion
+}

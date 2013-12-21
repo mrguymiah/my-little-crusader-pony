@@ -1,0 +1,15 @@
+# c_ta11
+
+# County Title
+title = c_ta11
+
+# Settlements
+max_settlements = 5
+
+b_ta11 = castle
+
+# Misc
+culture = low_griffin
+100.1.1 = {
+	religion = grifflyreise
+}

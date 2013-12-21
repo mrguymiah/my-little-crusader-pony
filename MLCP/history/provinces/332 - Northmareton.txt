@@ -1,0 +1,18 @@
+# c_northmareton
+
+# County Title
+title = c_northmareton
+
+# Settlements
+max_settlements = 4
+
+b_northmareton = castle
+b_buckford = city
+b_mereton_keynes = temple
+#b_bichester = castle
+
+# Misc
+culture = earth_culture
+100.1.1 = {
+	religion = earth_religion
+}

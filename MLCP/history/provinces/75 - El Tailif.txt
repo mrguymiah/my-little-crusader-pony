@@ -1,0 +1,15 @@
+# c_el_tailif
+
+# County Title
+title = c_el_tailif
+
+# Settlements
+max_settlements = 3
+
+b_el_tailif = castle
+
+# Misc
+culture = zebrazen
+100.1.1 = {
+	religion = dahomaine_religion
+}

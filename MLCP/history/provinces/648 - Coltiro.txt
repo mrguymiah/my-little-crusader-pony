@@ -1,0 +1,15 @@
+# c_coltiro
+
+# County Title
+title = c_coltiro
+
+# Settlements
+max_settlements = 7
+
+b_coltiro = castle
+
+# Misc
+culture = saddle_arabian_culture
+100.1.1 = {
+	religion = saddle_arabian_religion
+}

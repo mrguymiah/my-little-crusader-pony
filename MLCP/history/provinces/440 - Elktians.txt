@@ -1,0 +1,15 @@
+# c_elktians
+
+# County Title
+title = c_elktians
+
+# Settlements
+max_settlements = 3
+
+b_elktians = castle
+
+# Misc
+culture = hindi_culture
+100.1.1 = {
+	religion = mooselam
+}

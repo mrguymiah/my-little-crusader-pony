@@ -1,0 +1,18 @@
+# c_ramsshire
+
+# County Title
+title = c_ramsshire
+
+# Settlements
+max_settlements = 4
+
+b_ramsgate = castle
+b_manewich = city
+b_woodensminster = temple
+#b_owls_hill = castle
+
+# Misc
+culture = earth_culture
+100.1.1 = {
+	religion = earth_religion
+}

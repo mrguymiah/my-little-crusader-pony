@@ -1,0 +1,15 @@
+# c_coltiva
+
+# County Title
+title = c_coltiva
+
+# Settlements
+max_settlements = 5
+
+b_coltiva = castle
+
+# Misc
+culture = saddle_arabian_culture
+100.1.1 = {
+	religion = saddle_arabian_religion
+}

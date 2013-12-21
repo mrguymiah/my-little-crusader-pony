@@ -1,0 +1,15 @@
+# c_arcus
+
+# County Title
+title = c_arcus
+
+# Settlements
+max_settlements = 5
+
+b_arcus = castle
+
+# Misc
+culture = pegasi_culture
+100.1.1 = {
+	religion = soarastrian
+}

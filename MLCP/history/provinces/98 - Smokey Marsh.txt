@@ -1,0 +1,15 @@
+# c_smokey_marsh
+
+# County Title
+title = c_smokey_marsh
+
+# Settlements
+max_settlements = 3
+
+b_smokey_marsh = castle
+
+# Misc
+culture = earth_culture
+100.1.1 = {
+	religion = earth_religion
+}

@@ -1,0 +1,15 @@
+# c_norht23
+
+# County Title
+title = c_norht23
+
+# Settlements
+max_settlements = 1
+
+b_norht23 = castle
+
+# Misc
+culture = crystal_culture
+100.1.1 = {
+	religion = crystal_religion
+}

@@ -1,0 +1,15 @@
+# c_airtois
+
+# County Title
+title = c_airtois
+
+# Settlements
+max_settlements = 5
+
+b_airtois = castle
+
+# Misc
+culture = south_griffin
+100.1.1 = {
+	religion = grifflyreise
+}

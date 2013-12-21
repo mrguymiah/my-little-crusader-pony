@@ -1,0 +1,15 @@
+# c_buckonagen
+
+# County Title
+title = c_buckonagen
+
+# Settlements
+max_settlements = 3
+
+b_buckonagen = castle
+
+# Misc
+culture = hindi_culture
+100.1.1 = {
+	religion = mooselam
+}

@@ -1,0 +1,15 @@
+# c_timbucktu
+
+# County Title
+title = c_timbucktu
+
+# Settlements
+max_settlements = 5
+
+b_timbucktu = castle
+
+# Misc
+culture = zebrazen
+100.1.1 = {
+	religion = dahomaine_religion
+}

@@ -1,0 +1,17 @@
+# c_coltoba
+
+# County Title
+title = c_coltoba
+
+# Settlements
+max_settlements = 7
+
+b_coltoba = city
+b_almanebra = castle
+b_marezquita = temple
+
+# Misc
+culture = saddle_arabian_culture
+100.1.1 = {
+	religion = saddle_arabian_religion
+}

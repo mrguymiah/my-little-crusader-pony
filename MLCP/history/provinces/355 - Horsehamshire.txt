@@ -1,0 +1,18 @@
+# c_horsehamshire
+
+# County Title
+title = c_horsehamshire
+
+# Settlements
+max_settlements = 4
+
+b_horsehamptom = castle
+b_neighingborough = city
+b_gallopering = temple
+#b_buckbrooke = castle
+
+# Misc
+culture = earth_culture
+100.1.1 = {
+	religion = earth_religion
+}

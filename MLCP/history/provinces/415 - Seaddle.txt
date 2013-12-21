@@ -1,0 +1,21 @@
+# c_seaddle
+
+# County Title
+title = c_seaddle
+
+# Settlements
+max_settlements = 7
+
+b_saddlestown = castle
+b_seaddle = city
+b_seawood = temple
+b_stagvew = city
+#b_redmond = city
+#b_woodgrove = temple
+#b_marecer = castle
+
+# Misc
+culture = hindi_culture
+100.1.1 = {
+	religion = mooselam
+}

@@ -1,0 +1,15 @@
+# c_smokey_mountain
+
+# County Title
+title = c_smokey_mountain
+
+# Settlements
+max_settlements = 3
+
+b_smokey_mountain = castle
+
+# Misc
+culture = hindi_culture
+100.1.1 = {
+	religion = mooselam
+}

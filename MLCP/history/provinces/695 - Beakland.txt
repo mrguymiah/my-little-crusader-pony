@@ -1,0 +1,15 @@
+# c_beakland
+
+# County Title
+title = c_beakland
+
+# Settlements
+max_settlements = 7
+
+b_beakland = castle
+
+# Misc
+culture = south_griffin
+100.1.1 = {
+	religion = grifflyreise
+}

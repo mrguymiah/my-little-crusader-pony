@@ -1,0 +1,15 @@
+# c_thundergrad
+
+# County Title
+title = c_thundergrad
+
+# Settlements
+max_settlements = 3
+
+b_thundergrad = castle
+
+# Misc
+culture = blackhoof
+100.1.1 = {
+	religion = buffalo_religion
+}

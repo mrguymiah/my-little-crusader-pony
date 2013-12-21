@@ -1,0 +1,15 @@
+# c_stamping_mesa
+
+# County Title
+title = c_stamping_mesa
+
+# Settlements
+max_settlements = 2
+
+b_stamping_mesa = castle
+
+# Misc
+culture = blackhoof
+100.1.1 = {
+	religion = buffalo_religion
+}

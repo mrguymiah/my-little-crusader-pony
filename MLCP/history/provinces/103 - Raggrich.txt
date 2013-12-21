@@ -1,0 +1,15 @@
+# c_raggrich
+
+# County Title
+title = c_raggrich
+
+# Settlements
+max_settlements = 3
+
+b_raggrich = castle
+
+# Misc
+culture = earth_culture
+100.1.1 = {
+	religion = earth_religion
+}

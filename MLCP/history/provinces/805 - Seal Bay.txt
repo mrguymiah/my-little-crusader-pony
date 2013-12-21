@@ -1,0 +1,15 @@
+# c_seal_bay
+
+# County Title
+title = c_seal_bay
+
+# Settlements
+max_settlements = 2
+
+b_seal_bay = castle
+
+# Misc
+culture = moose_culture
+100.1.1 = {
+	religion = mooselam
+}

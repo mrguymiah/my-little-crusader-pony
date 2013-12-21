@@ -1,0 +1,15 @@
+# c_scarlet_dunes
+
+# County Title
+title = c_scarlet_dunes
+
+# Settlements
+max_settlements = 3
+
+b_scarlet_dunes = castle
+
+# Misc
+culture = zebrazen
+100.1.1 = {
+	religion = dahomaine_religion
+}

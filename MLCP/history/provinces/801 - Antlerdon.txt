@@ -1,0 +1,15 @@
+# c_antlerdon
+
+# County Title
+title = c_antlerdon
+
+# Settlements
+max_settlements = 2
+
+b_antlerdon = castle
+
+# Misc
+culture = moose_culture
+100.1.1 = {
+	religion = mooselam
+}

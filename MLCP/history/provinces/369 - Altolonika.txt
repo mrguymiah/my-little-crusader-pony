@@ -1,0 +1,15 @@
+# c_altolonika
+
+# County Title
+title = c_altolonika
+
+# Settlements
+max_settlements = 4
+
+b_altolonika = castle
+
+# Misc
+culture = pegasi_culture
+100.1.1 = {
+	religion = soarastrian
+}

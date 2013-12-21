@@ -1,0 +1,15 @@
+# c_orecum
+
+# County Title
+title = c_orecum
+
+# Settlements
+max_settlements = 5
+
+b_orecum = castle
+
+# Misc
+culture = crystal_culture
+100.1.1 = {
+	religion = crystal_religion
+}

@@ -1,0 +1,15 @@
+# c_ch23
+
+# County Title
+title = c_ch23
+
+# Settlements
+max_settlements = 3
+
+b_ch23 = castle
+
+# Misc
+culture = changeling_culture
+100.1.1 = {
+	religion = changeling_religion
+}

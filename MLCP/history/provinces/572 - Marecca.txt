@@ -1,0 +1,19 @@
+# c_marecca
+
+# County Title
+title = c_marecca
+
+# Settlements
+max_settlements = 6
+
+b_tamane = castle
+b_buckddah = city
+b_marecca = temple
+b_johoofa = city
+b_turuneigh = city
+
+# Misc
+culture = saddle_arabian_culture
+100.1.1 = {
+	religion = saddle_arabian_religion
+}

@@ -1,0 +1,17 @@
+# c_bridle_dar
+
+# County Title
+title = c_bridle_dar
+
+# Settlements
+max_settlements = 3
+
+b_bridle_dar1 = castle
+b_bridle_dar2 = city
+b_bridle_dar3 = temple
+
+# Misc
+culture = zebradid
+100.1.1 = {
+	religion = zulhooves_religion
+}

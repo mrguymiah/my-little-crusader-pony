@@ -1,0 +1,15 @@
+# c_poniala
+
+# County Title
+title = c_poniala
+
+# Settlements
+max_settlements = 4
+
+b_poniala = castle
+
+# Misc
+culture = pegasi_culture
+100.1.1 = {
+	religion = soarastrian
+}

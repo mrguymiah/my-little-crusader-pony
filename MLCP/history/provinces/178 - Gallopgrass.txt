@@ -1,0 +1,15 @@
+# c_gallopgrass
+
+# County Title
+title = c_gallopgrass
+
+# Settlements
+max_settlements = 3
+
+b_gallopgrass = castle
+
+# Misc
+culture = tazapan
+100.1.1 = {
+	religion = buffalo_religion
+}

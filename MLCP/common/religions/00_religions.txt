@@ -1,0 +1,527 @@
+equestrian_Rgroup = {
+	playable = yes
+	has_coa_on_barony_only = yes
+	crusade_cb = crusade
+	
+	celestian = {
+		#Parent Equestrian religion, should not appear until Celestia
+		#Temporarily enabled until Celestian Arrival events
+		graphical_culture = westerngfx
+		
+		icon = 1
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_CELESTIA GOD_LUNA GOD_THE_SISTERS GOD_THE_SUN GOD_THE_MOON
+		}
+		
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		priests_can_marry = yes
+		female_temple_holders = yes
+		max_wives = 1
+		
+		
+	}
+	lunarism = {
+		graphical_culture = westerngfx
+		
+		icon = 1
+		color = { 0.5 1 0.2 }
+		parent = celestian
+	}
+	unicorn_religion = {
+		graphical_culture = westerngfx
+
+		icon = 6
+		color = { 0.5 0.5 0.9 }
+		
+		reformed = unicorn_religion_reformed
+	}
+	unicorn_religion_reformed = {
+		graphical_culture = westerngfx
+
+		icon = 6
+		color = { 0.5 0.5 0.9 }
+	
+	}
+	earth_religion= {
+		graphical_culture = westerngfx
+
+		icon = 5
+		color = { 0.2 0.8 0.2 }
+		
+		reformed = earth_religion_reformed
+		
+	}
+	earth_religion_reformed = {
+		graphical_culture = westerngfx
+
+		icon = 5
+		color = { 0.2 0.8 0.2 }
+		
+	}
+	soarastrian= {
+		graphical_culture = westerngfx
+
+		icon = 37 #hellenic
+		color = { 1 0.2 0.2 }
+		
+		reformed = soarastrian_reformed
+		reformer_head_of_religion = yes
+		
+		raised_vassal_opinion_loss = no
+		allow_viking_invasion = yes
+		priests_can_marry = yes
+	}	
+	soarastrian_reformed= {
+		graphical_culture = westerngfx
+
+		icon = 37
+		color = { 1 0.2 0.2 }
+		
+		crusade_name = CRUSADE
+		scripture_name = THE_EPICS
+		
+		can_call_crusade = yes
+		raised_vassal_opinion_loss = no
+		allow_viking_invasion = yes
+	}
+	crystal_religion = {
+		graphical_culture = westerngfx
+
+		icon = 6
+		color = { 0.5 0.5 0.9 }
+		reformed = crystal_religion_reformed
+	}
+	crystal_religion_reformed = {
+		graphical_culture = westerngfx
+
+		icon = 6
+		color = { 0.5 0.5 0.9 }
+	}
+}
+
+zebra_Rgroup = {
+	playable = yes
+	has_coa_on_barony_only = yes
+	crusade_cb = crusade
+	
+	zulhooves_religion = {
+		graphical_culture = westerngfx
+
+		icon = 34
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		female_temple_holders = yes
+		max_wives = 3
+		reformed = zulhooves_religion_reformed
+		defensive_attrition = yes
+		
+	}
+	zulhooves_religion_reformed = {
+		graphical_culture = westerngfx
+
+		icon = 35
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		female_temple_holders = yes
+		max_wives = 3
+	}
+	
+	dahomaine_religion = {
+		graphical_culture = westerngfx
+
+		icon = 34
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		female_temple_holders = yes
+		max_wives = 3
+		reformed = dahomaine_religion_reformed
+		defensive_attrition = yes
+		
+	}
+	dahomaine_religion_reformed = {
+		graphical_culture = westerngfx
+
+		icon = 35
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		female_temple_holders = yes
+		max_wives = 3
+	}
+	
+}
+	
+griffon_Rgroup = {
+	playable = yes
+	has_coa_on_barony_only = yes
+	crusade_cb = crusade
+	
+	grifflyreise = {
+		graphical_culture = westerngfx
+
+		icon = 19 #norse
+		heresy_icon = 21
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		allow_viking_invasion = yes
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		priests_can_marry = yes
+		max_consorts = 3
+		raised_vassal_opinion_loss = no
+		reformed = grifflyreise_reformed
+		reformer_head_of_religion = yes #make the character that reforms this religion the head of the new reformed faith
+	}
+	
+	grifflyreise_reformed = {
+		graphical_culture = westerngfx
+
+		icon = 19 #norse
+		heresy_icon = 21
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		allow_viking_invasion = yes
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		priests_can_marry = yes
+		max_consorts = 3
+		raised_vassal_opinion_loss = no
+	}
+}
+
+changeling_Rgroup = {
+	playable = yes
+	has_coa_on_barony_only = yes
+	crusade_cb = crusade
+
+	changeling_religion = {
+		graphical_culture = westerngfx
+
+		icon = 22
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		pc_marriage = yes
+		bs_marriage = yes
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		female_temple_holders = yes
+		reformed = changeling_religion_reformed
+		reformer_head_of_religion = yes #make the character that reforms this religion the head of the new reformed faith
+	}	
+	changeling_religion_reformed = {
+		graphical_culture = westerngfx
+
+		icon = 22
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		pc_marriage = yes
+		bs_marriage = yes
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		female_temple_holders = yes
+	}
+}
+
+buffalo_Rgroup = {
+	playable = yes
+	has_coa_on_barony_only = yes
+	crusade_cb = crusade
+
+	buffalo_religion = {
+		graphical_culture = westerngfx
+
+		icon = 1
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		female_temple_holders = yes
+		reformed = buffalo_religion_reformed
+	}
+	buffalo_religion_reformed = {
+		graphical_culture = westerngfx
+
+		icon = 1
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		female_temple_holders = yes
+	}
+}
+
+saddle_arabian_Rgroup = {
+	playable = yes
+	has_coa_on_barony_only = yes
+	crusade_cb = crusade
+
+	saddle_arabian_religion = {
+		graphical_culture = westerngfx
+
+		icon = 4
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		female_temple_holders = yes
+		max_wives = 7
+		reformed = saddle_arabian_religion_reformed
+	}
+	saddle_arabian_religion_reformed = {
+		graphical_culture = westerngfx
+
+		icon = 4
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		female_temple_holders = yes
+		max_wives = 7
+	}
+}
+
+caribou_Rgroup = {
+	playable = yes
+	has_coa_on_barony_only = yes
+	crusade_cb = crusade
+
+	mooselam = {
+		graphical_culture = westerngfx
+
+		icon = 19 #norse
+		heresy_icon = 21
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		allow_viking_invasion = yes
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		priests_can_marry = yes
+		max_consorts = 5
+		reformed = mooselam_reformed
+	}
+	mooselam_reformed = {
+		graphical_culture = westerngfx
+
+		icon = 19 #norse
+		heresy_icon = 21
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		allow_viking_invasion = yes
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		priests_can_marry = yes
+		max_consorts = 5
+	}
+}
+
+discordian_Rgroup = {
+	playable = yes
+	has_coa_on_barony_only = yes
+	crusade_cb = crusade
+
+	discord_religion1 = {
+		graphical_culture = westerngfx
+		
+		icon = 1
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		female_temple_holders = yes
+	}
+	
+	discord_religion2 = {
+		graphical_culture = westerngfx
+
+		icon = 1
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		female_temple_holders = yes
+	}
+}

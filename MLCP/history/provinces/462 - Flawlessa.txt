@@ -1,0 +1,15 @@
+# c_flawlessa
+
+# County Title
+title = c_flawlessa
+
+# Settlements
+max_settlements = 3
+
+b_flawlessa = castle
+
+# Misc
+culture = crystal_culture
+100.1.1 = {
+	religion = crystal_religion
+}

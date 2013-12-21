@@ -1,0 +1,20 @@
+# c_horseshoe_point
+
+# County Title
+title = c_horseshoe_point
+
+# Settlements
+max_settlements = 6
+
+b_hoofcliff = castle
+b_horseshoe_point = city
+b_saddalding = temple
+#b_laughborough = castle
+#b_high_buckfield = city
+#b_millhorse = temple
+
+# Misc
+culture = earth_culture
+100.1.1 = {
+	religion = earth_religion
+}

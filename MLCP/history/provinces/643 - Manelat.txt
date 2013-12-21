@@ -1,0 +1,15 @@
+# c_manelat
+
+# County Title
+title = c_manelat
+
+# Settlements
+max_settlements = 3
+
+b_manelat = castle
+
+# Misc
+culture = saddle_arabian_culture
+100.1.1 = {
+	religion = saddle_arabian_religion
+}

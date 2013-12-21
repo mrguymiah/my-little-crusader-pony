@@ -1,0 +1,15 @@
+# c_forests_end
+
+# County Title
+title = c_forests_end
+
+# Settlements
+max_settlements = 3
+
+b_forests_end = castle
+
+# Misc
+culture = unicorn_culture
+100.1.1 = {
+	religion = unicorn_religion
+}

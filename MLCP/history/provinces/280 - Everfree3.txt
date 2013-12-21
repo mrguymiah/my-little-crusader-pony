@@ -1,0 +1,15 @@
+# c_everfree3
+
+# County Title
+title = c_everfree3
+
+# Settlements
+max_settlements = 1
+
+b_everfree3 = castle
+
+# Misc
+culture = caribou_culture
+100.1.1 = {
+	religion = mooselam
+}
