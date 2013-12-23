@@ -75,10 +75,21 @@ character_event = {
 				
 			}
 		}
-	}
-			
-			
-			
+		hidden_tooltip = {
+			any_vassal = {
+				limit = { 
+					trait = changeling
+					has_opinion_modifier = {
+						who = ROOT
+						modifier = changeling_liege_has_eggs
+					}
+				}
+				remove_opinion = {
+					who = ROOT
+					modifier = changeling_liege_has_eggs
+				}
+			}
+		}	
 		remove_trait = "changeling_eggs"
-		
+	}
 }
