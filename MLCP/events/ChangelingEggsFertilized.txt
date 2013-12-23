@@ -11,12 +11,14 @@ character_event = {
 		add_trait = "changeling_eggs"
 		character_event = { id = ChangelingEggsHatch.1 days = 365}
 		clr_character_flag = laid_eggs
-		any_vassal = {
-			limit = { trait = changeling }
-			opinion = {
-				who = ROOT
-				modifier = changeling_liege_has_eggs #Needs localization
-				years = 1
+		hidden_tooltip = {
+			any_vassal = {
+				limit = { trait = changeling }
+				opinion = {
+					who = ROOT
+					modifier = changeling_liege_has_eggs #Needs localization
+					years = 1
+				}
 			}
 		}
 	}
@@ -38,6 +40,10 @@ character_event = {
 				modifier = changeling_liege_has_eggs
 			}
 		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
 	}
 
 	option = {

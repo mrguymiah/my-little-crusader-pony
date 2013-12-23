@@ -1,0 +1,27 @@
+
+##################################
+#Pony Elective Modifiers
+##################################
+
+
+
+
+
+## Pegasi
+
+opinion_decent_warrior = { 
+		limit = {
+			trait = "pegasus"
+		}
+	opinion = 10
+}
+
+################################
+#Changeling modifiers
+################################
+
+##Queen has eggs
+
+changeling_liege_has_eggs = {
+	opinion = 20
+}

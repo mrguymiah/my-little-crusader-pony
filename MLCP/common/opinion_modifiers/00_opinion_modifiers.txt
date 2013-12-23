@@ -2263,22 +2263,6 @@ opinion_duchy_adventure_target = {
 }
 
 
-##################################
-#Pony Elective Modifiers
-##################################
-
-
-
-
-
-## Pegasi
-
-opinion_decent_warrior = { 
-		limit = {
-			trait = "pegasus"
-		}
-	opinion = 10
-}
 
 
 
