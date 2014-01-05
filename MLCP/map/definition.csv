@@ -1,1043 +1,1043 @@
-province;red;green;blue;x;x
-1;106;5;47;The Frozen North;x
-2;121;255;178;The Arctic;x
-3;211;218;216;Barno;x
-4;206;213;211;Durmane;x
-5;199;207;205;Hayq;x
-6;168;179;171;Motail;x
-7;183;191;193;Herdeta;x
-8;166;166;166;Yeeha;x
-9;164;174;176;Zebraway;x
-10;146;158;160;Maneamba;x
-11;147;159;156;Bridle Dar;x
-12;136;136;136;Agister;x
-13;142;149;146;Broncall;x
-14;205;205;205;Tippoint;x
-15;182;186;184;Ring Sour;x
-16;128;134;131;Quirtar;x
-17;105;112;108;Nagallop;x
-18;81;85;83;Zebroidar;x
-19;133;139;136;Zebakar;x
-20;96;102;99;Herder;x
-21;157;164;160;Turmule;x
-22;199;202;198;Sohorse;x
-23;145;157;153;Manechew;x
-24;199;199;199;Latigo Gallop;x
-25;174;174;174;Mareda;x
-26;184;185;172;Zebroitan;x
-27;124;139;134;Haltra;x
-28;134;141;131;Hockoro;x
-29;185;187;181;Kanoknacker;x
-30;180;188;185;Tamare;x
-31;141;137;131;Sunzebra;x
-32;211;209;207;Barnago;x
-33;177;182;175;Manecara;x
-34;74;79;72;Kolto;x
-35;163;167;171;Ramzarba;x
-36;143;143;143;Baybaba;x
-37;187;184;181;Pellagallop;x
-38;131;125;120;Gaitao;x
-39;136;151;149;Al Zebara;x
-40;199;205;204;Timbucktu;x
-41;108;121;119;Coltiala;x
-42;118;120;109;Kumaresi;x
-43;141;145;81;Grassased;x
-44;153;147;72;Firegrass;x
-45;159;157;113;Barnah;x
-46;184;177;105;Nyighsighuba;x
-47;185;167;66;Fillyzan;x
-48;215;213;119;Nyasihatua;x
-49;199;196;63;Nyighsimlima;x
-50;130;128;38;Mareghreb;x
-51;116;109;54;Mareya;x
-52;162;120;43;Al Ferrier;x
-53;171;167;78;Shyerstan;x
-54;132;125;43;Cabo;x
-55;203;152;58;Tobronc;x
-56;184;160;65;Crimson Waste;x
-57;120;117;54;Saddleban;x
-58;181;165;55;Scarlet Dunes;x
-59;111;101;34;Sireha;x
-60;185;183;115;Damsiretta;x
-61;179;176;104;Al Stable;x
-62;151;147;55;Maresteganem;x
-63;202;187;81;Tackna;x
-64;182;176;67;Pundaanyighumbani;x
-65;137;135;69;Numnah;x
-66;100;98;51;Beni Stock;x
-67;116;78;35;Manejaia;x
-68;183;180;34;El Paced;x
-69;211;206;105;Stirrupe;x
-70;219;215;62;Girthaia;x
-71;150;145;44;Tailbessa;x
-72;238;211;26;Darkpool;x
-73;128;91;36;El Barnadh;x
-74;114;109;50;Zabylia;x
-75;183;175;89;El Tailif;x
-76;146;106;48;Maredea;x
-77;190;192;125;Marshend;x
-78;212;214;120;Hayside;x
-79;155;167;55;Frogsgrove;x
-80;186;210;88;Blackwater;x
-81;143;224;39;Hydraspond;x
-82;106;205;47;Haygrove;x
-83;234;228;64;Frogsand;x
-84;137;201;54;Greenwater;x
-85;109;182;140;Markamear;x
-86;134;212;116;Swamptown;x
-87;111;227;84;Gators Rest;x
-88;53;111;19;Hayseed;x
-89;103;173;126;Fythmarsh;x
-90;79;128;49;Rockmarsh;x
-91;103;173;103;Applemud;x
-92;17;115;38;Greenroot;x
-93;42;99;66;Mangostone;x
-94;13;70;13;Gators Creek;x
-95;79;200;105;Great Marsh;x
-96;3;169;73;Stillwater;x
-97;128;174;138;Frogstone;x
-98;58;114;90;Smokey Marsh;x
-99;42;172;94;Moskato;x
-100;62;140;68;Firespout;x
-101;77;160;102;Trottpa;x
-102;102;150;121;North Marsh;x
-103;58;186;58;Raggrich;x
-104;19;183;69;Keyside;x
-105;33;131;86;North Point;x
-106;137;184;62;Coltoba;x
-107;129;167;68;Al-Maneia;x
-108;155;202;81;Yemare;x
-109;152;190;92;Wadi Pony;x
-110;155;206;74;Manelaga;x
-111;149;213;47;Almaria;x
-112;132;196;32;Coltdiz;x
-113;130;192;30;Murasaddala;x
-114;118;184;12;Coltellon;x
-115;97;152;10;Al-Manecha;x
-116;92;134;25;Coltrava;x
-117;84;117;32;Trottubah;x
-118;69;96;29;Neighbela;x
-119;96;115;68;Buckeres;x
-120;72;89;46;Algecantras;x
-121;211;218;97;Rivervale;x
-122;140;143;88;Stampers Pass;x
-123;188;169;63;Redcrest;x
-124;206;192;111;Brokensand;x
-125;204;189;104;Planesend;x
-126;213;174;40;Crackedsand;x
-127;107;97;37;Redsand;x
-128;219;102;83;Boneplane;x
-129;169;56;37;Deadhooves;x
-130;184;94;79;Stamping Mesa;x
-131;185;81;19;Bloodslopes;x
-132;146;45;40;Firesand;x
-133;127;21;16;Scarlet Slopes;x
-134;104;39;36;Iron Hills;x
-135;83;15;11;Deadhorse Way;x
-136;179;153;74;Tazapan1;x
-137;201;172;86;Tazapan2;x
-138;139;122;63;Tazapan3;x
-139;139;130;16;Tazapan4;x
-140;148;122;28;Tazapan5;x
-141;157;144;99;Tazapan6;x
-142;146;119;29;Tazapan7;x
-143;152;148;38;Tazapan8;x
-144;157;129;30;Tazapan9;x
-145;139;125;48;Tazapan10;x
-146;166;162;48;Tazapan11;x
-147;164;154;89;Tazapan12;x
-148;183;165;62;Tazapan13;x
-149;205;191;109;Tazapan14;x
-150;213;188;17;Mecxicoltto;x
-151;223;178;17;Tazapan16;x
-152;214;171;15;Tazapan17;x
-153;173;169;61;Tenocoltlan;x
-154;202;161;16;Tazapan19;x
-155;187;150;15;Sunora;x
-156;175;140;13;Tazapan21;x
-157;163;130;9;Tazapan22;x
-158;150;121;13;Andes;x
-159;143;116;19;Tazapan24;x
-160;184;177;56;Tazapan25;x
-161;160;153;48;Tazapan26;x
-162;167;157;68;Tazapan27;x
-163;218;179;88;Amber Ridge;x
-164;242;172;102;Locustess;x
-165;224;201;65;Cornwall;x
-166;231;207;75;Painted Plain;x
-167;189;183;100;Thundergrad;x
-168;137;131;58;Piele;x
-169;122;130;34;Chinacabinet;x
-170;224;214;84;Lombucky;x
-171;162;148;49;Golden Grass;x
-172;169;154;52;Stomponine;x
-173;205;191;90;Planeland;x
-174;176;169;74;Greeningtrees;x
-175;156;168;17;Appleloosa;x
-176;208;182;28;Thundergounds;x
-177;131;125;54;Greatstamp;x
-178;189;179;47;Gallopgrass;x
-179;167;128;37;Eastplane;x
-180;182;174;80;Sandgrass;x
-181;105;101;44;Buffalan;x
-182;177;149;39;Las Pegasus;x
-183;193;182;54;Ibex Hills;x
-184;155;126;46;Applewood;x
-185;172;177;39;Hooftenai;x
-186;194;185;77;Hoofo;x
-187;148;169;62;Applehoe;x
-188;233;227;122;Sauk;x
-189;190;202;106;Mashbucket;x
-190;180;192;74;Saltnee;x
-191;187;155;30;Stampedium;x
-192;209;198;69;Manemee;x
-193;141;118;22;Berry Creek;x
-194;243;225;101;Kickapoo;x
-195;179;178;41;Tepakanan;x
-196;208;196;102;Ponica;x
-197;191;184;32;Bloodhoof;x
-198;199;183;71;Pinefur;x
-199;217;205;138;Kalibuf;x
-200;146;153;38;Grazi;x
-201;155;183;87;Golden Fur;x
-202;211;219;70;Wichitrot;x
-203;171;191;74;Standing Rock;x
-204;217;229;81;Troto;x
-205;152;177;34;Sage;x
-206;169;168;62;Stalwart;x
-207;155;169;62;Furer;x
-208;177;153;39;Rosa;x
-209;187;210;77;Amberstead;x
-210;91;138;44;Rabbitwood;x
-211;180;204;113;Elk Valley;x
-212;146;154;53;Blackhoof;x
-213;92;117;20;Appleche;x
-214;144;153;64;Chicacharge;x
-215;193;188;97;Colton;x
-216;161;130;22;Hoofi;x
-217;148;147;41;Clippity;x
-218;183;160;34;Shalenee;x
-219;171;171;71;Furdreu;x
-220;213;168;86;Marepee;x
-221;169;168;70;Los Coltes;x
-222;153;141;64;Oaklahoofa;x
-223;109;121;50;Bisongrain;x
-224;159;163;42;Manitrotba;x
-225;170;175;20;Pasteur;x
-226;155;126;38;Bison Pauite;x
-227;172;164;67;Whoofshone;x
-228;166;156;67;Assinibone;x
-229;191;158;58;Atfur;x
-230;157;147;65;Euthe;x
-231;56;36;120;Forest's End;x
-232;76;59;131;Meadowburg;x
-233;80;53;168;Goldville;x
-234;48;27;118;Gaiter;x
-235;44;8;161;Barngundy;x
-236;39;47;89;Plainsgraze;x
-237;120;72;210;Appleville;x
-238;80;73;101;Buck;x
-239;103;91;163;Meadowlands;x
-240;88;48;202;Oldgrove;x
-241;83;73;131;Applestan;x
-242;64;47;154;Amber;x
-243;78;76;95;Scarlet Waves;x
-244;80;70;209;Autumnsborough;x
-245;68;44;159;Greenruff;x
-246;33;35;50;Saddaley Ridge;x
-247;64;44;122;Vex;x
-248;25;29;110;Herden;x
-249;63;71;116;Appletide;x
-250;59;72;140;Dodgeland;x
-251;17;33;115;Stokesand;x
-252;74;24;149;Medlesburg;x
-253;41;15;164;Rain;x
-254;94;89;166;Grainshire;x
-255;26;19;85;Nuzzleshire;x
-256;70;66;100;Hepfruit;x
-257;101;98;125;Hayden;x
-258;95;87;135;Rurala;x
-259;53;66;133;Seeden;x
-260;115;125;172;Greendale;x
-261;34;93;191;Greenpeak;x
-262;80;31;179;Vineland;x
-263;75;82;154;Trottengrain;x
-264;39;13;93;Goldenbourg;x
-265;35;30;147;Sap;x
-266;43;27;164;Grainden;x
-267;48;43;73;Leafgate;x
-268;41;31;178;Grazeland;x
-269;112;89;164;Canterlein;x
-270;124;157;68;East Ghastly;x
-271;56;98;34;West Ghasty;x
-272;89;140;61;Quarray Bend;x
-273;145;204;113;Windy Cave;x
-274;23;114;84;Dimview;x
-275;28;61;86;Froggy Bottom;x
-276;28;86;67;Froggy Side;x
-277;13;55;85;Frog Meddow;x
-278;35;171;109;Everfree1;x
-279;11;170;112;Everfree2;x
-280;53;190;159;Everfree3;x
-281;46;124;109;Everfree4;x
-282;82;180;142;Everfree5;x
-283;40;149;114;Everfree6;x
-284;17;95;66;Everfree7;x
-285;97;169;160;The Palace of the Two Sisters;x
-286;12;144;99;Everwatch;x
-287;86;141;134;Rockwood;x
-288;52;135;128;Everfree8;x
-289;8;49;65;Everfree9;x
-290;18;62;79;Everfree10;x
-291;43;73;93;Everfree11;x
-292;43;83;93;Everfree12;x
-293;60;128;105;Everfree13;x
-294;60;128;126;Everfree14;x
-295;36;188;165;Everfree15;x
-296;156;94;177;Canterlot;x
-297;179;128;196;Saddlegrass;x
-298;168;124;183;Gemstone Hills;x
-299;193;135;195;Platinum Pass;x
-300;163;123;164;Saddleville;x
-301;208;132;217;Ramming Rock Ridge;x
-302;135;93;137;Easthay;x
-303;167;89;170;Greenvale;x
-304;160;82;171;Pegasus Pass;x
-305;175;106;185;Gemglass;x
-306;158;43;162;Mortmane;x
-307;190;107;193;Roumare;x
-308;172;75;175;Étalux;x
-309;188;31;227;Galloping Grass;x
-310;152;67;211;Reins;x
-311;225;31;227;Everville;x
-312;163;59;178;La Mareche;x
-313;190;101;203;Eversin;x
-314;195;48;216;Toumane;x
-315;202;92;203;Mane;x
-316;224;73;225;Angoulemane;x
-317;157;58;171;Stallionge;x
-318;183;138;189;Poulain;x
-319;172;94;183;Coltoulouse;x
-320;195;86;211;Limehill;x
-321;189;54;80;Manehatten;x
-322;154;14;41;Bucklyn;x
-323;209;111;129;Newmane;x
-324;87;153;38;Baltimare;x
-325;104;160;63;Gallopton;x
-326;121;165;89;Mareford;x
-327;128;184;47;Coltford;x
-328;105;155;67;Horse Bay;x
-329;106;171;58;Maresbury;x
-330;84;140;43;Horseshoe Point;x
-331;66;131;30;Trottingham;x
-332;88;148;56;Northmareton;x
-333;77;120;54;Maneford;x
-334;150;177;56;Fillydelphia;x
-335;98;177;56;Manesbury;x
-336;127;177;56;Coltchester;x
-337;117;174;87;Saddleside;x
-338;100;134;50;Hayford;x
-339;116;140;82;Gallopcester;x
-340;80;152;41;Reincester;x
-341;124;176;50;Stallionbury;x
-342;120;150;78;Hayshire;x
-343;83;112;42;Linecolt;x
-344;101;134;54;Crystal Pass;x
-345;80;123;21;Goldslopes;x
-346;32;139;21;Mount Emerald;x
-347;41;170;29;Greenshire;x
-348;89;144;78;Emeraldwick;x
-349;22;93;9;Reinshire;x
-350;38;119;22;Summer Hills;x
-351;73;141;60;Appleshire;x
-352;87;145;76;Lemonshire;x
-353;82;151;68;Buckfast;x
-354;54;128;40;Hoofington;x
-355;105;130;98;Horsehamshire;x
-356;31;89;26;Canterbury;x
-357;79;128;74;Ramsshire;x
-358;67;152;30;South Neighagra;x
-359;38;94;32;Neighshire;x
-360;83;132;62;Crystalshire;x
-361;42;117;38;Rubyshire;x
-362;80;126;78;Mustsex;x
-363;34;89;12;Mustangia;x
-364;90;158;86;Stallion Ridge;x
-365;16;49;134;Hearth Pass;x
-366;45;71;136;Airthniai;x
-367;66;84;128;Altostratus;x
-368;95;111;152;Altocumulus;x
-369;18;29;111;Altolonika;x
-370;46;86;188;Pegasopolis;x
-371;54;54;189;Cloudsdale;x
-372;28;28;176;Arcus;x
-373;30;49;99;Manelitene;x
-374;13;35;89;Coltiat;x
-375;43;61;107;Cloponeia;x
-376;67;58;136;Rainos;x
-377;71;51;223;Nimbus Pass;x
-378;81;67;182;Cirrus;x
-379;51;46;159;Hurriandria;x
-380;54;79;141;Nacreous;x
-381;88;115;183;Maneathon;x
-382;70;90;141;Cloudon;x
-383;103;122;169;Maneipolis;x
-384;91;88;150;West Gallop;x
-385;59;54;158;East Gallop;x
-386;93;89;184;Galloping Slopes;x
-387;24;20;120;Airheart Mountains;x
-388;63;80;108;Airbydos;x
-389;63;68;108;Hurricanedretta;x
-390;38;45;97;Rainisos;x
-391;31;60;110;Thunderpolis;x
-392;53;71;103;Skydeia;x
-393;42;72;123;Crystalwing;x
-394;31;86;176;Mereitene;x
-395;80;104;144;Poniala;x
-396;41;72;124;Cloudkonion;x
-397;80;189;199;Stagland;x
-398;61;180;191;Tillamare;x
-399;24;132;142;Whitetail Woods;x
-400;56;109;115;Wasco;x
-401;10;96;105;Deerhill;x
-402;47;177;166;Umaretilla;x
-403;24;86;84;Stagtree;x
-404;37;74;78;Maneheur;x
-405;78;104;107;Clopamas;x
-406;66;111;109;Barney;x
-407;78;145;151;Coltnomah;x
-408;17;82;110;Morrow;x
-409;44;83;81;Deerhutes;x
-410;25;103;101;Klamount;x
-411;85;166;164;Cervidam;x
-412;25;124;122;Clatclop;x
-413;58;142;141;Hight Tree;x
-414;15;145;157;Greenrock;x
-415;39;192;190;Seaddle;x
-416;119;206;205;Adeer;x
-417;108;145;161;Clopam;x
-418;115;141;151;Tall Tale;x
-419;121;171;180;Red Wood;x
-420;75;133;144;White Wood;x
-421;111;160;169;Small Tale;x
-422;138;165;176;Tallgrass;x
-423;49;230;228;Whiterush;x
-424;136;183;183;Oatfield;x
-425;70;140;169;Elkton;x
-426;12;131;156;Chillibuck;x
-427;71;125;123;Elkerson;x
-428;93;158;157;Doeside;x
-429;49;152;150;Smokey Mountain;x
-430;41;155;179;Stag;x
-431;35;159;158;Furry;x
-432;142;166;168;Skag It;x
-433;97;129;132;Buckonagen;x
-434;34;151;184;Vanhoover;x
-435;80;119;130;Antlerford;x
-436;58;129;149;Upper Vanhoover;x
-437;59;107;122;Maines;x
-438;90;122;130;Stagway;x
-439;26;93;114;Caribou;x
-440;73;139;153;Elktians;x
-441;82;140;144;Deerneu;x
-442;41;138;144;Buckuta;x
-443;79;113;110;Elkutat;x
-444;47;136;142;Hooftaney;x
-445;18;126;119;Westmarester;x
-446;66;124;119;Maremford;x
-447;138;156;166;Vanhoover Island;x
-448;138;162;166;Senbuck Island;x
-449;211;139;187;Crystal City;x
-450;174;63;115;Crystal Vale;x
-451;220;24;116;Crystal Hills;x
-452;191;60;131;East Ridge;x
-453;143;79;114;Saphire Pass;x
-454;148;71;107;Kunzite;x
-455;166;98;130;Opalshire;x
-456;178;121;159;Neighagra Falls;x
-457;174;63;125;Platinum Fields;x
-458;169;52;107;Upper Platinum;x
-459;136;21;75;CyKd8;x
-460;162;11;82;Orecum;x
-461;74;37;54;CyKd10;x
-462;95;21;56;Flawlessa;x
-463;151;79;113;CyKd12;x
-464;102;47;72;Bergundy;x
-465;100;14;54;Creamsicle;x
-466;106;24;62;Coatshire;x
-467;59;95;131;DH1;x
-468;47;78;109;DH2;x
-469;48;88;129;White Light;x
-470;29;69;110;DH4;x
-471;53;103;153;DH5;x
-472;72;98;126;DH6;x
-473;102;130;158;DH7;x
-474;77;108;138;DH8;x
-475;47;85;123;DH9;x
-476;98;143;189;Preussen;x
-477;115;153;191;DH11;x
-478;115;145;175;DH12;x
-479;54;102;149;DH13;x
-480;79;100;122;DH14;x
-481;75;81;113;DH15;x
-482;95;101;141;DH16;x
-483;96;118;140;DH17;x
-484;87;123;141;DH18;x
-485;84;125;167;DH19;x
-486;76;102;117;DH20;x
-487;82;142;203;DH21;x
-488;102;138;157;DH22;x
-489;123;156;173;DH23;x
-490;126;148;159;DH24;x
-491;129;141;147;DH25;x
-492;177;220;222;Crystal Gap;x
-493;96;152;155;East Pass;x
-494;130;171;173;West Pass;x
-495;70;129;132;North1;x
-496;92;163;166;North2;x
-497;107;189;193;North3;x
-498;63;156;161;Amethysia;x
-499;26;118;124;North5;x
-500;56;102;105;North6;x
-501;37;114;119;Mane Mine;x
-502;71;129;132;North8;x
-503;84;133;135;North9;x
-504;48;120;125;North10;x
-505;18;85;89;Diamond Island;x
-506;35;146;174;Norht11;x
-507;66;128;144;North12;x
-508;46;104;120;Norht12;x
-509;26;98;103;North13;x
-510;56;105;109;Norht13;x
-511;76;147;151;North14;x
-512;51;137;142;Norht14;x
-513;79;155;159;North15;x
-514;24;105;110;Norht15;x
-515;10;59;92;North16;x
-516;46;73;91;Norht16;x
-517;31;112;135;North17;x
-518;35;76;71;Norht17;x
-519;44;105;124;North18;x
-520;61;135;130;Norht18;x
-521;76;121;117;North19;x
-522;91;140;137;Norht19;x
-523;28;64;60;North20;x
-524;29;94;96;Norht20;x
-525;33;54;59;North21;x
-526;44;90;100;Norht21;x
-527;52;81;88;North22;x
-528;58;149;171;Norht22;x
-529;53;130;145;North23;x
-530;24;121;140;Norht23;x
-531;27;129;163;North24;x
-532;109;203;78;CH1;x
-533;114;173;95;CH2;x
-534;84;181;53;CH3;x
-535;89;152;68;CH4;x
-536;93;135;79;CH5;x
-537;124;178;105;CH6;x
-538;94;146;77;CH7;x
-539;78;144;75;CH8;x
-540;66;161;61;CH9;x
-541;84;154;80;CH10;x
-542;62;127;59;CH11;x
-543;37;109;18;CH12;x
-544;81;151;83;CH13;x
-545;54;103;40;CH14;x
-546;57;123;39;CH15;x
-547;64;106;53;CH16;x
-548;100;153;106;CH17;x
-549;37;142;50;CH18;x
-550;39;123;49;CH19;x
-551;82;122;80;The Island;x
-552;67;140;76;CH21;x
-553;75;190;20;CH22;x
-554;40;153;42;CH23;x
-555;62;154;64;CH24;x
-556;28;149;31;CH25;x
-557;29;154;8;CH26;x
-558;90;157;79;CH27;x
-559;71;184;52;CH28;x
-560;53;158;35;CH29;x
-561;21;142;1;CH30;x
-562;49;163;30;CH31;x
-563;167;174;58;Mareque;x
-564;174;183;39;Amble;x
-565;171;178;70;Tabalk;x
-566;176;182;64;Hadib Island;x
-567;164;184;103;Al Barnhah;x
-568;156;164;15;Stirrupu;x
-569;159;174;87;Clippa;x
-570;133;164;39;Neighjaz;x
-571;211;218;95;Astallion;x
-572;143;148;63;Marecca;x
-573;209;219;46;Al Colwf;x
-574;148;155;41;Manedina;x
-575;195;202;11;Al Mareza;x
-576;158;167;19;Unshod;x
-577;152;158;53;Foala;x
-578;154;159;77;Vannerlus;x
-579;164;159;15;Manejar;x
-580;187;184;92;Marefar;x
-581;90;117;12;Muscanter;x
-582;96;118;30;Manehar;x
-583;177;187;92;Rot;x
-584;124;149;50;Manecate;x
-585;103;128;27;Sandroll;x
-586;164;187;92;Omane;x
-587;148;170;45;Al Gallop;x
-588;171;168;131;Damarescus;x
-589;136;136;103;Al Mareaq;x
-590;158;154;112;Az Starqa;x
-591;131;128;99;Amane;x
-592;140;137;110;Buckstra;x
-593;148;148;115;Coltuz;x
-594;127;126;100;Suwamare;x
-595;174;177;134;Al-Stallhmane;x
-596;144;148;125;Al- Buckri;x
-597;150;148;126;Al Trotters;x
-598;167;173;140;Baalbuck;x
-599;168;168;119;Horsoms;x
-600;143;143;105;Manema;x
-601;148;145;113;Algalloppo;x
-602;120;116;84;Neighessa;x
-603;109;108;87;Aitrotabad;x
-604;89;88;77;Colticia;x
-605;156;159;127;Trotluch;x
-606;115;112;88;Palmareyra;x
-607;51;143;20;Buckdad;x
-608;105;151;89;Mareir;x
-609;65;137;40;Samarea;x
-610;80;127;64;Kirbuck;x
-611;59;130;35;Karcantala;x
-612;62;114;44;Al Haybbariyah;x
-613;76;147;51;Basmarea;x
-614;26;71;11;Kufoala;x
-615;59;109;42;Kucoltait;x
-616;90;151;69;Kermareshah;x
-617;78;132;60;Lunaristan;x
-618;89;133;74;Qazmarein;x
-619;74;105;63;Al Neighjaf;x
-620;62;113;45;Al Amareah;x
-621;78;171;46;Al Neighreins;x
-622;96;127;85;Tigtreins;x
-623;68;133;45;Maresul;x
-624;75;144;50;Sineighar;x
-625;96;158;74;Rumamaneah;x
-626;77;123;62;Coltistan;x
-627;72;114;57;Al Jazmare;x
-628;63;157;30;Bineigh;x
-629;95;143;78;Amainda;x
-630;83;151;59;Nisibuck;x
-631;69;136;45;Taruntia;x
-632;129;160;118;Coltiva;x
-633;102;141;88;Dashneighuz;x
-634;103;128;94;Atal;x
-635;119;160;94;Hearh;x
-636;101;132;82;Stallionand;x
-637;96;117;83;Buckh;x
-638;102;130;86;Buckhara;x
-639;95;111;86;Ashcoltbad;x
-640;115;135;102;Kara-Colt;x
-641;188;222;106;El-Mareish;x
-642;170;199;101;Stallonai;x
-643;145;173;78;Manelat;x
-644;122;152;51;Foalrama;x
-645;191;210;87;Coltena;x
-646;176;190;97;Maresyut;x
-647;155;170;73;Asmane;x
-648;106;152;51;Coltiro;x
-649;137;181;51;Alexmanedria;x
-650;154;203;47;Damanetta;x
-651;113;138;58;Canterlusia;x
-652;139;171;70;Maneupura;x
-653;120;155;44;Gabridleha;x
-654;115;141;58;Buckrya;x
-655;195;173;192;Skyaluzzo;x
-656;181;178;181;Talononte;x
-657;175;167;174;Mongerrnest;x
-658;168;192;161;Aquileia;x
-659;197;211;193;Kravin;x
-660;171;191;165;Cubtria;x
-661;133;150;97;Feathernze;x
-662;164;183;121;Lucihoot;x
-663;129;149;87;Folwena;x
-664;131;153;139;Pridea;x
-665;156;174;162;Panthmbino;x
-666;157;184;166;Wbd1;x
-667;157;170;135;Wbd2;x
-668;133;147;108;Wbd3;x
-669;172;195;132;Wbd4;x
-670;187;190;139;Wingbardy;x
-671;167;169;124;Beakia;x
-672;146;148;115;Talont;x
-673;150;170;95;Corvemona;x
-674;127;129;87;Greenback Island;x
-675;208;165;204;Romua;x
-676;188;165;186;Orvalillo;x
-677;162;155;146;Orbeakello;x
-678;157;161;113;Feathara;x
-679;144;149;89;Raven;x
-680;192;198;127;Meerogna;x
-681;142;179;89;Verenia;x
-682;156;183;117;Manetua;x
-683;162;177;141;Peckua;x
-684;141;203;175;Taloneia;x
-685;86;149;120;Eagleia;x
-686;110;166;140;Karthin;x
-687;95;131;101;Griffinten;x
-688;178;138;52;Westwingland;x
-689;160;134;78;Griffre;x
-690;156;132;80;Yerapern;x
-691;171;136;60;Burdleon;x
-692;154;136;22;Airtois;x
-693;157;122;48;Gentalon;x
-694;206;162;57;Osterwingland;x
-695;206;153;27;Beakland;x
-696;206;169;79;Squawk;x
-697;186;159;93;Brantbeak;x
-698;184;162;109;Rainaut;x
-699;182;147;71;Bredaland;x
-700;165;145;98;Firebeakland;x
-701;168;143;83;Upper Firebeak;x
-702;211;211;211;EG1;x
-703;199;201;203;EG2;x
-704;181;184;187;EG3;x
-705;118;125;131;EG4;x
-706;120;122;124;EG5;x
-707;124;128;132;EG6;x
-708;162;165;168;EG7;x
-709;141;145;148;EG8;x
-710;178;189;200;EG9;x
-711;97;105;114;EG10;x
-712;108;112;116;EG11;x
-713;93;98;104;EG12;x
-714;126;133;141;EG13;x
-715;108;115;123;EG14;x
-716;126;129;132;EG15;x
-717;106;112;119;EG16;x
-718;82;94;107;EG17;x
-719;92;93;96;EG18;x
-720;88;96;105;EG19;x
-721;168;173;178;EG20;x
-722;126;128;131;EG21;x
-723;108;112;117;EG22;x
-724;93;99;107;EG23;x
-725;100;108;117;EG24;x
-726;73;83;93;EG25;x
-727;87;99;111;EG26;x
-728;132;143;153;EG27;x
-729;200;179;137;TA1;x
-730;180;154;103;TA2;x
-731;153;128;82;TA3;x
-732;159;114;27;TA4;x
-733;129;105;58;TA5;x
-734;137;102;33;TA6;x
-735;147;116;55;TA7;x
-736;123;106;17;TA8;x
-737;136;130;63;TA9;x
-738;161;155;83;TA10;x
-739;155;137;36;TA11;x
-740;159;148;27;TA12;x
-741;128;118;23;TA13;x
-742;142;97;9;TA14;x
-743;34;49;127;WG1;x
-744;58;71;138;WG2;x
-745;73;86;156;WG3;x
-746;102;125;167;WG4;x
-747;104;119;147;WG5;x
-748;88;121;183;WG6;x
-749;63;90;139;WG7;x
-750;80;98;131;WG8;x
-751;90;121;176;WG9;x
-752;47;91;171;WG10;x
-753;22;82;192;WG11;x
-754;80;88;131;WG12;x
-755;82;93;148;WG13;x
-756;67;76;127;WG14;x
-757;38;50;115;WG15;x
-758;23;38;116;WG16;x
-759;73;87;160;WG17;x
-760;51;86;157;WG18;x
-761;75;106;167;WG19;x
-762;54;61;103;WG20;x
-763;52;70;167;WG21;x
-764;109;132;179;WG22;x
-765;79;96;185;WG23;x
-766;93;105;168;WG24;x
-767;72;89;124;WG25;x
-768;58;84;137;WG26;x
-769;80;102;106;WG27;x
-770;97;110;175;WG28;x
-771;77;89;152;WG29;x
-772;43;58;139;WG30;x
-773;63;74;133;WG31;x
-774;69;82;156;WG32;x
-775;94;103;155;WG33;x
-776;89;130;148;SK1;x
-777;35;102;130;SK2;x
-778;70;119;140;SK3;x
-779;45;98;122;SK4;x
-780;78;118;136;SK5;x
-781;82;128;147;SK6;x
-782;49;88;105;SK7;x
-783;67;98;113;SK8;x
-784;64;123;149;SK9;x
-785;156;203;224;SK10;x
-786;112;161;184;SK11;x
-787;101;141;159;SK12;x
-788;110;142;156;SK13;x
-789;64;98;114;Beakslagen;x
-790;97;116;126;SK15;x
-791;73;109;126;SK16;x
-792;37;123;160;SK17;x
-793;30;130;172;Liftauf;x
-794;73;105;120;SK19;x
-795;40;76;93;Kristoff;x
-796;80;111;126;SK21;x
-797;56;89;104;SK22;x
-798;5;62;87;SK23;x
-799;94;146;139;Moosenbaum;x
-800;38;124;112;Deerer;x
-801;77;154;144;Antlerdon;x
-802;62;104;98;Tortroto;x
-803;57;137;127;Coniferdon;x
-804;76;123;116;Glacia;x
-805;45;146;133;Seal Bay;x
-806;73;151;141;Pastureland;x
-807;67;133;124;Berrdon;x
-808;53;130;120;Vejalyk;x
-809;231;63;206;Griffin's Mouth;x
-810;206;95;189;North Griffking;x
-811;145;81;135;East Griffking;x
-812;120;90;115;South Griffking;x
-813;152;100;144;West Griffking;x
-814;153;64;139;Highwing Straits;x
-815;157;137;154;Lake Griffking;x
-816;172;46;225;Greatwing River1;x
-817;137;15;187;Greatwing River2;x
-818;125;68;149;Greatwing River3;x
-819;143;104;159;Greatwing River4;x
-820;122;255;219;Fillyzan Straits;x
-821;123;204;255;Al Zebara Bay;x
-822;40;165;187;Coltegol Sea1;x
-823;40;187;147;Coltegol Sea2;x
-824;62;147;162;Zebrican Horn;x
-825;101;171;183;Zebgola Sea;x
-826;53;139;155;Coast of Telmane;x
-827;18;103;119;Stripped Straits;x
-828;81;164;179;Zebnyati Bay;x
-829;56;121;132;Buckbuffa;x
-830;70;157;172;Buffalo Sea;x
-831;78;142;135;Buffalo Sea2;x
-832;22;167;191;Stampeading Coast1;x
-833;60;153;169;Stampeading Coast2;x
-834;128;198;210;Gulf of Mecxicoltto;x
-835;93;143;152;Bufazam River;x
-836;97;206;224;Lake Bufcoco;x
-837;85;177;167;Sea1;x
-838;97;224;211;Sea2;x
-839;57;179;146;Sea3;x
-840;96;228;192;Sea4;x
-841;30;219;168;Sea5;x
-842;96;228;214;Las Pegasus Bay;x
-843;58;166;142;Sea6;x
-844;26;189;153;Gulf of Saddles;x
-845;62;177;71;Sea7;x
-846;131;207;137;Sea8;x
-847;29;192;42;Sea9;x
-848;43;134;50;Sea10;x
-849;89;152;94;Sea11;x
-850;95;203;103;Sea12;x
-851;33;219;48;Vanhoover Bay;x
-852;80;158;86;Marecific North West;x
-853;108;161;57;Marecific North West 2;x
-854;142;197;89;Strait of Vanhoover;x
-855;146;212;81;Crystal Gulf;x
-856;112;195;31;Forzan Coast1;x
-857;132;199;66;Forzan Coast2;x
-858;101;179;25;Forzan Coast3;x
-859;219;204;33;Forzan Coast4;x
-860;190;177;22;Ice Sea1;x
-861;170;160;45;Ice Sea2;x
-862;134;125;20;Ice Sea3;x
-863;156;148;61;Coast of Mooseland 1;x
-864;174;163;36;Coast of Mooseland 2;x
-865;195;184;67;Coast of Mooseland 3;x
-866;201;186;25;Coast of Mooseland 4;x
-867;150;140;31;Ice Sea5;x
-868;139;134;81;Ice Sea6;x
-869;142;134;45;Ice Sea7;x
-870;167;159;76;North Marelantic 1;x
-871;131;122;29;North Marelantic 2;x
-872;167;157;58;North Marelantic 3;x
-873;49;83;212;Diamond Straits;x
-874;76;91;153;Crystal Coast;x
-875;46;65;137;Manehatten Sea;x
-876;63;80;144;Maneson Straits;x
-877;96;110;166;Hayford Channle;x
-878;90;106;166;Hayford Coast;x
-879;140;151;193;Fillydelphia Bay;x
-880;136;151;208;North Hoof Sea;x
-881;29;58;163;Horseshoe Estuary;x
-882;78;109;224;Horseshoe Bay;x
-883;63;144;122;Marelantic 1;x
-884;52;173;140;Marelantic 2;x
-885;39;167;132;Marelantic 3;x
-886;20;137;105;Marelantic 4;x
-887;102;187;164;Marelantic 5;x
-888;58;129;110;Marelantic 6;x
-889;61;128;110;Marelantic 7;x
-890;33;121;96;Marelantic 8;x
-891;65;101;90;Marelantic 9;x
-892;52;162;132;Marelantic 10;x
-893;69;171;142;Marelantic 11;x
-894;238;184;97;Hayseed Gulf;x
-895;192;141;62;Hayseed Coast1;x
-896;188;125;25;Hayseed Coast2;x
-897;170;134;78;Haytree Strait;x
-898;161;113;37;Hayseed Approach;x
-899;136;69;69;Dunfjord;x
-900;198;77;77;RiverMouth1;x
-901;171;94;94;Sjona;x
-902;149;20;20;Featheringet;x
-903;129;18;18;Griffbotn;x
-904;192;67;67;Northwing Sea;x
-905;169;59;59;Mouth of Greatwing;x
-906;157;83;83;Bluewing Coast1;x
-907;110;35;35;Bluewing Coast2;x
-908;120;69;69;Bluewing Coast3;x
-909;108;35;35;Redwing Bay;x
-910;100;12;12;Gap of Gryphons;x
-911;27;179;174;Maredriatic1;x
-912;79;153;150;Maredriatic2;x
-913;62;138;135;Maredriatic3;x
-914;128;181;179;Gulf of Talonberis;x
-915;8;82;78;Maredriatic4;x
-916;35;100;97;Arabian Cost1;x
-917;73;223;218;Arabian Cost2;x
-918;53;172;168;Arabian Cost3;x
-919;53;172;168;Arabian Cost4;x
-920;41;146;142;Arabian Cost5;x
-921;100;27;88;Greenhoof Gulf;x
-922;144;114;139;Hadib Channel;x
-923;127;79;119;Gulf of Hamaremet;x
-924;53;101;79;Gulf of Sadra;x
-925;34;175;110;Sand Saddle Sea;x
-926;101;165;136;Gulf of Maresopotamia;x
-927;83;120;102;Coast of Maregypt;x
-928;71;128;101;Neighle Delta;x
-929;43;139;95;Gulf of Maneupura;x
-930;102;119;111;South Maregypt Sea;x
-931;104;158;133;South Marediterranean Sea;x
-932;59;201;136;Marediterranean Sea;x
-933;63;127;97;Green Isles Approach;x
-934;178;67;161;Longhorn Coast;x
-935;140;105;135;Greenclaw Straits;x
-936;143;98;136;South Marelantic1;x
-937;91;41;82;South Marelantic2;x
-938;136;113;132;South Marelantic3;x
-939;177;56;158;Shadow Bay;x
-940;133;65;121;Changling Coast1;x
-941;169;101;157;Changling Coast2;x
-942;139;62;127;Changling Coast3;x
-943;163;98;153;Changling Coast4;x
-944;151;39;133;Changling Coast5;x
-945;91;49;84;Narrow Sea1;x
-946;154;113;148;Narrow Sea2;x
-947;115;73;108;Narrow Sea3;x
-948;137;87;129;Zebrican Approach1;x
-949;166;46;147;Zebrican Approach2;x
-950;187;136;179;South Manedalus Coast;x
-951;163;74;149;Manedalus Coast;x
-952;200;115;187;North Manedalus Coast;x
-953;19;207;192;Horn of Al-Manarin;x
-954;58;244;229;Straits of Haycules;x
-955;75;170;162;Gulf of Trottubah;x
-956;33;137;128;Coast of Manelaga;x
-957;81;158;152;Gulf of Rams;x
-958;36;136;128;Cape of Manedalus;x
-959;87;186;178;Zebzeben Bay;x
-960;53;170;160;Zebrican Coast1;x
-961;24;189;176;Zebrican Coast2;x
-962;74;180;172;Zebrican Coast3;x
-963;109;225;216;Zebrican Coast4;x
-964;55;155;147;Zebrican Coast5;x
-965;150;213;208;Amzebos Bay;x
-966;86;153;148;Amzebos Coast;x
-967;181;233;223;Upper Zebzeben;x
-968;30;202;168;Lake Strippas;x
-969;130;202;87;Zebzeben River;x
-970;255;240;126;Lower Zebzeben;x
-971;241;103;129;Zebzeben Mouth;x
-972;189;69;92;Amzebos;x
-973;208;231;49;Changinus;x
-974;49;195;231;Hibrodarbis;x
-975;90;153;169;Chitalinas;x
-976;106;138;146;Hibrodarbis2;x
-977;167;128;225;Neighle1;x
-978;143;123;172;Neighle2;x
-979;159;83;217;Neighle3;x
-980;183;168;205;Neighle4;x
-981;176;163;194;Neighle5;x
-982;159;149;173;Neighle6;x
-983;162;129;188;Neighle7;x
-984;124;74;163;Neighle8;x
-985;131;115;144;Neighle9;x
-986;130;192;223;Sadalid River1;x
-987;142;170;184;Sadalid River2;x
-988;82;145;177;Sadalid River3;x
-989;111;135;147;Marecca Sea;x
-990;156;210;190;Talonberis;x
-991;106;182;154;Maregian Sea1;x
-992;72;181;141;Maregian Sea2;x
-993;218;15;15;Redwing1;x
-994;235;84;84;Redwing2;x
-995;199;141;141;Redwing3;x
-996;183;80;80;Redwing4;x
-997;38;223;38;Grifleb1;x
-998;52;192;52;Grifleb2;x
-999;61;152;61;Grifleb3;x
-1000;23;147;23;Grifleb4;x
-1001;45;129;45;Grifleb5;x
-1002;80;139;80;Grifleb6;x
-1003;138;199;190;Iceka River;x
-1004;61;197;106;Nor1;x
-1005;112;191;138;Nor2;x
-1006;158;66;66;Dimond1;x
-1007;162;99;99;Dimond2;x
-1008;136;45;45;Dimond3;x
-1009;125;20;20;Dimond4;x
-1010;125;77;21;Iceglass Lake1;x
-1011;146;104;56;Iceglass Lake2;x
-1012;150;122;89;Iceglass Lake3;x
-1013;135;129;31;Crystal River1;x
-1014;145;141;71;Crystal River2;x
-1015;178;174;110;Crystal River3;x
-1016;104;190;121;River Canter;x
-1017;0;208;39;Saddle River1;x
-1018;105;156;115;Saddle Lake;x
-1019;17;236;58;Saddle River2;x
-1020;51;209;81;Saddle River3;x
-1021;127;185;89;Saddle River4;x
-1022;134;216;79;Saddle River5;x
-1023;137;178;111;Saddle River6;x
-1024;182;84;71;Lake Neighagra;x
-1025;184;42;14;River Equus1;x
-1026;169;73;54;River Equus2;x
-1027;168;99;85;River Equus3;x
-1028;255;93;62;River Equus4;x
-1029;166;74;56;River Equus5;x
-1030;154;25;0;Everstream;x
-1031;180;179;115;Hay River1;x
-1032;201;200;80;Hay River2;x
-1033;221;219;29;Hay River3;x
-1034;243;242;132;Hay River4;x
-1035;151;150;60;Zebmajani;x
-1036;60;58;7;Zebnyati;x
-1037;131;169;118;Featherjuvet;x
-1038;189;205;255;Black Spine Lake;x
-1039;154;178;255;Sea of Stripes;x
-1040;98;134;255;Crystal Lake;x
-1041;60;105;255;Everlake;x
-1042;90;176;159;Hayseed Lake;x
+province;red;green;blue;x;x;;;;;
+1;106;5;47;The;Frozen;North;x;;;
+2;121;255;178;The;Arctic;x;;;;
+3;211;218;216;Barno;x;;;;;
+4;206;213;211;Durmane;x;;;;;
+5;199;207;205;Hayq;x;;;;;
+6;168;179;171;Motail;x;;;;;
+7;183;191;193;Herdeta;x;;;;;
+8;166;166;166;Yeeha;x;;;;;
+9;164;174;176;Zebraway;x;;;;;
+10;146;158;160;Maneamba;x;;;;;
+11;147;159;156;Bridle;Dar;x;;;;
+12;136;136;136;Agister;x;;;;;
+13;142;149;146;Broncall;x;;;;;
+14;205;205;205;Tippoint;x;;;;;
+15;182;186;184;Ring;Sour;x;;;;
+16;128;134;131;Quirtar;x;;;;;
+17;105;112;108;Nagallop;x;;;;;
+18;81;85;83;Zebroidar;x;;;;;
+19;133;139;136;Zebakar;x;;;;;
+20;96;102;99;Herder;x;;;;;
+21;157;164;160;Turmule;x;;;;;
+22;199;202;198;Sohorse;x;;;;;
+23;145;157;153;Manechew;x;;;;;
+24;199;199;199;Latigo;Gallop;x;;;;
+25;174;174;174;Mareda;x;;;;;
+26;184;185;172;Zebroitan;x;;;;;
+27;124;139;134;Haltra;x;;;;;
+28;134;141;131;Hockoro;x;;;;;
+29;185;187;181;Kanoknacker;x;;;;;
+30;180;188;185;Tamare;x;;;;;
+31;141;137;131;Sunzebra;x;;;;;
+32;211;209;207;Barnago;x;;;;;
+33;177;182;175;Manecara;x;;;;;
+34;74;79;72;Kolto;x;;;;;
+35;163;167;171;Ramzarba;x;;;;;
+36;143;143;143;Baybaba;x;;;;;
+37;187;184;181;Pellagallop;x;;;;;
+38;131;125;120;Gaitao;x;;;;;
+39;136;151;149;Al;Zebara;x;;;;
+40;199;205;204;Timbucktu;x;;;;;
+41;108;121;119;Coltiala;x;;;;;
+42;118;120;109;Kumaresi;x;;;;;
+43;141;145;81;Grassased;x;;;;;
+44;153;147;72;Firegrass;x;;;;;
+45;159;157;113;Barnah;x;;;;;
+46;184;177;105;Nyighsighuba;x;;;;;
+47;185;167;66;Fillyzan;x;;;;;
+48;215;213;119;Nyasihatua;x;;;;;
+49;199;196;63;Nyighsimlima;x;;;;;
+50;130;128;38;Mareghreb;x;;;;;
+51;116;109;54;Mareya;x;;;;;
+52;162;120;43;Al;Ferrier;x;;;;
+53;171;167;78;Shyerstan;x;;;;;
+54;132;125;43;Cabo;x;;;;;
+55;203;152;58;Tobronc;x;;;;;
+56;184;160;65;Crimson;Waste;x;;;;
+57;120;117;54;Saddleban;x;;;;;
+58;181;165;55;Scarlet;Dunes;x;;;;
+59;111;101;34;Sireha;x;;;;;
+60;185;183;115;Damsiretta;x;;;;;
+61;179;176;104;Al;Stable;x;;;;
+62;151;147;55;Maresteganem;x;;;;;
+63;202;187;81;Tackna;x;;;;;
+64;182;176;67;Pundaanyighumbani;x;;;;;
+65;137;135;69;Numnah;x;;;;;
+66;100;98;51;Beni;Stock;x;;;;
+67;116;78;35;Manejaia;x;;;;;
+68;183;180;34;El;Paced;x;;;;
+69;211;206;105;Stirrupe;x;;;;;
+70;219;215;62;Girthaia;x;;;;;
+71;150;145;44;Tailbessa;x;;;;;
+72;238;211;26;Darkpool;x;;;;;
+73;128;91;36;El;Barnadh;x;;;;
+74;114;109;50;Zabylia;x;;;;;
+75;183;175;89;El;Tailif;x;;;;
+76;146;106;48;Maredea;x;;;;;
+77;190;192;125;Marshend;x;;;;;
+78;212;214;120;Hayside;x;;;;;
+79;155;167;55;Frogsgrove;x;;;;;
+80;186;210;88;Blackwater;x;;;;;
+81;143;224;39;Hydraspond;x;;;;;
+82;106;205;47;Haygrove;x;;;;;
+83;234;228;64;Frogsand;x;;;;;
+84;137;201;54;Greenwater;x;;;;;
+85;109;182;140;Markamear;x;;;;;
+86;134;212;116;Swamptown;x;;;;;
+87;111;227;84;Gators;Rest;x;;;;
+88;53;111;19;Hayseed;x;;;;;
+89;103;173;126;Fythmarsh;x;;;;;
+90;79;128;49;Rockmarsh;x;;;;;
+91;103;173;103;Applemud;x;;;;;
+92;17;115;38;Greenroot;x;;;;;
+93;42;99;66;Mangostone;x;;;;;
+94;13;70;13;Gators;Creek;x;;;;
+95;79;200;105;Great;Marsh;x;;;;
+96;3;169;73;Stillwater;x;;;;;
+97;128;174;138;Frogstone;x;;;;;
+98;58;114;90;Smokey;Marsh;x;;;;
+99;42;172;94;Moskato;x;;;;;
+100;62;140;68;Firespout;x;;;;;
+101;77;160;102;Trottpa;x;;;;;
+102;102;150;121;North;Marsh;x;;;;
+103;58;186;58;Raggrich;x;;;;;
+104;19;183;69;Keyside;x;;;;;
+105;33;131;86;North;Point;x;;;;
+106;137;184;62;Coltoba;x;;;;;
+107;129;167;68;Al-Maneia;x;;;;;
+108;155;202;81;Yemare;x;;;;;
+109;152;190;92;Wadi;Pony;x;;;;
+110;155;206;74;Manelaga;x;;;;;
+111;149;213;47;Almaria;x;;;;;
+112;132;196;32;Coltdiz;x;;;;;
+113;130;192;30;Murasaddala;x;;;;;
+114;118;184;12;Coltellon;x;;;;;
+115;97;152;10;Al-Manecha;x;;;;;
+116;92;134;25;Coltrava;x;;;;;
+117;84;117;32;Trottubah;x;;;;;
+118;69;96;29;Neighbela;x;;;;;
+119;96;115;68;Buckeres;x;;;;;
+120;72;89;46;Algecantras;x;;;;;
+121;211;218;97;Rivervale;x;;;;;
+122;140;143;88;Stampers;Pass;x;;;;
+123;188;169;63;Redcrest;x;;;;;
+124;206;192;111;Brokensand;x;;;;;
+125;204;189;104;Planesend;x;;;;;
+126;213;174;40;Crackedsand;x;;;;;
+127;107;97;37;Redsand;x;;;;;
+128;219;102;83;Boneplane;x;;;;;
+129;169;56;37;Deadhooves;x;;;;;
+130;184;94;79;Stamping;Mesa;x;;;;
+131;185;81;19;Bloodslopes;x;;;;;
+132;146;45;40;Firesand;x;;;;;
+133;127;21;16;Scarlet;Slopes;x;;;;
+134;104;39;36;Iron;Hills;x;;;;
+135;83;15;11;Deadhorse;Way;x;;;;
+136;179;153;74;Tazapan1;x;;;;;
+137;201;172;86;Tazapan2;x;;;;;
+138;139;122;63;Tazapan3;x;;;;;
+139;139;130;16;Tazapan4;x;;;;;
+140;148;122;28;Tazapan5;x;;;;;
+141;157;144;99;Tazapan6;x;;;;;
+142;146;119;29;Tazapan7;x;;;;;
+143;152;148;38;Tazapan8;x;;;;;
+144;157;129;30;Tazapan9;x;;;;;
+145;139;125;48;Tazapan10;x;;;;;
+146;166;162;48;Tazapan11;x;;;;;
+147;164;154;89;Tazapan12;x;;;;;
+148;183;165;62;Tazapan13;x;;;;;
+149;205;191;109;Tazapan14;x;;;;;
+150;213;188;17;Mecxicoltto;x;;;;;
+151;223;178;17;Tazapan16;x;;;;;
+152;214;171;15;Tazapan17;x;;;;;
+153;173;169;61;Tenocoltlan;x;;;;;
+154;202;161;16;Tazapan19;x;;;;;
+155;187;150;15;Sunora;x;;;;;
+156;175;140;13;Tazapan21;x;;;;;
+157;163;130;9;Tazapan22;x;;;;;
+158;150;121;13;Andes;x;;;;;
+159;143;116;19;Tazapan24;x;;;;;
+160;184;177;56;Tazapan25;x;;;;;
+161;160;153;48;Tazapan26;x;;;;;
+162;167;157;68;Tazapan27;x;;;;;
+163;218;179;88;Amber;Ridge;x;;;;
+164;242;172;102;Locustess;x;;;;;
+165;224;201;65;Cornwall;x;;;;;
+166;231;207;75;Painted;Plain;x;;;;
+167;189;183;100;Thundergrad;x;;;;;
+168;137;131;58;Piele;x;;;;;
+169;122;130;34;Chinacabinet;x;;;;;
+170;224;214;84;Lombucky;x;;;;;
+171;162;148;49;Golden;Grass;x;;;;
+172;169;154;52;Stomponine;x;;;;;
+173;205;191;90;Planeland;x;;;;;
+174;176;169;74;Greeningtrees;x;;;;;
+175;156;168;17;Appleloosa;x;;;;;
+176;208;182;28;Thundergounds;x;;;;;
+177;131;125;54;Greatstamp;x;;;;;
+178;189;179;47;Gallopgrass;x;;;;;
+179;167;128;37;Eastplane;x;;;;;
+180;182;174;80;Sandgrass;x;;;;;
+181;105;101;44;Buffalan;x;;;;;
+182;177;149;39;Las;Pegasus;x;;;;
+183;193;182;54;Ibex;Hills;x;;;;
+184;155;126;46;Applewood;x;;;;;
+185;172;177;39;Hooftenai;x;;;;;
+186;194;185;77;Hoofo;x;;;;;
+187;148;169;62;Applehoe;x;;;;;
+188;233;227;122;Sauk;x;;;;;
+189;190;202;106;Mashbucket;x;;;;;
+190;180;192;74;Saltnee;x;;;;;
+191;187;155;30;Stampedium;x;;;;;
+192;209;198;69;Manemee;x;;;;;
+193;141;118;22;Berry;Creek;x;;;;
+194;243;225;101;Kickapoo;x;;;;;
+195;179;178;41;Tepakanan;x;;;;;
+196;208;196;102;Ponica;x;;;;;
+197;191;184;32;Bloodhoof;x;;;;;
+198;199;183;71;Pinefur;x;;;;;
+199;217;205;138;Kalibuf;x;;;;;
+200;146;153;38;Grazi;x;;;;;
+201;155;183;87;Golden;Fur;x;;;;
+202;211;219;70;Wichitrot;x;;;;;
+203;171;191;74;Standing;Rock;x;;;;
+204;217;229;81;Troto;x;;;;;
+205;152;177;34;Sage;x;;;;;
+206;169;168;62;Stalwart;x;;;;;
+207;155;169;62;Furer;x;;;;;
+208;177;153;39;Rosa;x;;;;;
+209;187;210;77;Amberstead;x;;;;;
+210;91;138;44;Rabbitwood;x;;;;;
+211;180;204;113;Elk;Valley;x;;;;
+212;146;154;53;Blackhoof;x;;;;;
+213;92;117;20;Appleche;x;;;;;
+214;144;153;64;Chicacharge;x;;;;;
+215;193;188;97;Colton;x;;;;;
+216;161;130;22;Hoofi;x;;;;;
+217;148;147;41;Clippity;x;;;;;
+218;183;160;34;Shalenee;x;;;;;
+219;171;171;71;Furdreu;x;;;;;
+220;213;168;86;Marepee;x;;;;;
+221;169;168;70;Los;Coltes;x;;;;
+222;153;141;64;Oaklahoofa;x;;;;;
+223;109;121;50;Bisongrain;x;;;;;
+224;159;163;42;Manitrotba;x;;;;;
+225;170;175;20;Pasteur;x;;;;;
+226;155;126;38;Bison;Pauite;x;;;;
+227;172;164;67;Whoofshone;x;;;;;
+228;166;156;67;Assinibone;x;;;;;
+229;191;158;58;Atfur;x;;;;;
+230;157;147;65;Euthe;x;;;;;
+231;56;36;120;Forest's;End;x;;;;
+232;76;59;131;Meadowburg;x;;;;;
+233;80;53;168;Goldville;x;;;;;
+234;48;27;118;Gaiter;x;;;;;
+235;44;8;161;Barngundy;x;;;;;
+236;39;47;89;Plainsgraze;x;;;;;
+237;120;72;210;Appleville;x;;;;;
+238;80;73;101;Buck;x;;;;;
+239;103;91;163;Meadowlands;x;;;;;
+240;88;48;202;Oldgrove;x;;;;;
+241;83;73;131;Applestan;x;;;;;
+242;64;47;154;Amber;x;;;;;
+243;78;76;95;Scarlet;Waves;x;;;;
+244;80;70;209;Autumnsborough;x;;;;;
+245;68;44;159;Greenruff;x;;;;;
+246;33;35;50;Saddaley;Ridge;x;;;;
+247;64;44;122;Vex;x;;;;;
+248;25;29;110;Herden;x;;;;;
+249;63;71;116;Appletide;x;;;;;
+250;59;72;140;Dodgeland;x;;;;;
+251;17;33;115;Stokesand;x;;;;;
+252;74;24;149;Medlesburg;x;;;;;
+253;41;15;164;Rain;x;;;;;
+254;94;89;166;Grainshire;x;;;;;
+255;26;19;85;Nuzzleshire;x;;;;;
+256;70;66;100;Hepfruit;x;;;;;
+257;101;98;125;Hayden;x;;;;;
+258;95;87;135;Rurala;x;;;;;
+259;53;66;133;Seeden;x;;;;;
+260;115;125;172;Greendale;x;;;;;
+261;34;93;191;Greenpeak;x;;;;;
+262;80;31;179;Vineland;x;;;;;
+263;75;82;154;Trottengrain;x;;;;;
+264;39;13;93;Goldenbourg;x;;;;;
+265;35;30;147;Sap;x;;;;;
+266;43;27;164;Grainden;x;;;;;
+267;48;43;73;Leafgate;x;;;;;
+268;41;31;178;Grazeland;x;;;;;
+269;112;89;164;Canterlein;x;;;;;
+270;124;157;68;East;Ghastly;x;;;;
+271;56;98;34;West;Ghasty;x;;;;
+272;89;140;61;Quarray;Bend;x;;;;
+273;145;204;113;Windy;Cave;x;;;;
+274;23;114;84;Dimview;x;;;;;
+275;28;61;86;Froggy;Bottom;x;;;;
+276;28;86;67;Froggy;Side;x;;;;
+277;13;55;85;Frog;Meddow;x;;;;
+278;35;171;109;Everfree1;x;;;;;
+279;11;170;112;Everfree2;x;;;;;
+280;53;190;159;Everfree3;x;;;;;
+281;46;124;109;Everfree4;x;;;;;
+282;82;180;142;Everfree5;x;;;;;
+283;40;149;114;Everfree6;x;;;;;
+284;17;95;66;Everfree7;x;;;;;
+285;97;169;160;The;Palace;of;the;Two;Sisters;x
+286;12;144;99;Everwatch;x;;;;;
+287;86;141;134;Rockwood;x;;;;;
+288;52;135;128;Everfree8;x;;;;;
+289;8;49;65;Everfree9;x;;;;;
+290;18;62;79;Everfree10;x;;;;;
+291;43;73;93;Everfree11;x;;;;;
+292;43;83;93;Everfree12;x;;;;;
+293;60;128;105;Everfree13;x;;;;;
+294;60;128;126;Everfree14;x;;;;;
+295;36;188;165;Everfree15;x;;;;;
+296;156;94;177;Canterlot;x;;;;;
+297;179;128;196;Saddlegrass;x;;;;;
+298;168;124;183;Gemstone;Hills;x;;;;
+299;193;135;195;Platinum;Pass;x;;;;
+300;163;123;164;Saddleville;x;;;;;
+301;208;132;217;Ramming;Rock;Ridge;x;;;
+302;135;93;137;Easthay;x;;;;;
+303;167;89;170;Greenvale;x;;;;;
+304;160;82;171;Pegasus;Pass;x;;;;
+305;175;106;185;Gemglass;x;;;;;
+306;158;43;162;Mortmane;x;;;;;
+307;190;107;193;Roumare;x;;;;;
+308;172;75;175;Étalux;x;;;;;
+309;188;31;227;Galloping;Grass;x;;;;
+310;152;67;211;Reins;x;;;;;
+311;225;31;227;Everville;x;;;;;
+312;163;59;178;La;Mareche;x;;;;
+313;190;101;203;Eversin;x;;;;;
+314;195;48;216;Toumane;x;;;;;
+315;202;92;203;Mane;x;;;;;
+316;224;73;225;Angoulemane;x;;;;;
+317;157;58;171;Stallionge;x;;;;;
+318;183;138;189;Poulain;x;;;;;
+319;172;94;183;Coltoulouse;x;;;;;
+320;195;86;211;Limehill;x;;;;;
+321;189;54;80;Manehatten;x;;;;;
+322;154;14;41;Bucklyn;x;;;;;
+323;209;111;129;Newmane;x;;;;;
+324;87;153;38;Baltimare;x;;;;;
+325;104;160;63;Gallopton;x;;;;;
+326;121;165;89;Mareford;x;;;;;
+327;128;184;47;Coltford;x;;;;;
+328;105;155;67;Horse;Bay;x;;;;
+329;106;171;58;Maresbury;x;;;;;
+330;84;140;43;Horseshoe;Point;x;;;;
+331;66;131;30;Trottingham;x;;;;;
+332;88;148;56;Northmareton;x;;;;;
+333;77;120;54;Maneford;x;;;;;
+334;150;177;56;Fillydelphia;x;;;;;
+335;98;177;56;Manesbury;x;;;;;
+336;127;177;56;Coltchester;x;;;;;
+337;117;174;87;Saddleside;x;;;;;
+338;100;134;50;Hayford;x;;;;;
+339;116;140;82;Gallopcester;x;;;;;
+340;80;152;41;Reincester;x;;;;;
+341;124;176;50;Stallionbury;x;;;;;
+342;120;150;78;Hayshire;x;;;;;
+343;83;112;42;Linecolt;x;;;;;
+344;101;134;54;Crystal;Pass;x;;;;
+345;80;123;21;Goldslopes;x;;;;;
+346;32;139;21;Mount;Emerald;x;;;;
+347;41;170;29;Greenshire;x;;;;;
+348;89;144;78;Emeraldwick;x;;;;;
+349;22;93;9;Reinshire;x;;;;;
+350;38;119;22;Summer;Hills;x;;;;
+351;73;141;60;Appleshire;x;;;;;
+352;87;145;76;Lemonshire;x;;;;;
+353;82;151;68;Buckfast;x;;;;;
+354;54;128;40;Hoofington;x;;;;;
+355;105;130;98;Horsehamshire;x;;;;;
+356;31;89;26;Canterbury;x;;;;;
+357;79;128;74;Ramsshire;x;;;;;
+358;67;152;30;South;Neighagra;x;;;;
+359;38;94;32;Neighshire;x;;;;;
+360;83;132;62;Crystalshire;x;;;;;
+361;42;117;38;Rubyshire;x;;;;;
+362;80;126;78;Mustsex;x;;;;;
+363;34;89;12;Mustangia;x;;;;;
+364;90;158;86;Stallion;Ridge;x;;;;
+365;16;49;134;Hearth;Pass;x;;;;
+366;45;71;136;Airthniai;x;;;;;
+367;66;84;128;Altostratus;x;;;;;
+368;95;111;152;Altocumulus;x;;;;;
+369;18;29;111;Altolonika;x;;;;;
+370;46;86;188;Pegasopolis;x;;;;;
+371;54;54;189;Cloudsdale;x;;;;;
+372;28;28;176;Arcus;x;;;;;
+373;30;49;99;Manelitene;x;;;;;
+374;13;35;89;Coltiat;x;;;;;
+375;43;61;107;Cloponeia;x;;;;;
+376;67;58;136;Rainos;x;;;;;
+377;71;51;223;Nimbus;Pass;x;;;;
+378;81;67;182;Cirrus;x;;;;;
+379;51;46;159;Hurriandria;x;;;;;
+380;54;79;141;Nacreous;x;;;;;
+381;88;115;183;Maneathon;x;;;;;
+382;70;90;141;Cloudon;x;;;;;
+383;103;122;169;Maneipolis;x;;;;;
+384;91;88;150;West;Gallop;x;;;;
+385;59;54;158;East;Gallop;x;;;;
+386;93;89;184;Galloping;Slopes;x;;;;
+387;24;20;120;Airheart;Mountains;x;;;;
+388;63;80;108;Airbydos;x;;;;;
+389;63;68;108;Hurricanedretta;x;;;;;
+390;38;45;97;Rainisos;x;;;;;
+391;31;60;110;Thunderpolis;x;;;;;
+392;53;71;103;Skydeia;x;;;;;
+393;42;72;123;Crystalwing;x;;;;;
+394;31;86;176;Mereitene;x;;;;;
+395;80;104;144;Poniala;x;;;;;
+396;41;72;124;Cloudkonion;x;;;;;
+397;80;189;199;Stagland;x;;;;;
+398;61;180;191;Tillamare;x;;;;;
+399;24;132;142;Whitetail;Woods;x;;;;
+400;56;109;115;Wasco;x;;;;;
+401;10;96;105;Deerhill;x;;;;;
+402;47;177;166;Umaretilla;x;;;;;
+403;24;86;84;Stagtree;x;;;;;
+404;37;74;78;Maneheur;x;;;;;
+405;78;104;107;Clopamas;x;;;;;
+406;66;111;109;Barney;x;;;;;
+407;78;145;151;Coltnomah;x;;;;;
+408;17;82;110;Morrow;x;;;;;
+409;44;83;81;Deerhutes;x;;;;;
+410;25;103;101;Klamount;x;;;;;
+411;85;166;164;Cervidam;x;;;;;
+412;25;124;122;Clatclop;x;;;;;
+413;58;142;141;Hight;Tree;x;;;;
+414;15;145;157;Greenrock;x;;;;;
+415;39;192;190;Seaddle;x;;;;;
+416;119;206;205;Adeer;x;;;;;
+417;108;145;161;Clopam;x;;;;;
+418;115;141;151;Tall;Tale;x;;;;
+419;121;171;180;Red;Wood;x;;;;
+420;75;133;144;White;Wood;x;;;;
+421;111;160;169;Small;Tale;x;;;;
+422;138;165;176;Tallgrass;x;;;;;
+423;49;230;228;Whiterush;x;;;;;
+424;136;183;183;Oatfield;x;;;;;
+425;70;140;169;Elkton;x;;;;;
+426;12;131;156;Chillibuck;x;;;;;
+427;71;125;123;Elkerson;x;;;;;
+428;93;158;157;Doeside;x;;;;;
+429;49;152;150;Smokey;Mountain;x;;;;
+430;41;155;179;Stag;x;;;;;
+431;35;159;158;Furry;x;;;;;
+432;142;166;168;Skag;It;x;;;;
+433;97;129;132;Buckonagen;x;;;;;
+434;34;151;184;Vanhoover;x;;;;;
+435;80;119;130;Antlerford;x;;;;;
+436;58;129;149;Upper;Vanhoover;x;;;;
+437;59;107;122;Maines;x;;;;;
+438;90;122;130;Stagway;x;;;;;
+439;26;93;114;Caribou;x;;;;;
+440;73;139;153;Elktians;x;;;;;
+441;82;140;144;Deerneu;x;;;;;
+442;41;138;144;Buckuta;x;;;;;
+443;79;113;110;Elkutat;x;;;;;
+444;47;136;142;Hooftaney;x;;;;;
+445;18;126;119;Westmarester;x;;;;;
+446;66;124;119;Maremford;x;;;;;
+447;138;156;166;Vanhoover;Island;x;;;;
+448;138;162;166;Senbuck;Island;x;;;;
+449;211;139;187;Crystal;City;x;;;;
+450;174;63;115;Crystal;Vale;x;;;;
+451;220;24;116;Crystal;Hills;x;;;;
+452;191;60;131;East;Ridge;x;;;;
+453;143;79;114;Saphire;Pass;x;;;;
+454;148;71;107;Kunzite;x;;;;;
+455;166;98;130;Opalshire;x;;;;;
+456;178;121;159;Neighagra;Falls;x;;;;
+457;174;63;125;Platinum;Fields;x;;;;
+458;169;52;107;Upper;Platinum;x;;;;
+459;136;21;75;CyKd8;x;;;;;
+460;162;11;82;Orecum;x;;;;;
+461;74;37;54;CyKd10;x;;;;;
+462;95;21;56;Flawlessa;x;;;;;
+463;151;79;113;CyKd12;x;;;;;
+464;102;47;72;Bergundy;x;;;;;
+465;100;14;54;Creamsicle;x;;;;;
+466;106;24;62;Coatshire;x;;;;;
+467;59;95;131;DH1;x;;;;;
+468;47;78;109;DH2;x;;;;;
+469;48;88;129;White;Light;x;;;;
+470;29;69;110;DH4;x;;;;;
+471;53;103;153;DH5;x;;;;;
+472;72;98;126;DH6;x;;;;;
+473;102;130;158;DH7;x;;;;;
+474;77;108;138;DH8;x;;;;;
+475;47;85;123;DH9;x;;;;;
+476;98;143;189;Preussen;x;;;;;
+477;115;153;191;DH11;x;;;;;
+478;115;145;175;DH12;x;;;;;
+479;54;102;149;DH13;x;;;;;
+480;79;100;122;DH14;x;;;;;
+481;75;81;113;DH15;x;;;;;
+482;95;101;141;DH16;x;;;;;
+483;96;118;140;DH17;x;;;;;
+484;87;123;141;DH18;x;;;;;
+485;84;125;167;DH19;x;;;;;
+486;76;102;117;DH20;x;;;;;
+487;82;142;203;DH21;x;;;;;
+488;102;138;157;DH22;x;;;;;
+489;123;156;173;DH23;x;;;;;
+490;126;148;159;DH24;x;;;;;
+491;129;141;147;DH25;x;;;;;
+492;177;220;222;Crystal;Gap;x;;;;
+493;96;152;155;East;Pass;x;;;;
+494;130;171;173;West;Pass;x;;;;
+495;70;129;132;North1;x;;;;;
+496;92;163;166;North2;x;;;;;
+497;107;189;193;North3;x;;;;;
+498;63;156;161;Amethysia;x;;;;;
+499;26;118;124;North5;x;;;;;
+500;56;102;105;North6;x;;;;;
+501;37;114;119;Mane;Mine;x;;;;
+502;71;129;132;North8;x;;;;;
+503;84;133;135;North9;x;;;;;
+504;48;120;125;North10;x;;;;;
+505;18;85;89;Diamond;Island;x;;;;
+506;35;146;174;Norht11;x;;;;;
+507;66;128;144;North12;x;;;;;
+508;46;104;120;Norht12;x;;;;;
+509;26;98;103;North13;x;;;;;
+510;56;105;109;Norht13;x;;;;;
+511;76;147;151;North14;x;;;;;
+512;51;137;142;Norht14;x;;;;;
+513;79;155;159;North15;x;;;;;
+514;24;105;110;Norht15;x;;;;;
+515;10;59;92;North16;x;;;;;
+516;46;73;91;Norht16;x;;;;;
+517;31;112;135;North17;x;;;;;
+518;35;76;71;Norht17;x;;;;;
+519;44;105;124;North18;x;;;;;
+520;61;135;130;Norht18;x;;;;;
+521;76;121;117;North19;x;;;;;
+522;91;140;137;Norht19;x;;;;;
+523;28;64;60;North20;x;;;;;
+524;29;94;96;Norht20;x;;;;;
+525;33;54;59;North21;x;;;;;
+526;44;90;100;Norht21;x;;;;;
+527;52;81;88;North22;x;;;;;
+528;58;149;171;Norht22;x;;;;;
+529;53;130;145;North23;x;;;;;
+530;24;121;140;Norht23;x;;;;;
+531;27;129;163;North24;x;;;;;
+532;109;203;78;CH1;x;;;;;
+533;114;173;95;CH2;x;;;;;
+534;84;181;53;CH3;x;;;;;
+535;89;152;68;CH4;x;;;;;
+536;93;135;79;CH5;x;;;;;
+537;124;178;105;CH6;x;;;;;
+538;94;146;77;CH7;x;;;;;
+539;78;144;75;CH8;x;;;;;
+540;66;161;61;CH9;x;;;;;
+541;84;154;80;CH10;x;;;;;
+542;62;127;59;CH11;x;;;;;
+543;37;109;18;CH12;x;;;;;
+544;81;151;83;CH13;x;;;;;
+545;54;103;40;CH14;x;;;;;
+546;57;123;39;CH15;x;;;;;
+547;64;106;53;CH16;x;;;;;
+548;100;153;106;CH17;x;;;;;
+549;37;142;50;CH18;x;;;;;
+550;39;123;49;CH19;x;;;;;
+551;82;122;80;The;Island;x;;;;
+552;67;140;76;CH21;x;;;;;
+553;75;190;20;CH22;x;;;;;
+554;40;153;42;CH23;x;;;;;
+555;62;154;64;CH24;x;;;;;
+556;28;149;31;CH25;x;;;;;
+557;29;154;8;CH26;x;;;;;
+558;90;157;79;CH27;x;;;;;
+559;71;184;52;CH28;x;;;;;
+560;53;158;35;CH29;x;;;;;
+561;21;142;1;CH30;x;;;;;
+562;49;163;30;CH31;x;;;;;
+563;167;174;58;Mareque;x;;;;;
+564;174;183;39;Amble;x;;;;;
+565;171;178;70;Tabalk;x;;;;;
+566;176;182;64;Hadib;Island;x;;;;
+567;164;184;103;Al;Barnhah;x;;;;
+568;156;164;15;Stirrupu;x;;;;;
+569;159;174;87;Clippa;x;;;;;
+570;133;164;39;Neighjaz;x;;;;;
+571;211;218;95;Astallion;x;;;;;
+572;143;148;63;Marecca;x;;;;;
+573;209;219;46;Al;Colwf;x;;;;
+574;148;155;41;Manedina;x;;;;;
+575;195;202;11;Al;Mareza;x;;;;
+576;158;167;19;Unshod;x;;;;;
+577;152;158;53;Foala;x;;;;;
+578;154;159;77;Vannerlus;x;;;;;
+579;164;159;15;Manejar;x;;;;;
+580;187;184;92;Marefar;x;;;;;
+581;90;117;12;Muscanter;x;;;;;
+582;96;118;30;Manehar;x;;;;;
+583;177;187;92;Rot;x;;;;;
+584;124;149;50;Manecate;x;;;;;
+585;103;128;27;Sandroll;x;;;;;
+586;164;187;92;Omane;x;;;;;
+587;148;170;45;Al;Gallop;x;;;;
+588;171;168;131;Damarescus;x;;;;;
+589;136;136;103;Al;Mareaq;x;;;;
+590;158;154;112;Az;Starqa;x;;;;
+591;131;128;99;Amane;x;;;;;
+592;140;137;110;Buckstra;x;;;;;
+593;148;148;115;Coltuz;x;;;;;
+594;127;126;100;Suwamare;x;;;;;
+595;174;177;134;Al-Stallhmane;x;;;;;
+596;144;148;125;Al-;Buckri;x;;;;
+597;150;148;126;Al;Trotters;x;;;;
+598;167;173;140;Baalbuck;x;;;;;
+599;168;168;119;Horsoms;x;;;;;
+600;143;143;105;Manema;x;;;;;
+601;148;145;113;Algalloppo;x;;;;;
+602;120;116;84;Neighessa;x;;;;;
+603;109;108;87;Aitrotabad;x;;;;;
+604;89;88;77;Colticia;x;;;;;
+605;156;159;127;Trotluch;x;;;;;
+606;115;112;88;Palmareyra;x;;;;;
+607;51;143;20;Buckdad;x;;;;;
+608;105;151;89;Mareir;x;;;;;
+609;65;137;40;Samarea;x;;;;;
+610;80;127;64;Kirbuck;x;;;;;
+611;59;130;35;Karcantala;x;;;;;
+612;62;114;44;Al;Haybbariyah;x;;;;
+613;76;147;51;Basmarea;x;;;;;
+614;26;71;11;Kufoala;x;;;;;
+615;59;109;42;Kucoltait;x;;;;;
+616;90;151;69;Kermareshah;x;;;;;
+617;78;132;60;Lunaristan;x;;;;;
+618;89;133;74;Qazmarein;x;;;;;
+619;74;105;63;Al;Neighjaf;x;;;;
+620;62;113;45;Al;Amareah;x;;;;
+621;78;171;46;Al;Neighreins;x;;;;
+622;96;127;85;Tigtreins;x;;;;;
+623;68;133;45;Maresul;x;;;;;
+624;75;144;50;Sineighar;x;;;;;
+625;96;158;74;Rumamaneah;x;;;;;
+626;77;123;62;Coltistan;x;;;;;
+627;72;114;57;Al;Jazmare;x;;;;
+628;63;157;30;Bineigh;x;;;;;
+629;95;143;78;Amainda;x;;;;;
+630;83;151;59;Nisibuck;x;;;;;
+631;69;136;45;Taruntia;x;;;;;
+632;129;160;118;Coltiva;x;;;;;
+633;102;141;88;Dashneighuz;x;;;;;
+634;103;128;94;Atal;x;;;;;
+635;119;160;94;Hearh;x;;;;;
+636;101;132;82;Stallionand;x;;;;;
+637;96;117;83;Buckh;x;;;;;
+638;102;130;86;Buckhara;x;;;;;
+639;95;111;86;Ashcoltbad;x;;;;;
+640;115;135;102;Kara-Colt;x;;;;;
+641;188;222;106;El-Mareish;x;;;;;
+642;170;199;101;Stallonai;x;;;;;
+643;145;173;78;Manelat;x;;;;;
+644;122;152;51;Foalrama;x;;;;;
+645;191;210;87;Coltena;x;;;;;
+646;176;190;97;Maresyut;x;;;;;
+647;155;170;73;Asmane;x;;;;;
+648;106;152;51;Coltiro;x;;;;;
+649;137;181;51;Alexmanedria;x;;;;;
+650;154;203;47;Damanetta;x;;;;;
+651;113;138;58;Canterlusia;x;;;;;
+652;139;171;70;Maneupura;x;;;;;
+653;120;155;44;Gabridleha;x;;;;;
+654;115;141;58;Buckrya;x;;;;;
+655;195;173;192;Skyaluzzo;x;;;;;
+656;181;178;181;Talononte;x;;;;;
+657;175;167;174;Mongerrnest;x;;;;;
+658;168;192;161;Aquileia;x;;;;;
+659;197;211;193;Kravin;x;;;;;
+660;171;191;165;Cubtria;x;;;;;
+661;133;150;97;Feathernze;x;;;;;
+662;164;183;121;Lucihoot;x;;;;;
+663;129;149;87;Folwena;x;;;;;
+664;131;153;139;Pridea;x;;;;;
+665;156;174;162;Panthmbino;x;;;;;
+666;157;184;166;Wbd1;x;;;;;
+667;157;170;135;Wbd2;x;;;;;
+668;133;147;108;Wbd3;x;;;;;
+669;172;195;132;Wbd4;x;;;;;
+670;187;190;139;Wingbardy;x;;;;;
+671;167;169;124;Beakia;x;;;;;
+672;146;148;115;Talont;x;;;;;
+673;150;170;95;Corvemona;x;;;;;
+674;127;129;87;Greenback;Island;x;;;;
+675;208;165;204;Romua;x;;;;;
+676;188;165;186;Orvalillo;x;;;;;
+677;162;155;146;Orbeakello;x;;;;;
+678;157;161;113;Feathara;x;;;;;
+679;144;149;89;Raven;x;;;;;
+680;192;198;127;Meerogna;x;;;;;
+681;142;179;89;Verenia;x;;;;;
+682;156;183;117;Manetua;x;;;;;
+683;162;177;141;Peckua;x;;;;;
+684;141;203;175;Taloneia;x;;;;;
+685;86;149;120;Eagleia;x;;;;;
+686;110;166;140;Karthin;x;;;;;
+687;95;131;101;Griffinten;x;;;;;
+688;178;138;52;Westwingland;x;;;;;
+689;160;134;78;Griffre;x;;;;;
+690;156;132;80;Yerapern;x;;;;;
+691;171;136;60;Burdleon;x;;;;;
+692;154;136;22;Airtois;x;;;;;
+693;157;122;48;Gentalon;x;;;;;
+694;206;162;57;Osterwingland;x;;;;;
+695;206;153;27;Beakland;x;;;;;
+696;206;169;79;Squawk;x;;;;;
+697;186;159;93;Brantbeak;x;;;;;
+698;184;162;109;Rainaut;x;;;;;
+699;182;147;71;Bredaland;x;;;;;
+700;165;145;98;Firebeakland;x;;;;;
+701;168;143;83;Upper;Firebeak;x;;;;
+702;211;211;211;EG1;x;;;;;
+703;199;201;203;EG2;x;;;;;
+704;181;184;187;EG3;x;;;;;
+705;118;125;131;EG4;x;;;;;
+706;120;122;124;EG5;x;;;;;
+707;124;128;132;EG6;x;;;;;
+708;162;165;168;EG7;x;;;;;
+709;141;145;148;EG8;x;;;;;
+710;178;189;200;EG9;x;;;;;
+711;97;105;114;EG10;x;;;;;
+712;108;112;116;EG11;x;;;;;
+713;93;98;104;EG12;x;;;;;
+714;126;133;141;EG13;x;;;;;
+715;108;115;123;EG14;x;;;;;
+716;126;129;132;EG15;x;;;;;
+717;106;112;119;EG16;x;;;;;
+718;82;94;107;EG17;x;;;;;
+719;92;93;96;EG18;x;;;;;
+720;88;96;105;EG19;x;;;;;
+721;168;173;178;EG20;x;;;;;
+722;126;128;131;EG21;x;;;;;
+723;108;112;117;EG22;x;;;;;
+724;93;99;107;EG23;x;;;;;
+725;100;108;117;EG24;x;;;;;
+726;73;83;93;EG25;x;;;;;
+727;87;99;111;EG26;x;;;;;
+728;132;143;153;EG27;x;;;;;
+729;200;179;137;TA1;x;;;;;
+730;180;154;103;TA2;x;;;;;
+731;153;128;82;TA3;x;;;;;
+732;159;114;27;TA4;x;;;;;
+733;129;105;58;TA5;x;;;;;
+734;137;102;33;TA6;x;;;;;
+735;147;116;55;TA7;x;;;;;
+736;123;106;17;TA8;x;;;;;
+737;136;130;63;TA9;x;;;;;
+738;161;155;83;TA10;x;;;;;
+739;155;137;36;TA11;x;;;;;
+740;159;148;27;TA12;x;;;;;
+741;128;118;23;TA13;x;;;;;
+742;142;97;9;TA14;x;;;;;
+743;34;49;127;WG1;x;;;;;
+744;58;71;138;WG2;x;;;;;
+745;73;86;156;WG3;x;;;;;
+746;102;125;167;WG4;x;;;;;
+747;104;119;147;WG5;x;;;;;
+748;88;121;183;WG6;x;;;;;
+749;63;90;139;WG7;x;;;;;
+750;80;98;131;WG8;x;;;;;
+751;90;121;176;WG9;x;;;;;
+752;47;91;171;WG10;x;;;;;
+753;22;82;192;WG11;x;;;;;
+754;80;88;131;WG12;x;;;;;
+755;82;93;148;WG13;x;;;;;
+756;67;76;127;WG14;x;;;;;
+757;38;50;115;WG15;x;;;;;
+758;23;38;116;WG16;x;;;;;
+759;73;87;160;WG17;x;;;;;
+760;51;86;157;WG18;x;;;;;
+761;75;106;167;WG19;x;;;;;
+762;54;61;103;WG20;x;;;;;
+763;52;70;167;WG21;x;;;;;
+764;109;132;179;WG22;x;;;;;
+765;79;96;185;WG23;x;;;;;
+766;93;105;168;WG24;x;;;;;
+767;72;89;124;WG25;x;;;;;
+768;58;84;137;WG26;x;;;;;
+769;80;102;106;WG27;x;;;;;
+770;97;110;175;WG28;x;;;;;
+771;77;89;152;WG29;x;;;;;
+772;43;58;139;WG30;x;;;;;
+773;63;74;133;WG31;x;;;;;
+774;69;82;156;WG32;x;;;;;
+775;94;103;155;WG33;x;;;;;
+776;89;130;148;SK1;x;;;;;
+777;35;102;130;SK2;x;;;;;
+778;70;119;140;SK3;x;;;;;
+779;45;98;122;SK4;x;;;;;
+780;78;118;136;SK5;x;;;;;
+781;82;128;147;SK6;x;;;;;
+782;49;88;105;SK7;x;;;;;
+783;67;98;113;SK8;x;;;;;
+784;64;123;149;SK9;x;;;;;
+785;156;203;224;SK10;x;;;;;
+786;112;161;184;SK11;x;;;;;
+787;101;141;159;SK12;x;;;;;
+788;110;142;156;SK13;x;;;;;
+789;64;98;114;Beakslagen;x;;;;;
+790;97;116;126;SK15;x;;;;;
+791;73;109;126;SK16;x;;;;;
+792;37;123;160;SK17;x;;;;;
+793;30;130;172;Liftauf;x;;;;;
+794;73;105;120;SK19;x;;;;;
+795;40;76;93;Kristoff;x;;;;;
+796;80;111;126;SK21;x;;;;;
+797;56;89;104;SK22;x;;;;;
+798;5;62;87;SK23;x;;;;;
+799;94;146;139;Moosenbaum;x;;;;;
+800;38;124;112;Deerer;x;;;;;
+801;77;154;144;Antlerdon;x;;;;;
+802;62;104;98;Tortroto;x;;;;;
+803;57;137;127;Coniferdon;x;;;;;
+804;76;123;116;Glacia;x;;;;;
+805;45;146;133;Seal;Bay;x;;;;
+806;73;151;141;Pastureland;x;;;;;
+807;67;133;124;Berrdon;x;;;;;
+808;53;130;120;Vejalyk;x;;;;;
+809;231;63;206;Griffin's;Mouth;x;;;;
+810;206;95;189;North;Griffking;x;;;;
+811;145;81;135;East;Griffking;x;;;;
+812;120;90;115;South;Griffking;x;;;;
+813;152;100;144;West;Griffking;x;;;;
+814;153;64;139;Highwing;Straits;x;;;;
+815;157;137;154;Lake;Griffking;x;;;;
+816;172;46;225;Greatwing;River1;x;;;;
+817;137;15;187;Greatwing;River2;x;;;;
+818;125;68;149;Greatwing;River3;x;;;;
+819;143;104;159;Greatwing;River4;x;;;;
+820;122;255;219;Fillyzan;Straits;x;;;;
+821;123;204;255;Al;Zebara;Bay;x;;;
+822;40;165;187;Coltegol;Sea1;x;;;;
+823;40;187;147;Coltegol;Sea2;x;;;;
+824;62;147;162;Zebrican;Horn;x;;;;
+825;101;171;183;Zebgola;Sea;x;;;;
+826;53;139;155;Coast;of;Telmane;x;;;
+827;18;103;119;Stripped;Straits;x;;;;
+828;81;164;179;Zebnyati;Bay;x;;;;
+829;56;121;132;Buckbuffa;x;;;;;
+830;70;157;172;Buffalo;Sea;x;;;;
+831;78;142;135;Buffalo;Sea2;x;;;;
+832;22;167;191;Stampeading;Coast1;x;;;;
+833;60;153;169;Stampeading;Coast2;x;;;;
+834;128;198;210;Gulf;of;Mecxicoltto;x;;;
+835;93;143;152;Bufazam;River;x;;;;
+836;97;206;224;Lake;Bufcoco;x;;;;
+837;85;177;167;Sea1;x;;;;;
+838;97;224;211;Sea2;x;;;;;
+839;57;179;146;Sea3;x;;;;;
+840;96;228;192;Sea4;x;;;;;
+841;30;219;168;Sea5;x;;;;;
+842;96;228;214;Las;Pegasus;Bay;x;;;
+843;58;166;142;Sea6;x;;;;;
+844;26;189;153;Gulf;of;Saddles;x;;;
+845;62;177;71;Sea7;x;;;;;
+846;131;207;137;Sea8;x;;;;;
+847;29;192;42;Sea9;x;;;;;
+848;43;134;50;Sea10;x;;;;;
+849;89;152;94;Sea11;x;;;;;
+850;95;203;103;Sea12;x;;;;;
+851;33;219;48;Vanhoover;Bay;x;;;;
+852;80;158;86;Marecific;North;West;x;;;
+853;108;161;57;Marecific;North;West;2;x;;
+854;142;197;89;Strait;of;Vanhoover;x;;;
+855;146;212;81;Crystal;Gulf;x;;;;
+856;112;195;31;Forzan;Coast1;x;;;;
+857;132;199;66;Forzan;Coast2;x;;;;
+858;101;179;25;Forzan;Coast3;x;;;;
+859;219;204;33;Forzan;Coast4;x;;;;
+860;190;177;22;Ice;Sea1;x;;;;
+861;170;160;45;Ice;Sea2;x;;;;
+862;134;125;20;Ice;Sea3;x;;;;
+863;156;148;61;Coast;of;Mooseland;1;x;;
+864;174;163;36;Coast;of;Mooseland;2;x;;
+865;195;184;67;Coast;of;Mooseland;3;x;;
+866;201;186;25;Coast;of;Mooseland;4;x;;
+867;150;140;31;Ice;Sea5;x;;;;
+868;139;134;81;Ice;Sea6;x;;;;
+869;142;134;45;Ice;Sea7;x;;;;
+870;167;159;76;North;Marelantic;1;x;;;
+871;131;122;29;North;Marelantic;2;x;;;
+872;167;157;58;North;Marelantic;3;x;;;
+873;49;83;212;Diamond;Straits;x;;;;
+874;76;91;153;Crystal;Coast;x;;;;
+875;46;65;137;Manehatten;Sea;x;;;;
+876;63;80;144;Maneson;Straits;x;;;;
+877;96;110;166;Hayford;Channle;x;;;;
+878;90;106;166;Hayford;Coast;x;;;;
+879;140;151;193;Fillydelphia;Bay;x;;;;
+880;136;151;208;North;Hoof;Sea;x;;;
+881;29;58;163;Horseshoe;Estuary;x;;;;
+882;78;109;224;Horseshoe;Bay;x;;;;
+883;63;144;122;Marelantic;1;x;;;;
+884;52;173;140;Marelantic;2;x;;;;
+885;39;167;132;Marelantic;3;x;;;;
+886;20;137;105;Marelantic;4;x;;;;
+887;102;187;164;Marelantic;5;x;;;;
+888;58;129;110;Marelantic;6;x;;;;
+889;61;128;110;Marelantic;7;x;;;;
+890;33;121;96;Marelantic;8;x;;;;
+891;65;101;90;Marelantic;9;x;;;;
+892;52;162;132;Marelantic;10;x;;;;
+893;69;171;142;Marelantic;11;x;;;;
+894;238;184;97;Hayseed;Gulf;x;;;;
+895;192;141;62;Hayseed;Coast1;x;;;;
+896;188;125;25;Hayseed;Coast2;x;;;;
+897;170;134;78;Haytree;Strait;x;;;;
+898;161;113;37;Hayseed;Approach;x;;;;
+899;136;69;69;Dunfjord;x;;;;;
+900;198;77;77;RiverMouth1;x;;;;;
+901;171;94;94;Sjona;x;;;;;
+902;149;20;20;Featheringet;x;;;;;
+903;129;18;18;Griffbotn;x;;;;;
+904;192;67;67;Northwing;Sea;x;;;;
+905;169;59;59;Mouth;of;Greatwing;x;;;
+906;157;83;83;Bluewing;Coast1;x;;;;
+907;110;35;35;Bluewing;Coast2;x;;;;
+908;120;69;69;Bluewing;Coast3;x;;;;
+909;108;35;35;Redwing;Bay;x;;;;
+910;100;12;12;Gap;of;Gryphons;x;;;
+911;27;179;174;Maredriatic1;x;;;;;
+912;79;153;150;Maredriatic2;x;;;;;
+913;62;138;135;Maredriatic3;x;;;;;
+914;128;181;179;Gulf;of;Talonberis;x;;;
+915;8;82;78;Maredriatic4;x;;;;;
+916;35;100;97;Arabian;Cost1;x;;;;
+917;73;223;218;Arabian;Cost2;x;;;;
+918;53;172;168;Arabian;Cost3;x;;;;
+919;53;172;168;Arabian;Cost4;x;;;;
+920;41;146;142;Arabian;Cost5;x;;;;
+921;100;27;88;Greenhoof;Gulf;x;;;;
+922;144;114;139;Hadib;Channel;x;;;;
+923;127;79;119;Gulf;of;Hamaremet;x;;;
+924;53;101;79;Gulf;of;Sadra;x;;;
+925;34;175;110;Sand;Saddle;Sea;x;;;
+926;101;165;136;Gulf;of;Maresopotamia;x;;;
+927;83;120;102;Coast;of;Maregypt;x;;;
+928;71;128;101;Neighle;Delta;x;;;;
+929;43;139;95;Gulf;of;Maneupura;x;;;
+930;102;119;111;South;Maregypt;Sea;x;;;
+931;104;158;133;South;Marediterranean;Sea;x;;;
+932;59;201;136;Marediterranean;Sea;x;;;;
+933;63;127;97;Green;Isles;Approach;x;;;
+934;178;67;161;Longhorn;Coast;x;;;;
+935;140;105;135;Greenclaw;Straits;x;;;;
+936;143;98;136;South;Marelantic1;x;;;;
+937;91;41;82;South;Marelantic2;x;;;;
+938;136;113;132;South;Marelantic3;x;;;;
+939;177;56;158;Shadow;Bay;x;;;;
+940;133;65;121;Changling;Coast1;x;;;;
+941;169;101;157;Changling;Coast2;x;;;;
+942;139;62;127;Changling;Coast3;x;;;;
+943;163;98;153;Changling;Coast4;x;;;;
+944;151;39;133;Changling;Coast5;x;;;;
+945;91;49;84;Narrow;Sea1;x;;;;
+946;154;113;148;Narrow;Sea2;x;;;;
+947;115;73;108;Narrow;Sea3;x;;;;
+948;137;87;129;Zebrican;Approach1;x;;;;
+949;166;46;147;Zebrican;Approach2;x;;;;
+950;187;136;179;South;Manedalus;Coast;x;;;
+951;163;74;149;Manedalus;Coast;x;;;;
+952;200;115;187;North;Manedalus;Coast;x;;;
+953;19;207;192;Horn;of;Al-Manarin;x;;;
+954;58;244;229;Straits;of;Haycules;x;;;
+955;75;170;162;Gulf;of;Trottubah;x;;;
+956;33;137;128;Coast;of;Manelaga;x;;;
+957;81;158;152;Gulf;of;Rams;x;;;
+958;36;136;128;Cape;of;Manedalus;x;;;
+959;87;186;178;Zebzeben;Bay;x;;;;
+960;53;170;160;Zebrican;Coast1;x;;;;
+961;24;189;176;Zebrican;Coast2;x;;;;
+962;74;180;172;Zebrican;Coast3;x;;;;
+963;109;225;216;Zebrican;Coast4;x;;;;
+964;55;155;147;Zebrican;Coast5;x;;;;
+965;150;213;208;Amzebos;Bay;x;;;;
+966;86;153;148;Amzebos;Coast;x;;;;
+967;181;233;223;Upper;Zebzeben;x;;;;
+968;30;202;168;Lake;Strippas;x;;;;
+969;130;202;87;Zebzeben;River;x;;;;
+970;255;240;126;Lower;Zebzeben;x;;;;
+971;241;103;129;Zebzeben;Mouth;x;;;;
+972;189;69;92;Amzebos;x;;;;;
+973;208;231;49;Changinus;x;;;;;
+974;49;195;231;Hibrodarbis;x;;;;;
+975;90;153;169;Chitalinas;x;;;;;
+976;106;138;146;Hibrodarbis2;x;;;;;
+977;167;128;225;Neighle1;x;;;;;
+978;143;123;172;Neighle2;x;;;;;
+979;159;83;217;Neighle3;x;;;;;
+980;183;168;205;Neighle4;x;;;;;
+981;176;163;194;Neighle5;x;;;;;
+982;159;149;173;Neighle6;x;;;;;
+983;162;129;188;Neighle7;x;;;;;
+984;124;74;163;Neighle8;x;;;;;
+985;131;115;144;Neighle9;x;;;;;
+986;130;192;223;Sadalid;River1;x;;;;
+987;142;170;184;Sadalid;River2;x;;;;
+988;82;145;177;Sadalid;River3;x;;;;
+989;111;135;147;Marecca;Sea;x;;;;
+990;156;210;190;Talonberis;x;;;;;
+991;106;182;154;Maregian;Sea1;x;;;;
+992;72;181;141;Maregian;Sea2;x;;;;
+993;218;15;15;Redwing1;x;;;;;
+994;235;84;84;Redwing2;x;;;;;
+995;199;141;141;Redwing3;x;;;;;
+996;183;80;80;Redwing4;x;;;;;
+997;38;223;38;Grifleb1;x;;;;;
+998;52;192;52;Grifleb2;x;;;;;
+999;61;152;61;Grifleb3;x;;;;;
+1000;23;147;23;Grifleb4;x;;;;;
+1001;45;129;45;Grifleb5;x;;;;;
+1002;80;139;80;Grifleb6;x;;;;;
+1003;138;199;190;Iceka;River;x;;;;
+1004;61;197;106;Nor1;x;;;;;
+1005;112;191;138;Nor2;x;;;;;
+1006;158;66;66;Dimond1;x;;;;;
+1007;162;99;99;Dimond2;x;;;;;
+1008;136;45;45;Dimond3;x;;;;;
+1009;125;20;20;Dimond4;x;;;;;
+1010;125;77;21;Iceglass;Lake1;x;;;;
+1011;146;104;56;Iceglass;Lake2;x;;;;
+1012;150;122;89;Iceglass;Lake3;x;;;;
+1013;135;129;31;Crystal;River1;x;;;;
+1014;145;141;71;Crystal;River2;x;;;;
+1015;178;174;110;Crystal;River3;x;;;;
+1016;104;190;121;River;Canter;x;;;;
+1017;0;208;39;Saddle;River1;x;;;;
+1018;105;156;115;Saddle;Lake;x;;;;
+1019;17;236;58;Saddle;River2;x;;;;
+1020;51;209;81;Saddle;River3;x;;;;
+1021;127;185;89;Saddle;River4;x;;;;
+1022;134;216;79;Saddle;River5;x;;;;
+1023;137;178;111;Saddle;River6;x;;;;
+1024;182;84;71;Lake;Neighagra;x;;;;
+1025;184;42;14;River;Equus1;x;;;;
+1026;169;73;54;River;Equus2;x;;;;
+1027;168;99;85;River;Equus3;x;;;;
+1028;255;93;62;River;Equus4;x;;;;
+1029;166;74;56;River;Equus5;x;;;;
+1030;154;25;0;Everstream;x;;;;;
+1031;180;179;115;Hay;River1;x;;;;
+1032;201;200;80;Hay;River2;x;;;;
+1033;221;219;29;Hay;River3;x;;;;
+1034;243;242;132;Hay;River4;x;;;;
+1035;151;150;60;Zebmajani;x;;;;;
+1036;60;58;7;Zebnyati;x;;;;;
+1037;131;169;118;Featherjuvet;x;;;;;
+1038;189;205;255;Black;Spine;Lake;x;;;
+1039;154;178;255;Sea;of;Stripes;x;;;
+1040;98;134;255;Crystal;Lake;x;;;;
+1041;60;105;255;Everlake;x;;;;;
+1042;90;176;159;Hayseed;Lake;x;;;;
