@@ -1,121 +1,288 @@
-namespace = PonyBreeding
+###Pony Mod Breeding Events
+
+namespace = RaceBreeding
 
 character_event = {
-	id = PonyBreeding.1 # Earth x Earth
-	desc = "PonyBreeding.0.desc"
+	id = RaceBreeding.100
+	desc = "RaceBreeding.100.desc" #What race am I...?
 	picture = GFX_evt_child_play
 	
 	trigger = {
 		age = 0
 		NOT = {
-			trait = pegasus
-			trait = unicorn
-			trait = earth_pony
-		}
-		AND = {
-			mother = {trait = earth_pony}
-			father = {trait = earth_pony}
-		
+			OR = {
+				trait = pegasus
+				trait = unicorn
+				trait = earth_pony
+				trait = alicorn
+				#put other traits here as needed
+			}
 		}
 	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	#earth_pony Ponies
 	option = {
-		name = "PonyBreeding.0.accept"
-		random = {
-			100 = {
-				add_trait earth_pony
-			}	
-		}
-	}
-}
-
-character_event = {
-	id = PonyBreeding.2 # Unicorn x Unicorn
-	desc = "PonyBreeding.2.desc"
-	picture = GFX_evt_child_play
-	trigger = {
-		age = 0
-		NOT = {
-			trait = pegasus
-			trait = unicorn
-			trait = earth_pony
-		}
-		AND = {
-			mother = {trait = unicorn}
-			father = {trait = unicorn}
-		
-		}
-	}
-	option = {
-		name = "PonyBreeding.0.accept"
-		random = {
-			100 = {
-				add_trait unicorn
-			}	
-		}
-	}
-}
-character_event = {
-	id = PonyBreeding.3 #Pegasus x Pegasus
-	desc = "PonyBreeding.3.desc"
-	picture = GFX_evt_child_play
-	trigger = {
-		age = 0
-		NOT = {
-			trait = pegasus
-			trait = unicorn
-			trait = earth_pony
-		}
-		AND = {
-			mother = {trait = pegasus}
-			father = {trait = pegasus}
-		
-		}
-	}
-	option = {
-		name = "PonyBreeding.0.accept"
-		random = {
-			100 = {
-				add_trait pegasus
-			}	
-		}
-	}
-}
-character_event = {
-	id = PonyBreeding.1 # Earth x Pegasus
-	desc = "PonyBreeding.1.desc"
-	picture = GFX_evt_child_play
-	trigger ={
-		
-		
-		NOT = {
-			trait = pegasus
-			trait = unicorn
-			trait = earth_pony
-		}
-		OR = {
+		name = "RaceBreeding.100.optE1" #earth_pony + earth_pony
+		trigger = {
 			AND = {
-				mother = {trait = pegasus}
-				father = {trait = earth_pony}
+				mother_even_if_dead = { trait = earth_pony }
+				father_even_if_dead = { trait = earth_pony }
 			}
-			AND = {
-				mother = {trait = earth_pony}
-				father = {trait = pegasus}
-			}
-		}
-	}
-	option = {
-		name = "PonyBreeding.0.accept"
-		random_list = {
-			50 = {
-				add_trait earth_pony
-			}	
-			50 = {
-				add_trait pegasus
-			}
-		}
-	}
-}
-	
-	
-		
 			
+		}
+		random = {
+			90 = {
+				add_trait = earth_pony
+			}
+			5 = {
+				add_trait = unicorn
+			}
+			5 = {
+				add_trait = pegasus
+			}
+		}
+	}
+	option = {
+		name = "RaceBreeding.100.optE2" #earth_pony + Unicorn
+		trigger = {
+			AND = {
+				OR = {
+					mother_even_if_dead = { trait = earth_pony }
+					father_even_if_dead = { trait = earth_pony }
+				}
+				Or = {
+					mother_even_if_dead = { trait = unicorn }
+					father_even_if_dead = { trait = unicorn }
+				}
+			}
+			
+		}
+		random = {
+			47 = {
+				add_trait = earth_pony
+			}
+			47 = {
+				add_trait = unicorn
+			}
+			6 = {
+				add_trait = pegasus
+			}
+		}
+	}
+	option = {
+		name = "RaceBreeding.100.optE3" #earth_pony + Pegasus
+		trigger = {
+			AND = {
+				OR = {
+					mother_even_if_dead = { trait = earth_pony }
+					father_even_if_dead = { trait = earth_pony }
+				}
+				OR = {
+					mother_even_if_dead = { trait = pegasus }
+					father_even_if_dead = { trait = pegasus }
+				}
+			}
+			
+		}
+		random = {
+			47 = {
+				add_trait = earth_pony
+			}
+			6 = {
+				add_trait = unicorn
+			}
+			47 = {
+				add_trait = pegasus
+			}
+		}
+	}
+	option = {
+		name = "RaceBreeding.100.optE4" #earth_pony + Alicorn
+		trigger = {
+			AND = {
+				OR = {
+					mother_even_if_dead = { trait = earth_pony }
+					father_even_if_dead = { trait = earth_pony }
+				}
+				Or = {
+					mother_even_if_dead = { trait = alicorn }
+					father_even_if_dead = { trait = alicorn }
+				}
+			}
+			
+		}
+		random = {
+			60 = {
+				add_trait = earth_pony
+			}
+			15 = {
+				add_trait = unicorn
+			}
+			15 = {
+				add_trait = pegasus
+			}
+			10 = {
+				add_trait = alicorn
+			}
+		}
+	}
+	#Unicorns
+	option = {
+		name = "RaceBreeding.100.optU1" #Unicorn + Unicorn
+		trigger = {
+			AND = {
+				mother_even_if_dead = { trait = unicorn }
+				father_even_if_dead = { trait = unicorn }
+			}
+			
+		}
+		random = {
+			90 = {
+				add_trait = unicorn
+			}
+			5 = {
+				add_trait = earth_pony
+			}
+			5 = {
+				add_trait = pegasus
+			}
+		}
+	}
+	option = {
+		name = "RaceBreeding.100.optU2" #Unicorn + Pegasus
+		trigger = {
+			AND = {
+				OR = {
+					mother_even_if_dead = { trait = unicorn }
+					father_even_if_dead = { trait = unicorn }
+				}
+				Or = {
+					mother_even_if_dead = { trait = pegasus }
+					father_even_if_dead = { trait = pegasus }
+				}
+			}
+			
+		}
+		random = {
+			6 = {
+				add_trait = earth_pony
+			}
+			47 = {
+				add_trait = unicorn
+			}
+			47 = {
+				add_trait = pegasus
+			}
+		}
+	}
+	option = {
+		name = "RaceBreeding.100.optU3" #Unicorn + Alicorn
+		trigger = {
+			AND = {
+				OR = {
+					mother_even_if_dead = { trait = unicorn }
+					father_even_if_dead = { trait = unicorn }
+				}
+				Or = {
+					mother_even_if_dead = { trait = alicorn }
+					father_even_if_dead = { trait = alicorn }
+				}
+			}
+			
+		}
+		random = {
+			15 = {
+				add_trait = earth_pony
+			}
+			60 = {
+				add_trait = unicorn
+			}
+			15 = {
+				add_trait = pegasus
+			}
+			10 = {
+				add_trait = alicorn
+			}
+		}
+	}
+	#Pegasi
+	option = {
+		name = "RaceBreeding.100.optP1" #Pegasus + Pegasus
+		trigger = {
+			AND = {
+				mother_even_if_dead = { trait = pegasus }
+				father_even_if_dead = { trait = pegasus }
+			}
+			
+		}
+		random = {
+			90 = {
+				add_trait = pegasus
+			}
+			5 = {
+				add_trait = earth_pony
+			}
+			5 = {
+				add_trait = unicorn
+			}
+		}
+	}
+	option = {
+		name = "RaceBreeding.100.optU2" #Pegasus + Alicorn
+		trigger = {
+			AND = {
+				OR = {
+					mother_even_if_dead = { trait = pegasus }
+					father_even_if_dead = { trait = pegasus }
+				}
+				Or = {
+					mother_even_if_dead = { trait = alicorn }
+					father_even_if_dead = { trait = alicorn }
+				}
+			}
+			
+		}
+		random = {
+			15 = {
+				add_trait = earth_pony
+			}
+			15 = {
+				add_trait = unicorn
+			}
+			60 = {
+				add_trait = pegasus
+			}
+			10 = {
+				add_trait = alicorn
+			}
+		}
+	}
+	#Alicorns
+	option = {
+		name = "RaceBreeding.100.optA1" #Alicorn + Alicorn
+		trigger = {
+			AND = {
+				mother_even_if_dead = { trait = alicorn }
+				father_even_if_dead = { trait = alicorn }
+			}
+			
+		}
+		random = {
+			70 = {
+				add_trait = alicorn
+			}
+			10 = {
+				add_trait = earth_pony
+			}
+			10 = {
+				add_trait = unicorn
+			}
+			10 = {
+				add_trait = earth_pony
+			}
+		}
+	}
+}
