@@ -9,7 +9,7 @@ max_settlements = 5
 b_griffre = castle
 
 # Misc
-culture = south_griffin
+culture = south_griffon
 100.1.1 = {
 	religion = grifflyreise
 }

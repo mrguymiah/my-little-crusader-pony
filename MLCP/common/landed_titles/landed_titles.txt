@@ -3159,7 +3159,7 @@ k_sioxen = {
 	
 	capital = 182 # Las Pegasus
 	
-	culture = pegasi_culture
+	culture = pegasus_culture
 	
 	
 	
@@ -4783,7 +4783,7 @@ k_pegasopolis = {
 	
 	capital = 365 # Hearth Pass
 	
-	culture = pegasi_culture
+	culture = pegasus_culture
 	
 	
 	
@@ -6743,7 +6743,7 @@ e_griffin_empire = {
 	capital = 655 # Skyaluzzo	
 	short_name = yes
 	
-	culture = south_griffin
+	culture = south_griffon
 	
 
 k_wingbardy = {
@@ -6752,7 +6752,7 @@ k_wingbardy = {
 	
 	capital = 655 # Skyaluzzo
 	
-	culture = south_griffin
+	culture = south_griffon
 	
 	
 	
@@ -7089,7 +7089,7 @@ k_feathisia = {
 	
 	capital = 688 # Westwingland
 	
-	culture = south_griffin
+	culture = south_griffon
 	
 	
 	
@@ -7234,7 +7234,7 @@ k_east_griffonia = {
 	
 	capital = 702 # EG1
 	
-	culture = low_griffin
+	culture = low_griffon
 	
 	
 	
@@ -7491,7 +7491,7 @@ k_talonringia = {
 	
 	capital = 729 # TA1
 	
-	culture = low_griffin
+	culture = low_griffon
 	
 	
 	
@@ -7630,7 +7630,7 @@ k_west_griffonia = {
 	
 	capital = 743 # WG1
 	
-	culture = high_griffin
+	culture = high_griffon
 	
 	
 	
@@ -7936,7 +7936,7 @@ k_skydinavia = {
 	
 	capital = 776 # SK1
 	
-	culture = high_griffin
+	culture = high_griffon
 	
 	
 	
@@ -8153,7 +8153,7 @@ e_mooseland = {
 	capital = 799 # Moosenbaum	
 	short_name = yes
 	
-	culture = moose_culture
+	culture = caribou_culture
 	
 
 k_mooseland = {
@@ -8162,7 +8162,7 @@ k_mooseland = {
 	
 	capital = 799 # Moosenbaum
 	
-	culture = moose_culture
+	culture = caribou_culture
 	
 	
 	
@@ -8290,7 +8290,7 @@ d_pegasi_tribe = {
 		always = no
 	}
 	
-	culture = pegasi_culture
+	culture = pegasus_culture
 	title = "COMMANDER"
 	foa = "COMMANDER_FOA"
 	title_prefix = "PONY_TRIBE"

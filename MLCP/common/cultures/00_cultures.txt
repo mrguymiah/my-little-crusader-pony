@@ -6,7 +6,7 @@
 equestrian = {
 	graphical_culture = westerngfx
 
-	earth_pony_culture = {
+	earth_culture = {
 		graphical_culture = saxongfx
 		
 		color = { 91 153 65 }
@@ -107,7 +107,7 @@ equestrian = {
 		modifier = default_culture_modifier
 	}
 	
-	crystal_pony_culture = {
+	crystal_culture = {
 		graphical_culture = norsegfx
 		
 		color = { 0.1 0.0 0.7 }
@@ -467,7 +467,7 @@ changeling_group = {
 
 deer_group = {
 
-	hindi = {
+	hindi_culture = {
 		color = { 0.9 .01 .05 }
 		
 		male_names = {
@@ -511,7 +511,7 @@ deer_group = {
 		
 	}
 	
-	caribou = {
+	caribou_culture = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {

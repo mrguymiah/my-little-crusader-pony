@@ -1,9 +1,9 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-equestrian_culture;Equestrian;;;;;;;;;x
-earth_pony_culture;Earth Pony;;;;;;;;;x
+equestrian;Equestrian;;;;;;;;;x
+earth_culture;Earth Pony;;;;;;;;;x
 pegasus_culture;Pegasus;;;;;;;;;x
 unicorn_culture;Unicorn;;;;;;;;;x
-crystal_pony_culture;Crystal Pony;;;;;;;;;x
+crystal_culture;Crystal Pony;;;;;;;;;x
 thestral_culture;Thestral;;;;;;;;;x
 saddle_arabian_group;Saddle Arabian;;;;;;;;;x
 saddle_arabian_culture;Saddle Arabian;;;;;;;;;x
@@ -21,6 +21,5 @@ low_griffon;Lowland Griffon;;;;;;;;;x
 south_griffon;South Griffon;;;;;;;;;x
 changeling_culture;Changeling;;;;;;;;;x
 deer_group;Cervid;;;;;;;;;x
-hindi;Hindi;;;;;;;;;x
-caribou;Caribou;;;;;;;;;x
-moose;Moose;;;;;;;;;x
+hindi_culture;Hindi;;;;;;;;;x
+caribou_culture;Caribou;;;;;;;;;x

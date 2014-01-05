@@ -9,7 +9,7 @@ max_settlements = 4
 b_cloudon = castle
 
 # Misc
-culture = pegasi_culture
+culture = pegasus_culture
 100.1.1 = {
 	religion = soarastrian
 }
