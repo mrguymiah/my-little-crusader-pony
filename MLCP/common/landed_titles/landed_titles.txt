@@ -5058,6 +5058,20 @@ e_equestria = {
 				b_crystalwing = {
 	}
 		}
+				c_wingdown = {
+				color={ 42 72 123 }
+				color2={ 255 255 255 }
+			
+				b_crystalwing = {
+	}
+		}
+				c_windhill = {
+				color={ 42 72 123 }
+				color2={ 255 255 255 }
+			
+				b_crystalwing = {
+	}
+		}
 		}
 			d_cold_wind_pass = {
 				color={ 31 86 176 }

@@ -1,7 +1,7 @@
 # c_platinum_fields
 
 # County Title
-title = c_platinum_fields
+title = c_wingdown
 
 # Settlements
 max_settlements = 5

@@ -1,7 +1,7 @@
 # c_upper_platinum
 
 # County Title
-title = c_upper_platinum
+title = c_windhill
 
 # Settlements
 max_settlements = 5

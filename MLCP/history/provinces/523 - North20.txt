@@ -1,7 +1,7 @@
 # c_north20
 
 # County Title
-title = c_north20
+title = c_lazuli
 
 # Settlements
 max_settlements = 2

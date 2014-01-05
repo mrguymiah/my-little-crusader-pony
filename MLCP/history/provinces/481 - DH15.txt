@@ -1,7 +1,7 @@
 # c_dh15
 
 # County Title
-title = c_dh15
+title = c_iceheart_mountain
 
 # Settlements
 max_settlements = 3
