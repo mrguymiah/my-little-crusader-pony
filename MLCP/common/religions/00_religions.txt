@@ -1,4 +1,4 @@
-equestrian_Rgroup = {
+christian = {
 	playable = yes
 	has_coa_on_barony_only = yes
 	crusade_cb = crusade
@@ -29,7 +29,7 @@ equestrian_Rgroup = {
 		
 		
 	}
-	lunarism = {
+	lunar = {
 		graphical_culture = westerngfx
 		
 		icon = 1
@@ -368,7 +368,7 @@ buffalo_Rgroup = {
 	}
 }
 
-saddle_arabian_Rgroup = {
+zoroastrian_group = {
 	playable = yes
 	has_coa_on_barony_only = yes
 	crusade_cb = crusade

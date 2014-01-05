@@ -3758,6 +3758,7 @@ k_everfree = {
 			color2={ 255 255 255 }
 		
 			b_the_palace_of_the_two_sisters = {
+				holy_site = celestian
 }
 	}
 			c_everwatch = {
@@ -7610,6 +7611,7 @@ k_talonringia = {
 			color2={ 255 255 255 }
 		
 			b_ta13 = {
+				holy_site = grifflyreise
 }
 	}
 			c_ta14 = {

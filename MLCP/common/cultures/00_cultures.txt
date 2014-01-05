@@ -6,10 +6,10 @@
 equestrian = {
 	graphical_culture = westerngfx
 
-	earth_culture = {
+	earth_pony_culture = {
 		graphical_culture = saxongfx
 		
-		color = { 0.1 0.3 0.8 }
+		color = { 91 153 65 }
 		
 		male_names = {
 			Ace Affero Al Apple_Apple Ardent Baritone Bill Black_Black "Black Stone" Blackheart_Blackheart Braeburn Breezy Brindle Bruce "Burnt Iak" Bushel Caboose Caesar_Caesar
@@ -43,10 +43,10 @@ equestrian = {
 		mother_name_chance = 5
 	}
 	
-	pegasi_culture = {
+	pegasus_culture = {
 		graphical_culture = saxongfx
 		
-		color = { 0.5 0.5 0.6 }
+		color = { 163 216 255 }
 		
 		male_names = {
 			Bifrost Blue_Blue "Blue Steel" Brimsotne Brolly Buddy Blaze_Blaze Cappuccino Caesar_Caesar Cloud_Cloud "Cloud Break" Crafty Crescent_Crescent Descent Dewdrop Dollar Dark_Dark Feather Featherus Falcon Fire Firestreak Firebird Fireflash Flash Hornet Jack_Jack
@@ -79,17 +79,17 @@ equestrian = {
 	unicorn_culture = {
 		graphical_culture = germangfx
 		
-		color = { 0.5 0.2 0.3 }
+		color = { 140 80 211 }
 		
 		male_names = {
-			Arpeggio Blue_Blue Blueblood Blueheart Bluestar Black_Black Blackheart_Blackheart Blackstar "Black Marble" Brass Chocolate_Chocolate Comet Dark_Dark Darkligth Darkheart Darkstar Dream_Dream Dreamer Fancy Faraday Flam Flankin
+			Arpeggio Blue_Blue Blueblood Blueheart Bluestar Black_Black Blackheart_Blackheart Blackstar "Black Marble" Brass Bullion Chocolate_Chocolate Comet Dark_Dark Darkligth Darkheart Darkstar Dream_Dream Dreamer Fancy Faraday Flam Flankin
 			Flim Graphite_Graphite Hors Horte Joe Magnum Master_Master Mochaccino Merlin_Merlin Neon Neo Nero Night_Night Nightlight Orion
 			Perry Parry Pokey Ponet Poppycock Pristine Shining Spectrum_Spectrum Star_Star Stary_Stary Starlight_Starlight "Star Swirl" Thornhoof Vance Writter Written Nebula_Nebula
 		}
 		female_names = {
 			Amethyst_Amethyst Ballad Blue_Blue Cadance_Cadance Cinnabell Cold Coldheart_Coldheart Crystal_Crystal Dimond_Dimond Eliza Elizabeth Faraday Fleur Fly Gold_Gold Golden_Golden Holly
 			Lemon_Lemon Lemony Lucy Lyra_Lyra Marey Maxie Minuette_Minuette Monochrome Nixie Moondancer Ocean Orchid Pixie Primrose Rarity Pearl_Pearl Raty Raven_Raven Rhythm Rococo Rosewood Rosie Royal_Royal
-			Sea Sparkle Spring_Spring Starlight_Starlight Strawberry Sunset Trixie Twilight "Twilight Sparke" "Twilight Velvet" Twinkleshine Tinker Violet_Violet Velvet Clover_Clover Platinum_Platinum
+			Sea Sparkle Spring_Spring Starlight_Starlight Strawberry Sunset Trixie Twilight "Twilight Sparkle" "Twilight Velvet" Twinkleshine Tinker Violet_Violet Velvet Clover_Clover Platinum_Platinum
 		}
 		
 		from_dynasty_prefix = "of "
@@ -107,7 +107,7 @@ equestrian = {
 		modifier = default_culture_modifier
 	}
 	
-	crystal_culture = {
+	crystal_pony_culture = {
 		graphical_culture = norsegfx
 		
 		color = { 0.1 0.0 0.7 }
@@ -143,9 +143,28 @@ equestrian = {
 		mother_name_chance = 5
 		
 	}
+	thestral_culture = {
+		graphical_culture = saxongfx
+		
+		color = { 41 28 80 }
+		
+		male_names = {
+			Errol Meadowlark Sunshine
+		}	
+		female_names = {
+			Echo Heartbeat Jasmine "Midnight Blossom" Nightshade "Night Watch" Pitaya Speck
+		}
+		
+		from-dynasty_prefix = "von"
+		
+		male_patronym =
+		female_patronym =
+		
+		modifier = default_culture_modifier
+	}
 }
 
-sadle_arabian = {
+saddle_arabian_group = {
 	graphical_culture = muslimgfx
 	
 	saddle_arabian_culture = {
@@ -173,7 +192,7 @@ sadle_arabian = {
 	}
 }
 
-zebra = {
+zebra_group = {
 	graphical_culture = africangfx
 	
 	zebradid = {
@@ -310,13 +329,13 @@ buffalo_group = {
 	}
 }
 
-griffin_group = {
+griffon_group = {
 	graphical_culture = norsegfx
 	
-	high_griffin = {
+	high_griffon = {
 		graphical_culture = norsegfx
 		
-		color = { 0.25 0.5 0.75 }
+		color = { 120 51 25 }
 		
 		male_names = {
 			Bløffmaker_Trickster
@@ -351,18 +370,13 @@ griffin_group = {
 		modifier = default_culture_modifier
 	}
 	
-	south_griffin = {
+	south_griffon = {
 		graphical_culture = norsegfx
 		color = { 0.15 0.4 0.55 }
 		
 		male_names = {
-			Redbeak_Redbeak Bluebeak_Bluebeak Blackbeak_Blackbeak
-			Filoumac_Trickster
-			Artaxerxes Childeric_Childeric Clovis_Clovis Cyrus Darius Dagobert_Dagobert 
-			Winderwind Griffe_Claw
-			Gaillard Gaufrid Geoffroy_Godfrey Gerald_Gerald Gerard_Gerard Gérard_Gerard Geraud_Gerald Gerbert Gervas Giffard Gilbert_Gilbert
-			Godfrey_Godfrey Goubert Guntard Gustav_Gustav
-			Xerxes 
+			Redbeak_Redbeak Bluebeak_Bluebeak Blackbeak_Blackbeak Filoumac_Trickster Artaxerxes Childeric_Childeric Clovis_Clovis Cyrus Darius Dagobert_Dagobert Winderwind Griffe_Claw
+			Gaillard Gaufrid Geoffroy_Godfrey Gerald_Gerald Gerard_Gerard Gérard_Gerard Geraud_Gerald Gerbert Gervas Giffard Gilbert_Gilbert Godfrey_Godfrey Goubert Guntard Gustav_Gustav
 		}
 		female_names = {
 			Geva Gilda_Gilda Giselle_Gisela Gohilde Griselda Gundred
@@ -389,7 +403,7 @@ griffin_group = {
 		modifier = default_culture_modifier
 	}
 	
-	low_griffin = {
+	low_griffon = {
 		graphical_culture = norsegfx
 	
 		color = { 0.2 0.45 0.65 }
@@ -417,17 +431,17 @@ griffin_group = {
 	}
 }
 
-changeling = {
+changeling_group = {
 	changeling_culture = {
 		graphical_culture = mongolgfx
 		
 		color = { 0.1 .06 0.7 }
 
 		male_names = {
-			Dopple Dogger Maurr Shifter Coxa Shadow_Shadow 
+			Chitin Cloak Doppel Dogger Maurr Shifter Coxa Shadow_Shadow 
 		}
 		female_names = {
-			Chrysalis Pupa Mirror Vespine Cocoon
+			Aconita Agave Ambrosia Aurelia Anaxa Calliphora Chrysalis Cocoon Gossamer Miasma Mirror Myxine Phantasma Pupa Vespine
 		}
 		
 		from_dynasty_prefix = "vrg "
@@ -453,11 +467,11 @@ changeling = {
 
 deer_group = {
 
-	hindi_culture = {
+	hindi = {
 		color = { 0.9 .01 .05 }
 		
 		male_names = {
-			Deerid 
+			Deerid Roe
 		}
 		female_names = {
 			Bambe
@@ -475,7 +489,7 @@ deer_group = {
 
 	}
 	
-	moose_culture = {
+	moose = {
 		color = { 0.3 0.3 0.3 }
 		
 		male_names = {
@@ -497,7 +511,7 @@ deer_group = {
 		
 	}
 	
-	caribou_culture = {
+	caribou = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
