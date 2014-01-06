@@ -25,3 +25,7 @@
 	name="D'Apple"
 	culture = earth_pony_culture
 }
+3000 = {
+	name="Chrysalia"
+	culture = changeling_culture
+}

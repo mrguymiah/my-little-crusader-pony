@@ -1,0 +1,16 @@
+3000 = {
+	name="Anaxa"
+	dynasty=3000
+	diplomacy=5
+	martial=9
+	stewardship=7
+	intrigue=10
+	learning=6
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	89.1.2 = {
+		birth="83.1.2"
+	}
+}

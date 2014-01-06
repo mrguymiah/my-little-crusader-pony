@@ -8,8 +8,9 @@ character_event = {
 	picture = GFX_evt_child_play
 	
 	trigger = {
-		age = 0
+		
 		NOT = {
+			age = 1
 			OR = {
 				trait = pegasus
 				trait = unicorn
