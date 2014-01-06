@@ -3875,7 +3875,7 @@ e_equestria = {
 				color={ 156 94 177 }
 				color2={ 255 255 255 }
 			
-					b_canterlot = {}
+					b_canterlot_castle = {}
 					b_moonstreet = {}
 					b_irongate = {}
 					b_high_rock = {}
@@ -4864,7 +4864,7 @@ e_equestria = {
 				color={ 46 86 188 }
 				color2={ 255 255 255 }
 				
-				capital = 370 # Earth
+				capital = 370 # Pegasopolis
 				
 				c_pegasopolis = {
 				color={ 46 86 188 }
@@ -4906,109 +4906,97 @@ e_equestria = {
 				
 				capital = 373 # Manelitene
 				
-			c_manelitene = {
+				c_manelitene = {
 				color={ 30 49 99 }
 				color2={ 255 255 255 }
 			
-				b_manelitene = {
-				b_manelitene2 = {
-				b_manelitene3 = {
-	}
-		}
+					b_manelitene = {}
+					b_manelitene2 = {}
+					b_manelitene3 = {}
+				}
 				c_coltiat = {
-				color={ 13 35 89 }
-				color2={ 255 255 255 }
+					color={ 13 35 89 }
+					color2={ 255 255 255 }
 			
-				b_coltiat = {
-	}
-		}
+					b_coltiat = {}
+				}
 				c_cloponeia = {
-				color={ 43 61 107 }
-				color2={ 255 255 255 }
+					color={ 43 61 107 }
+					color2={ 255 255 255 }
 			
-				b_cloponeia = {
-	}
-		}
-		}
+					b_cloponeia = {}
+				}
+			}
 			d_nimbus_pass = {
 				color={ 67 58 136 }
 				color2={ 255 255 255 }
 				
 				capital = 376 # Rainos
 				
-			c_rainos = {
+				c_rainos = {
 				color={ 67 58 136 }
 				color2={ 255 255 255 }
 			
-				b_rainos = {
-	}
-		}
+				b_rainos = {}
+				}
 				c_nimbus_pass = {
-				color={ 71 51 223 }
-				color2={ 255 255 255 }
+					color={ 71 51 223 }
+					color2={ 255 255 255 }
 			
-				b_wind_acre_keep = {
-	}
-					b_cloud_ranch = {
-	}
-		}
-		}
+					b_wind_acre_keep = {}
+					b_cloud_ranch = {}
+				}
+			}
 			d_maretolia = {
 				color={ 81 67 182 }
 				color2={ 255 255 255 }
 				
 				capital = 378 # Cirrus
 				
-			c_cirrus = {
-				color={ 81 67 182 }
-				color2={ 255 255 255 }
+				c_cirrus = {
+					color={ 81 67 182 }
+					color2={ 255 255 255 }
 			
-				b_cirrus = {
-	}
-		}
+					b_cirrus = {}
+				}
 				c_hurriandria = {
-				color={ 51 46 159 }
-				color2={ 255 255 255 }
+					color={ 51 46 159 }
+					color2={ 255 255 255 }
 			
-				b_hurriandria = {
-	}
-		}
-		}
+					b_hurriandria = {}
+				}
+			}
 			d_airpius = {
 				color={ 54 79 141 }
 				color2={ 255 255 255 }
 				
 				capital = 380 # Nacreous
 				
-			c_nacreous = {
-				color={ 54 79 141 }
-				color2={ 255 255 255 }
+				c_nacreous = {
+					color={ 54 79 141 }
+					color2={ 255 255 255 }
 			
-				b_nacreous = {
-	}
-		}
+					b_nacreous = {}
+				}
 				c_maneathon = {
-				color={ 88 115 183 }
-				color2={ 255 255 255 }
+					color={ 88 115 183 }
+					color2={ 255 255 255 }
 			
-				b_maneathon = {
-	}
-		}
+					b_maneathon = {}
+				}
 				c_cloudon = {
-				color={ 70 90 141 }
-				color2={ 255 255 255 }
+					color={ 70 90 141 }
+					color2={ 255 255 255 }
 			
-				b_cloudon = {
-	}
-		}
+					b_cloudon = {}
+				}
 				c_maneipolis = {
-				color={ 103 122 169 }
-				color2={ 255 255 255 }
+					color={ 103 122 169 }
+					color2={ 255 255 255 }
 			
-				b_maneipolis = {
-	}
-		}
-		}
+					b_maneipolis = {}
+				}
+			}
 			d_galloping_gorge = {
 				color={ 91 88 150 }
 				color2={ 255 255 255 }
@@ -5146,9 +5134,9 @@ e_equestria = {
 					b_cloudkonion3 = {}
 					b_cloudkonion4 = {}
 				}
+			}
 		}
-		}
-}	
+	}
 e_deeria = {
 	color={ 80 189 199 }
 	color2={ 255 255 20 }
