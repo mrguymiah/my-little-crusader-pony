@@ -1,25 +1,30 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-equestrian;Equestrian;;;;;;;;;x
-earth_culture;Earth Pony;;;;;;;;;x
-pegasus_culture;Pegasus;;;;;;;;;x
-unicorn_culture;Unicorn;;;;;;;;;x
-crystal_culture;Crystal Pony;;;;;;;;;x
-thestral_culture;Thestral;;;;;;;;;x
-saddle_arabian_group;Saddle Arabian;;;;;;;;;x
-saddle_arabian_culture;Saddle Arabian;;;;;;;;;x
-zebra_group;Zebra;;;;;;;;;x
-zebra_culture;Zebra;;;;;;;;;x
-zebradid;Zebradid;;;;;;;;;x
-zebrazen;Zebrazen;;;;;;;;;x
-buffalo_group;Buffalo;;;;;;;;;x
-blackhoof;Blackhoof;;;;;;;;;x
-sioxen;Sioxen;;;;;;;;;x
-tazapan;Tazapan;;;;;;;;;x
-griffon_group;Griffon;;;;;;;;;x
-high_griffon;Highland Griffon;;;;;;;;;x
-low_griffon;Lowland Griffon;;;;;;;;;x
-south_griffon;South Griffon;;;;;;;;;x
-changeling_culture;Changeling;;;;;;;;;x
-deer_group;Cervid;;;;;;;;;x
-hindi_culture;Hindi;;;;;;;;;x
-caribou_culture;Caribou;;;;;;;;;x
+equestrian;Equestrian;;;;;;;;;x;;;;
+earth_pony_culture;Earth Pony;;;;;;;;;x;;;
+pegasus_culture;Pegasus;;;;;;;;;x;;;;
+unicorn_culture;Unicorn;;;;;;;;;x;;;;
+crystal_culture;Crystal Pony;;;;;;;;;x;;;
+thestral_culture;Thestral;;;;;;;;;x;;;;
+saddle_arabian_group;Saddle Arabian;;;;;;;;;x;;;
+saddle_arabian_culture;Saddle Arabian;;;;;;;;;x;;;
+zebra_group;Zebra;;;;;;;;;x;;;;
+zebra_culture;Zebra;;;;;;;;;x;;;;
+zebradid;Zebradid;;;;;;;;;x;;;;
+zebrazen;Zebrazen;;;;;;;;;x;;;;
+buffalo_group;Buffalo;;;;;;;;;x;;;;
+blackhoof;Blackhoof;;;;;;;;;x;;;;
+sioxen;Sioxen;;;;;;;;;x;;;;
+tazapan;Tazapan;;;;;;;;;x;;;;
+griffon_group;Griffon;;;;;;;;;x;;;;
+high_griffon;Highland Griffon;;;;;;;;;x;;;
+low_griffon;Lowland Griffon;;;;;;;;;x;;;
+south_griffon;South Griffon;;;;;;;;;x;;;
+changeling_culture;Changeling;;;;;;;;;x;;;;
+deer_group;Cervid;;;;;;;;;x;;;;
+elapho_culture;Elapho;;;;;;;;;x;;;;
+caribou_culture;Caribou;;;;;;;;;x;;;;
+whtietail;Whitetail;;;;;;;;;x;;;;
+fallow;Fallow;;;;;;;;;x;;;;
+muntjac;Muntjac;;;;;;;;;x;;;;
+taruca;Taruca;;;;;;;;;x;;;;
+cephalo;Cephalo;;;;;;;;;x;;;;

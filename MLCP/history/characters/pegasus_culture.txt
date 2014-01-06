@@ -7,7 +7,7 @@
 		stewardship=6
 		intrigue=7
 		learning=3
-		culture="pegasi_culture"
+		culture="pegasus_culture"
 		religion="soarastrian"
 		add_trait="pegasus"
 		add_trait="proud"
@@ -26,7 +26,7 @@
 		stewardship = 9
 		intrigue = 3
 		learning = 7
-		culture="pegasi_culture"
+		culture="pegasus_culture"
 		religion="soarastrian"
 		add_trait="pegasus"
 		add_trait="craven"

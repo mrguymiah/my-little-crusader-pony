@@ -8,7 +8,7 @@
 	intrigue=2
 	learning=3
 	religion="earth_religion"
-	culture="earth_culture"
+	culture="earth_pony_culture"
 	add_trait="earth_pony"
 	add_trait="gregarious"
 	add_trait="honest"
@@ -27,7 +27,7 @@
 	intrigue=2
 	learning=5
 	religion="earth_religion"
-	culture="earth_culture"
+	culture="earth_pony_culture"
 	add_trait="earth_pony"
 	add_trait="midas_touched"
 	add_trait="kind"

@@ -5037,42 +5037,42 @@ e_equestria = {
 				
 				capital = 391 # Thunderpolis
 				
-			c_thunderpolis = {
-				color={ 31 60 110 }
-				color2={ 255 255 255 }
+				c_thunderpolis = {
+					color={ 31 60 110 }
+					color2={ 255 255 255 }
 			
-				b_thunderpolis = {
-	}
-		}
+					b_thunderpolis = {
+					}
+				}
 				c_skydeia = {
-				color={ 53 71 103 }
-				color2={ 255 255 255 }
+					color={ 53 71 103 }
+					color2={ 255 255 255 }
 			
-				b_skydeia = {
-	}
-		}
+					b_skydeia = {
+					}
+				}
 				c_crystalwing = {
-				color={ 42 72 123 }
-				color2={ 255 255 255 }
+					color={ 42 72 123 }
+					color2={ 255 255 255 }
 			
-				b_crystalwing = {
-	}
-		}
+					b_crystalwing = {
+					}
+				}
 				c_wingdown = {
-				color={ 42 72 123 }
-				color2={ 255 255 255 }
+					color={ 42 72 123 }
+					color2={ 255 255 255 }
 			
-				b_crystalwing = {
-	}
-		}
+					b_crystalwing = {
+					}
+				}
 				c_windhill = {
-				color={ 42 72 123 }
-				color2={ 255 255 255 }
+					color={ 42 72 123 }
+					color2={ 255 255 255 }
 			
-				b_crystalwing = {
-	}
-		}
-		}
+					b_crystalwing = {
+					}
+				}
+			}
 			d_cold_wind_pass = {
 				color={ 31 86 176 }
 				color2={ 255 255 255 }

@@ -467,3 +467,169 @@ discordian_Rgroup = {
 		female_temple_holders = yes
 	}
 }
+
+caribou_Rgroup = {
+	playable = yes
+	has_coa_on_barony_only = yes
+	crusade_cb = crusade
+
+	mooselam = {
+		graphical_culture = westerngfx
+
+		icon = 19 #norse
+		heresy_icon = 21
+		color = { 0.3 0.1 0.1 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		allow_viking_invasion = yes
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		priests_can_marry = yes
+		max_consorts = 5
+		reformed = mooselam_reformed
+	}
+	mooselam_reformed = {
+		graphical_culture = westerngfx
+
+		icon = 19 #norse
+		heresy_icon = 21
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		allow_viking_invasion = yes
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		priests_can_marry = yes
+		max_consorts = 5
+	}
+	elaphanti = {
+		graphical_culture = westerngfx
+
+		icon = 19 #norse
+		heresy_icon = 21
+		color = { 0.7 0.3 0.3 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		allow_viking_invasion = yes
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		priests_can_marry = yes
+		max_consorts = 5
+	}
+	falphanti = {
+		graphical_culture = westerngfx
+
+		icon = 19 #norse
+		heresy_icon = 21
+		color = { 0.6 0.2 0.2 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		parent = elaphanti
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		allow_viking_invasion = yes
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		priests_can_marry = yes
+		max_consorts = 5
+	}
+	muntura = {
+		graphical_culture = westerngfx
+
+		icon = 19 #norse
+		heresy_icon = 21
+		color = { 0.7 0.6 0.1 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		allow_viking_invasion = yes
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		priests_can_marry = yes
+		max_consorts = 5
+	}
+	cephala = {
+		graphical_culture = westerngfx
+
+		icon = 19 #norse
+		heresy_icon = 21
+		color = { 0.3 0.2 0.0 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		parent = muntura
+		investiture = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		allow_viking_invasion = yes
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		priests_can_marry = yes
+		max_consorts = 5
+	}
+}

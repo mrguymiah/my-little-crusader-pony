@@ -3,8 +3,8 @@ k_zebrazen;Zebrazen;;;;;;;;;;;;;x;
 k_zebrazen_adj;Zebrazenian;;;;;;;;;;;;;x;
 k_zebora;Zebora;;;;;;;;;;;;;x;
 k_zebora_adj;Zeborian;;;;;;;;;;;;;x;
-k_zebrican_desert;Zebrican;Desert;;;;;;;;;;;;;x
-k_zebrican_desert_adj;Zebrican;Desertian;;;;;;;;;;;;;x
+k_zebrican_desert;Zebrican Desert;;;;;;;;;;;;;x
+k_zebrican_desert_adj;Zebrican Desertian;;;;;;;;;;;;;x
 k_hayseed;Hayseed;;;;;;;;;;;;;x;
 k_hayseed_adj;Hayseedian;;;;;;;;;;;;;x;
 k_manedalus;Manedalus;;;;;;;;;;;;;x;
@@ -17,8 +17,8 @@ k_buffatania;Buffatania;;;;;;;;;;;;;x;
 k_buffatania_adj;Buffatanian;;;;;;;;;;;;;x;
 k_sioxen;Sioxen;;;;;;;;;;;;;x;
 k_sioxen_adj;Sioxenian;;;;;;;;;;;;;x;
-k_golden_forest;Golden;Forest;;;;;;;;;;;;;x
-k_golden_forest_adj;Golden;Forestian;;;;;;;;;;;;;x
+k_golden_forest;Golden Forest;;;;;;;;;;;;;x
+k_golden_forest_adj;Golden Forestian;;;;;;;;;;;;;x
 k_everfree;Everfree;;;;;;;;;;;;;x;
 k_everfree_adj;Everfrian;;;;;;;;;;;;;x;
 k_unicornia;Unicornia;;;;;;;;;;;;;x;
@@ -26,7 +26,7 @@ k_unicornia_adj;Unicornian;;;;;;;;;;;;;x;
 k_manehatten;Manehatten;;;;;;;;;;;;;x;
 k_manehatten_adj;Manehattenite;;;;;;;;;;;;;x;
 k_earth;Earth;;;;;;;;;;;;;x;
-k_earth_adj;Earthian;;;;;;;;;;;;;x;
+k_earth_adj;Earthling;;;;;;;;;;;;;x;
 k_pegasopolis;Pegasopolis;;;;;;;;;;;;;x;
 k_pegasopolis_adj;Pegasopolisian;;;;;;;;;;;;;x;
 k_whitetail;Whitetail;;;;;;;;;;;;;x;
@@ -35,16 +35,16 @@ k_doegon;Doegon;;;;;;;;;;;;;x;
 k_doegon_adj;Doegonian;;;;;;;;;;;;;x;
 k_coltumbia;Coltumbia;;;;;;;;;;;;;x;
 k_coltumbia_adj;Coltumbian;;;;;;;;;;;;;x;
-k_crystal_kingdom;Crystal;Kingdom;;;;;;;;;;;;;x
-k_crystal_kingdom_adj;Crystal;Kingdomian;;;;;;;;;;;;;x
-k_diamond_hills;Diamond;Hills;;;;;;;;;;;;;x
-k_diamond_hills_adj;Diamond;Hillsian;;;;;;;;;;;;;x
+k_crystal_kingdom;Crystal Kingdom;;;;;;;;;;;;;x
+k_crystal_kingdom_adj;Crystal Kingdomian;;;;;;;;;;;;;x
+k_diamond_hills;Diamond Hills;;;;;;;;;;;;;x
+k_diamond_hills_adj;Diamond Hillsian;;;;;;;;;;;;;x
 k_frostbound;Frostbound;;;;;;;;;;;;;x;
 k_frostbound_adj;Frostbound;;;;;;;;;;;;;x;
 k_changeling;Changeling;;;;;;;;;;;;;x;
-k_changeling_adj;Changelingian;;;;;;;;;;;;;x;
-k_saddle_arabia;Saddle;Arabia;;;;;;;;;;;;;x
-k_saddle_arabia_adj;Saddle;Arabian;;;;;;;;;;;;;x
+k_changeling_adj;Changeling;;;;;;;;;;;;;x;
+k_saddle_arabia;Saddle Arabia;;;;;;;;;;;;;x
+k_saddle_arabia_adj;Saddle Arabian;;;;;;;;;;;;;x
 k_styria;Styria;;;;;;;;;;;;;x;
 k_styria_adj;Styrian;;;;;;;;;;;;;x;
 k_maresopotamia;Maresopotamia;;;;;;;;;;;;;x;
@@ -57,12 +57,12 @@ k_wingbardy;Wingbardy;;;;;;;;;;;;;x;
 k_wingbardy_adj;Wingbardian;;;;;;;;;;;;;x;
 k_feathisia;Feathisia;;;;;;;;;;;;;x;
 k_feathisia_adj;Feathisian;;;;;;;;;;;;;x;
-k_east_griffonia;East;Griffonia;;;;;;;;;;;;;x
-k_east_griffonia_adj;East;Griffonian;;;;;;;;;;;;;x
+k_east_griffonia;East Griffonia;;;;;;;;;;;;;x
+k_east_griffonia_adj;East Griffonian;;;;;;;;;;;;;x
 k_talonringia;Talonringia;;;;;;;;;;;;;x;
 k_talonringia_adj;Talonringian;;;;;;;;;;;;;x;
-k_west_griffonia;West;Griffonia;;;;;;;;;;;;;x
-k_west_griffonia_adj;West;Griffonian;;;;;;;;;;;;;x
+k_west_griffonia;West Griffonia;;;;;;;;;;;;;x
+k_west_griffonia_adj;West Griffonian;;;;;;;;;;;;;x
 k_skydinavia;Skydinavia;;;;;;;;;;;;;x;
 k_skydinavia_adj;Skydinavian;;;;;;;;;;;;;x;
 k_mooseland;Mooseland;;;;;;;;;;;;;x;
