@@ -11,7 +11,7 @@ b_maneamba2 = city
 b_maneamba3 = temple
 
 # Misc
-culture = zebradid
 100.1.1 = {
 	religion = zulhooves_religion
+	culture = zebradid
 }

@@ -31,7 +31,7 @@
 	add_trait="midas_touched"
 	add_trait="kind"
 	81.8.13 = {
-		birth="80.8.13 "
+		birth="81.8.13 "
 	}
 }
 7 = {

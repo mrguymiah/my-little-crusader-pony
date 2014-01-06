@@ -147,7 +147,7 @@ equestrian = {
 	thestral_culture = {
 		graphical_culture = saxongfx
 		
-		color = { 41 28 80 }
+		color = { 0.2 0.2 0.4 }
 		
 		male_names = {
 			Errol Meadowlark Sunshine
@@ -156,10 +156,10 @@ equestrian = {
 			Echo Heartbeat Jasmine "Midnight Blossom" Nightshade "Night Watch" Pitaya Speck
 		}
 		
-		from-dynasty_prefix = "von"
+		from_dynasty_prefix = "von "
 		
-		male_patronym =
-		female_patronym =
+		male_patronym = ""
+		female_patronym = ""
 		
 		modifier = default_culture_modifier
 	}
@@ -336,7 +336,7 @@ griffon_group = {
 	high_griffon = {
 		graphical_culture = norsegfx
 		
-		color = { 120 51 25 }
+		color = { 0.5 0.2 0.1 }
 		
 		male_names = {
 			Bløffmaker_Trickster
@@ -485,6 +485,7 @@ deer_group = {
 		mat_grm_name_chance = 50
 		mother_name_chance = 0
 		
+		modifier = default_culture_modifier
 	}
 	
 	whitetail = {
@@ -504,6 +505,7 @@ deer_group = {
 		mat_grm_name_chance = 50
 		mother_name_chance = 0
 		
+		modifier = default_culture_modifier
 	}
 	
 	fallow = {
@@ -523,6 +525,7 @@ deer_group = {
 		mat_grm_name_chance = 50
 		mother_name_chance = 0
 		
+		modifier = default_culture_modifier
 	}
 
 	muntjac = {
@@ -542,6 +545,7 @@ deer_group = {
 		mat_grm_name_chance = 50
 		mother_name_chance = 0
 		
+		modifier = default_culture_modifier
 	}
 	
 	taruca = {
@@ -561,6 +565,7 @@ deer_group = {
 		mat_grm_name_chance = 50
 		mother_name_chance = 0
 		
+		modifier = default_culture_modifier
 	}
 	
 	cephalo = {
@@ -580,6 +585,7 @@ deer_group = {
 		mat_grm_name_chance = 50
 		mother_name_chance = 0
 		
+		modifier = default_culture_modifier
 	}
 	
 	caribou_culture = {
@@ -600,6 +606,8 @@ deer_group = {
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
 		mat_grm_name_chance = 50
-		mother_name_chance = 0		
+		mother_name_chance = 0	
+
+		modifier = default_culture_modifier
 	}
 }

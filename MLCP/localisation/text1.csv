@@ -7583,7 +7583,6 @@ b_zumarshausen;Zumarshausen;Zumarshausen;Zumarshausen;;Zumarshausen;;;;;;;;;x
 b_donauworth;Donauwörth;Donauworth;Donauwörth;;Donauwörth;;;;;;;;;x
 b_friedberg;Friedberg;Friedberg;Friedberg;;Friedberg;;;;;;;;;x
 b_hochstadt;Höchstadt;Höchstadt;Höchstadt;;Höchstadt;;;;;;;;;x
-b_rain;Rain;Rain;Rain;;Rain;;;;;;;;;x
 c_oberbayern_adj;Oberbayerian;Haut-Bavaroise;Oberbayrischer;;Oberbayerianés;;;;;;;;;x
 b_munchen;München;Munich;München;;Munich;;;;;;;;;x
 b_dachau;Dachau;Dachau;Dachau;;Dachau;;;;;;;;;x
@@ -9974,7 +9973,6 @@ b_latifiya;Latifiya;Latifiya;Latifija;;Latifiya;;;;;;;;;x
 c_deir_adj;Deirian;Deirienne;Deirischer;;Deirianés;;;;;;;;;x
 b_anah;Anah;Anah;Anah;;Anah;;;;;;;;;x
 b_anbar;Anbar;Anbar;Anbar;;Anbar;;;;;;;;;x
-b_rutbah;Rutbah;Rutba;Rutbah;;Rutbah;;;;;;;;;x
 b_rawa;Rawa;Rawa;Rawa;;Rawa;;;;;;;;;x
 b_hit;Hit;Hit;Hit;;Hit;;;;;;;;;x
 b_ramadi;Ramadi;Ramadi;Ramadi;;Ramadi;;;;;;;;;x
@@ -10928,8 +10926,6 @@ b_pettau;Pettau;Pettau;Pettau;;Pettau;;;;;;;;;x
 b_wolfsberg;Wolfsberg;Wolfsberg;Wolfsberg;;Wolfsberg;;;;;;;;;x
 d_venice;Venice;Venise;Venedig;;Venecia;;;;;;;;;x
 d_venice_adj;Venetian;Vénitienne;Venezischer;;Veneciana;;;;;;;;;x
-c_aquileia_adj;Aquileian;Aquiléenne;Aquileia-;;Aquileiesí;;;;;;;;;x
-b_aquileia;Aquileia;Aquilée;Aquileia;;Aquilea;;;;;;;;;x
 b_udine;Udine;Udine;Udine;;Udine;;;;;;;;;x
 b_friuli;Friuli;Friuli;Friuli;;Friuli;;;;;;;;;x
 b_motta;Motta;Motta;Motta;;Motta;;;;;;;;;x
@@ -11848,8 +11844,6 @@ b_bressuire;Bressuire;Bressuire;Bressuire;;Bressuire;;;;;;;;;x
 b_olonne;Olonne;Olonne;Olonne;;Olonne;;;;;;;;;x
 b_mauleon;Mauléon;Mauléon;Mauléon;;Mauléon;;;;;;;;;x
 b_fontenay;Fontenay;Fontenay;Fontenay;;Fontenay;;;;;;;;;x
-d_berry;Berry;Berry;Berry;;Berry;;;;;;;;;x
-d_berry_adj;Berrian;Berrichonne;Berry-;;Berrianés;;;;;;;;;x
 c_tourraine_adj;Tourrainian;Tourangeau;Tourrainer;;Tourrainés;;;;;;;;;x
 b_chinon;Chinon;Chinon;Chinon;;Chinon;;;;;;;;;x
 b_tours;Tours;Tours;Tours;;Tours;;;;;;;;;x
@@ -13371,7 +13365,6 @@ b_samur;Samur;Samur;Samur;;Samur;;;;;;;;;x
 b_tawala;Tawala;Tawala;Tawala;;Tawala;;;;;;;;;x
 c_medina_adj;Medinan;Médinoise;Medinischer;;Medinense;;;;;;;;;x
 b_medina;Medina;Médine;Medina;;Medina;;;;;;;;;x
-b_khaybar;Khaybar;Khaybar;Khaybar;;Khaybar;;;;;;;;;x
 b_rabig;Rabig;Rabig;Rabig;;Rabig;;;;;;;;;x
 b_yanbu;Yanbu;Yanbu;Yanbu;;Yanbu;;;;;;;;;x
 b_kuba;Kuba;Kuba;Kuba;;Kuba;;;;;;;;;x
@@ -14123,7 +14116,6 @@ b_abingdon;Abingdon;Abingdon;Abingdon;;Abingdon;;;;;;;;;x
 b_buckingham;Buckingham;Buckingham;Buckingham;;Buckingham;;;;;;;;;x
 b_banbury;Banbury;Banbury;Banbury;;Banbury;;;;;;;;;x
 b_reading;Reading;Reading;Reading;;Reading;;;;;;;;;x
-b_aylesbury;Aylesbury;Aylesbury;Aylesbury;;Aylesbury;;;;;;;;;x
 b_eynsham;Eynsham;Eynsham;Eynsham;;Eynsham;;;;;;;;;x
 d_bedford;Essex;Essex;Essex;;Essex;;;;;;;;;x
 d_bedford_adj;Essexian;Essexoise;Essexer;;Sajón Oriental;;;;;;;;;x
@@ -14221,7 +14213,6 @@ b_waverley;Waverley;Waverley;Waverley;;Waverley;;;;;;;;;x
 c_kent_adj;Kentian;Kentiane;Kenter;;Kentiano;;;;;;;;;x
 b_rochester;Rochester;Rochester;Rochester;;Rochester;;;;;;;;;x
 b_dover;Dover;Dover;Dover;;Dover;;;;;;;;;x
-b_canterbury;Canterbury;Canterbury;Canterbury;;Canterbury;;;;;;;;;x
 b_faversham;Faversham;Faversham;Faversham;;Faversham;;;;;;;;;x
 b_sandwich;Sandwich;Sandwich;Sandwich;;Sandwich;;;;;;;;;x
 b_lympne;Lympne;Lympne;Lympne;;Lympne;;;;;;;;;x
@@ -14267,7 +14258,6 @@ b_glastonbury;Glastonbury;Glastonbury;Glastonbury;;Glastonbury;;;;;;;;;x
 b_cleeve;Cleeve;Cleeve;Cleeve;;Cleeve;;;;;;;;;x
 d_cornwall;Cornwall;Cornouailles;Cornwall;;Cornualles;;;;;;;;;x
 d_cornwall_adj;Cornish;Cornouaillaise;Kornischer;;Cornuallesa;;;;;;;;;x
-c_cornwall_adj;Cornish;Cornouaillaise;Kornischer;;Cornuallés;;;;;;;;;x
 b_bodmin;Bodmin;Bodmin;Bodmin;;Bodmin;;;;;;;;;x
 b_launceston;Launceston;Launceston;Launceston;;Launceston;;;;;;;;;x
 b_st_germans;St. Germans;St. Germans;St. Germans;;St. Germans;;;;;;;;;x
@@ -14292,7 +14282,6 @@ b_crediton;Crediton;Crediton;Crediton;;Crediton;;;;;;;;;x
 b_totnes;Totnes;Totnes;Totnes;;Totnes;;;;;;;;;x
 b_axminster;Axminster;Axminster;Axminster;;Axminster;;;;;;;;;x
 b_tavistock;Tavistock;Tavistock;Tavistock;;Tavistock;;;;;;;;;x
-b_buckfast;Buckfast;Buckfast;Buckfast;;Buckfast;;;;;;;;;x
 b_dartmouth;Dartmouth;Dartmouth;Dartmouth;;Dartmouth;;;;;;;;;x
 k_wales;Wales;Pays de Galles;Wales;;Gales;;;;;;;;;x
 k_wales_adj;Welsh;Galloise;Walisischer;;Galesa;;;;;;;;;x
@@ -17437,7 +17426,6 @@ SPREAD_FROM_DEM;Demesne Bonus;Bonus de domaine;Domäne-Bonus;;Bonificación de her
 FOCUS_BONUS;Focus Bonus;Bonus d'intérêt;Fokus-Bonus;;Bonificación por enfoque;;;;;;;;;x
 INC_PER_YEAR;chance of increase / year;chance d'augmentation / an;Chance auf Zuwachs/ Jahr;;probabilidad de aumento/año;;;;;;;;;x
 INC_PER_YEAR_SHORT;/ year;/ an;/ Jahr;;/año;;;;;;;;;x
-christian;Christian;Chrétien;Christlich;;Cristiano;;;;;;;;;x
 catholic;Catholic;Catholique;Katholisch;;Católico;;;;;;;;;x
 orthodox;Orthodox;Orthodoxe;Orthodox;;Ortodoxo;;;;;;;;;x
 muslim;Muslim;Musulman;Moslem;;Musulmán;;;;;;;;;x
@@ -18695,12 +18683,6 @@ has_measles;Has Measles;Atteint de rougeole;Hat Masern;;Padece de sarampión;;;;;
 has_measles_desc;This character has contracted the Measles, a fairly dangerous type of pox.;Ce personnage est atteint d’un terrible mal appelé rougeole.;Dieser Charakter hat die Masern, eine ziemlich gefährliche Pockenart.;;Este personaje ha contraído el sarampión, un tipo de viruela peligroso.;;;;;;;;;x
 has_small_pox;Has Smallpox;Atteint de variole;Hat Blattern;;Padece de viruela;;;;;;;;;x
 has_small_pox_desc;This character has the dreaded Smallpox, which kills almost half of those infected.;Ce personnage est atteint d’un terrible mal appelé variole.;Dieser Charakter hat die gefürchteten Blattern, an denen fast die Hälfte der Erkrankten stirbt.;;Este personaje tiene la temida viruela, enfermedad que ha matado a casi la mitad de los infectados.;;;;;;;;;x
-strong;Strong;Fort;Stark;;Fuerte;;;;;;;;;x
-strong_desc;This character is blessed with a powerful physique.;Ce personnage bénéficie d’un physique puissant.;Dieser Charakter ist mit einem kräftigen Körperbau gesegnet.;;Este personaje está dotado de un poderoso físico.;;;;;;;;;x
-weak;Weak;Faible;Weichlich;;Débil;;;;;;;;;x
-weak_desc;This character is scrawny and weak.;Ce personnage est maigre et malingre.;Dieser Charakter ist dürr und schwach.;;Este personaje es escuálido y débil.;;;;;;;;;x
-cruel;Cruel;Cruel;Grausam;;Cruel;;;;;;;;;x
-cruel_desc;This character is an evil sadist, taking pleasure in the suffering of others.;Ce personnage aime voir souffrir ses semblables.;Dieser Charakter ist ein boshafter Sadist und genießt es, andere zu quälen.;;Este personaje es un sádico malvado que siente placer haciendo sufrir a los demás.;;;;;;;;;x
 twin;Twin;Jumeau;Zwilling;;Gemelo;;;;;;;;;x
 TECHNOLOGY_LOWER_THAN; lower than ; inférieur(e) à ; geringer als ;;Inferior a ; inferior a ;;;;;;;;x
 TECHNOLOGY_HIGHER_THAN; at least ; supérieur(e) à ; höher als ;; superior a ; almeno ;;;;;;;;x

@@ -3,7 +3,7 @@
 }
 2 = {
 	name="Whitegold"
-	culture = earth_culture
+	culture = earth_pony_culture
 }
 3 = {
 	name="Sparkle"
@@ -15,13 +15,13 @@
 }
 5 = {
 	name="Swiftwind"
-	culture = pegasi_culture
+	culture = pegasus_culture
 }
 6 = {
 	name="Thunderbolt"
-	culture = pegasi_culture
+	culture = pegasus_culture
 }
 7 = {
 	name="D'Apple"
-	culture = earth_culture
+	culture = earth_pony_culture
 }

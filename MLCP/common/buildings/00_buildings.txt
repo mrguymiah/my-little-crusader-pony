@@ -148,7 +148,7 @@ city = {
 			}
 		}
 		trigger = { TECH_CITY_CONSTRUCTION = 0 }
-		desc = ct_rep_arsenal_1_desc
+		desc = "ct_rep_arsenal_1_desc"
 		build_cost = 200
 		build_time = 1460
 		fort_level = 1.0
