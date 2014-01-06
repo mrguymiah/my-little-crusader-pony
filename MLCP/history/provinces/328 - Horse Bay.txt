@@ -13,7 +13,7 @@ b_stallinonton-on-sea = city
 #b_docking_rock = city
 
 # Misc
-culture = earth_culture
 100.1.1 = {
-	religion = earth_religion
+	religion = falphanti
+	culture = fallow
 }

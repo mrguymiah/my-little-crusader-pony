@@ -10,7 +10,7 @@ b_wind_acre_keep = castle
 b_cloud_ranch = city
 
 # Misc
-culture = pegasus_culture
 100.1.1 = {
-	religion = soarastrian
+	religion = elaphanti
+	culture = elapho_culture
 }

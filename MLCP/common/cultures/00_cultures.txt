@@ -1,4 +1,4 @@
-# Do not change tags in here without changing every other reference to them.
+Shou# Do not change tags in here without changing every other reference to them.
 # If adding new groups or cultures, make sure they are unique.
 ## Feather Book updated - 18/06/2013
 ## Mrguymiah updated - 29/9/2013 - Colour errors and naming tradition errors.
@@ -79,7 +79,7 @@ equestrian = {
 	unicorn_culture = {
 		graphical_culture = germangfx
 		
-		color = { 140 80 211 }
+		color = { 233 147 233 }
 		
 		male_names = {
 			Arpeggio Blue_Blue Blueblood Blueheart Bluestar Black_Black Blackheart_Blackheart Blackstar "Black Marble" Brass Bullion Chocolate_Chocolate Comet Dark_Dark Darkligth Darkheart Darkstar Dream_Dream Dreamer Fancy Faraday Flam Flankin
@@ -466,6 +466,120 @@ changeling_group = {
 }
 
 deer_group = {
+
+	elapho_culture = {
+		color = { 0.5 0.1 0.2 }
+		
+		male_names = {
+			Deerid Roe
+		}
+		female_names = {
+			Bambe
+		}
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+	}
+	
+	whitetail = {
+		color = { 1.0 0.8 0.8 }
+		
+		male_names = {
+			Deerid Roe
+		}
+		female_names = {
+			Bambe
+		}
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+	}
+	
+	fallow = {
+		color = { 0.7 0.4 0.4 }
+		
+		male_names = {
+			Deerid Roe
+		}
+		female_names = {
+			Bambe
+		}
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+	}
+
+	muntjac = {
+		color = { 0.8 0.4 0.3 }
+		
+		male_names = {
+			Deerid Roe
+		}
+		female_names = {
+			Bambe
+		}
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+	}
+	
+	taruca = {
+		color = { 0.4 0.2 0.1 }
+		
+		male_names = {
+			Deerid Roe
+		}
+		female_names = {
+			Bambe
+		}
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+	}
+	
+	cephalo = {
+		color = { 0.5 0.2 0.4 }
+		
+		male_names = {
+			Deerid Roe
+		}
+		female_names = {
+			Bambe
+		}
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+	}
 
 	hindi_culture = {
 		color = { 0.9 .01 .05 }

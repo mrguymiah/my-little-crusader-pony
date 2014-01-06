@@ -15,7 +15,7 @@ b_stagvew = city
 #b_marecer = castle
 
 # Misc
-culture = hindi_culture
 100.1.1 = {
-	religion = mooselam
+	religion = elaphanti
+	culture = elapho_culture
 }

@@ -15,7 +15,7 @@ b_buckwick = city
 #b_hayhill = castle
 
 # Misc
-culture = earth_culture
 100.1.1 = {
-	religion = earth_religion
+	religion = falphanti
+	culture = fallow
 }

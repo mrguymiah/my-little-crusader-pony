@@ -10,7 +10,7 @@ b_sandenfort = castle
 b_dodge_junction = city
 
 # Misc
-culture = unicorn_culture
 100.1.1 = {
-	religion = unicorn_religion
+	religion = muntura
+	culture = muntjac
 }
