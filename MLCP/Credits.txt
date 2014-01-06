@@ -42,6 +42,7 @@
 # Mileau
 # Zachary Taylor
 # OneWingedGeneral/DoubleT
+# HeshieokFasla
 #
 # Artists:
 # ---------
@@ -54,6 +55,7 @@
 # Feather Book
 # Arcade Perfect
 # Zenthree/H/Super Ghandi Ragnarok
+# HeshieokFasla
 #
 #################################################################################################
 #  _____  __    __  _____   _____        __       ____                                          #

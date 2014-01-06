@@ -13,7 +13,7 @@
 	add_trait="crystal_pony"
 	add_trait="ambitious"
 	add_trait="just"
-	75.1.2 = {
+	83.1.2 = {
 		birth="83.1.2"
 	}
 }

@@ -1,0 +1,66 @@
+#Cervid Religious Leader Titles
+k_elaphanti = {
+	color = { 240 155 155 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+		piety = 2500
+	}
+	
+	title = "CERVID_CALIPHTITLE"
+	foa = "CERVID_CALIPHFOA"
+	religion = elaphanti
+	controls_religion = elaphanti
+	caliphate = yes
+	primary = yes
+
+}
+
+k_falphanti = {
+	color = { 195 115 115 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+		piety = 2500
+	}
+	
+	title = "CERVID_CALIPHTITLE"
+	foa = "CERVID_CALIPHFOA"
+	religion = falphanti
+	controls_religion = falphanti
+	caliphate = yes
+	primary = yes
+	
+}
+
+d_muntura = {
+	color = { 200 170 90 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+		piety = 2500
+	}
+	
+	title = "CERVID_CALIPHTITLE"
+	foa = "CERVID_CALIPHFOA"
+	religion = falphanti
+	controls_religion = falphanti
+	caliphate = yes
+	primary = yes
+}
+
+d_cephalo = {
+	color = { 95 45 40 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+		piety = 2500
+	}
+	
+	title = "CERVID_CALIPHTITLE"
+	foa = "CERVID_CALIPHFOA"
+	religion = falphanti
+	controls_religion = falphanti
+	caliphate = yes
+	primary = yes
+}

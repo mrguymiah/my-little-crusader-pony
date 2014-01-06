@@ -1,0 +1,58 @@
+#CERVID DYNASTIES#
+#2000 - 2999 reserved
+2000 = { #Elaphanti Caliph
+	name = "Agni'phanti"
+	culture = elapho_culture
+}
+2001 = { #Falphanti Caliph
+	name = "Doski'phanti"
+	culture = fallow
+}	
+2002 = {
+	name = "Whitetail"
+	culture = whitetail
+}
+2003 = {
+	name = "Doe'ga"
+	culture = elapho_culture
+}
+2004 = {
+	name = "Goldleaf"
+	culture = whitetail
+}
+2005 = {
+	name = "Del Norte"
+	culture = whitetail
+}
+2006 = {
+	name = "Greenrock"
+	culture = whitetail
+}
+2007 = {
+	name = "Cranberry"
+	culture = whitetail
+}
+2008 = {
+	name = "Ev'sin"
+	culture = whitetail
+}
+2009 = {
+	name = "di Limehill"
+	culture = fallow
+}
+2010 = {
+	name = "Coltiar"
+	culture = fallow
+}
+2011 = {
+	name = "Smo'mount"
+	culture = elapho_culture
+}
+2012 = {
+	name = "Tash'to"
+	culture = elapho_culture
+}
+2013 = {
+	name = "Clat'na"
+	culture = elapho_culture
+}

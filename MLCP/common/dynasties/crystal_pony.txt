@@ -1,3 +1,5 @@
+#CRYSTAL PONY DYNASTIES#
+#1000 - 1999 reserved
 1000 = { #Crystal Kingdom Holders
 	name = "Mi Amore"
 	culture = crystal_culture

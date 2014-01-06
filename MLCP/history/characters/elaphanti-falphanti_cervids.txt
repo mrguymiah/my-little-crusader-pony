@@ -1,0 +1,238 @@
+2000 = {
+	name="Aus'nu"
+	dynasty=2000
+	diplomacy=6
+	martial=6
+	stewardship=6
+	intrigue=9
+	learning=6
+	religion="elaphanti"
+	culture="elapho_culture"
+	add_trait="elusive_shadow"
+	add_trait="zealot"
+	add_trait="paranoid"
+	add_trait="ambitious"
+	father=2002
+	91.1.2 = {
+		birth="91.1.2"
+	}
+}
+2001 = {
+	name="Ag'nu"
+	dynasty=2000
+	diplomacy=4
+	martial=9
+	stewardship=5
+	intrigue=6
+	learning=6
+	religion="elaphanti"
+	culture="elapho_culture"
+	add_trait="brilliant_strategist"
+	add_trait="zealot"
+	add_trait="cruel"
+	add_trait="ambitious"
+	father=2002
+	96.7.11 = {
+		birth="96.7.11"
+	}
+}
+2002 = {
+	name="Ag'nu"
+	dynasty=2000
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="elaphanti"
+	culture="elapho_culture"
+	add_trait="midas_touched"
+	add_trait="zealot"
+	add_trait="ambitious"
+	79.3.11 = {
+		birth="79.3.11"
+	}
+	117.6.2 = {
+		death="117.6.2"
+	}
+}
+2010 = {
+	name="Whit'tail"
+	dynasty=2002 #Whitetail
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="elaphanti"
+	culture="whitetail"
+	add_trait="zealot"
+	89.2.4 = {
+		birth="89.2.4"
+	}
+}
+2011 = {
+	name="Smo'zan"
+	dynasty=2011
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="elaphanti"
+	culture="elapho_culture"
+	add_trait="zealot"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2012 = {
+	name="Tash'to"
+	dynasty=2012
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="elaphanti"
+	culture="elapho_culture"
+	add_trait="zealot"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2013 = {
+	name="Clat'na"
+	dynasty=2013
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="elaphanti"
+	culture="elapho_culture"
+	add_trait="zealot"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2020 = {
+	name="Doe'nur"
+	dynasty=2003 #Doe'ga
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="elaphanti"
+	culture="whitetail"
+	add_trait="zealot"
+	90.3.7 = {
+		birth="90.3.7"
+	}
+}
+2030 = {
+	name="Go'leaf"
+	dynasty=2004 #Goldleaf
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="elaphanti"
+	culture="whitetail"
+	add_trait="zealot"
+	86.8.1 = {
+		birth="86.8.1"
+	}
+}
+2040 = {
+	name="Sta'tree"
+	dynasty=2005 #Del Norte
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="elaphanti"
+	culture="whitetail"
+	add_trait="zealot"
+	86.8.1 = {
+		birth="86.8.1"
+	}
+}
+2050 = {
+	name="Gre'roc"
+	dynasty=2006
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="elaphanti"
+	culture="whitetail"
+	add_trait="zealot"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2060 = {
+	name="Cran'bur"
+	dynasty=2007
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="elaphanti"
+	culture="whitetail"
+	add_trait="zealot"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2070 = {
+	name="Cran'bur"
+	dynasty=2008
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="elaphanti"
+	culture="whitetail"
+	add_trait="zealot"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2100 = {
+	name="Lim'un"
+	dynasty=2009
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="falphanti"
+	culture="fallow"
+	add_trait="zealot"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2101 = {
+	name="Coltiar"
+	dynasty=2009
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="falphanti"
+	culture="fallow"
+	add_trait="zealot"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
