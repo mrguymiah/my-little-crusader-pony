@@ -4,9 +4,9 @@
 title = c_saddleville
 
 # Settlements
-max_settlements = 6
+max_settlements = 3
 
-b_saddleville = castle
+b_saddleville = city
 
 # Misc
 culture = unicorn_culture

@@ -6,7 +6,7 @@ title = c_pegasopolis
 # Settlements
 max_settlements = 7
 
-b_pegasopolis = castle
+b_pegasopolis1 = castle
 b_pegasopolis2 = city
 b_pegasopolis3 = temple
 b_pegasopolis4 = castle

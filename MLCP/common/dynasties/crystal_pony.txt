@@ -1,0 +1,12 @@
+1000 = { #Crystal Kingdom Holders
+	name = "Mi Amore"
+	culture = crystal_culture
+}
+1001 = {
+	name = "of Neighagra"
+	culture = crystal_culture
+}
+1002 = {
+	name = "Flawlessa"
+	culture = crystal_culture
+}

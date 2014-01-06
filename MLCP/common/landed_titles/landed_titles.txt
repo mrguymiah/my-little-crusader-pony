@@ -3875,34 +3875,31 @@ e_equestria = {
 				color={ 156 94 177 }
 				color2={ 255 255 255 }
 			
-				b_canterlot = {
-	}
-					b_moonstreat = {
-	}
-					b_irongate = {
-	}
-					b_high_rock = {
-	}
-					b_hornway = {
-	}
-					b_managrove = {
-	}
-					b_whitecliff = {
-	}
+					b_canterlot = {}
+					b_moonstreet = {}
+					b_irongate = {}
+					b_high_rock = {}
+					b_hornway = {}
+					b_managrove = {}
+					b_whitecliff = {}
 		}
 				c_saddlegrass = {
-				color={ 179 128 196 }
-				color2={ 255 255 255 }
+					color={ 179 128 196 }
+					color2={ 255 255 255 }
 			
-				b_saddlegrass = {
-	}
-		}
+					b_saddlegrass = {}
+					b_saddleshrine = {}
+					b_saddlegrass2 = {}
+				}
 				c_gemstone_hills = {
 				color={ 168 124 183 }
 				color2={ 255 255 255 }
 			
-				b_gemstone_hills = {
-	}
+					b_gemstone_hills = {}
+					b_gemstone_town = {}
+					b_gemstone_hills2 = {}
+					b_gemstone_hills3 = {}
+				
 		}
 		}
 			d_bitaly = {
@@ -3915,15 +3912,20 @@ e_equestria = {
 				color={ 193 135 195 }
 				color2={ 255 255 255 }
 			
-				b_platinum_pass = {
-	}
+					b_platinum_pass = {}
+					b_platinum_pass2 = {}
+					b_platinum_pass3 = {}
+					b_starswirl_academy = {}
+				
+				
 		}
 				c_saddleville = {
 				color={ 163 123 164 }
 				color2={ 255 255 255 }
 			
-				b_saddleville = {
-	}
+				b_saddleville = {}
+				b_saddleville2 = {}
+				b_saddleville3 = {}
 		}
 				c_ramming_rock_ridge = {
 				color={ 208 132 217 }
@@ -3953,20 +3955,21 @@ e_equestria = {
 				
 				capital = 304 # Pegasus Pass
 				
-			c_pegasus_pass = {
-				color={ 160 82 171 }
-				color2={ 255 255 255 }
+				c_pegasus_pass = {
+					color={ 160 82 171 }
+					color2={ 255 255 255 }
 			
-				b_pegasus_pass = {
-	}
-		}
+					b_pegasus_pass = {}
+					b_pegasus_pass2 = {}
+				}
 				c_gemglass = {
 				color={ 175 106 185 }
 				color2={ 255 255 255 }
 			
-				b_dusk_star_rise = {
-	}
-		}
+					b_dusk_star_rise = {}
+					b_gemglass = {}
+					b_gemglass2 = {}
+				}
 		}
 			d_estmanedie = {
 				color={ 158 43 162 }
@@ -4006,22 +4009,32 @@ e_equestria = {
 				color={ 188 31 227 }
 				color2={ 255 255 255 }
 			
-				b_galloping_grass = {
-	}
+					b_galloping_grass = {}
+					b_grass_grove = {}
+					b_galloping_grass2 = {}
+					b_galloping_grass3 = {}
 		}
 				c_reins = {
 				color={ 152 67 211 }
 				color2={ 255 255 255 }
 			
-				b_reins = {
-	}
+					b_reins = {}
+					b_reins2 = {}
+					b_reins3 = {}
+					b_reins4 = {}
 		}
 				c_everville = {
 				color={ 225 31 227 }
 				color2={ 255 255 255 }
 			
-				b_everville = {
-	}
+				earth_pony_culture = "Ponyville"
+			
+				b_everville = {}
+				b_everville2 = {}
+				b_everville3 = {}
+				b_everville4 = {}
+				b_everville5 = {}
+				b_everville6 = {}
 		}
 		}
 			d_cheval = {
@@ -4669,41 +4682,30 @@ e_equestria = {
 				color={ 105 130 98 }
 				color2={ 255 255 255 }
 			
-				b_horsehamptom = {
-	}
-					b_neighingborough = {
-	}
-					b_gallopering = {
-	}
-					b_buckbrooke = {
-	}
+					b_horsehamptom = {}
+					b_neighingborough = {}
+					b_gallopering = {}
+					b_buckbrooke = {}
 		}
 				c_canterbury = {
 				color={ 31 89 26 }
 				color2={ 255 255 255 }
 			
-				b_canterbury = {
-	}
-					b_canterham_b) = {
-	}
-					b_whitestable = {
-	}
-					b_horseden = {
-	}
-		}
+					b_canterbury = {}
+					b_whitestable = {}
+					b_horseden = {}
+				}
 				c_ramsshire = {
 				color={ 79 128 74 }
 				color2={ 255 255 255 }
 			
-				b_ramsgate = {
-	}
-					b_manewich = {
-	}
-					b_woodensminster = {
-	}
-					b_owls_hill = {
-	}
-		}
+					b_ramsgate = {}
+					b_ramsshire = {}
+					b_manewich = {}
+					b_woodensminster = {}
+					b_owls_hill = {}
+					
+				}
 		}
 			d_neighingland = {
 				color={ 67 152 30 }
@@ -4715,22 +4717,25 @@ e_equestria = {
 				color={ 67 152 30 }
 				color2={ 255 255 255 }
 			
-				b_south_neighagra = {
-	}
+					b_south_neighagra = {}
+					b_south_neighagra2 = {}
+					b_south_neighagra3 = {}
 		}
 				c_neighshire = {
 				color={ 38 94 32 }
 				color2={ 255 255 255 }
 			
-				b_neighshire = {
-	}
+					b_fort_neighshire = {}
+					b_neighshire = {}
+					b_neighshire2 = {}
+					b_neighshire3 = {}
 		}
 				c_crystalshire = {
 				color={ 83 132 62 }
 				color2={ 255 255 255 }
 			
-				b_crystalshire = {
-	}
+					b_crystalshire = {}
+					b_crystalshire2 = {}
 		}
 		}
 			d_mustangia = {
@@ -4778,13 +4783,10 @@ e_equestria = {
 				color={ 90 158 86 }
 				color2={ 255 255 255 }
 			
-				b_medford = {
-	}
-					b_princhall = {
-	}
-					b_dagger_ridge = {
-	}
-		}
+					b_medford = {}
+					b_princhall = {}
+					b_dagger_ridge = {}
+			}
 		}
 		}
 		
@@ -4811,15 +4813,17 @@ e_equestria = {
 				color={ 16 49 134 }
 				color2={ 255 255 255 }
 			
-				b_hearth_pass = {
-	}
-		}
+					b_hearth_pass = {}
+					b_hearth_pass2 = {}
+					b_hearth_pass3 = {}
+			}
 				c_airthniai = {
 				color={ 45 71 136 }
 				color2={ 255 255 255 }
 			
-				b_airthniai = {
-	}
+					b_airthniai = {}
+					b_airthniai2 = {}
+					b_airthniai3 = {}
 		}
 		}
 			d_altolonika = {
@@ -4828,26 +4832,32 @@ e_equestria = {
 				
 				capital = 367 # Altostratus
 				
-			c_altostratus = {
+				c_altostratus = {
 				color={ 66 84 128 }
 				color2={ 255 255 255 }
 			
-				b_altostratus = {
-	}
+					b_altostratus = {}
+					b_altostratus2 = {}
+					b_altostratus3 = {}
+					b_altostratus4 = {}
 		}
 				c_altocumulus = {
 				color={ 95 111 152 }
 				color2={ 255 255 255 }
 			
-				b_altocumulus = {
-	}
+					b_altocumulus = {}
+					b_altocumulus2 = {}
+					b_altocumulus3 = {}
+					b_altocumulus4 = {}
 		}
 				c_altolonika = {
 				color={ 18 29 111 }
 				color2={ 255 255 255 }
 			
-				b_altolonika = {
-	}
+					b_fort_altolonika = {}
+					b_altolonika = {}
+					b_altolonika2 = {}
+					b_altolonika3 = {}
 		}
 		}
 			d_pegasopolis = {
@@ -4856,26 +4866,38 @@ e_equestria = {
 				
 				capital = 370 # Earth
 				
-			c_pegasopolis = {
+				c_pegasopolis = {
 				color={ 46 86 188 }
 				color2={ 255 255 255 }
 			
-				b_Earth = {
-	}
-		}
+					b_pegasopolis1 = {}
+					b_pegasopolis2 = {}
+					b_pegasopolis3 = {}
+					b_pegasopolis4 = {}
+					b_pegasopolis5 = {}
+					b_pegasopolis6 = {}
+					b_pegasopolis7 = {}
+				}
 				c_cloudsdale = {
 				color={ 54 54 189 }
 				color2={ 255 255 255 }
 			
-				b_cloudsdale = {
-	}
+					b_fort_cloudsdale = {}
+					b_cloudsdale = {}
+					b_wonderbolt = {}
+					b_cloudsdale2 = {}
+					b_cloudsdale3 = {}
+					b_cloudsdale4 = {}
 		}
 				c_arcus = {
 				color={ 28 28 176 }
 				color2={ 255 255 255 }
 			
-				b_arcus = {
-	}
+					b_arcus = {}
+					b_arcus2 = {}
+					b_arcus3 = {}
+					b_arcus4 = {}
+					b_arcus5 = {}
 		}
 		}
 			d_coltiat = {
@@ -4889,6 +4911,8 @@ e_equestria = {
 				color2={ 255 255 255 }
 			
 				b_manelitene = {
+				b_manelitene2 = {
+				b_manelitene3 = {
 	}
 		}
 				c_coltiat = {
@@ -5100,23 +5124,28 @@ e_equestria = {
 				color={ 31 86 176 }
 				color2={ 255 255 255 }
 			
-				b_mereitene = {
-	}
+				b_mereitene = {}
+				b_mereitene2 = {}
+				b_mereitene3 = {}
 		}
 				c_poniala = {
 				color={ 80 104 144 }
 				color2={ 255 255 255 }
 			
-				b_poniala = {
-	}
+					b_poniala = {}
+					b_poniala2 = {}
+					b_poniala3 = {}
+					b_pasturedown = {}
 		}
 				c_cloudkonion = {
 				color={ 41 72 124 }
 				color2={ 255 255 255 }
 			
-				b_cloudkonion = {
-	}
-		}
+					b_cloudkonion = {}
+					b_cloudkonion2 = {}
+					b_cloudkonion3 = {}
+					b_cloudkonion4 = {}
+				}
 		}
 		}
 }	
@@ -5775,8 +5804,8 @@ e_crystal_empire = {
 				color={ 46 73 91 }
 				color2={ 255 255 255 }
 		
-				b_norht16 = {
-				}
+				b_north17 = {}
+				
 			}
 		}
 		d_emerald_lake = {
