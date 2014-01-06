@@ -791,7 +791,10 @@ k_hayseed = {
 	
 	culture = earth_culture
 	
-	
+		pegasus_culture = "Hayseed"
+		earth_pony_culture = "Hayseed"
+		unicorn_culture = "Hayseed"
+		crystal_culture = "Hayseed"
 	
 	d_marshend = {
 			color={ 190 192 125 }
@@ -1069,7 +1072,10 @@ k_golden_forest = {
 	
 	culture = unicorn_culture
 	
-	
+		pegasus_culture = "Golden Forest"
+		earth_pony_culture = "Golden Forest"
+		unicorn_culture = "Golden Forest"
+		crystal_culture = "Golden Forest"
 	
 	d_southway = {
 			color={ 56 36 120 }
@@ -3854,7 +3860,10 @@ e_equestria = {
 		
 		culture = unicorn_culture
 		
-		
+		pegasus_culture = "Unicornia"
+		earth_pony_culture = "Unicornia"
+		unicorn_culture = "Unicornia"
+		crystal_culture = "Unicornia"
 		
 		d_canterlot = {
 				color={ 156 94 177 }
@@ -4184,6 +4193,11 @@ e_equestria = {
 		capital = 324 # Baltimare
 		
 		culture = earth_culture
+		
+		pegasus_culture = "Earth"
+		earth_pony_culture = "Earth"
+		unicorn_culture = "Earth"
+		crystal_culture = "Earth"
 		
 			d_eastpass = {
 				color={ 101 134 54 }
@@ -4782,7 +4796,10 @@ e_equestria = {
 		
 		culture = pegasus_culture
 		
-		
+		pegasus_culture = "Pegasopolis"
+		earth_pony_culture = "Pegasopolis"
+		unicorn_culture = "Pegasopolis"
+		crystal_culture = "Pegasopolis"
 		
 		d_hearth_pass = {
 				color={ 16 49 134 }
@@ -4837,13 +4854,13 @@ e_equestria = {
 				color={ 46 86 188 }
 				color2={ 255 255 255 }
 				
-				capital = 370 # Pegasopolis
+				capital = 370 # Earth
 				
 			c_pegasopolis = {
 				color={ 46 86 188 }
 				color2={ 255 255 255 }
 			
-				b_pegasopolis = {
+				b_Earth = {
 	}
 		}
 				c_cloudsdale = {
@@ -5062,14 +5079,14 @@ e_equestria = {
 					color={ 42 72 123 }
 					color2={ 255 255 255 }
 			
-					b_crystalwing = {
+					b_wingdown = {
 					}
 				}
 				c_windhill = {
 					color={ 42 72 123 }
 					color2={ 255 255 255 }
 			
-					b_crystalwing = {
+					b_windhill = {
 					}
 				}
 			}

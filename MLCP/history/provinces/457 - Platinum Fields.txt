@@ -6,7 +6,7 @@ title = c_wingdown
 # Settlements
 max_settlements = 3
 
-b_platinum_fields = castle
+b_wingdown = castle
 
 # Misc
 culture = crystal_culture

@@ -6,7 +6,7 @@ title = c_windhill
 # Settlements
 max_settlements = 3
 
-b_upper_platinum = castle
+b_windhill = castle
 
 # Misc
 culture = crystal_culture

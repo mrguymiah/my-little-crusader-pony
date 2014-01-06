@@ -2,10 +2,4 @@
 	law = agnatic_succession
 	law = succ_feudal_elective
 }
-100.1.1={
-	holder=5
-}
-100.1.1={
-	liege=d_haywicce
-}
 
