@@ -7,6 +7,10 @@ title = c_pegasopolis
 max_settlements = 7
 
 b_pegasopolis = castle
+b_pegasopolis2 = city
+b_pegasopolis3 = temple
+b_pegasopolis4 = castle
+b_pegasopolis5 = castle
 
 # Misc
 culture = pegasus_culture

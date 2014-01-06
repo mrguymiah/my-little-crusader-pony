@@ -43,6 +43,7 @@ equestrian = {
 		mother_name_chance = 5
 	}
 	
+	
 	pegasus_culture = {
 		graphical_culture = saxongfx
 		
