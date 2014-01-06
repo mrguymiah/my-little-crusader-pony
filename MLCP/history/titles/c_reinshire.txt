@@ -3,4 +3,3 @@
 	law = succ_feudal_elective
 }
 
-

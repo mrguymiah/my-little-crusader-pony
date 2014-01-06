@@ -5,43 +5,6 @@ Shou# Do not change tags in here without changing every other reference to them.
 
 equestrian = {
 	graphical_culture = westerngfx
-
-	earth_culture = {
-		graphical_culture = saxongfx
-		
-		color = { 91 153 65 }
-		
-		male_names = {
-			Ace Affero Al Apple_Apple Ardent Baritone Bill Black_Black "Black Stone" Blackheart_Blackheart Braeburn Breezy Brindle Bruce "Burnt Iak" Bushel Caboose Caesar_Caesar
-			Caramel Castle_Castle Charlie Cherry Chocolate_Chocolate Classy Cobalt_Cobalt Coconut Concerto Cormano Cosmic Cradty Creme_Creme Davenport Eiffel Emerald_Emerald
-			Felix_Felix Frederick_Frederick Fuzzy Geri Gingerbread Gizmo_Gizmo Goldengrape Grape "Hard Knocks" Harry Herald Hercules Horte Hugh Ice "Icy Drop"
-			Jack_Jack Jeff Jim John_John Karat Kazooie Klein_Klein Lincoln Lucky Master_Master Meadow Melilot Morton Noteworthy Oregon Orion_Orion Parish Persnickety
-			Pigpen Pine "Pine Breeze" Pipe Promontory Rick Rivet Royal_Royal Salt Salty Shamrock Silver_Silver Silverstar Shortround Smokestack Spectrum_Spectrum Star_Star Stary_Stary
-			Steamer Tailor Theon Theo Theodore Tin Trap Vigil_Vigil Vigilance_Vigilance Waddle Walter William Wisp_Wisp Zippy
-		}
-		female_names = {
-			Aloe Ambrosia Apple_Apple "Apple Bloom" Applejack Applesauce Apricot Beauty Bell Belle Berry Blue Bonnie Bottle Candy_Candy Candylicious Caramel Charcoal
-			Cheerilee Chelsea Cherry Chily Cornflower Crescendo "Cup Cake" Curly Dainty Daisy Doseydotes Dosie Elphaba Emerald_Emerald Fiddlesticks Florina Flounder Forest Ginger
-			Giselle Golden_Golden Sew Helia Honey_Honey Honeycome_Honeycome Honeysuckle_Honeysuckle Jangles Jubileena Junebug Lavender_Lavender Lavenderhoof_Lavenderhoof Lemon_Lemon Lilac Lily Lotus Lyra_Lyra Lyrica Mare Magdalena
-			Majesty Mango Marigold Marmalade Maroon Masquerade Maybelline Midnight_Midnight Millie Mint Minuette_Minuette Mjolna Pink_Pink Pinkie_Pinkie Harshwhinny Peachbottom
-			Coldheart_Coldheart Redheart_Redheart Sweetheart_Sweetheart Tenderheart_Tenderheart Oakey Obscurity_Obscurity Octavia Orange Paisley Pampered Peachy Petunia
-			"Pish Posh" Powder Pretty Purple_Purple Quake Raven_Raven Red_Red Reflective Regal_Regal Roma_Roma Romana Rose Roxie Sandy Sapphire_Sapphire Serena Shoeshine
-			Soigne Spring_Spring Starlight_Starlight Stella Storm_Storm Sun_Sun Sundowner Sunset_Sunset Sunshine_Sunshine Surf Swan Sweetie Swift Symphony Toffee
-			Tree Tropical Turf Vanilla_Vanilla Vera Violet_Violet Welly Wildwood Wilma Winter_Winter Wysteria Puddinghead Cookie
-		}
-		from_dynasty_prefix = "of "
-
-		modifier = default_culture_modifier
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 10
-		father_name_chance = 25
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 20
-		mat_grm_name_chance = 40
-		mother_name_chance = 5
-	}
 	
 	earth_pony_culture = {
 		graphical_culture = saxongfx

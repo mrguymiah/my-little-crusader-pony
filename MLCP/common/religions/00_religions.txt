@@ -162,7 +162,7 @@ zebra_Rgroup = {
 		graphical_culture = westerngfx
 
 		icon = 34
-		color = { 0.8 0.8 0.6 }
+		color = { 0.2 0.8 0.3 }
 		
 		crusade_name = "CRUSADE"
 		scripture_name = THE_BIBLE
@@ -185,7 +185,7 @@ zebra_Rgroup = {
 		graphical_culture = westerngfx
 
 		icon = 35
-		color = { 0.8 0.8 0.6 }
+		color = { 0.4 0.8 0.6 }
 		
 		crusade_name = "CRUSADE"
 		scripture_name = THE_BIBLE
@@ -215,7 +215,7 @@ griffon_Rgroup = {
 
 		icon = 19 #norse
 		heresy_icon = 21
-		color = { 0.8 0.8 0.6 }
+		color = { 0.4 0.8 0.3 }
 		
 		crusade_name = "CRUSADE"
 		scripture_name = THE_BIBLE
@@ -245,7 +245,7 @@ griffon_Rgroup = {
 
 		icon = 19 #norse
 		heresy_icon = 21
-		color = { 0.8 0.8 0.6 }
+		color = { 0.1 0.6 0.3 }
 		
 		crusade_name = "CRUSADE"
 		scripture_name = THE_BIBLE
@@ -278,7 +278,7 @@ changeling_Rgroup = {
 		graphical_culture = westerngfx
 
 		icon = 22
-		color = { 0.8 0.8 0.6 }
+		color = { 0.2 0.2 0.2 }
 		
 		crusade_name = "CRUSADE"
 		scripture_name = THE_BIBLE
@@ -301,7 +301,7 @@ changeling_Rgroup = {
 		graphical_culture = westerngfx
 
 		icon = 22
-		color = { 0.8 0.8 0.6 }
+		color = { 0.1 0.1 0.1 }
 		
 		crusade_name = "CRUSADE"
 		scripture_name = THE_BIBLE
@@ -377,7 +377,7 @@ zoroastrian_group = {
 		graphical_culture = westerngfx
 
 		icon = 4
-		color = { 0.8 0.8 0.6 }
+		color = { 0.4 0.4 0.8 }
 		
 		crusade_name = "CRUSADE"
 		scripture_name = THE_BIBLE
@@ -399,7 +399,7 @@ zoroastrian_group = {
 		graphical_culture = westerngfx
 
 		icon = 4
-		color = { 0.8 0.8 0.6 }
+		color = { 0.3 0.3 0.9 }
 		
 		crusade_name = "CRUSADE"
 		scripture_name = THE_BIBLE
