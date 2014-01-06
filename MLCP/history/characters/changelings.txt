@@ -1,5 +1,6 @@
 3000 = {
 	name="Anaxa"
+	female = yes 
 	dynasty=3000
 	diplomacy=5
 	martial=9
