@@ -2,9 +2,9 @@ namespace = equestria
 
 # The Formation of Equestria
 narrative_event = {
-	id = LoR.20
-	title = EVTNAMELoR.20
-	desc = EVTDESCLoR.20
+	id = equestria.20
+	title = EVTNAMEequestria.20
+	desc = EVTDESCequestria.20
 	
 	picture = GFX_evt_rome_restored_byzantine
 	
