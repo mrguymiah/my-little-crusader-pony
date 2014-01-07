@@ -18,7 +18,10 @@ decisions = {
 			age = 16
 			prisoner = no
 			NOT = { trait = incapable }
-			prestige = 500
+			OR = {
+				prestige = 500
+				trait = ambitious
+			}
 			OR = {
 				trait = unicorn
 				trait = pegasus
@@ -59,7 +62,7 @@ decisions = {
 	}
 
 
-	create_unicornia = {
+	create_k_unicornia = {
 		is_high_prio = yes
 		
 		potential = {
@@ -114,11 +117,11 @@ decisions = {
 		}
 	}
 	
-	create_pegasopolis = {
+	create_k_pegasopolis = {
 		is_high_prio = yes
 		
 		potential = {
-			culture = unicorn_culture
+			culture = pegasi_culture
 			OR = {
 				AND = {
 					has_landed_title = d_pegasus_tribe
@@ -172,5 +175,59 @@ decisions = {
 			piety = 100
 		}
 	}
-
+	
+	create_k_earth = {
+		is_high_prio = yes
+		
+		potential = {
+			culture = earth_culture
+			OR = {
+				AND = {
+					has_landed_title = d_eath_tribe
+					religion = earth_religion_reformed
+				}
+				has_landed_title = d_pegasopolis
+			}
+			k_earth  = { has_holder = no }
+			age = 16
+			prisoner = no
+			NOT = { trait = content }
+			NOT = { trait = incapable }
+			trait = earth_pony
+			OR = {		
+				prestige = 200
+				trait = ambitious
+			}
+		}
+		
+		allow = {
+			OR = {
+				religion = earth_religion_reformed
+				religion = earth_religion
+			}
+			completely_controls = d_haywicce
+			completely_controls = d_nieghingland
+			completely_controls = d_mustangia
+			completely_controls = d_emerald_hills
+			OR = {
+				completely_controls = d_reinshire
+				completely_controls = d_buckfast
+			}
+			
+			wealth = 200
+			prestige = 500
+		}
+		ai_will_do = {
+			factor = 1			
+		}
+		effect = {
+			k_earth = {
+				grant_title = ROOT
+			}
+			wealth = -200
+			prestige = 300
+			piety = 100
+		}
+	}
+	
 }
