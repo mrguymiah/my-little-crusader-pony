@@ -1,17 +1,355 @@
-3000 = {
-	name="Anaxa"
+3001 = {
+	name="Alfa"
 	female = yes 
-	dynasty=3000
-	diplomacy=5
-	martial=9
-	stewardship=7
-	intrigue=10
-	learning=6
+	dynasty=3001
+	
 	religion="changeling_religion"
 	culture="changeling_culture"
 	add_trait="changeling_queen"
 	add_trait="elusive_shadow"
-	89.1.2 = {
-		birth="83.1.2"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3002 = {
+	name="Bravo"
+	female = yes 
+	dynasty=3002
+	
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3003 = {
+	name="Cocoon"
+	female = yes 
+	dynasty=3003
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3004 = {
+	name="Diane"
+	female = yes 
+	dynasty=3004
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3005 = {
+	name="Echo"
+	female = yes 
+	dynasty=3005
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3006 = {
+	name="Foxtrot"
+	female = yes 
+	dynasty=3006
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3007 = {
+	name="Golf"
+	female = yes 
+	dynasty=3007
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3008 = {
+	name="Hotel"
+	female = yes 
+	dynasty=3008
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3009 = {
+	name="India"
+	female = yes 
+	dynasty=3009
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3010 = {
+	name="Juliett"
+	female = yes 
+	dynasty=3010
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3011 = {
+	name="Kilo"
+	female = yes 
+	dynasty=3011
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3012 = {
+	name="Lima"
+	female = yes 
+	dynasty=3012
+	
+	
+	
+
+
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3013 = {
+	name="Michael"
+	female = yes 
+	dynasty=3013
+	
+	
+	
+
+
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3014 = {
+	name="November"
+	female = yes 
+	dynasty=3014
+	
+	
+	
+
+
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3015 = {
+	name="Oscar"
+	female = yes 
+	dynasty=3015
+	
+	
+	
+
+
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3016 = {
+	name="Papa"
+	female = yes 
+	dynasty=3016
+	
+	
+	
+
+
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3017 = {
+	name="Quebec"
+	female = yes 
+	dynasty=3017
+	
+	
+	
+
+
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3018 = {
+	name="Romeo"
+	female = yes 
+	dynasty=3018
+	
+	
+	
+
+
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3019 = {
+	name="Sierra"
+	female = yes 
+	dynasty=3019
+	
+	
+	
+
+
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3020 = {
+	name="Tango"
+	female = yes 
+	dynasty=3020
+	
+	
+	
+
+
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3021 = {
+	name="Uniform"
+	female = yes 
+	dynasty=3021
+	
+	
+	
+
+
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3022 = {
+	name="Victor"
+	female = yes 
+	dynasty=3022
+	
+	
+	
+
+
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3023 = {
+	name="Whiskey"
+	female = yes 
+	dynasty=3023
+	
+	
+	
+
+
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
+	}
+}
+3024 = {
+	name="X-Ray"
+	female = yes 
+	dynasty=3024
+	
+	
+	
+
+
+	religion="changeling_religion"
+	culture="changeling_culture"
+	add_trait="changeling_queen"
+	add_trait="elusive_shadow"
+	99.1.2 = {
+		birth="93.1.2"
 	}
 }

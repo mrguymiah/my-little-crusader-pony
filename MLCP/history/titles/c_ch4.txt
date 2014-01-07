@@ -1,8 +1,8 @@
-500.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
+100.1.1={
+	law = enatic_succession
+	law = succ_primogeniture
 }
-1080.1.1={
-	liege=d_south
+100.1.1={
+	holder = 3002
 }
 
