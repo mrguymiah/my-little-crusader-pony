@@ -116,6 +116,21 @@
 		birth="89.3.6"
 	}
 }
+2014 = {
+	name="Ko'ne"
+	dynasty=2018
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="elaphanti"
+	culture="elapho_culture"
+	add_trait="zealot"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
 2020 = {
 	name="Doe'nur"
 	dynasty=2003 #Doe'ga
@@ -234,5 +249,98 @@
 	add_trait="zealot"
 	89.3.6 = {
 		birth="89.3.6"
+	}
+}
+2102 = {
+	name="Bu'fus"
+	dynasty=2014
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="falphanti"
+	culture="fallow"
+	add_trait="zealot"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2103 = {
+	name="Bal'tis"
+	dynasty=2015
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="falphanti"
+	culture="fallow"
+	add_trait="zealot"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2104 = {
+	name="Ax'iil"
+	dynasty=2016
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="falphanti"
+	culture="fallow"
+	add_trait="zealot"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2105 = {
+	name="Ten'li"
+	dynasty=2017
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="falphanti"
+	culture="fallow"
+	add_trait="zealot"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2106 = {
+	name="To'fual"
+	dynasty=2019
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="falphanti"
+	culture="fallow"
+	add_trait="zealot"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2200 = {
+	name="Veniero"
+	dynasty=2001
+	diplomacy=6
+	martial=6
+	stewardship=6
+	intrigue=6
+	learning=9
+	religion="falphanti"
+	culture="fallow"
+	add_trait="mastermind_theologican"
+	add_trait="zealot"
+	add_trait="just"
+	add_trait="content"
+	98.1.1 = {
+		birth ="98.1.1"
 	}
 }

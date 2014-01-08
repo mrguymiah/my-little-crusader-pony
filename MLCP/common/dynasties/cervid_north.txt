@@ -55,4 +55,27 @@
 2013 = {
 	name = "Clat'na"
 	culture = elapho_culture
+2014 = {
+	name = "Rein"
+	culture = fallow
+}
+2015 = {
+	name = "Balt"
+	culture = fallow
+}
+2016 = {
+	name = "Pant'ag"
+	culture = fallow
+}
+2017 = {
+	name = "Anala'g"
+	culture = fallow
+}
+2018 = {
+	name = "Hurricani"
+	culture = elapho_culture
+}
+2019 = {
+	name = "Renfask"
+	culture = fallow
 }

@@ -55,8 +55,25 @@
 	}
 }
 
+1012 = {
+	name="Diamond"
+	female=yes
+	dynasty=1005
+	diplomacy=6
+	martial=4
+	stewardship=2
+	intrigue=5
+	learning=5
+	religion="crystal_religion"
+	culture="crystal_culture"
+	add_trait="crystal_pony"
+	99.5.11 = {
+		birth="99.5.11"
+	}
+}
+
 1010 = {
-	name="Apatite"
+	name="Emeralda"
 	female=yes
 	dynasty=1001
 	diplomacy=2
@@ -72,8 +89,40 @@
 	}
 }
 
+1014 = {
+	name="Rubicon"
+	dynasty=1003
+	diplomacy=4
+	martial=4
+	stewardship=4
+	intrigue=4
+	learning=4
+	religion="crystal_religion"
+	culture="crystal_culture"
+	add_trait="crystal_pony"
+	99.5.11 = {
+		birth="99.5.11"
+	}
+}
+
+1018 = {
+	name="Topaz"
+	dynasty=1004
+	diplomacy=4
+	martial=4
+	stewardship=4
+	intrigue=4
+	learning=4
+	religion="crystal_religion"
+	culture="crystal_culture"
+	add_trait="crystal_pony"
+	99.5.11 = {
+		birth="99.5.11"
+	}
+}
+
 1020 = {
-	name="Madame"
+	name="Sapphire"
 	female=yes
 	dynasty=1002
 	diplomacy=6

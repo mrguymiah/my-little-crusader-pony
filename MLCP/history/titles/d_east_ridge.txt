@@ -2,7 +2,4 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-1080.1.1={
-	liege=k_crystal_kingdom
-}
 

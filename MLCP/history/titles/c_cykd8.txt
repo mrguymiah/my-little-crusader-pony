@@ -3,5 +3,5 @@
 	law = succ_gavelkind
 }
 100.1.1={
-	holder = 1000
+	holder = 1020
 }

@@ -12,3 +12,15 @@
 	name = "Flawlessa"
 	culture = crystal_culture
 }
+1003 = {
+	name = "of the Gap"
+	culture = crystal_culture
+}
+1004 = {
+	name = "Shining"
+	culture = crystal_culture
+}
+1005 = {
+	name = "Diamonde"
+	culture = crystal_culture
+}
