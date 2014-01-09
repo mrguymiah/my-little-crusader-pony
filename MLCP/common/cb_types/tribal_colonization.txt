@@ -183,60 +183,79 @@ colonize_pegasi = {
 		FROM = {
 			religion_group = caribou_Rgroup
 		}
-		NOT = { has_global_flag = colonization_over_unicorn }
+		NOT = { has_global_flag = colonization_over_pegasi }
 	}
 	
 	can_use_title = {
 		tier = count
 		OR = {
-			de_jure_liege_or_above = d_canterlot
-			de_jure_liege_or_above = d_pegasus_pass
-			de_jure_liege_or_above = d_coltpagne
-			de_jure_liege_or_above = d_bitaly
+			de_jure_liege_or_above = d_pegasopolis
+			de_jure_liege_or_above = d_hearth_pass
+			de_jure_liege_or_above = d_altolonika
+			de_jure_liege_or_above = d_coltiat
 			AND = {
-				de_jure_liege_or_above = d_estmanedie
+				de_jure_liege_or_above = d_hurricanion
 				ROOT = { 
-					completely_controls = d_canterlot
-					completely_controls = d_pegasus_pass
-					completely_controls = d_coltpagne
-					completely_controls = d_bitaly
+					completely_controls = d_pegasopolis
+					completely_controls = d_hearth_pass
+					completely_controls = d_altolonika
+					completely_controls = d_coltiat
 				}
 			}
 			AND = {
-				de_jure_liege_or_above = d_cheval
+				de_jure_liege_or_above = d_galloping_gorge
 				ROOT = { 
-					completely_controls = d_canterlot
-					completely_controls = d_pegasus_pass
-					completely_controls = d_coltpagne
-					completely_controls = d_bitaly
+					completely_controls = d_pegasopolis
+					completely_controls = d_hearth_pass
+					completely_controls = d_altolonika
+					completely_controls = d_coltiat
 				}
 			}
 			AND = {
-				de_jure_liege_or_above = d_mareonmane
+				de_jure_liege_or_above = d_skydeia
 				ROOT = { 
-					completely_controls = d_canterlot
-					completely_controls = d_pegasus_pass
-					completely_controls = d_coltpagne
-					completely_controls = d_bitaly
-					completely_controls = d_estmanedie
-					completely_controls = d_cheval
+					completely_controls = d_pegasopolis
+					completely_controls = d_hearth_pass
+					completely_controls = d_altolonika
+					completely_controls = d_coltiat
+					completely_controls = d_hurricanion
+					completely_controls = d_galloping_gorge
 				}
 			}
 			AND = {
-				de_jure_liege_or_above = d_berry
+				de_jure_liege_or_above = d_airpius
 				ROOT = { 
-					completely_controls = d_canterlot
-					completely_controls = d_pegasus_pass
-					completely_controls = d_coltpagne
-					completely_controls = d_bitaly
-					completely_controls = d_estmanedie
-					completely_controls = d_cheval
+					completely_controls = d_pegasopolis
+					completely_controls = d_hearth_pass
+					completely_controls = d_altolonika
+					completely_controls = d_coltiat
+					completely_controls = d_hurricanion
+					completely_controls = d_galloping_gorge
+					completely_controls = d_skydeia
 				}
 			}
 			AND = {
-				de_jure_liege_or_above = d_west_everfree
+				de_jure_liege_or_above = d_maretolia
 				ROOT = { 
-					completely_controls = k_unicornia
+					completely_controls = d_pegasopolis
+					completely_controls = d_hearth_pass
+					completely_controls = d_altolonika
+					completely_controls = d_coltiat
+					completely_controls = d_hurricanion
+					completely_controls = d_galloping_gorge
+					completely_controls = d_skydeia
+				}
+			}
+			AND = {
+				de_jure_liege_or_above = d_nimbus_pass
+				ROOT = { 
+					completely_controls = d_pegasopolis
+					completely_controls = d_hearth_pass
+					completely_controls = d_altolonika
+					completely_controls = d_coltiat
+					completely_controls = d_hurricanion
+					completely_controls = d_galloping_gorge
+					completely_controls = d_skydeia
 				}
 			}
 		}
@@ -343,7 +362,7 @@ colonize_earthpony = {
 		FROM = {
 			religion_group = caribou_Rgroup
 		}
-		NOT = { has_global_flag = colonization_over_unicorn }
+		NOT = { has_global_flag = colonization_over_earth }
 	}
 	
 	can_use_title = {
