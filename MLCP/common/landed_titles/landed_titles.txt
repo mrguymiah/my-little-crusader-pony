@@ -780,7 +780,7 @@ e_hayseed = {
 	capital = 77 # Marshend	
 	short_name = yes
 	
-	culture = earth_culture
+	culture = earth_pony_culture
 	
 
 k_hayseed = {
@@ -789,7 +789,7 @@ k_hayseed = {
 	
 	capital = 77 # Marshend
 	
-	culture = earth_culture
+	culture = earth_pony_culture
 	
 		pegasus_culture = "Hayseed"
 		earth_pony_culture = "Hayseed"
@@ -3762,7 +3762,7 @@ e_equestria = {
 				color2={ 255 255 255 }
 			
 				b_the_palace_of_the_two_sisters = {
-					holy_site = celestian
+					holy_site = cephala
 	}
 		}
 				c_everwatch = {
@@ -4129,7 +4129,7 @@ e_equestria = {
 		
 		capital = 321 # Manehatten
 		
-		culture = earth_culture
+		culture = earth_pony_culture
 		
 		
 		
@@ -4205,7 +4205,7 @@ e_equestria = {
 		
 		capital = 324 # Baltimare
 		
-		culture = earth_culture
+		culture = earth_pony_culture
 		
 		pegasus_culture = "Earth"
 		earth_pony_culture = "Earth"
@@ -5144,7 +5144,7 @@ e_deeria = {
 	capital = 397 # Stagland	
 	short_name = yes
 	
-	culture = hindi_culture
+	culture = elapho_culture
 	
 
 k_whitetail = {
@@ -5153,7 +5153,7 @@ k_whitetail = {
 	
 	capital = 397 # Stagland
 	
-	culture = hindi_culture
+	culture = whitetail
 	
 	
 	
@@ -5326,7 +5326,7 @@ k_doegon = {
 	
 	capital = 415 # Seaddle
 	
-	culture = hindi_culture
+	culture = elapho_culture
 	
 	
 	
@@ -5518,7 +5518,7 @@ k_coltumbia = {
 	
 	capital = 434 # Vanhoover
 	
-	culture = hindi_culture
+	culture = elapho_culture
 	
 	
 	
@@ -7939,7 +7939,7 @@ k_skydinavia = {
 	
 	
 	
-	d_ostfløy = {
+	d_ostfloy = {
 			color={ 89 130 148 }
 			color2={ 255 255 255 }
 			
@@ -8009,7 +8009,7 @@ k_skydinavia = {
 }
 	}
 	}
-		d_vestfløy = {
+		d_vestfloy = {
 			color={ 64 123 149 }
 			color2={ 255 255 255 }
 			

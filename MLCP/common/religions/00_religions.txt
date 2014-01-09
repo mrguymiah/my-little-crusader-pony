@@ -470,7 +470,6 @@ discordian_Rgroup = {
 
 caribou_Rgroup = {
 	playable = yes
-	has_
 	crusade_cb = crusade
 
 	mooselam = {

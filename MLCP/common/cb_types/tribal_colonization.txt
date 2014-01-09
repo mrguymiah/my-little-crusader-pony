@@ -1,0 +1,138 @@
+#Pony Tribe Coloniation CBs#
+#Unicorn#
+colonize_unicorn = {
+	name = CB_COLONIZATION
+	war_name = WAR_NAME_COLONIZATION
+	sprite = 7
+	truce_days = 1825
+	is_permanent = yes
+	check_de_jure_tier = COUNT #Targets counties
+	
+	can_use = {
+		ROOT = {
+			OR = {
+				has_landed_title = d_unicorns_tribe
+				has_landed_title = k_unicornia
+			}
+			independent = yes
+			NOT = { same_realm = FROM }
+		}
+		FROM = {
+			religion_group = caribou
+		}
+	}
+	
+	can_use_title = {
+		AND = {
+			OR = {
+				de_jure_liege_or_above = d_canterlot
+				de_jure_liege_or_above = d_gemglass
+				de_jure_liege_or_above = d_coltpagne
+				de_jure_liege_or_above = d_bitaly
+				AND = {
+					de_jure_liege_or_above = d_estmanedie
+					de_jure_liege_or_above = d_cheval
+					ROOT = { 
+						completely_controls = d_canterlot
+						completely_controls = d_gemglass
+						completely_controls = d_coltpagne
+						completely_controls = d_bitaly
+					}
+				}
+				AND = {
+					de_jure_liege_or_above = d_mareonmane
+					de_jure_liege_or_above = d_berry
+					ROOT = { 
+						completely_controls = d_canterlot
+						completely_controls = d_gemglass
+						completely_controls = d_coltpagne
+						completely_controls = d_bitaly
+						completely_controls = d_estmanedie
+						completely_controls = d_cheval
+					}
+				}
+				AND = {
+					de_jure_liege_or_above = d_west_everfree
+					ROOT = { 
+						completely_controls = k_unicornia
+					}
+				}
+			}
+		}
+	}
+	
+	is_valid = {
+		ROOT = {
+			OR = {
+				has_landed_title = d_unicorns_tribe
+				has_landed_title = k_unicornia
+			}
+			independent = yes
+			NOT = { same_realm = FROM }
+		}
+	}
+	
+	on_success = {
+		any_attacker = {
+			limit = { character = ROOT }
+			participation_scaled_prestige = 100
+		}
+		any_attacker = {
+			limit = { NOT = { character = ROOT } }
+			hidden_tooltip = { 
+				participation_scaled_prestige = 100
+			}
+		}
+		FROM = { prestige = -100 }
+	}
+	
+	on_success_title = {
+		usurp_title = ROOT
+		add_province_modifier = unicorn_colonization
+		
+	}
+
+	on_fail = {
+		ROOT = { 
+			piety = -50 
+			prestige = -100
+		}
+	}
+
+	on_reverse_demand = {
+		ROOT = {
+			transfer_scaled_wealth = {
+				to = FROM
+				value = 4.0
+			}
+			prestige = -150
+		}
+		any_defender = {
+			limit = { character = FROM }
+			participation_scaled_prestige = 100
+		}
+		any_defender = {
+			limit = { NOT = { character = FROM } }
+			hidden_tooltip = { 
+				participation_scaled_prestige = 100
+			}
+		}
+	}
+	
+	attacker_ai_victory_worth = {
+		factor = -1 # always accept
+	}
+	
+	attacker_ai_defeat_worth = {
+		factor = 100
+	}
+
+	defender_ai_victory_worth = {
+		factor = -1 # always accept
+	}
+	
+	defender_ai_defeat_worth = {
+		factor = 75
+	}
+	
+}
