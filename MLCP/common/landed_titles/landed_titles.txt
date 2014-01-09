@@ -4965,6 +4965,15 @@ e_equestria = {
 			
 					b_hurriandria = {}
 				}
+				c_saphire_pass = {
+				color={ 143 79 114 }
+				color2={ 255 255 255 }
+		
+					b_saphire_pass = {}
+					b_saphire_pass2 = {}
+					b_saphire_pass3 = {}
+					b_saphire_pass4 = {}
+				}
 			}
 			d_airpius = {
 				color={ 54 79 141 }
@@ -5923,13 +5932,6 @@ k_crystal_kingdom = {
 			color2={ 255 255 255 }
 		
 			b_east_ridge = {
-}
-	}
-			c_saphire_pass = {
-			color={ 143 79 114 }
-			color2={ 255 255 255 }
-		
-			b_saphire_pass = {
 }
 	}
 	}

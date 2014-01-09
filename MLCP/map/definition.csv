@@ -434,7 +434,7 @@ province;red;green;blue;x;x;;;;;
 433;97;129;132;Buckonagen;x;;;;;
 434;34;151;184;Vanhoover;x;;;;;
 435;80;119;130;Antlerford;x;;;;;
-436;58;129;149;Upper;Vanhoover;x;;;;
+436;58;129;149;Upper Vanhoover;x;;;;
 437;59;107;122;Maines;x;;;;;
 438;90;122;130;Stagway;x;;;;;
 439;26;93;114;Caribou;x;;;;;
@@ -445,13 +445,13 @@ province;red;green;blue;x;x;;;;;
 444;47;136;142;Hooftaney;x;;;;;
 445;18;126;119;Westmarester;x;;;;;
 446;66;124;119;Maremford;x;;;;;
-447;138;156;166;Vanhoover;Island;x;;;;
-448;138;162;166;Senbuck;Island;x;;;;
-449;211;139;187;Crystal;City;x;;;;
-450;174;63;115;Crystal;Vale;x;;;;
-451;220;24;116;Crystal;Hills;x;;;;
+447;138;156;166;Vanhoover Island;x;;;;
+448;138;162;166;Senbuck Island;x;;;;
+449;211;139;187;Crystal City;x;;;;
+450;174;63;115;Crystal Vale;x;;;;
+451;220;24;116;Crystal Hills;x;;;;
 452;191;60;131;East Ridge;x;;;;
-453;100;14;54;Dead;x;;;;#EMPTY
+453;100;14;54;Saphire Pass;x;;;;#EMPTY
 454;148;71;107;Kunzite;x;;;;;
 455;166;98;130;Opalshire;x;;;;;
 456;178;121;159;Neighagra;Falls;x;;;;
