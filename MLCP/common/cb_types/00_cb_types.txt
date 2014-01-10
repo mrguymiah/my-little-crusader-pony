@@ -2709,7 +2709,6 @@ religious = {
 			NOT = { religion_group = pagan_group }
 			NOT = { same_realm = FROM }
 			OR = {
-				NOT = { religion_group = FROM }
 				is_heresy_of = FROM
 				is_parent_religion = FROM
 				AND = {

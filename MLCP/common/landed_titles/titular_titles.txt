@@ -1,4 +1,7 @@
-#Cervid Religious Leader Titles
+############################
+# Cervid Religious Leaders #
+############################
+
 k_elaphanti = {
 	color = { 240 155 155 }
 	color2 = { 255 255 255 }
@@ -63,4 +66,105 @@ d_cephalo = {
 	controls_religion = falphanti
 	caliphate = yes
 	primary = yes
+}
+
+#######################
+# Equestrian Kingdoms #
+#######################
+
+e_equestria = {
+	color={ 52 194 251 }
+	color2={ 255 255 20 }
+	
+	capital = 296 # Canterlot 	
+	short_name = yes
+	
+	culture = unicorn_culture
+	
+	k_earth = {
+		color={ 87 153 38 }
+		color2={ 255 255 255 }
+		
+		capital = 324 # Baltimare
+		
+		culture = earth_pony_culture
+		
+	}
+	k_pegasopolis = {
+		color={ 16 49 134 }
+		color2={ 255 255 255 }
+		
+		capital = 370 # Pegasopolis
+		
+		culture = pegasus_culture
+	}
+	k_unicornia = {
+		color={ 156 94 177 }
+		color2={ 255 255 255 }
+		
+		capital = 296 # Canterlot
+		
+		culture = unicorn_culture
+	}
+	k_manehatten = {
+		color={ 189 54 80 }
+		color2={ 255 255 255 }
+		
+		capital = 321 # Manehatten
+		
+		culture = earth_pony_culture
+		
+	}
+}
+
+#################
+# Tribal Titles #
+#################
+
+d_unicorns_tribe = {
+	color={ 156 94 177 }
+	color2={ 255 255 255 }
+	
+	tribe = yes
+	
+	allow = {
+		always = no
+	}
+	
+	culture = unicorn_culture
+	title = "QUEEN"
+	foa = "QUEEN_FOA"
+	title_prefix = "PONY_TRIBE"
+}
+
+d_pegasi_tribe = {
+	color={ 16 49 134 }
+	color2={ 255 255 255 }
+	
+	tribe = yes
+	
+	allow = {
+		always = no
+	}
+	
+	culture = pegasus_culture
+	title = "COMMANDER"
+	foa = "COMMANDER_FOA"
+	title_prefix = "PONY_TRIBE"
+}
+
+d_earth_tribe = {
+	color={ 87 153 38 }
+	color2={ 255 255 255 }
+	
+	tribe = yes
+	
+	allow = {
+		always = no
+	}
+	
+	culture = earth_culture
+	title = "CHANCELLOR"
+	foa = "CHANCELLOR_FOA"
+	title_prefix = "PONY_TRIBE"
 }

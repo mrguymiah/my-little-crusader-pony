@@ -108,6 +108,7 @@ colonize_unicorn = {
 	}
 	
 	on_success_title = {
+		usurp_title = ROOT
 		ROOT = {
 			vassalize_or_take_under_title = {
 						title = PREV
@@ -174,8 +175,8 @@ colonize_pegasi = {
 	can_use = {
 		ROOT = {
 			OR = {
-				has_landed_title = d_unicorns_tribe
-				has_landed_title = k_unicornia
+				has_landed_title = d_pegasi_tribe
+				has_landed_title = k_pegasopolis
 			}
 			independent = yes
 			NOT = { same_realm = FROM }
@@ -264,8 +265,8 @@ colonize_pegasi = {
 	is_valid = {
 		ROOT = {
 			OR = {
-				has_landed_title = d_unicorns_tribe
-				has_landed_title = k_unicornia
+				has_landed_title = d_pegasi_tribe
+				has_landed_title = k_pegasopolis
 			}
 			independent = yes
 			NOT = { same_realm = FROM }
@@ -287,6 +288,7 @@ colonize_pegasi = {
 	}
 	
 	on_success_title = {
+		usurp_title = ROOT
 		ROOT = {
 			vassalize_or_take_under_title = {
 						title = PREV
@@ -353,7 +355,7 @@ colonize_earthpony = {
 	can_use = {
 		ROOT = {
 			OR = {
-				has_landed_title = d_eath_tribe
+				has_landed_title = d_earth_tribe
 				has_landed_title = k_earth
 			}
 			independent = yes
@@ -370,13 +372,13 @@ colonize_earthpony = {
 		OR = {
 			de_jure_liege_or_above = d_haywicce
 			de_jure_liege_or_above = d_buckfast
-			de_jure_liege_or_above = d_rheinshire
+			de_jure_liege_or_above = d_reinshire
 			AND = {
 				de_jure_liege_or_above = d_trottingham
 				ROOT = { 
 					completely_controls = d_haywicce
 					completely_controls = d_buckfast
-					completely_controls = d_rheinshire
+					completely_controls = d_reinshire
 				}
 			}
 			AND = {
@@ -384,7 +386,7 @@ colonize_earthpony = {
 				ROOT = { 
 					completely_controls = d_haywicce
 					completely_controls = d_buckfast
-					completely_controls = d_rheinshire
+					completely_controls = d_reinshire
 				}
 			}
 			AND = {
@@ -392,7 +394,7 @@ colonize_earthpony = {
 				ROOT = { 
 					completely_controls = d_haywicce
 					completely_controls = d_buckfast
-					completely_controls = d_rheinshire
+					completely_controls = d_reinshire
 					completely_controls = d_trottingham
 					completely_controls = d_baltimare
 				}
@@ -402,7 +404,7 @@ colonize_earthpony = {
 				ROOT = { 
 					completely_controls = d_haywicce
 					completely_controls = d_buckfast
-					completely_controls = d_rheinshire
+					completely_controls = d_reinshire
 					completely_controls = d_trottingham
 					completely_controls = d_baltimare
 				}
@@ -412,7 +414,7 @@ colonize_earthpony = {
 				ROOT = { 
 					completely_controls = d_haywicce
 					completely_controls = d_buckfast
-					completely_controls = d_rheinshire
+					completely_controls = d_reinshire
 					completely_controls = d_trottingham
 					completely_controls = d_baltimare
 					completely_controls = d_fillydelphia
@@ -424,7 +426,7 @@ colonize_earthpony = {
 				ROOT = { 
 					completely_controls = d_haywicce
 					completely_controls = d_buckfast
-					completely_controls = d_rheinshire
+					completely_controls = d_reinshire
 					completely_controls = d_trottingham
 					completely_controls = d_baltimare
 					completely_controls = d_fillydelphia
@@ -436,7 +438,7 @@ colonize_earthpony = {
 				ROOT = { 
 					completely_controls = d_haywicce
 					completely_controls = d_buckfast
-					completely_controls = d_rheinshire
+					completely_controls = d_reinshire
 					completely_controls = d_trottingham
 					completely_controls = d_baltimare
 					completely_controls = d_fillydelphia
@@ -451,8 +453,8 @@ colonize_earthpony = {
 	is_valid = {
 		ROOT = {
 			OR = {
-				has_landed_title = d_unicorns_tribe
-				has_landed_title = k_unicornia
+				has_landed_title = d_earth_tribe
+				has_landed_title = k_earth
 			}
 			independent = yes
 			NOT = { same_realm = FROM }
@@ -474,6 +476,7 @@ colonize_earthpony = {
 	}
 	
 	on_success_title = {
+		usurp_title = ROOT
 		ROOT = {
 			vassalize_or_take_under_title = {
 						title = PREV

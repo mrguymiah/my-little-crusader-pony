@@ -3599,15 +3599,6 @@ k_sioxen = {
 	}
 	}
 	
-e_equestria = {
-	color={ 52 194 251 }
-	color2={ 255 255 20 }
-	
-	capital = 296 # Canterlot 	
-	short_name = yes
-	
-	culture = unicorn_culture
-	
 	k_everfree = {
 		color={ 124 157 68 }
 		color2={ 255 255 255 }
@@ -3688,41 +3679,7 @@ e_equestria = {
 	}
 		}
 		}
-			d_west_everfree = {
-				color={ 35 171 109 }
-				color2={ 255 255 255 }
-				
-				capital = 278 # Everfree1
-				
-			c_everfree1 = {
-				color={ 35 171 109 }
-				color2={ 255 255 255 }
 			
-				b_everfree1 = {
-	}
-		}
-				c_everfree2 = {
-				color={ 11 170 112 }
-				color2={ 255 255 255 }
-			
-				b_everfree2 = {
-	}
-		}
-				c_everfree3 = {
-				color={ 53 190 159 }
-				color2={ 255 255 255 }
-			
-				b_everfree3 = {
-	}
-		}
-				c_everfree4 = {
-				color={ 46 124 109 }
-				color2={ 255 255 255 }
-			
-				b_everfree4 = {
-	}
-		}
-		}
 			d_central_everfree = {
 				color={ 82 180 142 }
 				color2={ 255 255 255 }
@@ -3757,14 +3714,28 @@ e_equestria = {
 				
 				capital = 285 # The Palace of the Two Sisters
 				
-			c_the_palace_of_the_two_sisters = {
-				color={ 97 169 160 }
-				color2={ 255 255 255 }
+				c_the_palace_of_the_two_sisters = {
+					color={ 97 169 160 }
+					color2={ 255 255 255 }
+					
+					cephalo = "Cein'gaus"
+					muntjac = "Mun'jo"
+					fallow = "Fal'nen"
+					elapho_culture = "Ela'non"
+					whitetail = "Ela'non"
+					earth_pony_culture = "Everfree's Heart"
+					pegasi_culture = "Everfree's Heart"
+					unicorn_culture = "Everfree's Heart"
 			
-				b_the_palace_of_the_two_sisters = {
-					holy_site = cephala
-	}
-		}
+					b_the_palace_of_the_two_sisters = {
+						holy_site = cephala
+						holy_site = elaphanti
+						holy_site = muntura
+					}
+					b_the_tree_of_harmony = {
+						holy_site = celestian
+					}
+				}
 				c_everwatch = {
 				color={ 12 144 99 }
 				color2={ 255 255 255 }
@@ -3852,19 +3823,56 @@ e_equestria = {
 		}
 		}
 		
-	k_unicornia = {
-		color={ 156 94 177 }
+	k_fasran = {
+		color={ 88 19 77 }
 		color2={ 255 255 255 }
 		
 		capital = 296 # Canterlot
 		
-		culture = unicorn_culture
+		culture = cephalo
 		
 		pegasus_culture = "Unicornia"
 		earth_pony_culture = "Unicornia"
 		unicorn_culture = "Unicornia"
 		crystal_culture = "Unicornia"
 		
+		d_west_everfree = {
+				color={ 35 171 109 }
+				color2={ 255 255 255 }
+				
+				capital = 278 # Everfree1
+				
+			c_everfree1 = {
+				color={ 35 171 109 }
+				color2={ 255 255 255 }
+			
+				b_everfree1 = {
+	}
+		}
+				c_everfree2 = {
+				color={ 11 170 112 }
+				color2={ 255 255 255 }
+			
+				b_everfree2 = {
+	}
+		}
+				c_everfree3 = {
+				color={ 53 190 159 }
+				color2={ 255 255 255 }
+			
+					b_everfree3 = {}
+					b_everfree3_2 = {}
+					b_everfree3_3 = {}
+					
+		}
+				c_everfree4 = {
+				color={ 46 124 109 }
+				color2={ 255 255 255 }
+			
+				b_everfree4 = {
+	}
+		}
+		}
 		d_canterlot = {
 				color={ 156 94 177 }
 				color2={ 255 255 255 }
@@ -3878,7 +3886,11 @@ e_equestria = {
 					b_canterlot_castle = {}
 					b_moonstreet = {}
 					b_irongate = {}
-					b_high_rock = {}
+					b_high_rock = {
+						holy_site = unicorn_religion
+						holy_site = soarastrian
+						holy_site = earth_religion
+					}
 					b_hornway = {}
 					b_managrove = {}
 					b_whitecliff = {}
@@ -4054,85 +4066,187 @@ e_equestria = {
 				color={ 190 101 203 }
 				color2={ 255 255 255 }
 			
-				b_eversin = {
-	}
+					b_eversin = {}
+					b_eversin2 = {
+						holy_site = unicorn_religion
+					}
 		}
 		}
-			d_berry = {
-				color={ 195 48 216 }
-				color2={ 255 255 255 }
-				
-				capital = 314 # Toumane
-				
-			c_toumane = {
-				color={ 195 48 216 }
-				color2={ 255 255 255 }
 			
-				b_toumane = {
-	}
 		}
-				c_mane = {
-				color={ 202 92 203 }
-				color2={ 255 255 255 }
-			
-				b_mane = {
-	}
-		}
-				c_angoulemane = {
-				color={ 224 73 225 }
-				color2={ 255 255 255 }
-			
-				b_angoulemane = {
-	}
-		}
-		}
-			d_mareonmane = {
-				color={ 157 58 171 }
-				color2={ 255 255 255 }
-				
-				capital = 317 # Stallionge
-				
-			c_stallionge = {
-				color={ 157 58 171 }
-				color2={ 255 255 255 }
-			
-				b_stallionge = {
-	}
-		}
-				c_poulain = {
-				color={ 183 138 189 }
-				color2={ 255 255 255 }
-			
-				b_poulain = {
-	}
-		}
-				c_coltoulouse = {
-				color={ 172 94 183 }
-				color2={ 255 255 255 }
-			
-				b_coltoulouse = {
-	}
-		}
-				c_limehill = {
-				color={ 195 86 211 }
-				color2={ 255 255 255 }
-			
-				b_limehill = {
-	}
-		}
-		}
-		}
-		
-	k_manehatten = {
-		color={ 189 54 80 }
+
+	k_falandi = {
+		color={ 167 153 84 }
 		color2={ 255 255 255 }
 		
-		capital = 321 # Manehatten
+		capital = 342
 		
-		culture = earth_pony_culture
+		culture = fallow
 		
+		d_eastgold = {
+			color={ 102 138 157 }
+			color2={ 255 255 255 }
+			
+			capital = 488 # DH22
+			
+			c_dh22 = {
+				color={ 102 138 157 }
+				color2={ 255 255 255 }
 		
+				b_dh22 = {
+				}
+			}
+			c_dh23 = {
+				color={ 123 156 173 }
+				color2={ 255 255 255 }
 		
+				b_dh23 = {
+				}
+			}
+			c_dh25 = {
+				color={ 129 141 147 }
+				color2={ 255 255 255 }
+		
+					b_dh25 = {}
+					b_dh25_2 = {
+						holy_site = elaphanti
+					}
+			}
+		}
+		d_maneland = {
+				color={ 124 176 50 }
+				color2={ 255 255 255 }
+				
+				capital = 341 # Stallionbury
+				
+				c_stallionbury = {
+				color={ 124 176 50 }
+				color2={ 255 255 255 }
+			
+					b_quillwell = {
+					}
+					b_elktown = {
+					}
+					b_apples_bromly = {
+					}
+					b_hornoxter = {
+					}
+				}
+				c_hayshire = {
+				color={ 120 150 78 }
+				color2={ 255 255 255 }
+			
+					b_oatford = {
+					}
+					b_cornsbury = {
+					}
+					b_hoofbrough = {
+					}
+					b_eatingham = {
+					}
+				}
+				c_linecolt = {
+				color={ 83 112 42 }
+				color2={ 255 255 255 }
+			
+					b_ehointon = {
+					}
+				}
+			}
+		d_emerald_hills = {
+				color={ 32 139 21 }
+				color2={ 255 255 255 }
+				
+				capital = 346 # Mount Emerald
+				
+				c_rubyshire = {
+					color={ 42 117 38 }
+					color2={ 255 255 255 }
+			
+					b_redstone_point = {}
+					b_redington = {}
+					b_scarletminster = {}
+				}
+				c_mount_emerald = {
+					color={ 32 139 21 }
+					color2={ 255 255 255 }
+			
+					b_mount_emerald = {}
+		}
+				c_greenshire = {
+				color={ 41 170 29 }
+				color2={ 255 255 255 }
+			
+				b_greenshire = {
+	}
+		}
+				c_emeraldwick = {
+				color={ 89 144 78 }
+				color2={ 255 255 255 }
+			
+				b_emeraldwick = {
+	}
+		}
+		}
+		d_marecia = {
+				color={ 117 174 87 }
+				color2={ 255 255 255 }
+				
+				capital = 337 # Saddleside
+				
+				c_saddleside = {
+				color={ 117 174 87 }
+				color2={ 255 255 255 }
+			
+					b_saddlebridge = {
+					}
+					b_inkburrow = {
+					}
+					b_lemonlow = {
+					}
+					b_kingshill = {
+					}
+				}
+				c_hayford = {
+				color={ 100 134 50 }
+				color2={ 255 255 255 }
+			
+					b_swansbury = {
+					}
+					b_newpond = {
+					}
+					b_parkbridge = {
+					}
+					b_southam = {
+					}
+				}
+				c_gallopcester = {
+				color={ 116 140 82 }
+				color2={ 255 255 255 }
+			
+					b_buckworth = {
+					}
+					b_burningwood = {
+					}
+					b_greenhart_hill = {
+					}
+					b_greenharton = {
+					}
+				}
+				c_reincester = {
+				color={ 80 152 41 }
+				color2={ 255 255 255 }
+			
+					b_winteringham = {
+					}
+					b_cheeseton = {
+					}
+					b_lemonminster = {
+					}
+					b_ashbuck = {
+					}
+				}
+		}
 		d_manehatten = {
 				color={ 189 54 80 }
 				color2={ 255 255 255 }
@@ -4197,22 +4311,7 @@ e_equestria = {
 					}
 			}
 		}
-	}
-		
-	k_earth = {
-		color={ 87 153 38 }
-		color2={ 255 255 255 }
-		
-		capital = 324 # Baltimare
-		
-		culture = earth_pony_culture
-		
-		pegasus_culture = "Earth"
-		earth_pony_culture = "Earth"
-		unicorn_culture = "Earth"
-		crystal_culture = "Earth"
-		
-			d_eastpass = {
+		d_eastpass = {
 				color={ 101 134 54 }
 				color2={ 255 255 255 }
 				
@@ -4233,105 +4332,18 @@ e_equestria = {
 						}
 					}
 			}
-			d_maneland = {
-				color={ 124 176 50 }
-				color2={ 255 255 255 }
-				
-				capital = 341 # Stallionbury
-				
-				c_stallionbury = {
-				color={ 124 176 50 }
-				color2={ 255 255 255 }
+	}
+	k_terrandi = {
+		color={ 232 218 122 }
+		color2={ 255 255 255 }
+		
+		capital = 324
+		
+		culture = fallow
+		
 			
-					b_quillwell = {
-					}
-					b_elktown = {
-					}
-					b_apples_bromly = {
-					}
-					b_hornoxter = {
-					}
-				}
-				c_hayshire = {
-				color={ 120 150 78 }
-				color2={ 255 255 255 }
 			
-					b_oatford = {
-					}
-					b_cornsbury = {
-					}
-					b_hoofbrough = {
-					}
-					b_eatingham = {
-					}
-				}
-				c_linecolt = {
-				color={ 83 112 42 }
-				color2={ 255 255 255 }
 			
-					b_ehointon = {
-					}
-				}
-			}
-			d_marecia = {
-				color={ 117 174 87 }
-				color2={ 255 255 255 }
-				
-				capital = 337 # Saddleside
-				
-				c_saddleside = {
-				color={ 117 174 87 }
-				color2={ 255 255 255 }
-			
-					b_saddlebridge = {
-					}
-					b_inkburrow = {
-					}
-					b_lemonlow = {
-					}
-					b_kingshill = {
-					}
-				}
-				c_hayford = {
-				color={ 100 134 50 }
-				color2={ 255 255 255 }
-			
-					b_swansbury = {
-					}
-					b_newpond = {
-					}
-					b_parkbridge = {
-					}
-					b_southam = {
-					}
-				}
-				c_gallopcester = {
-				color={ 116 140 82 }
-				color2={ 255 255 255 }
-			
-					b_buckworth = {
-					}
-					b_burningwood = {
-					}
-					b_greenhart_hill = {
-					}
-					b_greenharton = {
-					}
-				}
-				c_reincester = {
-				color={ 80 152 41 }
-				color2={ 255 255 255 }
-			
-					b_winteringham = {
-					}
-					b_cheeseton = {
-					}
-					b_lemonminster = {
-					}
-					b_ashbuck = {
-					}
-				}
-			}	
 		
 			d_baltimare = {
 				color={ 87 153 38 }
@@ -4522,20 +4534,16 @@ e_equestria = {
 				color={ 150 177 56 }
 				color2={ 255 255 255 }
 			
-				b_earthen_palace = {
-	}
-					b_fillydelphia = {
-	}
+					b_earthen_palace = {}
+					b_fillydelphia = {}
 					b_coltswood = {
-	}
-					b_coltdam = {
-	}
-					b_maresburg = {
-	}
-					b_north_fillydelphia = {
-	}
-					b_bookbay = {
-	}
+						holy_site = elaphanti
+						holy_site = earth_religion
+					}
+					b_coltdam = {}
+					b_maresburg = {}
+					b_north_fillydelphia = {}
+					b_bookbay = {}
 		}
 				c_manesbury = {
 				color={ 98 177 56 }
@@ -4570,34 +4578,7 @@ e_equestria = {
 		}
 			
 		
-			d_emerald_hills = {
-				color={ 32 139 21 }
-				color2={ 255 255 255 }
-				
-				capital = 346 # Mount Emerald
-				
-			c_mount_emerald = {
-				color={ 32 139 21 }
-				color2={ 255 255 255 }
 			
-				b_mount_emerald = {
-	}
-		}
-				c_greenshire = {
-				color={ 41 170 29 }
-				color2={ 255 255 255 }
-			
-				b_greenshire = {
-	}
-		}
-				c_emeraldwick = {
-				color={ 89 144 78 }
-				color2={ 255 255 255 }
-			
-				b_emeraldwick = {
-	}
-		}
-		}
 			d_reinshire = {
 				color={ 22 93 9 }
 				color2={ 255 255 255 }
@@ -4691,7 +4672,11 @@ e_equestria = {
 				color={ 31 89 26 }
 				color2={ 255 255 255 }
 			
-					b_canterbury = {}
+					b_canterbury = {
+						holy_site = unicorn_religion
+						holy_site = soarastrian
+						holy_site = earth_religion
+					}
 					b_whitestable = {}
 					b_horseden = {}
 				}
@@ -4742,19 +4727,8 @@ e_equestria = {
 				color={ 42 117 38 }
 				color2={ 255 255 255 }
 				
-				capital = 361 # Rubyshire
+				capital = 363 # Mustangia
 				
-			c_rubyshire = {
-				color={ 42 117 38 }
-				color2={ 255 255 255 }
-			
-				b_redstone_point = {
-	}
-					b_redington = {
-	}
-					b_scarletminster = {
-	}
-		}
 				c_mustsex = {
 				color={ 80 126 78 }
 				color2={ 255 255 255 }
@@ -4788,20 +4762,19 @@ e_equestria = {
 					b_dagger_ridge = {}
 			}
 		}
-		}
+	}
 		
-	k_pegasopolis = {
-		color={ 16 49 134 }
+	k_roenal = {
+		color={ 180 125 99 }
 		color2={ 255 255 255 }
 		
 		capital = 370 # Pegasopolis
 		
-		culture = pegasus_culture
+		culture = fallow
 		
-		pegasus_culture = "Pegasopolis"
-		earth_pony_culture = "Pegasopolis"
-		unicorn_culture = "Pegasopolis"
-		crystal_culture = "Pegasopolis"
+		allow = {
+			culture_group = caribou
+		}
 		
 		d_hearth_pass = {
 				color={ 16 49 134 }
@@ -4872,11 +4845,13 @@ e_equestria = {
 			
 					b_pegasopolis1 = {}
 					b_pegasopolis2 = {}
-					b_pegasopolis3 = {}
+					b_pegasopolis3 = {
+						holy_site = unicorn_religion
+						holy_site = soarastrian
+						holy_site = earth_religion
+					}
 					b_pegasopolis4 = {}
 					b_pegasopolis5 = {}
-					b_pegasopolis6 = {}
-					b_pegasopolis7 = {}
 				}
 				c_cloudsdale = {
 				color={ 54 54 189 }
@@ -4927,113 +4902,8 @@ e_equestria = {
 					b_cloponeia = {}
 				}
 			}
-			d_nimbus_pass = {
-				color={ 67 58 136 }
-				color2={ 255 255 255 }
-				
-				capital = 376 # Rainos
-				
-				c_rainos = {
-				color={ 67 58 136 }
-				color2={ 255 255 255 }
 			
-				b_rainos = {}
-				}
-				c_nimbus_pass = {
-					color={ 71 51 223 }
-					color2={ 255 255 255 }
 			
-					b_wind_acre_keep = {}
-					b_cloud_ranch = {}
-				}
-			}
-			d_maretolia = {
-				color={ 81 67 182 }
-				color2={ 255 255 255 }
-				
-				capital = 378 # Cirrus
-				
-				c_cirrus = {
-					color={ 81 67 182 }
-					color2={ 255 255 255 }
-			
-					b_cirrus = {}
-				}
-				c_hurriandria = {
-					color={ 51 46 159 }
-					color2={ 255 255 255 }
-			
-					b_hurriandria = {}
-				}
-				c_saphire_pass = {
-				color={ 143 79 114 }
-				color2={ 255 255 255 }
-		
-					b_saphire_pass = {}
-					b_saphire_pass2 = {}
-					b_saphire_pass3 = {}
-					b_saphire_pass4 = {}
-				}
-			}
-			d_airpius = {
-				color={ 54 79 141 }
-				color2={ 255 255 255 }
-				
-				capital = 380 # Nacreous
-				
-				c_nacreous = {
-					color={ 54 79 141 }
-					color2={ 255 255 255 }
-			
-					b_nacreous = {}
-				}
-				c_maneathon = {
-					color={ 88 115 183 }
-					color2={ 255 255 255 }
-			
-					b_maneathon = {}
-				}
-				c_cloudon = {
-					color={ 70 90 141 }
-					color2={ 255 255 255 }
-			
-					b_cloudon = {}
-				}
-				c_maneipolis = {
-					color={ 103 122 169 }
-					color2={ 255 255 255 }
-			
-					b_maneipolis = {}
-				}
-			}
-			d_galloping_gorge = {
-				color={ 91 88 150 }
-				color2={ 255 255 255 }
-				
-				capital = 384 # West Gallop
-				
-			c_west_gallop = {
-				color={ 91 88 150 }
-				color2={ 255 255 255 }
-			
-				b_west_gallop = {
-	}
-		}
-				c_east_gallop = {
-				color={ 59 54 158 }
-				color2={ 255 255 255 }
-			
-				b_east_gallop = {
-	}
-		}
-				c_galloping_slopes = {
-				color={ 93 89 184 }
-				color2={ 255 255 255 }
-			
-				b_galloping_slopes = {
-	}
-		}
-		}
 			d_hurricanion = {
 				color={ 24 20 120 }
 				color2={ 255 255 255 }
@@ -5080,6 +4950,7 @@ e_equestria = {
 					color2={ 255 255 255 }
 			
 					b_thunderpolis = {
+						holy_site = soarastrian
 					}
 				}
 				c_skydeia = {
@@ -5145,7 +5016,7 @@ e_equestria = {
 				}
 			}
 		}
-	}
+
 e_deeria = {
 	color={ 80 189 199 }
 	color2={ 255 255 20 }
@@ -5164,7 +5035,8 @@ k_whitetail = {
 	
 	culture = whitetail
 	
-	
+	whitetail = "Whital"
+	elapho_culture = "When'taal"
 	
 	d_whitetail_woods = {
 			color={ 80 189 199 }
@@ -5201,6 +5073,70 @@ k_whitetail = {
 }
 	}
 	}
+	
+	d_berry = {
+				color={ 195 48 216 }
+				color2={ 255 255 255 }
+				
+				capital = 314 # Toumane
+				
+			c_toumane = {
+				color={ 195 48 216 }
+				color2={ 255 255 255 }
+			
+				b_toumane = {
+	}
+		}
+				c_mane = {
+				color={ 202 92 203 }
+				color2={ 255 255 255 }
+			
+				b_mane = {
+	}
+		}
+				c_angoulemane = {
+				color={ 224 73 225 }
+				color2={ 255 255 255 }
+			
+				b_angoulemane = {
+	}
+		}
+		}
+			d_mareonmane = {
+				color={ 157 58 171 }
+				color2={ 255 255 255 }
+				
+				capital = 317 # Stallionge
+				
+			c_stallionge = {
+				color={ 157 58 171 }
+				color2={ 255 255 255 }
+			
+				b_stallionge = {
+	}
+		}
+				c_poulain = {
+				color={ 183 138 189 }
+				color2={ 255 255 255 }
+			
+				b_poulain = {
+	}
+		}
+				c_coltoulouse = {
+				color={ 172 94 183 }
+				color2={ 255 255 255 }
+			
+				b_coltoulouse = {
+	}
+		}
+				c_limehill = {
+				color={ 195 86 211 }
+				color2={ 255 255 255 }
+			
+				b_limehill = {
+	}
+		}
+		}
 		d_stagtree = {
 			color={ 10 96 105 }
 			color2={ 255 255 255 }
@@ -5222,12 +5158,15 @@ k_whitetail = {
 }
 	}
 			c_stagtree = {
-			color={ 24 86 84 }
-			color2={ 255 255 255 }
+				color={ 24 86 84 }
+				color2={ 255 255 255 }
 		
-			b_stagtree = {
-}
-	}
+				b_stagtree = {}
+				b_stagtree2 = {
+					holy_site = elaphanti
+				}
+				b_stagtree3 = {}
+			}
 			c_maneheur = {
 			color={ 37 74 78 }
 			color2={ 255 255 255 }
@@ -5329,7 +5268,7 @@ k_whitetail = {
 	}
 	}
 	
-k_doegon = {
+	k_doegon = {
 	color={ 39 192 190 }
 	color2={ 255 255 255 }
 	
@@ -5337,33 +5276,65 @@ k_doegon = {
 	
 	culture = elapho_culture
 	
+		d_doepine = {
+			color={ 18 126 119 }
+			color2={ 255 255 255 }
+			
+			capital = 445 # Westmarester
+			
+			c_westmarester = {
+			color={ 18 126 119 }
+			color2={ 255 255 255 }
+		
+			b_westmarester = {}
+		}
+			c_maremford = {
+				color={ 66 124 119 }
+				color2={ 255 255 255 }
+		
+				b_maremford = {}
+			}
+		}
 	
+		d_nimbus_pass = {
+				color={ 67 58 136 }
+				color2={ 255 255 255 }
+				
+				capital = 376 # Rainos
+				
+				c_rainos = {
+				color={ 67 58 136 }
+				color2={ 255 255 255 }
+			
+				b_rainos = {}
+				}
+				c_nimbus_pass = {
+					color={ 71 51 223 }
+					color2={ 255 255 255 }
+			
+					b_wind_acre_keep = {}
+					b_cloud_ranch = {}
+				}
+			}
 	
-	d_seaddle = {
+		d_seaddle = {
 			color={ 39 192 190 }
 			color2={ 255 255 255 }
 			
 			capital = 415 # Seaddle
 			
-		c_seaddle = {
+			c_seaddle = {
 			color={ 39 192 190 }
 			color2={ 255 255 255 }
 		
-			b_saddlestown = {
-}
-				b_seaddle = {
-}
-				b_seawood = {
-}
-				b_stagvew = {
-}
-				b_redmond = {
-}
-				b_woodgrove = {
-}
-				b_marecer = {
-}
-	}
+				b_saddlestown = {}
+				b_seaddle = {}
+				b_seawood = {}
+				b_stagvew = {}
+				b_redmond = {}
+				b_woodgrove = {}
+				b_marecer = {}
+			}
 			c_adeer = {
 			color={ 119 206 205 }
 			color2={ 255 255 255 }
@@ -5521,16 +5492,101 @@ k_doegon = {
 	}
 	}
 	
-k_coltumbia = {
-	color={ 34 151 184 }
+k_elapha = {
+	color={ 240 144 168 }
 	color2={ 255 255 255 }
 	
 	capital = 434 # Vanhoover
 	
 	culture = elapho_culture
 	
-	
-	
+	d_maretolia = {
+				color={ 81 67 182 }
+				color2={ 255 255 255 }
+				
+				capital = 378 # Cirrus
+				
+				c_cirrus = {
+					color={ 81 67 182 }
+					color2={ 255 255 255 }
+			
+					b_cirrus = {}
+				}
+				c_hurriandria = {
+					color={ 51 46 159 }
+					color2={ 255 255 255 }
+			
+					b_hurriandria = {}
+				}
+				c_saphire_pass = {
+				color={ 143 79 114 }
+				color2={ 255 255 255 }
+		
+					b_saphire_pass = {}
+					b_saphire_pass2 = {}
+					b_saphire_pass3 = {}
+					b_saphire_pass4 = {}
+				}
+			}
+			d_airpius = {
+				color={ 54 79 141 }
+				color2={ 255 255 255 }
+				
+				capital = 380 # Nacreous
+				
+				c_nacreous = {
+					color={ 54 79 141 }
+					color2={ 255 255 255 }
+			
+					b_nacreous = {}
+				}
+				c_maneathon = {
+					color={ 88 115 183 }
+					color2={ 255 255 255 }
+			
+					b_maneathon = {}
+				}
+				c_cloudon = {
+					color={ 70 90 141 }
+					color2={ 255 255 255 }
+			
+					b_cloudon = {}
+				}
+				c_maneipolis = {
+					color={ 103 122 169 }
+					color2={ 255 255 255 }
+			
+					b_maneipolis = {}
+				}
+			}
+			d_galloping_gorge = {
+				color={ 91 88 150 }
+				color2={ 255 255 255 }
+				
+				capital = 384 # West Gallop
+				
+			c_west_gallop = {
+				color={ 91 88 150 }
+				color2={ 255 255 255 }
+			
+				b_west_gallop = {
+	}
+		}
+				c_east_gallop = {
+				color={ 59 54 158 }
+				color2={ 255 255 255 }
+			
+				b_east_gallop = {
+	}
+		}
+				c_galloping_slopes = {
+				color={ 93 89 184 }
+				color2={ 255 255 255 }
+			
+				b_galloping_slopes = {
+	}
+		}
+		}
 	d_vanhoover = {
 			color={ 34 151 184 }
 			color2={ 255 255 255 }
@@ -5560,8 +5616,10 @@ k_coltumbia = {
 			color={ 80 119 130 }
 			color2={ 255 255 255 }
 		
-			b_antlerford = {
-}
+			b_antlerford = {}
+			b_antlerford2 = {
+				holy_site = elaphanti
+			}
 	}
 			c_upper_vanhoover = {
 			color={ 58 129 149 }
@@ -5648,27 +5706,7 @@ k_coltumbia = {
 }
 	}
 	}
-		d_doepine = {
-			color={ 18 126 119 }
-			color2={ 255 255 255 }
-			
-			capital = 445 # Westmarester
-			
-		c_westmarester = {
-			color={ 18 126 119 }
-			color2={ 255 255 255 }
 		
-			b_westmarester = {
-}
-	}
-			c_maremford = {
-			color={ 66 124 119 }
-			color2={ 255 255 255 }
-		
-			b_maremford = {
-}
-	}
-	}
 		d_vanhoover_islands = {
 			color={ 138 156 166 }
 			color2={ 255 255 255 }
@@ -5717,7 +5755,9 @@ e_crystal_empire = {
 				color={ 28 64 60 }
 				color2={ 255 255 255 }
 		
-				b_north20 = {
+				b_north20 = {}
+				b_north20_2 = {
+					holy_site = earth_religion
 				}
 			}
 			c_norht20 = {
@@ -6228,7 +6268,9 @@ k_crystal_kingdom = {
 				color={ 96 118 140 }
 				color2={ 255 255 255 }
 		
-				b_dh17 = {
+				b_dh17 = {}
+				b_dh17_2 = {
+					holy_site = unicorn_religion
 				}
 			}
 			c_dh18 = {
@@ -6250,34 +6292,6 @@ k_crystal_kingdom = {
 				color2={ 255 255 255 }
 		
 				b_dh21 = {
-				}
-			}
-		}
-		d_eastgold = {
-			color={ 102 138 157 }
-			color2={ 255 255 255 }
-			
-			capital = 488 # DH22
-			
-			c_dh22 = {
-				color={ 102 138 157 }
-				color2={ 255 255 255 }
-		
-				b_dh22 = {
-				}
-			}
-			c_dh23 = {
-				color={ 123 156 173 }
-				color2={ 255 255 255 }
-		
-				b_dh23 = {
-				}
-			}
-			c_dh25 = {
-				color={ 129 141 147 }
-				color2={ 255 255 255 }
-		
-				b_dh25 = {
 				}
 			}
 		}
@@ -6392,7 +6406,7 @@ k_crystal_kingdom = {
 		}
 	
 		
-		d_iceheart_mountin = {
+		d_iceheart_mountain = {
 			color={ 26 118 124 }
 			color2={ 255 255 255 }
 			
@@ -6403,6 +6417,7 @@ k_crystal_kingdom = {
 				color2={ 255 255 255 }
 		
 				b_dh15 = {
+					holy_site = soarastrian
 				}
 			}
 			c_norht14 = {
@@ -8261,54 +8276,4 @@ k_mooseland = {
 	}
 }
 	
-#################
-# Tribal Titles #
-#################
 
-d_unicorns_tribe = {
-	color={ 156 94 177 }
-	color2={ 255 255 255 }
-	
-	tribe = yes
-	
-	allow = {
-		always = no
-	}
-	
-	culture = unicorn_culture
-	title = "QUEEN"
-	foa = "QUEEN_FOA"
-	title_prefix = "PONY_TRIBE"
-}
-
-d_pegasi_tribe = {
-	color={ 16 49 134 }
-	color2={ 255 255 255 }
-	
-	tribe = yes
-	
-	allow = {
-		always = no
-	}
-	
-	culture = pegasus_culture
-	title = "COMMANDER"
-	foa = "COMMANDER_FOA"
-	title_prefix = "PONY_TRIBE"
-}
-
-d_earth_tribe = {
-	color={ 87 153 38 }
-	color2={ 255 255 255 }
-	
-	tribe = yes
-	
-	allow = {
-		always = no
-	}
-	
-	culture = earth_culture
-	title = "CHANCELLOR"
-	foa = "CHANCELLOR_FOA"
-	title_prefix = "PONY_TRIBE"
-}
