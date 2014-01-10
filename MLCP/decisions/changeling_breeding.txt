@@ -17,9 +17,6 @@ decisions = {
 		}
 		allow = {
 			is_ruler = yes
-			NOT = {
-				has_character_flag = laid_eggs
-			}
 			is_married = yes
 		}
 		effect = {
