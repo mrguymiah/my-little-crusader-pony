@@ -1,0 +1,98 @@
+
+song = {
+	name = "1_arrival.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "2_the_walls_are_moving.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "3_the_ancient_hall.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "4_acheron.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "5_spectral_steps.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "6_upheaval.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "7_fire_and_ice.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "8-1_blades_of_inferno.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "8-2_windigo_march.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "9-1_our_flame.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "9-2_rip_in_time.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
