@@ -3607,8 +3607,35 @@ k_sioxen = {
 		
 		culture = caribou_culture
 		
-		
-		
+		d_west_everfree = { #Everfield
+			color={ 35 171 109 }
+			color2={ 255 255 255 }
+				
+			capital = 278 # Everfree1
+				
+			c_everfree1 = {
+				color={ 35 171 109 }
+				color2={ 255 255 255 }
+			
+				b_everfree1 = {}
+			}
+			c_everfree2 = {
+				color={ 11 170 112 }
+				color2={ 255 255 255 }
+			
+				b_everfree2 = {}
+			}
+			c_everfree3 = {
+				color={ 53 190 159 }
+				color2={ 255 255 255 }
+			
+				b_everfree3 = {}
+				b_everfree3_2 = {}
+				b_everfree3_3 = {}
+					
+			}
+			
+		}
 		d_ghastly_gorge = {
 				color={ 124 157 68 }
 				color2={ 255 255 255 }
@@ -3686,28 +3713,27 @@ k_sioxen = {
 				
 				capital = 282 # Everfree5
 				
-			c_everfree5 = {
-				color={ 82 180 142 }
+				c_everfree4 = {
+				color={ 46 124 109 }
 				color2={ 255 255 255 }
 			
-				b_everfree5 = {
-	}
-		}
-				c_everfree6 = {
-				color={ 40 149 114 }
-				color2={ 255 255 255 }
+				b_everfree4 = {}
+			}
+				c_everwatch = {
+					color={ 12 144 99 }
+					color2={ 255 255 255 }
 			
-				b_everfree6 = {
-	}
-		}
-				c_everfree7 = {
-				color={ 17 95 66 }
-				color2={ 255 255 255 }
+					b_everwatch = {}
+				}
+				c_everfree5 = {
+					color={ 82 180 142 }
+					color2={ 255 255 255 }
 			
-				b_everfree7 = {
-	}
-		}
-		}
+					b_everfree5 = {}
+				}
+				
+				
+			}
 			d_greater_everfree = {
 				color={ 97 169 160 }
 				color2={ 255 255 255 }
@@ -3736,21 +3762,25 @@ k_sioxen = {
 						holy_site = celestian
 					}
 				}
-				c_everwatch = {
-				color={ 12 144 99 }
-				color2={ 255 255 255 }
+				c_everfree7 = {
+					color={ 17 95 66 }
+					color2={ 255 255 255 }
 			
-				b_everwatch = {
-	}
-		}
+					b_everfree7 = {}
+				}
+				c_everfree15 = {
+					color={ 36 188 165 }
+					color2={ 255 255 255 }
+			
+					b_everfree15 = {}
+				}
 				c_rockwood = {
-				color={ 86 141 134 }
-				color2={ 255 255 255 }
+					color={ 86 141 134 }
+					color2={ 255 255 255 }
 			
-				b_rockwood = {
-	}
-		}
-		}
+					b_rockwood = {}
+				}
+			}
 			d_south_everfree = {
 				color={ 52 135 128 }
 				color2={ 255 255 255 }
@@ -3785,6 +3815,13 @@ k_sioxen = {
 				
 				capital = 291 # Everfree11
 				
+			c_everfree6 = {
+				color={ 40 149 114 }
+				color2={ 255 255 255 }
+			
+				b_everfree6 = {
+	}
+		}
 			c_everfree11 = {
 				color={ 43 73 93 }
 				color2={ 255 255 255 }
@@ -3813,13 +3850,7 @@ k_sioxen = {
 				b_everfree14 = {
 	}
 		}
-				c_everfree15 = {
-				color={ 36 188 165 }
-				color2={ 255 255 255 }
-			
-				b_everfree15 = {
-	}
-		}
+				
 		}
 		}
 		
@@ -3831,48 +3862,6 @@ k_sioxen = {
 		
 		culture = cephalo
 		
-		pegasus_culture = "Unicornia"
-		earth_pony_culture = "Unicornia"
-		unicorn_culture = "Unicornia"
-		crystal_culture = "Unicornia"
-		
-		d_west_everfree = {
-				color={ 35 171 109 }
-				color2={ 255 255 255 }
-				
-				capital = 278 # Everfree1
-				
-			c_everfree1 = {
-				color={ 35 171 109 }
-				color2={ 255 255 255 }
-			
-				b_everfree1 = {
-	}
-		}
-				c_everfree2 = {
-				color={ 11 170 112 }
-				color2={ 255 255 255 }
-			
-				b_everfree2 = {
-	}
-		}
-				c_everfree3 = {
-				color={ 53 190 159 }
-				color2={ 255 255 255 }
-			
-					b_everfree3 = {}
-					b_everfree3_2 = {}
-					b_everfree3_3 = {}
-					
-		}
-				c_everfree4 = {
-				color={ 46 124 109 }
-				color2={ 255 255 255 }
-			
-				b_everfree4 = {
-	}
-		}
-		}
 		d_canterlot = {
 				color={ 156 94 177 }
 				color2={ 255 255 255 }

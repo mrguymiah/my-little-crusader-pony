@@ -2,7 +2,7 @@
 # Cervid Religious Leaders #
 ############################
 
-k_elaphanti = {
+d_elaphanti = {
 	color = { 240 155 155 }
 	color2 = { 255 255 255 }
 	
@@ -19,7 +19,7 @@ k_elaphanti = {
 
 }
 
-k_falphanti = {
+d_falphanti = {
 	color = { 195 115 115 }
 	color2 = { 255 255 255 }
 	
