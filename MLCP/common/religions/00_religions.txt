@@ -470,7 +470,8 @@ discordian_Rgroup = {
 
 caribou_Rgroup = {
 	playable = yes
-	crusade_cb = crusade
+	has_coa_on_barony_only = no
+	graphical_culture = muslimgfx
 
 	mooselam = {
 		graphical_culture = westerngfx
@@ -484,19 +485,17 @@ caribou_Rgroup = {
 		god_names = {
 			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
 		}
-		
+		can_grant_claim = yes
+		can_call_crusade = yes
+		priests_can_marry = yes
+		can_hold_temples = yes
 		can_excommunicate = yes
 		can_grant_divorce = yes
-		priests_can_marry = yes
-		allow_viking_invasion = yes
 		allow_looting = yes
 		allow_rivermovement = yes
-		female_temple_holders = yes
-		priests_can_marry = yes
 		defensive_attrition = yes
 		reformed = mooselam_reformed
 		max_consorts = 5
-		can_hold_temples = yes
 	}
 	mooselam_reformed = {
 		graphical_culture = westerngfx
@@ -511,17 +510,16 @@ caribou_Rgroup = {
 			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
 		}
 		
+		can_grant_claim = yes
+		can_call_crusade = yes
+		priests_can_marry = yes
+		can_hold_temples = yes
 		can_excommunicate = yes
 		can_grant_divorce = yes
-		priests_can_marry = yes
-		allow_viking_invasion = yes
 		allow_looting = yes
 		allow_rivermovement = yes
-		female_temple_holders = yes
-		priests_can_marry = yes
 		defensive_attrition = yes
 		max_consorts = 5
-		can_hold_temples = yes
 	}
 	elaphanti = {
 		graphical_culture = westerngfx
@@ -536,17 +534,16 @@ caribou_Rgroup = {
 			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
 		}
 		
+		can_grant_claim = yes
+		can_call_crusade = yes
+		priests_can_marry = yes
+		can_hold_temples = yes
 		can_excommunicate = yes
 		can_grant_divorce = yes
-		priests_can_marry = yes
-		allow_viking_invasion = yes
 		allow_looting = yes
 		allow_rivermovement = yes
-		female_temple_holders = yes
-		priests_can_marry = yes
 		defensive_attrition = yes
 		max_consorts = 5
-		can_hold_temples = yes
 	}
 	falphanti = {
 		graphical_culture = westerngfx
@@ -562,17 +559,16 @@ caribou_Rgroup = {
 		}
 		
 		parent = elaphanti
+		can_grant_claim = yes
+		can_call_crusade = yes
+		priests_can_marry = yes
+		can_hold_temples = yes
 		can_excommunicate = yes
 		can_grant_divorce = yes
-		priests_can_marry = yes
-		allow_viking_invasion = yes
 		allow_looting = yes
 		allow_rivermovement = yes
-		female_temple_holders = yes
-		priests_can_marry = yes
 		defensive_attrition = yes
 		max_consorts = 5
-		can_hold_temples = yes
 	}
 	muntura = {
 		graphical_culture = westerngfx
@@ -587,17 +583,16 @@ caribou_Rgroup = {
 			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
 		}
 		
+		can_grant_claim = yes
+		can_call_crusade = yes
+		priests_can_marry = yes
+		can_hold_temples = yes
 		can_excommunicate = yes
 		can_grant_divorce = yes
-		priests_can_marry = yes
-		allow_viking_invasion = yes
 		allow_looting = yes
 		allow_rivermovement = yes
-		female_temple_holders = yes
-		priests_can_marry = yes
 		defensive_attrition = yes
 		max_consorts = 5
-		can_hold_temples = yes
 	}
 	cephala = {
 		graphical_culture = westerngfx
@@ -613,16 +608,15 @@ caribou_Rgroup = {
 		}
 		
 		parent = muntura
+		can_grant_claim = yes
+		can_call_crusade = yes
+		priests_can_marry = yes
+		can_hold_temples = yes
 		can_excommunicate = yes
 		can_grant_divorce = yes
-		priests_can_marry = yes
-		allow_viking_invasion = yes
 		allow_looting = yes
 		allow_rivermovement = yes
-		female_temple_holders = yes
-		priests_can_marry = yes
 		defensive_attrition = yes
 		max_consorts = 5
-		can_hold_temples = yes
 	}
 }

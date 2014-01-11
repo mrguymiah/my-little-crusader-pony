@@ -7,7 +7,7 @@ title = c_gemglass
 max_settlements = 3
 
 b_dusk_star_rise = castle
-b_gemglass = temple
+b_gemglass = city
 
 # Misc
 culture = unicorn_culture

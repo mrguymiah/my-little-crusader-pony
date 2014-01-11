@@ -1,5 +1,5 @@
 2000 = {
-	name="Aus'nu"
+	name="Aus'nu" #The Avatar
 	dynasty=2000
 	diplomacy=6
 	martial=6
@@ -326,8 +326,38 @@
 		birth="89.3.6"
 	}
 }
+2107 = {
+	name="Elk'u"
+	dynasty=2020
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="falphanti"
+	culture="fallow"
+	add_trait="zealot"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+} 
+2108 = {
+	name="Elk'o"
+	dynasty=2021
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="falphanti"
+	culture="fallow"
+	add_trait="zealot"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
 2200 = {
-	name="Veniero"
+	name="Veniero" #The High Priest
 	dynasty=2001
 	diplomacy=6
 	martial=6

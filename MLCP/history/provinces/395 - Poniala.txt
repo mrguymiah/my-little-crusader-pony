@@ -6,7 +6,7 @@ title = c_poniala
 # Settlements
 max_settlements = 4
 
-#b_poniala = castle
+b_poniala = castle
 b_pasturedown = city
 
 # Misc

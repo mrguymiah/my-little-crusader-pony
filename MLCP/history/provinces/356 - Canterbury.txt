@@ -8,7 +8,7 @@ max_settlements = 3
 
 b_canterbury = temple
 #b_canterham_b) = city
-b_whitestable = city
+#b_whitestable = city
 #b_horseden = castle
 
 # Misc

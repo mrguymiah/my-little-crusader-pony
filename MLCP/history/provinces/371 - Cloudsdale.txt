@@ -9,6 +9,8 @@ max_settlements = 6
 b_fort_cloudsdale = castle
 b_cloudsdale = city
 b_wonderbolt = castle
+b_cloudsdale2 = city
+b_cloudsdale3 = city
 
 # Misc
 100.1.1 = {

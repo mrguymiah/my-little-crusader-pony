@@ -155,16 +155,16 @@ d_ghastly_gorge;Ghastly Gorge;;;;;;;;;;;;;x;
 d_ghastly_gorge_adj;Ghastly Gorgian;;;;;;;;;;;;;x;
 d_froggy_bottom_bogg;Froggy Bottom Bogg;;;;;;;;;;;;;x
 d_froggy_bottom_bogg_adj;Froggy Bottom;;;;;;;;;;;;;x;
-d_west_everfree;West Everfree;;;;;;;;;;;;;x;
-d_west_everfree_adj;West Everfrian;;;;;;;;;;;;;x;
-d_central_everfree;Central Everfree;;;;;;;;;;;;;x
-d_central_everfree_adj;Central Everfrian;;;;;;;;;;;;;x
-d_greater_everfree;Greater Everfree;;;;;;;;;;;;;x;
-d_greater_everfree_adj;Greater Everfrian;;;;;;;;;;;;;x;
-d_south_everfree;South Everfree;;;;;;;;;;;;;x;
-d_south_everfree_adj;South Everfrian;;;;;;;;;;;;;x;
-d_east_everfree;East Everfree;;;;;;;;;;;;;x;
-d_east_everfree_adj;East Everfrian;;;;;;;;;;;;;x;
+d_west_everfree;Timberlake;;;;;;;;;;;;;x;
+d_west_everfree_adj;Timberlaker;;;;;;;;;;;;;x;
+d_central_everfree;Everwatch;;;;;;;;;;;;;x
+d_central_everfree_adj;Everwatcher;;;;;;;;;;;;;x
+d_greater_everfree;Everfree;;;;;;;;;;;;;x;
+d_greater_everfree_adj;Everfrian;;;;;;;;;;;;;x;
+d_south_everfree;Southtwig;;;;;;;;;;;;;x;
+d_south_everfree_adj;Southtwig;;;;;;;;;;;;;x;
+d_east_everfree;Everfield;;;;;;;;;;;;;x;
+d_east_everfree_adj;Everfieldian;;;;;;;;;;;;;x;
 d_canterlot;Canterlot;;;;;;;;;;;;;x;;
 d_canterlot_adj;Canterlotian;;;;;;;;;;;;;x;;
 d_bitaly;Bitaly;;;;;;;;;;;;;x;;
@@ -481,6 +481,10 @@ d_earth_tribe;The Earth Ponies;;;;;;;;;;;;;x;;
 d_earth_tribe_adj;Earth Pony;;;;;;;;;;;;;x;;
 d_pegasi_tribe;The Pegasi;;;;;;;;;;;;;x;;
 d_pegasi_tribe_adj;Pegasi;;;;;;;;;;;;;x;;
+d_elaphanti;Elaphanti Priesthood;;;;;;;;;;;;;x;
+d_elaphanti_adj;Elaphanti;;;;;;;;;;;;;x;
+d_falphanti;Falphanti Priesthood;;;;;;;;;;;;;x;
+d_falphanti_adj;Falphanti;;;;;;;;;;;;;x;
 d_cephalo;Cephala Priesthood;;;;;;;;;;;;;x;;
 d_cephalo_adk;Cephala;;;;;;;;;;;;;x;;
 d_muntura;Muntura Priesthood;;;;;;;;;;;;;x;;

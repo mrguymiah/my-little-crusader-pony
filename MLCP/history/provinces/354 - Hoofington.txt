@@ -8,7 +8,7 @@ max_settlements = 4
 
 b_hoofington = castle
 b_mareington_spa = city
-#b_buckby = temple
+b_buckby = city
 #b_trottingbrooke = castle
 
 # Misc

@@ -5,8 +5,8 @@ k_zebora;Zebora;;;;;;;;;;;;;x;
 k_zebora_adj;Zeborian;;;;;;;;;;;;;x;
 k_zebrican_desert;Zebrican Desert;;;;;;;;;;;;;x
 k_zebrican_desert_adj;Zebrican Desertian;;;;;;;;;;;;;x
-k_hayseed;Hayseed;;;;;;;;;;;;;x;
-k_hayseed_adj;Hayseedian;;;;;;;;;;;;;x;
+k_hayseed;Taru;;;;;;;;;;;;;x;
+k_hayseed_adj;Taruca;;;;;;;;;;;;;x;
 k_manedalus;Manedalus;;;;;;;;;;;;;x;
 k_manedalus_adj;Manedalusian;;;;;;;;;;;;;x;
 k_badlands;Badlands;;;;;;;;;;;;;x;
@@ -17,8 +17,8 @@ k_buffatania;Buffatania;;;;;;;;;;;;;x;
 k_buffatania_adj;Buffatanian;;;;;;;;;;;;;x;
 k_sioxen;Sioxen;;;;;;;;;;;;;x;
 k_sioxen_adj;Sioxenian;;;;;;;;;;;;;x;
-k_golden_forest;Golden Forest;;;;;;;;;;;;;x
-k_golden_forest_adj;Golden Forestian;;;;;;;;;;;;;x
+k_golden_forest;Muntjo;;;;;;;;;;;;;x
+k_golden_forest_adj;Muntjac;;;;;;;;;;;;;x
 k_everfree;Everfree;;;;;;;;;;;;;x;
 k_everfree_adj;Everfrian;;;;;;;;;;;;;x;
 k_unicornia;Unicornia;;;;;;;;;;;;;x;
@@ -69,10 +69,6 @@ k_mooseland;Mooseland;;;;;;;;;;;;;x;
 k_mooseland_adj;Mooselandian;;;;;;;;;;;;;x;
 k_iceglass;Iceglass;;;;;;;;;;;;;x;
 k_iceglass_adj;Iceglassite;;;;;;;;;;;;;x;
-k_elaphanti;Elaphanti Priesthood;;;;;;;;;;;;;x;
-k_elaphanti_adj;Elaphanti;;;;;;;;;;;;;x;
-k_falphanti;Falphanti Priesthood;;;;;;;;;;;;;x;
-k_falphanti_adj;Falphanti;;;;;;;;;;;;;x;
 k_elapha;Elapha;;;;;;;;;;;;;x;
 k_elapha_adj;Elaphan;;;;;;;;;;;;;x;
 k_roenal;Roenal;;;;;;;;;;;;;x;

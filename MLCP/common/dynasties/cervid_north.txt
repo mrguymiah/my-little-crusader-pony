@@ -1,5 +1,5 @@
-#CERVID DYNASTIES#
-#2000 - 2999 reserved
+#CERVID(Fallow, Elapho, Whitetail, Caribou) DYNASTIES#
+#2000 - 2499 reserved#
 2000 = { #Elaphanti Caliph
 	name = "Agni'phanti"
 	culture = elapho_culture
@@ -77,5 +77,13 @@
 }
 2019 = {
 	name = "Renfask"
+	culture = fallow
+}
+2020 = {
+	name = "Estmal"
+	culture = fallow
+}
+2021 = {
+	name = "Bital"
 	culture = fallow
 }
