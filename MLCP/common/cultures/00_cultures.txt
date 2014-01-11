@@ -433,8 +433,10 @@ griffon_group = {
 }
 
 changeling_group = {
+	graphical_culture = changelinggfx
+
 	changeling_culture = {
-		graphical_culture = mongolgfx
+		graphical_culture = changelinggfx
 		
 		color = { 0.1 .06 0.7 }
 
