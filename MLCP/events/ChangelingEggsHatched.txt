@@ -25,8 +25,9 @@ character_event = {
 							}
 							new_character = {
 								set_mother = PREV
-								set_dynasty = PREV
+								dynasty = PREV
 							}
+						}
 					1 = {
 							create_character = {
 								age = 0
@@ -34,11 +35,188 @@ character_event = {
 							new_character = {
 							
 								set_mother = PREV
-								set_dynasty = PREV
+								dynasty = PREV
 							}
 						}
 					
+				}
+			}
+			5 = {
+				random_list = {
+				1 = {
+						create_character = {
+							age = 0
+							female = yes
+						}
+						new_character = {
+							set_mother = PREV
+							dynasty = PREV
+						}
+					
+						create_character = {
+							age = 0
+						}
+						new_character = {
+							
+							set_mother = PREV
+							dynasty = PREV
+						}
+				}
+				1 = {
+					create_character = {
+							age = 0
+							
+						}
+						new_character = {
+							set_mother = PREV
+							dynasty = PREV
+						}
+					
+						create_character = {
+							age = 0
+						}
+						new_character = {
+							
+							set_mother = PREV
+							dynasty = PREV
+						}
+				}
+				1 = {
+					create_character = {
+							age = 0
+							female = yes
+						}
+						new_character = {
+							set_mother = PREV
+							dynasty = PREV
+						}
+					
+						create_character = {
+							age = 0
+							female = yes
+						}
+						new_character = {
+							
+							set_mother = PREV
+							dynasty = PREV
+						}
+					}
+			10 = {
+				1 = {
+					create_character = {
+							age = 0
+						}
+						new_character = {
+							
+							set_mother = PREV
+							dynasty = PREV
+						}
+					create_character = {
+							age = 0
+						}
+						new_character = {
+							
+							set_mother = PREV
+							dynasty = PREV
+						}
+					create_character = {
+							age = 0
+						}
+						new_character = {
+							
+							set_mother = PREV
+							dynasty = PREV
+						}
+				}
+				1 = { 
+					create_character = {
+						age = 0
+							
+					}
+					new_character = {
+						set_mother = PREV
+						dynasty = PREV
+					}
+					
+					create_character = {
+						age = 0
+					}
+					new_character = {
+							
+						set_mother = PREV
+						dynasty = PREV
+					}
+					create_character = {
+						age = 0
+						female = yes
+					}
+					new_character = {
+							
+						set_mother = PREV
+						dynasty = PREV
+					}
+				}
+				1 = {
+					create_character = {
+						age = 0
+							
+					}
+					new_character = {
+						set_mother = PREV
+						dynasty = PREV
+					}
+					create_character = {
+						age = 0
+						female = yes
+					}
+					new_character = {
+							
+						set_mother = PREV
+						dynasty = PREV
+					}
+					create_character = {
+						age = 0
+						female = yes
+					}
+					new_character = {
+							
+						set_mother = PREV
+						dynasty = PREV
+					}
+				}
+				1 = {
+					create_character = {
+						age = 0
+						female = yes
+					}
+					new_character = {
+							
+						set_mother = PREV
+						dynasty = PREV
+					}
+					create_character = {
+						age = 0
+						female = yes
+					}
+					new_character = {
+							
+						set_mother = PREV
+						dynasty = PREV
+					}
+					create_character = {
+						age = 0
+						female = yes
+					}
+					new_character = {
+							
+						set_mother = PREV
+						dynasty = PREV
+					}
+				}
+			}
 		}
+	}
+}
 		hidden_tooltip = {
 			any_vassal = {
 				limit = { 
