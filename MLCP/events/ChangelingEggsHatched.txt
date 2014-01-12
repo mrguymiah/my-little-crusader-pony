@@ -12,68 +12,32 @@ character_event = {
 		name = "changeling.eggsHatch.confirmed" # Changeling children are born
 		
 		random_list = {
-			50 = {
-				create_character = {
-					age = 0
-					trait = "changeling"
-					
-				}
-				new_character = {
-					set_mother = PREV
-					dynasty = PREV
-				}
-				create_character = {
-					age = 0
-					trait = "changeling"
-					
-				}
-				new_character = {
-					set_mother = PREV
-					dynasty = PREV
-				}
-				create_character = {
-					age = 0
-					trait = "changeling"
-					
-				}
-				new_character = {
-					set_mother = PREV
-					dynasty = PREV
-				}
+			1 = {
+			
+			
 			}
-			50 = {
-				create_character = {
-					age = 0
-					trait = "changeling"
+			2 = {
+				random_list = {
+					1 = {
+							create_character = {
+								age = 0
+								female = yes
+							}
+							new_character = {
+								set_mother = PREV
+								set_dynasty = PREV
+							}
+					1 = {
+							create_character = {
+								age = 0
+							}
+							new_character = {
+							
+								set_mother = PREV
+								set_dynasty = PREV
+							}
+						}
 					
-					female = yes
-				}
-				new_character = {
-					set_mother = PREV
-					dynasty = PREV
-				}
-				create_character = {
-					age = 0
-					trait = "changeling"
-					
-					female = yes
-				}
-				new_character = {
-					set_mother = PREV
-					dynasty = PREV
-				}
-				create_character = {
-					age = 0
-					trait = "changeling"
-					
-					female = yes
-				}
-				new_character = {
-					set_mother = PREV
-					dynasty = PREV
-				}
-				
-			}
 		}
 		hidden_tooltip = {
 			any_vassal = {
