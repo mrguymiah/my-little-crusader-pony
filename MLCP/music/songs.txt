@@ -1,6 +1,6 @@
 
 song = {
-	name = "1_arrival.ogg"
+	name = "dce_1_arrival.ogg"
 	
 	chance = {
 		factor = 1
@@ -9,7 +9,7 @@ song = {
 
 
 song = {
-	name = "2_the_walls_are_moving.ogg"
+	name = "dce_2_the_walls_are_moving.ogg"
 	
 	chance = {
 		factor = 1
@@ -18,7 +18,7 @@ song = {
 
 
 song = {
-	name = "3_the_ancient_hall.ogg"
+	name = "dce_3_the_ancient_hall.ogg"
 	
 	chance = {
 		factor = 1
@@ -27,7 +27,7 @@ song = {
 
 
 song = {
-	name = "4_acheron.ogg"
+	name = "dce_4_acheron.ogg"
 	
 	chance = {
 		factor = 1
@@ -36,7 +36,7 @@ song = {
 
 
 song = {
-	name = "5_spectral_steps.ogg"
+	name = "dce_5_spectral_steps.ogg"
 	
 	chance = {
 		factor = 1
@@ -45,7 +45,7 @@ song = {
 
 
 song = {
-	name = "6_upheaval.ogg"
+	name = "dce_6_upheaval.ogg"
 	
 	chance = {
 		factor = 1
@@ -54,7 +54,7 @@ song = {
 
 
 song = {
-	name = "7_fire_and_ice.ogg"
+	name = "dce_7_fire_and_ice.ogg"
 	
 	chance = {
 		factor = 1
@@ -63,7 +63,7 @@ song = {
 
 
 song = {
-	name = "8-1_blades_of_inferno.ogg"
+	name = "dce_8-1_blades_of_inferno.ogg"
 	
 	chance = {
 		factor = 1
@@ -72,7 +72,7 @@ song = {
 
 
 song = {
-	name = "8-2_windigo_march.ogg"
+	name = "dce_8-2_windigo_march.ogg"
 	
 	chance = {
 		factor = 1
@@ -81,7 +81,7 @@ song = {
 
 
 song = {
-	name = "9-1_our_flame.ogg"
+	name = "dce_9-1_our_flame.ogg"
 	
 	chance = {
 		factor = 1
@@ -90,9 +90,53 @@ song = {
 
 
 song = {
-	name = "9-2_rip_in_time.ogg"
+	name = "dce_9-2_rip_in_time.ogg"
 	
 	chance = {
 		factor = 1
+	}
+}
+
+
+song = {
+	name = "dce_10-1_embattled.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+Song = {
+	name = "dce_10-2_darkest_hour.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "hurricanes_army.ogg"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = { culture = pegasus_culture }
+		}
+	}
+}
+
+
+song = {
+	name = "legacy_of_star_swirl.ogg"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = { culture = unicorn_culture }
+		}
 	}
 }
