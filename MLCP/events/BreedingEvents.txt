@@ -8,15 +8,15 @@ character_event = {
 	picture = GFX_evt_child_play
 	
 	trigger = {
-		
-		NOT = {
-			age = 1
-			OR = {
-				trait = pegasus
-				trait = unicorn
-				trait = earth_pony
-				trait = alicorn
-				#put other traits here as needed
+		ROOT = {
+			NOT = {
+				OR = {
+					trait = earth_pony
+					trait = pegasus
+					trait = unicorn
+					trait = alicorn
+					trait = crystal_pony
+				}
 			}
 		}
 	}
@@ -28,11 +28,12 @@ character_event = {
 	option = {
 		name = "RaceBreeding.100.optE1" #earth_pony + earth_pony
 		trigger = {
-			AND = {
-				mother_even_if_dead = { trait = earth_pony }
-				father_even_if_dead = { trait = earth_pony }
+			ROOT = {
+				AND = {
+					mother_even_if_dead = { trait = earth_pony }
+					father_even_if_dead = { trait = earth_pony }
+				}
 			}
-			
 		}
 		random = {
 			90 = {
