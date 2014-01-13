@@ -11,11 +11,18 @@ character_event = {
 		ROOT = {
 			NOT = {
 				OR = {
-					trait = earth_pony
-					trait = pegasus
-					trait = unicorn
-					trait = alicorn
-					trait = crystal_pony
+				trait = "pegasus"
+				trait = "unicorn"
+				trait = "earth_pony"
+				trait = "crystal_pony"
+				trait = "changeling"
+				trait = "changeling_queen"
+				trait = "cephalo_deer"
+				trait = "zebra"
+				trait = "buffalo"
+				trait = "griffon"
+				trait = "cervid"
+				trait = "caribou"
 				}
 			}
 		}

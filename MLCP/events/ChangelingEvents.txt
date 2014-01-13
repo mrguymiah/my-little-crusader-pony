@@ -14,3 +14,18 @@ character_event = {
 		inbred = no
 	}
 }
+character_event = {
+	id = 191214
+	desc = "changeling.ascend"
+	
+	trigger = {
+		independent = yes
+		trait = "changeling"
+	}
+	option = {
+		name = "changeling.ascend.1"
+		remove_trait = "changeling"
+		add_trait = "changeling_queen"
+	}
+}
+		

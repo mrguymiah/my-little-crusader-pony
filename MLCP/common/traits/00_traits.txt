@@ -719,6 +719,8 @@ unicorn = {
 		buffalo
 		changeling_queen
 		caribou
+		cervid
+		cephalo_deer
 	}
 }
 
@@ -742,6 +744,8 @@ pegasus = {
 		buffalo
 		changeling_queen
 		caribou
+		cervid
+		cephalo_deer
 	}
 }
 
@@ -765,12 +769,14 @@ earth_pony = {
 		buffalo
 		changeling_queen
 		caribou
+		cervid
+		cephalo_deer
 	}
 }
 
 crystal_pony = {
 	birth = 0
-	inherit_chance = 100
+	inherit_chance = 0
 	
 	diplomacy = 2
 	stewardship = 1
@@ -789,12 +795,14 @@ crystal_pony = {
 		buffalo
 		changeling_queen
 		caribou
+		cervid
+		cephalo_deer
 	}
 }
 
 alicorn = {
 	birth = 0
-	inherit_chance = 100
+	inherit_chance = 0
 	immortal = yes
 
 	learning = 1
@@ -814,12 +822,14 @@ alicorn = {
 		buffalo
 		changeling_queen
 		caribou
+		cervid
+		cephalo_deer
 	}
 }
 
 draconequus = {
 	birth = 0
-	inherit_chance = 100
+	inherit_chance =0
 	immortal = yes
 
 	martial = 1
@@ -839,12 +849,14 @@ draconequus = {
 		buffalo
 		changeling_queen
 		caribou
+		cervid
+		cephalo_deer
 	}
 }
 
 griffon = {
 	birth = 0
-	inherit_chance = 100
+	inherit_chance =0
 	
 	martial = 2
 	stewardship = 1
@@ -862,12 +874,14 @@ griffon = {
 		buffalo
 		changeling_queen
 		caribou
+		cervid
+		cephalo_deer
 	}
 }
 
 zebra = {
 	birth = 0
-	inherit_chance = 100
+	inherit_chance =0
 	
 	intrigue = 2
 	learning = 1
@@ -885,12 +899,14 @@ zebra = {
 		buffalo
 		changeling_queen
 		caribou
+		cervid
+		cephalo_deer
 	}
 }
 
 changeling = {
 	birth = 0
-	inherit_chance = 100
+	inherit_chance = 0
 	is_health = no
 	is_illness = no
 	intrigue = 2
@@ -909,11 +925,13 @@ changeling = {
 		buffalo
 		changeling_queen
 		caribou
+		cervid
+		cephalo_deer
 	}
 }
 changeling_queen = {
 	birth = 0
-	inherit_chance = 5
+	inherit_chance = 0
 	
 	stewardship = 3
 	learning = -3
@@ -930,12 +948,14 @@ changeling_queen = {
 		buffalo
 		changeling
 		caribou
+		cervid
+		cephalo_deer
 	}
 }
 
 buffalo = {
 	birth = 0
-	inherit_chance = 100
+	inherit_chance = 0
 	
 	martial = 2
 	health = 0.5
@@ -952,12 +972,14 @@ buffalo = {
 		zebra
 		changeling
 		caribou
+		cervid
+		cephalo_deer
 	}
 }
 
 caribou = {
 	birth = 0
-	inherit_chance = 100
+	inherit_chance = 0
 	
 	health = 1
 	martial = 1
@@ -974,6 +996,56 @@ caribou = {
 		zebra
 		changeling
 		buffalo
+		cervid
+		cephalo_deer
+	}
+}
+cervid = {
+	birth = 0
+	inherit_chance = 0
+	learning = 1
+	martial = -2
+	diplomacy = 3
+	same_opinion = 5
+
+	opposites = {
+		unicorn
+		pegasus
+		earth_pony
+		crystal_pony
+		alicorn
+		draconequus
+		griffon
+		zebra
+		changeling
+		buffalo
+		cephalo_deer
+	}
+}
+cephalo_deer = {
+	birth = 0
+	inherit_chance = 0
+	learning = 0
+	martial = 1
+	diplomacy = 1
+	same_opinion = 5
+
+
+
+
+	opposites = {
+		unicorn
+		pegasus
+		earth_pony
+		crystal_pony
+		alicorn
+		draconequus
+		griffon
+		zebra
+		changeling
+		buffalo
+		caribou
+		cervid
 	}
 }
 		
