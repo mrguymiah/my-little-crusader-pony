@@ -155,16 +155,16 @@ d_ghastly_gorge;Ghastly Gorge;;;;;;;;;;;;;x;
 d_ghastly_gorge_adj;Ghastly Gorgian;;;;;;;;;;;;;x;
 d_froggy_bottom_bogg;Froggy Bottom Bogg;;;;;;;;;;;;;x
 d_froggy_bottom_bogg_adj;Froggy Bottom;;;;;;;;;;;;;x;
-d_west_everfree;Timberlake;;;;;;;;;;;;;x;
-d_west_everfree_adj;Timberlaker;;;;;;;;;;;;;x;
+d_east_everfree;Timberlake;;;;;;;;;;;;;x;
+d_east_everfree_adj;Timberlaker;;;;;;;;;;;;;x;
 d_central_everfree;Everwatch;;;;;;;;;;;;;x
 d_central_everfree_adj;Everwatcher;;;;;;;;;;;;;x
 d_greater_everfree;Everfree;;;;;;;;;;;;;x;
 d_greater_everfree_adj;Everfrian;;;;;;;;;;;;;x;
 d_south_everfree;Southtwig;;;;;;;;;;;;;x;
 d_south_everfree_adj;Southtwig;;;;;;;;;;;;;x;
-d_east_everfree;Everfield;;;;;;;;;;;;;x;
-d_east_everfree_adj;Everfieldian;;;;;;;;;;;;;x;
+d_west_everfree;Everfield;;;;;;;;;;;;;x;
+d_west_everfree_adj;Everfieldian;;;;;;;;;;;;;x;
 d_canterlot;Canterlot;;;;;;;;;;;;;x;;
 d_canterlot_adj;Canterlotian;;;;;;;;;;;;;x;;
 d_bitaly;Bitaly;;;;;;;;;;;;;x;;

@@ -1,10 +1,8 @@
-#CERVID(Fallow, Elapho, Whitetail, Caribou) DYNASTIES#
-#2000 - 2499 reserved#
-2000 = { #Elaphanti Caliph
+2000 = {
 	name = "Agni'phanti"
 	culture = elapho_culture
 }
-2001 = { #Falphanti Caliph
+2001 = {
 	name = "Doski'phanti"
 	culture = fallow
 }	
@@ -25,11 +23,11 @@
 	culture = whitetail
 }
 2006 = {
-	name = "Greenrock"
+	name = "Grenock"
 	culture = whitetail
 }
 2007 = {
-	name = "Cranberry"
+	name = "Cran'bar"
 	culture = whitetail
 }
 2008 = {
@@ -55,6 +53,7 @@
 2013 = {
 	name = "Clat'na"
 	culture = elapho_culture
+}
 2014 = {
 	name = "Rein"
 	culture = fallow
@@ -86,4 +85,48 @@
 2021 = {
 	name = "Bital"
 	culture = fallow
+}
+2022 = {
+	name = "Radi"
+	culture = cephalo
+}
+2023 = {
+	name = "Pesh'kal"
+	culture = cephalo
+}
+2024 = {
+	name = "Cephal'phanti"
+	culture = cephalo
+}
+2025 = {
+	name = "Pinveil"
+	culture = cephalo
+}
+2026 = {
+	name = "Neis'te"
+	culture = cephalo
+}
+2027 = {
+	name = "Aus'no"
+	culture = muntjac
+}
+2028 = {
+	name = "Jev're"
+	culture = cephalo
+}
+2029 = {
+	name = "Ae'gath"
+	culture = muntjac
+}
+2030 = {
+	name = "Mei'no"
+	culture = muntjac
+}
+2031 = {
+	name = "Mash"
+	culture = muntjac
+}
+2032 = {
+	name = "Muntura'phanti"
+	culture = muntjac
 }

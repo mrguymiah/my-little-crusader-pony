@@ -701,7 +701,7 @@ weak = {
 
 unicorn = {
 	birth = 0
-	inherit_chance = 0
+	inherit_chance = 100
 	
 	diplomacy = 2
 	learning = 1
@@ -726,7 +726,7 @@ unicorn = {
 
 pegasus = {
 	birth = 0
-	inherit_chance = 0
+	inherit_chance = 100
 	
 	martial = 2
 	diplomacy = 1
@@ -751,7 +751,7 @@ pegasus = {
 
 earth_pony = {
 	birth = 0
-	inherit_chance = 0
+	inherit_chance = 100
 	
 	stewardship = 2
 	martial = 1
@@ -776,7 +776,7 @@ earth_pony = {
 
 crystal_pony = {
 	birth = 0
-	inherit_chance = 0
+	inherit_chance = 100
 	
 	diplomacy = 2
 	stewardship = 1
@@ -802,7 +802,7 @@ crystal_pony = {
 
 alicorn = {
 	birth = 0
-	inherit_chance = 0
+	inherit_chance = 100
 	immortal = yes
 
 	learning = 1
@@ -856,7 +856,7 @@ draconequus = {
 
 griffon = {
 	birth = 0
-	inherit_chance =0
+	inherit_chance =100
 	
 	martial = 2
 	stewardship = 1
@@ -881,7 +881,7 @@ griffon = {
 
 zebra = {
 	birth = 0
-	inherit_chance =0
+	inherit_chance =100
 	
 	intrigue = 2
 	learning = 1
@@ -906,7 +906,7 @@ zebra = {
 
 changeling = {
 	birth = 0
-	inherit_chance = 0
+	inherit_chance = 100
 	is_health = no
 	is_illness = no
 	intrigue = 2
@@ -931,7 +931,7 @@ changeling = {
 }
 changeling_queen = {
 	birth = 0
-	inherit_chance = 0
+	inherit_chance = 100
 	
 	stewardship = 3
 	learning = -3
@@ -955,7 +955,7 @@ changeling_queen = {
 
 buffalo = {
 	birth = 0
-	inherit_chance = 0
+	inherit_chance = 100
 	
 	martial = 2
 	health = 0.5
@@ -979,7 +979,7 @@ buffalo = {
 
 caribou = {
 	birth = 0
-	inherit_chance = 0
+	inherit_chance = 100
 	
 	health = 1
 	martial = 1
@@ -1002,7 +1002,7 @@ caribou = {
 }
 cervid = {
 	birth = 0
-	inherit_chance = 0
+	inherit_chance = 100
 	learning = 1
 	martial = -2
 	diplomacy = 3
@@ -1024,7 +1024,7 @@ cervid = {
 }
 cephalo_deer = {
 	birth = 0
-	inherit_chance = 0
+	inherit_chance = 100
 	learning = 0
 	martial = 1
 	diplomacy = 1

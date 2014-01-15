@@ -47,7 +47,7 @@ d_muntura = {
 	title = "CERVID_CALIPHTITLE"
 	foa = "CERVID_CALIPHFOA"
 	religion = falphanti
-	controls_religion = falphanti
+	controls_religion = muntura
 	caliphate = yes
 	primary = yes
 }
@@ -63,7 +63,7 @@ d_cephalo = {
 	title = "CERVID_CALIPHTITLE"
 	foa = "CERVID_CALIPHFOA"
 	religion = falphanti
-	controls_religion = falphanti
+	controls_religion = cephala
 	caliphate = yes
 	primary = yes
 }
@@ -81,7 +81,9 @@ e_equestria = {
 	
 	culture = unicorn_culture
 	
-	k_earth = {
+	k_earth = {	
+		title = "CHANCELLOR"
+		foa = "CHANCELLOR_FOA"
 		color={ 87 153 38 }
 		color2={ 255 255 255 }
 		
@@ -91,6 +93,8 @@ e_equestria = {
 		
 	}
 	k_pegasopolis = {
+		title = "COMMANDER"
+		foa = "COMMANDER_FOA"
 		color={ 16 49 134 }
 		color2={ 255 255 255 }
 		

@@ -1,8 +1,4 @@
-500.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
+###EVERWATCH###
+100.1.1 = {
+	holder = 2400
 }
-1080.1.1={
-	liege=k_everfree
-}
-

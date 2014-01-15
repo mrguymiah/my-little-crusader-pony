@@ -9,7 +9,7 @@
 	religion="elaphanti"
 	culture="elapho_culture"
 	add_trait="elusive_shadow"
-	add_trait="zealot"
+	add_trait="zealous"
 	add_trait="paranoid"
 	add_trait="ambitious"
 	father=2002
@@ -28,7 +28,7 @@
 	religion="elaphanti"
 	culture="elapho_culture"
 	add_trait="brilliant_strategist"
-	add_trait="zealot"
+	add_trait="zealous"
 	add_trait="cruel"
 	add_trait="ambitious"
 	father=2002
@@ -47,7 +47,7 @@
 	religion="elaphanti"
 	culture="elapho_culture"
 	add_trait="midas_touched"
-	add_trait="zealot"
+	add_trait="zealous"
 	add_trait="ambitious"
 	79.3.11 = {
 		birth="79.3.11"
@@ -66,7 +66,7 @@
 	learning=5
 	religion="elaphanti"
 	culture="whitetail"
-	add_trait="zealot"
+	add_trait="zealous"
 	89.2.4 = {
 		birth="89.2.4"
 	}
@@ -81,7 +81,7 @@
 	learning=5
 	religion="elaphanti"
 	culture="elapho_culture"
-	add_trait="zealot"
+	add_trait="zealous"
 	89.3.6 = {
 		birth="89.3.6"
 	}
@@ -96,7 +96,7 @@
 	learning=5
 	religion="elaphanti"
 	culture="elapho_culture"
-	add_trait="zealot"
+	add_trait="zealous"
 	89.3.6 = {
 		birth="89.3.6"
 	}
@@ -111,7 +111,7 @@
 	learning=5
 	religion="elaphanti"
 	culture="elapho_culture"
-	add_trait="zealot"
+	add_trait="zealous"
 	89.3.6 = {
 		birth="89.3.6"
 	}
@@ -126,7 +126,7 @@
 	learning=5
 	religion="elaphanti"
 	culture="elapho_culture"
-	add_trait="zealot"
+	add_trait="zealous"
 	89.3.6 = {
 		birth="89.3.6"
 	}
@@ -141,7 +141,7 @@
 	learning=5
 	religion="elaphanti"
 	culture="whitetail"
-	add_trait="zealot"
+	add_trait="zealous"
 	90.3.7 = {
 		birth="90.3.7"
 	}
@@ -156,7 +156,7 @@
 	learning=5
 	religion="elaphanti"
 	culture="whitetail"
-	add_trait="zealot"
+	add_trait="zealous"
 	86.8.1 = {
 		birth="86.8.1"
 	}
@@ -171,7 +171,7 @@
 	learning=5
 	religion="elaphanti"
 	culture="whitetail"
-	add_trait="zealot"
+	add_trait="zealous"
 	86.8.1 = {
 		birth="86.8.1"
 	}
@@ -186,7 +186,7 @@
 	learning=5
 	religion="elaphanti"
 	culture="whitetail"
-	add_trait="zealot"
+	add_trait="zealous"
 	89.3.6 = {
 		birth="89.3.6"
 	}
@@ -201,7 +201,7 @@
 	learning=5
 	religion="elaphanti"
 	culture="whitetail"
-	add_trait="zealot"
+	add_trait="zealous"
 	89.3.6 = {
 		birth="89.3.6"
 	}
@@ -216,7 +216,7 @@
 	learning=5
 	religion="elaphanti"
 	culture="whitetail"
-	add_trait="zealot"
+	add_trait="zealous"
 	89.3.6 = {
 		birth="89.3.6"
 	}
@@ -231,7 +231,7 @@
 	learning=5
 	religion="falphanti"
 	culture="fallow"
-	add_trait="zealot"
+	add_trait="zealous"
 	89.3.6 = {
 		birth="89.3.6"
 	}
@@ -246,7 +246,7 @@
 	learning=5
 	religion="falphanti"
 	culture="fallow"
-	add_trait="zealot"
+	add_trait="zealous"
 	89.3.6 = {
 		birth="89.3.6"
 	}
@@ -261,7 +261,7 @@
 	learning=5
 	religion="falphanti"
 	culture="fallow"
-	add_trait="zealot"
+	add_trait="zealous"
 	89.3.6 = {
 		birth="89.3.6"
 	}
@@ -276,7 +276,7 @@
 	learning=5
 	religion="falphanti"
 	culture="fallow"
-	add_trait="zealot"
+	add_trait="zealous"
 	89.3.6 = {
 		birth="89.3.6"
 	}
@@ -291,7 +291,7 @@
 	learning=5
 	religion="falphanti"
 	culture="fallow"
-	add_trait="zealot"
+	add_trait="zealous"
 	89.3.6 = {
 		birth="89.3.6"
 	}
@@ -306,7 +306,7 @@
 	learning=5
 	religion="falphanti"
 	culture="fallow"
-	add_trait="zealot"
+	add_trait="zealous"
 	89.3.6 = {
 		birth="89.3.6"
 	}
@@ -321,7 +321,7 @@
 	learning=5
 	religion="falphanti"
 	culture="fallow"
-	add_trait="zealot"
+	add_trait="zealous"
 	89.3.6 = {
 		birth="89.3.6"
 	}
@@ -336,7 +336,7 @@
 	learning=5
 	religion="falphanti"
 	culture="fallow"
-	add_trait="zealot"
+	add_trait="zealous"
 	89.3.6 = {
 		birth="89.3.6"
 	}
@@ -351,7 +351,7 @@
 	learning=5
 	religion="falphanti"
 	culture="fallow"
-	add_trait="zealot"
+	add_trait="zealous"
 	89.3.6 = {
 		birth="89.3.6"
 	}
@@ -367,10 +367,205 @@
 	religion="falphanti"
 	culture="fallow"
 	add_trait="mastermind_theologican"
-	add_trait="zealot"
+	add_trait="zealous"
 	add_trait="just"
 	add_trait="content"
 	98.1.1 = {
 		birth ="98.1.1"
+	}
+}
+2299 = {
+	name="Cephno" #The Dark Priest
+	dynasty=2024
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="cephala"
+	culture="cephalo"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2300 = {
+	name="Rani"
+	dynasty=2022
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="cephala"
+	culture="cephalo"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2301 = {
+	name="Rano"
+	dynasty=2022
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="cephala"
+	culture="cephalo"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2302 = {
+	name="Pesh'kal"
+	dynasty=2023
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="cephala"
+	culture="cephalo"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2303 = {
+	name="Pinveil"
+	dynasty=2025
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="cephala"
+	culture="cephalo"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2304 = {
+	name="Neis'te"
+	dynasty=2026
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="cephala"
+	culture="cephalo"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2305 = {
+	name="Jev're"
+	dynasty=2028
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="cephala"
+	culture="cephalo"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2400 = {
+	name="Aus'no"
+	dynasty=2027
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="muntura"
+	culture="muntjac"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2401 = {
+	name="Ae'gath"
+	dynasty=2029
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="muntura"
+	culture="muntjac"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2402 = {
+	name="Mei'no"
+	dynasty=2030
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="muntura"
+	culture="muntjac"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2403 = {
+	name="Mash'ri"
+	dynasty=2031
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="muntura"
+	culture="muntjac"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2404 = {
+	name="Mash'to"
+	dynasty=2031
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="muntura"
+	culture="muntjac"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2405 = {
+	name="Muntura"
+	dynasty=2032
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=12
+	religion="muntura"
+	culture="muntjac"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
 	}
 }

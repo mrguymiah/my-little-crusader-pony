@@ -1,0 +1,100 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_blank"
+		texturefile = "gfx//characters//shared//blank.dds"
+		noOfFrames = 1
+		norefcount = yes
+		can_be_lowres = yes
+	}
+	
+	#############
+	#CHANGELINGS#
+	#############
+	#MALE#
+	spriteType = {
+		name = "GFX_changeling_male_base"
+		texturefile = "gfx//characters//changeling_male//changeling_male_base_1.dds"
+		noOfFrames = 1
+		norefcount = yes
+		can_be_lowres = yes
+	}
+	spriteType = {
+		name = "GFX_changeling_male_beard"
+		texturefile = "gfx//characters//changeling_male//changeling_male_beard_1.dds"
+		noOfFrames = 8
+		norefcount = yes
+		can_be_lowres = yes
+	}
+	spriteType = {
+		name = "GFX_changeling_male_cheeks"
+		texturefile = "gfx//characters//changeling_male//changeling_male_cheeks_1.dds"
+		noOfFrames = 11
+		norefcount = yes
+		can_be_lowres = yes
+	}
+	spriteType = {
+		name = "GFX_changeling_male_eyes"
+		texturefile = "gfx//characters//changeling_male//changeling_male_eyes_1.dds"
+		noOfFrames = 13
+		norefcount = yes
+		can_be_lowres = yes
+	}
+	spriteType = {
+		name = "GFX_changeling_male_hair"
+		texturefile = "gfx//characters//changeling_male//changeling_male_hair_1.dds"
+		noOfFrames = 13
+		norefcount = yes
+		can_be_lowres = yes
+	}
+	spriteType = {
+		name = "GFX_changeling_male_mouth"
+		texturefile = "gfx//characters//changeling_male//changeling_male_mouth_1.dds"
+		noOfFrames = 13
+		norefcount = yes
+		can_be_lowres = yes
+	}
+	#FEMALE#
+	spriteType = {
+		name = "GFX_changeling_female_base"
+		texturefile = "gfx//characters//changeling_female//changeling_female_base_1.dds"
+		noOfFrames = 1
+		norefcount = yes
+		can_be_lowres = yes
+	}
+	spriteType = {
+		name = "GFX_changeling_female_ear"
+		texturefile = "gfx//characters//changeling_female//changeling_female_ear.dds"
+		noOfFrames = 11
+		norefcount = yes
+		can_be_lowres = yes
+	}
+	spriteType = {
+		name = "GFX_changeling_female_hair"
+		texturefile = "gfx//characters//changeling_female//changeling_female_hair_1.dds"
+		noOfFrames = 13
+		norefcount = yes
+		can_be_lowres = yes
+	}
+	spriteType = {
+		name = "GFX_changeling_female_hair_behind"
+		texturefile = "gfx//characters//changeling_female//changeling_female_hair_behind_1.dds"
+		noOfFrames = 13
+		norefcount = yes
+		can_be_lowres = yes
+	}
+	spriteType = {
+		name = "GFX_changeling_female_eyes"
+		texturefile = "gfx//characters//changeling_female//changeling_female_eyes_1.dds"
+		noOfFrames = 13
+		norefcount = yes
+		can_be_lowres = yes
+	}
+	spriteType = {
+		name = "GFX_changeling_female_mouth"
+		texturefile = "gfx//characters//changeling_female//changeling_female_mouth.dds"
+		noOfFrames = 13
+		norefcount = yes
+		can_be_lowres = yes
+	}
+}

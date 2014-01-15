@@ -77,7 +77,6 @@ christian = {
 		reformer_head_of_religion = yes
 		
 		raised_vassal_opinion_loss = no
-		allow_viking_invasion = yes
 		priests_can_marry = yes
 	}	
 	soarastrian_reformed= {

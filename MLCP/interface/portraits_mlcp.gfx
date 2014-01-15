@@ -1,0 +1,136 @@
+# hair, mouth, chin, nose, eyes, cheek, ear, neck
+spriteTypes = {
+	#CHANGELING PORTRAITS
+	portraitType = {
+		name = "PORTRAIT_changelinggfx_male"
+		effectFile = "gfx/FX/portrait.lua"
+		layer = { # GFX_TYPE:[d|p]INDEX:COLOR_LINK:DONT_REFRESH_IF_VALID:CULTURE_INDEX
+			"GFX_character_background:p0"
+			"GFX_western_male_clothes_behind:p3:c0"
+			"GFX_blank:p5:c1"
+			"GFX_blank:p1:y"
+			"GFX_changeling_male_base:p2"
+			"GFX_changeling_male_mouth:d0"
+			"GFX_blank:d2"
+			"GFX_blank:d3"
+			"GFX_changeling_male_cheeks:d4"
+			"GFX_changeling_male_eyes:d6"
+			"GFX_character_scars:p7"
+			"GFX_character_reddots:p8"
+			"GFX_character_boils:p9"
+			"GFX_blank:p10"
+			"GFX_western_male_clothes:p3:c2"
+			"GFX_blank:p5:c3"
+			"GFX_blank:d7"			
+			"GFX_changeling_male_beard:p4:h:y"
+		   	"GFX_changeling_male_hair:p1:h:y"
+			"GFX_blank:p3:c4"
+			
+			"GFX_character_imprisoned:p6"
+		}
+		hair_color_index = 8
+		hair_color = { # dark, base, highlight
+			{ 94 81 163 } { 126 74 153 } { 255 255 255 } 
+			{ 192 27 117 } { 240 67 140 } { 255 255 255 }
+			{ 68 9 41 } { 243 185 216 } { 255 255 255 } 
+			{ 50 50 50 } { 115 166 246 } { 255 255 255 } 
+			{ 234 64 64 } { 233 120 31 } { 255 255 255 } 
+			{ 58 57 179 } { 210 213 241 } { 255 255 255 } 
+			{ 202 49 151 } { 236 186 218 } { 255 255 255 } 
+			{ 99 49 131 } { 206 183 215 } { 255 255 255 } 
+			{ 54 176 124 } { 147 255 219 } { 255 255 255 }
+			{ 242 164 46 } { 217 137 12 } { 255 255 255 }
+			{ 253 138 217 } { 53 89 147 } { 255 255 255 }
+			{ 39 55 113 } { 230 69 139 } { 255 255 255 }
+			{ 169 119 209 } { 255 255 255 } { 255 255 255 }
+			{ 226 44 95 } { 235 105 139 } { 255 255 255 }
+			{ 198 41 59 } { 255 255 255 } { 255 255 255 }
+			{ 204 242 250 } { 255 255 255 } { 255 255 255 }
+			{ 212 254 236 } { 133 225 206 } { 255 255 255 }	
+			{ 36 49 86 } { 56 75 132 } { 255 255 255 }	
+			{ 217 158 66 } { 225 202 110 } { 255 255 255 }				
+			
+		}
+
+		eye_color_index = 9
+		eye_color = {
+			{ 99 49 131}
+			{ 96 189 80 }
+			{ 127 210 244 }
+			{ 198 0 111 }
+			{ 55 119 190 }
+			{ 0 173 168 }
+			{ 112 226 248 }
+			{ 250 223 111 }			
+		}
+		
+		headgear_that_hides_hair = {  }
+	}
+	
+	portraitType = {
+		name = "PORTRAIT_changelinggfx_female"
+		effectFile = "gfx/FX/portrait.lua"
+		layer = { # GFX_TYPE:[d|p]INDEX:COLOR_LINK:DONT_REFRESH_IF_VALID:CULTURE_INDEX
+			"GFX_character_background:p0"
+			"GFX_western_female_clothes_behind:p3:c0"
+			"GFX_changeling_female_hair_behind:p1:h:y"
+			"GFX_blank:p5:c1"
+			"GFX_blank:p1:y"
+			"GFX_changeling_female_base:p2"
+			"GFX_changeling_female_mouth:d0"
+			"GFX_blank:d2"
+			"GFX_blank:d3"
+			"GFX_blank:d4"
+			"GFX_changeling_female_eyes:d6"
+			"GFX_character_scars:p7"
+			"GFX_character_reddots:p8"
+			"GFX_character_boils:p9"
+			"GFX_blank:p10"
+			"GFX_western_female_clothes:p3:c2"
+			"GFX_blank:p5:c3"
+			"GFX_changeling_female_ear:d7"			
+			"GFX_blank:p4:h:y"
+		   	"GFX_changeling_female_hair:p1:h:y"
+			"GFX_blank:p3:c4"
+			
+			"GFX_character_imprisoned:p6"
+		}
+		hair_color_index = 8
+		hair_color = { # dark, base, highlight
+			{ 94 81 163 } { 126 74 153 } { 255 255 255 } 
+			{ 192 27 117 } { 240 67 140 } { 255 255 255 }
+			{ 68 9 41 } { 243 185 216 } { 255 255 255 } 
+			{ 50 50 50 } { 115 166 246 } { 255 255 255 } 
+			{ 234 64 64 } { 233 120 31 } { 255 255 255 } 
+			{ 58 57 179 } { 210 213 241 } { 255 255 255 } 
+			{ 202 49 151 } { 236 186 218 } { 255 255 255 } 
+			{ 99 49 131 } { 206 183 215 } { 255 255 255 } 
+			{ 54 176 124 } { 147 255 219 } { 255 255 255 }
+			{ 242 164 46 } { 217 137 12 } { 255 255 255 }
+			{ 253 138 217 } { 53 89 147 } { 255 255 255 }
+			{ 39 55 113 } { 230 69 139 } { 255 255 255 }
+			{ 169 119 209 } { 255 255 255 } { 255 255 255 }
+			{ 226 44 95 } { 235 105 139 } { 255 255 255 }
+			{ 198 41 59 } { 255 255 255 } { 255 255 255 }
+			{ 204 242 250 } { 255 255 255 } { 255 255 255 }
+			{ 212 254 236 } { 133 225 206 } { 255 255 255 }	
+			{ 36 49 86 } { 56 75 132 } { 255 255 255 }	
+			{ 217 158 66 } { 225 202 110 } { 255 255 255 }				
+			
+		}
+
+		eye_color_index = 9
+		eye_color = {
+			{ 99 49 131}
+			{ 96 189 80 }
+			{ 127 210 244 }
+			{ 198 0 111 }
+			{ 55 119 190 }
+			{ 0 173 168 }
+			{ 112 226 248 }
+			{ 250 223 111 }			
+		}
+		
+		headgear_that_hides_hair = {  }
+	}
+}
