@@ -6,10 +6,10 @@ title = c_newmane
 # Settlements
 max_settlements = 7
 
-b_newmane = city
+#b_newmane = city
 b_rammingbay = castle
 b_ironwood_grove = temple
-b_trottstreat = city
+#b_trottstreat = city
 #b_freeside = city
 #b_northdrop = temple
 #b_maneing_point = castle

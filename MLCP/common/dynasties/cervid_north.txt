@@ -130,3 +130,75 @@
 	name = "Muntura'phanti"
 	culture = muntjac
 }
+2033 = {
+	name = "Penshol"
+	culture = taruca
+}
+2034 = {
+	name = "Tien'da"
+	culture = taruca
+}
+2035 = {
+	name = "Lo'gat"
+	culture = taruca
+}
+2036 = {
+	name = "Bel'vi"
+	culture = taruca
+}
+2037 = {
+	name = "Pies'no"
+	culture = taruca
+}
+2038 = {
+	name = "Hez'hro"
+	culture = taruca
+}
+2039 = {
+	name = "Palvan"
+	culture = taruca
+}
+2040 = {
+	name = "Rek'tef"
+	culture = taruca
+}
+2041 = {
+	name = "Reksi"
+	culture = elapho_culture
+}
+2042 = {
+	name = "Nev'to"
+	culture = elapho_culture
+}
+2043 = {
+	name = "Kat'el"
+	culture = fallow
+}
+2044 = {
+	name = "Nev'li"
+	culture = fallow
+}
+2045 = {
+	name = "Neh'ken"
+	culture = fallow
+}
+2046 = {
+	name = "Ion'do"
+	culture = fallow
+}
+2047 = {
+	name = "Peno"
+	culture = caribou_culture
+}
+2048 = {
+	name = "Pof"
+	culture = caribou_culture
+}
+2049 = {
+	name = "Rez"
+	culture = caribou_culture
+}
+2050 = {
+	name = "Len'i"
+	culture = elapho_culture
+}

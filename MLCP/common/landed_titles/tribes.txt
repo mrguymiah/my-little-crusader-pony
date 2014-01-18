@@ -1,0 +1,64 @@
+#######################
+#TRIBAL TITLES GO HERE#
+#######################
+
+#BUFFALO TRIBES#
+
+d_tribe_b_blackhoof = {
+	color = { 0 20 20 }
+	color2 = { 255 255 255}
+	
+	tribe = yes
+}
+d_tribe_b_weststamp = {
+	color = { 45 55 55 }
+	color2 = { 255 255 255}
+	
+	tribe = yes
+}
+d_tribe_b_strongheart = {
+	color = { 75 35 45 }
+	color2 = { 255 255 255}
+	
+	tribe = yes
+}
+d_tribe_b_siograin = {
+	color = { 111 138 49 }
+	color2 = { 255 255 255}
+	
+	tribe = yes
+}
+d_tribe_b_stampah = {
+	color = { 67 99 88 }
+	color2 = { 255 255 255}
+	
+	tribe = yes
+}
+d_tribe_b_kalekka = {
+	color = { 88 99 67 }
+	color2 = { 255 255 255}
+	
+	tribe = yes
+}
+d_tribe_b_kalibuf = {
+	color = { 11 176 143 }
+	color2 = { 255 255 255}
+	
+	tribe = yes
+}
+d_tribe_b_tazapan = {
+	color = { 255 255 255 }
+	color2 = { 255 255 255}
+	
+	tribe = yes
+}
+
+#CANINE TRIBES#
+
+d_tribe_c_diamonddogs = {
+	color = { 243 100 122 }
+	color2 = { 255 255 255}
+	
+	landless = yes #Diamond Dogs flee underground if defeated on the surface
+	tribe = yes
+}

@@ -2,7 +2,14 @@
 # If adding new groups or cultures, make sure they are unique.
 ## Feather Book updated - 18/06/2013
 ## Mrguymiah updated - 29/9/2013 - Colour errors and naming tradition errors.
+## HeshieokFasla updated 18/1/'14 - New cultures, block organization, poni poni poni
 
+#GROUPS (AS OF 18/1/'14)
+#PONY, HORSE, OTHER EQUINE, GRIFFON, CHANGELING, LIVESTOCK, CANINE, CERVID, DRACONIC
+
+############
+#   PONY   #
+############
 equestrian = {
 	graphical_culture = westerngfx
 	
@@ -164,7 +171,9 @@ equestrian = {
 		modifier = default_culture_modifier
 	}
 }
-
+#############
+#   HORSE   #
+#############
 saddle_arabian_group = {
 	graphical_culture = muslimgfx
 	
@@ -192,7 +201,9 @@ saddle_arabian_group = {
 		modifier = default_culture_modifier
 	}
 }
-
+####################
+#   OTHER EQUINE   #
+####################
 zebra_group = {
 	graphical_culture = africangfx
 	
@@ -243,93 +254,10 @@ zebra_group = {
 	}
 }
 
-buffalo_group = {
 
-	blackhoof = {
-		graphical_culture = mesoamericangfx
-		color = { 0.7 0.5 0.0 }
-		
-		male_names = {
-			Airbringer_Airbringer Applecruncher_Applecruncher Beetleback_Beetleback Coatclipper_Coatclipper Dreamstamper_Dreamstamper Drumrunner_Drumrunner Duckdiver_Duckdiver 
-			Firestarter_Firestarter Freerunner_Freerunner Greenhooves_Greenhooves Ghostwhisperer_Ghostwhisperer Haymuncher_Haymuncher Landrunner_Landrunner Landstamper_Landstamper
-			Stargazer_Stargazer Twobares_Twobares Thunderhooves_Thunderhooves Thunderbringer_Thunderbringer Wolfdancer_Wolfdancer
-		}
-		female_names = {
-			Stronghart_Stronghart
-		}
-		
-		from_dynasty_prefix = "of "
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 0
-		father_name_chance = 0
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 25
-		mat_grm_name_chance = 25
-		mother_name_chance = 0
-
-		modifier = default_culture_modifier
-	}
-	
-	sioxen = {
-			graphical_culture = mesoamericangfx
-		color = { 1.0 0.5 0.0 }
-		
-		male_names = {
-			Wákknbrágr_Airbringer Akášakorza_Applecruncher Batkánágá_Beetleback Kápasadyá_Coatclipper Dreamstamper_Dreamstamper Drumrunner_Drumrunner Duckdiver_Duckdiver 
-			Firestarter_Firestarter Freerunner_Freerunner Greenhalyá_Greenhooves Ghostwhisperer_Ghostwhisperer Haymuncher_Haymuncher Landrunner_Landrunner Landstamper_Landstamper
-			Stargazer_Stargazer Twobares_Twobares Taggáhalyá_Thunderhooves Taggábrágr_Thunderbringer Wolfdancer_Wolfdancer 
-		}
-		female_names = {
-			Skhmóyaggh_Stronghart
-		}
-		
-		from_dynasty_prefix = "wikh "
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 0
-		father_name_chance = 0
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 25
-		mat_grm_name_chance = 25
-		mother_name_chance = 0
-
-		modifier = default_culture_modifier
-	}
-	
-	tazapan = {
-		graphical_culture = mesoamericangfx
-		color = { 0.6 0.5 0.2 }
-		
-		male_names = {
-			Achtalwaka_Airbringer Attkalmanza_Applecruncher Battakguarkya_Beetleback Kotakippya_Coatclipper Daxachital_Dreamstamper Tiygatxartl_Drumrunner Quakzakle_Duckdiver 
-			Xachoccol_Firestarter Qizatxartl_Freerunner Akaloztloz_Greenhooves Yagisigzenaggy_Ghostwhisperer Tzakamatalli_Haymuncher Yegroptxartl_Landrunner Yegropeztli_Landstamper
-			Xocohtzin_Stargazer Tezozaca_Twobares Tizactloz_Thunderhooves Tizacalwaka_Thunderbringer Zargagytaz_Wolfdancer 
-		}
-		female_names = {
-			Zagnalotz_Stronghart
-		}
-		
-		from_dynasty_prefix = "zalot "
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 0
-		father_name_chance = 0
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 25
-		mat_grm_name_chance = 25
-		mother_name_chance = 0
-
-		modifier = default_culture_modifier
-	}
-}
-
+###############
+#   GRIFFON   #
+###############
 griffon_group = {
 	graphical_culture = norsegfx
 	
@@ -431,7 +359,9 @@ griffon_group = {
 		modifier = default_culture_modifier
 	}
 }
-
+#################
+#  CHANGELING   #
+#################
 changeling_group = {
 	graphical_culture = changelinggfx
 
@@ -467,7 +397,224 @@ changeling_group = {
 		modifier = default_culture_modifier
 	}
 }
+###############
+#  LIVESTOCK  #
+###############
+livestock_group = {
+	cattle = {
+		graphical_culture = mesoamericangfx
+		color = { 0.4 0.5 0.9 }
+		
+		male_names = {
+			Bob
+		}
+		female_names = {
+			Erith
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
 
+		modifier = default_culture_modifier
+	}
+	sheep = {
+		graphical_culture = mesoamericangfx
+		color = { 0.2 0.6 0.8 }
+		
+		male_names = {
+			Bob
+		}
+		female_names = {
+			Erith
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	goat = {
+		graphical_culture = mesoamericangfx
+		color = { 0.1 0.2 0.8 }
+		
+		male_names = {
+			Bob
+		}
+		female_names = {
+			Erith
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
+##############
+#   CANINE   #
+##############
+wolf_group = {
+	timberwolf = {
+		graphical_culture = mesoamericangfx
+		color = { 0.3 0.1 0.1 }
+		
+		male_names = {
+			Bob
+		}
+		female_names = {
+			Erith
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
+great_canine_group = {
+	diamond_dog = {
+		graphical_culture = mesoamericangfx
+		color = { 0.9 0.9 0.7 }
+		
+		male_names = {
+			Bob
+		}
+		female_names = {
+			Erith
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
+###############
+#   BUFFALO   #
+###############
+buffalo_group = {
+	blackhoof = {
+		graphical_culture = mesoamericangfx
+		color = { 0.7 0.5 0.0 }
+		
+		male_names = {
+			Airbringer_Airbringer Applecruncher_Applecruncher Beetleback_Beetleback Coatclipper_Coatclipper Dreamstamper_Dreamstamper Drumrunner_Drumrunner Duckdiver_Duckdiver 
+			Firestarter_Firestarter Freerunner_Freerunner Greenhooves_Greenhooves Ghostwhisperer_Ghostwhisperer Haymuncher_Haymuncher Landrunner_Landrunner Landstamper_Landstamper
+			Stargazer_Stargazer Twobares_Twobares Thunderhooves_Thunderhooves Thunderbringer_Thunderbringer Wolfdancer_Wolfdancer
+		}
+		female_names = {
+			Stronghart_Stronghart
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	sioxen = {
+			graphical_culture = mesoamericangfx
+		color = { 1.0 0.5 0.0 }
+		
+		male_names = {
+			Wákknbrágr_Airbringer Akášakorza_Applecruncher Batkánágá_Beetleback Kápasadyá_Coatclipper Dreamstamper_Dreamstamper Drumrunner_Drumrunner Duckdiver_Duckdiver 
+			Firestarter_Firestarter Freerunner_Freerunner Greenhalyá_Greenhooves Ghostwhisperer_Ghostwhisperer Haymuncher_Haymuncher Landrunner_Landrunner Landstamper_Landstamper
+			Stargazer_Stargazer Twobares_Twobares Taggáhalyá_Thunderhooves Taggábrágr_Thunderbringer Wolfdancer_Wolfdancer 
+		}
+		female_names = {
+			Skhmóyaggh_Stronghart
+		}
+		
+		from_dynasty_prefix = "wikh "
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	tazapan = {
+		graphical_culture = mesoamericangfx
+		color = { 0.6 0.5 0.2 }
+		
+		male_names = {
+			Achtalwaka_Airbringer Attkalmanza_Applecruncher Battakguarkya_Beetleback Kotakippya_Coatclipper Daxachital_Dreamstamper Tiygatxartl_Drumrunner Quakzakle_Duckdiver 
+			Xachoccol_Firestarter Qizatxartl_Freerunner Akaloztloz_Greenhooves Yagisigzenaggy_Ghostwhisperer Tzakamatalli_Haymuncher Yegroptxartl_Landrunner Yegropeztli_Landstamper
+			Xocohtzin_Stargazer Tezozaca_Twobares Tizactloz_Thunderhooves Tizacalwaka_Thunderbringer Zargagytaz_Wolfdancer 
+		}
+		female_names = {
+			Zagnalotz_Stronghart
+		}
+		
+		from_dynasty_prefix = "zalot "
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
+##############
+#   CERVID   #
+##############
 deer_group = {
 
 	elapho_culture = {
@@ -627,3 +774,6 @@ deer_group = {
 		modifier = default_culture_modifier
 	}
 }
+################
+#   DRACONIC   #
+################

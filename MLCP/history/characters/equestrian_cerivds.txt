@@ -131,6 +131,51 @@
 		birth="89.3.6"
 	}
 }
+2015 = {
+	name="Reksi"
+	dynasty=2041
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="elaphanti"
+	culture="elapho_culture"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2016 = {
+	name="Nev'to"
+	dynasty=2042
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="elaphanti"
+	culture="elapho_culture"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2017 = {
+	name="Len'i"
+	dynasty=2050
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="elaphanti"
+	culture="elapho_culture"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
 2020 = {
 	name="Doe'nur"
 	dynasty=2003 #Doe'ga
@@ -356,6 +401,66 @@
 		birth="89.3.6"
 	}
 }
+2109 = {
+	name="Kat'el"
+	dynasty=2043
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="falphanti"
+	culture="fallow"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2110 = {
+	name="Nev'li"
+	dynasty=2044
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="falphanti"
+	culture="fallow"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2111= {
+	name="Neh'ken"
+	dynasty=2045
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="falphanti"
+	culture="fallow"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2112 = {
+	name="Ion'do"
+	dynasty=2046
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="falphanti"
+	culture="fallow"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
 2200 = {
 	name="Veniero" #The High Priest
 	dynasty=2001
@@ -565,6 +670,171 @@
 	religion="muntura"
 	culture="muntjac"
 	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2500 = {
+	name="Penshol"
+	dynasty=2033
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="muntura"
+	culture="taruca"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2501 = {
+	name="Tien'da"
+	dynasty=2034
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="muntura"
+	culture="taruca"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2502 = {
+	name="Lo'gat"
+	dynasty=2035
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="muntura"
+	culture="taruca"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2503 = {
+	name="Bel'vi"
+	dynasty=2036
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="muntura"
+	culture="taruca"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2504 = {
+	name="Pies'no"
+	dynasty=2037
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="muntura"
+	culture="taruca"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2505 = {
+	name="Hez'hro"
+	dynasty=2038
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="muntura"
+	culture="taruca"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2506 = {
+	name="Palvan"
+	dynasty=2039
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="muntura"
+	culture="taruca"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2507 = {
+	name="Rek'tef"
+	dynasty=2040
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="muntura"
+	culture="taruca"
+	add_trait="zealous"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2600 = {
+	name="Peno"
+	dynasty=2047
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="muntura"
+	culture="taruca"
+	add_trait="cynical"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2601 = {
+	name="Pof"
+	dynasty=2048
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="muntura"
+	culture="taruca"
+	add_trait="cynical"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2602 = {
+	name="Rez"
+	dynasty=2049
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="muntura"
+	culture="taruca"
+	add_trait="cynical"
 	89.3.6 = {
 		birth="89.3.6"
 	}
