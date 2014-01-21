@@ -202,3 +202,15 @@
 	name = "Len'i"
 	culture = elapho_culture
 }
+2051 = {
+	name = "Pelandos"
+	culture = caribou_culture
+}
+2052 = {
+	name = "Neval"
+	culture = caribou_culture
+}
+2053 = {
+	name = "Ro'shav"
+	culture = caribou_culture
+}

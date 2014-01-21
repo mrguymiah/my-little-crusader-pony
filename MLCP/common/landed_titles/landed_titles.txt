@@ -2943,7 +2943,7 @@ k_sioxen = {
 		
 		culture = caribou_culture
 		
-		d_west_everfree = { #Everfield
+		d_everfield = { #Everfield
 			color={ 35 171 109 }
 			color2={ 255 255 255 }
 				
@@ -3035,7 +3035,7 @@ k_sioxen = {
 			}
 		}
 			
-			d_central_everfree = { #Everwatch
+			d_everwatch = { #Everwatch
 				color={ 82 180 142 }
 				color2={ 255 255 255 }
 				
@@ -3118,7 +3118,7 @@ k_sioxen = {
 					b_rockwood = {}
 				}
 			}
-			d_south_everfree = { #Thintwig
+			d_southtwig = { #Southtwig
 				color={ 52 135 128 }
 				color2={ 255 255 255 }
 				
@@ -3146,7 +3146,7 @@ k_sioxen = {
 	}
 		}
 		}
-			d_east_everfree = { #Timberlake
+			d_timberlake = { #Timberlake
 				color={ 43 73 93 }
 				color2={ 255 255 255 }
 				

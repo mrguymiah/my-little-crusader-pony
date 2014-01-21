@@ -1,0 +1,25 @@
+#BUFFALO DYNASTIES#
+#1500 - 1999 RESERVED#
+#Blackhoof
+1500 = {
+	name = "Blackhoof"
+	culture = blackhoof
+}
+1501 = {
+	name = "Strongheart"
+	culture = blackhoof
+}
+1502 = {
+	name = "Yeggagalwa"
+	culture = blackhoof
+}
+#Tazapan
+1600 = {
+	name = ""
+	culture = tazapan
+}
+#Sioxen
+1700 = {
+	name = ""
+	culture = sioxen
+}

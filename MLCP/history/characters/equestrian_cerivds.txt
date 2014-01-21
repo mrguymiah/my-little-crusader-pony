@@ -802,8 +802,8 @@
 	stewardship=5
 	intrigue=5
 	learning=5
-	religion="muntura"
-	culture="taruca"
+	religion="mooselam"
+	culture="caribou_culture"
 	add_trait="cynical"
 	89.3.6 = {
 		birth="89.3.6"
@@ -817,8 +817,8 @@
 	stewardship=5
 	intrigue=5
 	learning=5
-	religion="muntura"
-	culture="taruca"
+	religion="mooselam"
+	culture="caribou_culture"
 	add_trait="cynical"
 	89.3.6 = {
 		birth="89.3.6"
@@ -832,8 +832,53 @@
 	stewardship=5
 	intrigue=5
 	learning=5
-	religion="muntura"
-	culture="taruca"
+	religion="mooselam"
+	culture="caribou_culture"
+	add_trait="cynical"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2603 = {
+	name="Pelandos"
+	dynasty=2051
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="mooselam"
+	culture="caribou_culture"
+	add_trait="cynical"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2604 = {
+	name="Neval"
+	dynasty=2052
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="mooselam"
+	culture="caribou_culture"
+	add_trait="cynical"
+	89.3.6 = {
+		birth="89.3.6"
+	}
+}
+2605 = {
+	name="Ro'shav"
+	dynasty=2053
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="mooselam"
+	culture="caribou_culture"
 	add_trait="cynical"
 	89.3.6 = {
 		birth="89.3.6"
