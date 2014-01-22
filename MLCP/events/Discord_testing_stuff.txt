@@ -154,7 +154,7 @@ character_event = {
 	
 	immediate = {
 		any_neighbor_province = {
-			add_pressed_claim = ROOT
+			add_pressed_claim
 		}
 		gain_title = e_chaos
 	}
