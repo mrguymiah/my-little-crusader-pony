@@ -102,5 +102,6 @@ character_event = {
 		add_trait = "caribou"
 		}
 	}
+}
 	
 	

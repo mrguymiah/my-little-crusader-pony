@@ -1030,6 +1030,9 @@ cephalo_deer = {
 	diplomacy = 1
 	same_opinion = 5
 
+
+
+
 	opposites = {
 		unicorn
 		pegasus
