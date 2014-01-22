@@ -829,7 +829,7 @@ alicorn = {
 
 draconequus = {
 	birth = 0
-	inherit_chance =0
+	inherit_chance = 0
 	immortal = yes
 
 	martial = 1
@@ -1029,9 +1029,6 @@ cephalo_deer = {
 	martial = 1
 	diplomacy = 1
 	same_opinion = 5
-
-
-
 
 	opposites = {
 		unicorn
