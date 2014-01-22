@@ -80,7 +80,7 @@ narrative_event = {
 }
 
 # Luna and Celestia seek aid
-narrative_event = {
+character_event = {
 	id=LIBP.2
 	title = "EVTNAME_LIBP_002"
 	desc = "EVTDESC_LIBP_002"
@@ -129,14 +129,12 @@ narrative_event = {
 		name = "Of course I'll help!"
 		add_character_modifier = favor_of_the_alicorns
 		remove_character_modifier = spurned_the_sisters
-		45 = { 
-			kingdom = {
-				ROOT = {
-					war = {
-						casus_belli = tribal_invasion
-						target = PREVPREV # Should be Discord
-						thirdparty_title = PREV # Should be e_chaos
-					}
+		e_chaos = {
+			holder_scope = {
+				war = {
+					casus_belli = tribal_invasion
+					target = ROOT
+					thirdparty_title = PREVPREV
 				}
 			}
 		}

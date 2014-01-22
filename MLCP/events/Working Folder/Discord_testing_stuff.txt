@@ -53,7 +53,8 @@ narrative_event = {
 		months = 6
 	}
 
-	immediate = {
+	option = {
+		name = EVTOPTBLoR.800
 		set_global_flag = Discord_heralded
 		random_province_lord = {
 			culture_group = equestrian
@@ -61,10 +62,6 @@ narrative_event = {
 				set_province_flag = Disharmony_gathers
 			}
 		}
-	}
-	
-	option = {
-		name = "EVTOPTA60000"
 	}
 }
 
