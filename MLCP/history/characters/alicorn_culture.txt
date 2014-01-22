@@ -1,0 +1,42 @@
+9998 = {
+	name="Celestia"
+	dynasty=1
+	female=yes
+	diplomacy=18
+	martial=15
+	stewardship=18
+	intrigue=15
+	learning=16
+	religion="celestian"
+	add_trait="alicorn"
+	add_trait="grey_eminence"
+	add_trait="charitable"
+	add_trait="trusting"
+	add_trait="gregarious"
+	culture="alicorn_culture"
+	100.1.2 = {
+		birth="100.1.2"
+	}
+}
+
+9999 = {
+	name="Luna"
+	dynasty=1
+	female=yes
+	diplomacy=15
+	martial=18
+	stewardship=15
+	intrigue=18
+	learning=16
+	religion="celestian"
+	add_trait="alicorn"
+	add_trait="elusive_shadow"
+	add_trait="zealous"
+	add_trait="honest"
+	add_trait="kind"
+	culture="alicorn_culture"
+	100.1.2 = {
+		birth="100.1.2"
+	}
+}
+

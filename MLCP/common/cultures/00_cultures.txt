@@ -13,6 +13,31 @@
 equestrian = {
 	graphical_culture = westerngfx
 	
+	alicorn_culture = {
+		graphical_culture = saxongfx
+		
+		color = { 50 254 45 }
+		
+		male_names = {
+			What WTF
+		}
+		
+		female_names = {
+			Celestia Luna Twilight
+		}
+		from_dynasty_prefix = "of "
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+		
 	earth_pony_culture = {
 		graphical_culture = saxongfx
 		
@@ -777,3 +802,35 @@ deer_group = {
 ################
 #   DRACONIC   #
 ################
+
+
+###############
+#   DRACONEQUUS   #
+###############
+draconequus_group = {
+
+	draconequus_culture = {
+		graphical_culture = saxongfx
+		
+		color = { 163 216 255 }
+		
+		male_names = {
+			Discord Entropy
+		}
+		female_names = {
+			Eris
+		}
+		from_dynasty_prefix = "of "
+		
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}

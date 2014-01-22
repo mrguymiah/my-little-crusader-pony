@@ -1,0 +1,23 @@
+007 = {
+	name="Discord"
+	dynasty=1
+	female=no
+	diplomacy=9
+	martial=21
+	stewardship=18
+	intrigue=15
+	learning=15
+	religion="discordian_religion1"
+	add_trait="draconequus"
+	add_trait="shy"
+	add_trait="deceitful"
+	add_trait="paranoid"
+	add_trait="cruel"
+	add_trait="cynical"
+	add_trait="greedy"
+	culture="draconequus_culture"
+	100.1.2 = {
+		birth="100.1.2"
+	}
+}
+
