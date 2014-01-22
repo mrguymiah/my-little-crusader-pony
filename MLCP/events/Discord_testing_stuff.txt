@@ -2,8 +2,8 @@
 # Herald of Discord
 narrative_event = {
 	id=DE.1
-	title = "EVTNAME_DE001"
-	desc="EVTDESC_DE001"
+	title = EVTNAME_DE001
+	desc=EVTDESC_DE001
 	major=yes
 
 	picture = "GFX_evt_mongols"
@@ -54,7 +54,7 @@ narrative_event = {
 	}
 
 	option = {
-		name = EVTOPTBLoR.800
+		name = DISCORD1
 		set_global_flag = Discord_heralded
 		random_province_lord = {
 			culture_group = equestrian
@@ -68,8 +68,8 @@ narrative_event = {
 #Discord Arrives
 province_event = {
 	id=DE.2
-	title = "EVTNAME_DE002"
-	desc="EVTDESC_DE002"
+	title = EVTNAME_DE002
+	desc=EVTDESC_DE002
 	major=yes
 
 	picture = "GFX_evt_mongols"
@@ -96,20 +96,22 @@ province_event = {
 			name="Discord"
 			dynasty=1
 			female=no
-			diplomacy=9
-			martial=21
-			stewardship=18
-			intrigue=15
-			learning=15
-			religion="discordian_religion1"
-			trait="draconequus"
-			trait="shy"
-			trait="deceitful"
-			trait="paranoid"
-			trait="cruel"
-			trait="cynical"
-			trait="greedy"
-			culture="draconequus_culture"
+			attributes = {
+				diplomacy=9
+				martial=21
+				stewardship=18
+				intrigue=15
+				learning=15
+			}
+			Religion=discordian_religion1
+			trait=draconequus
+			trait=shy
+			trait=deceitful
+			trait=paranoid
+			trait=cruel
+			trait=cynical
+			trait=greedy
+			culture=draconequus_culture
 		}
 		new_character = {
 			
@@ -131,15 +133,15 @@ province_event = {
 	}
 
 	option = {
-		name = "EVTOPTA60000"
+		name = EVTOPTA60000
 	}
 }
 
 #Discord goes to war
 character_event = {
 	id=DE.3
-	title = "EVTNAME_DE003"
-	desc="EVTDESC_DE003"
+	title = EVTNAME_DE003
+	desc=EVTDESC_DE003
 	
 	picture = "GFX_evt_mongols"
 	border = "GFX_event_narrative_frame_war"
@@ -170,8 +172,8 @@ character_event = {
 # Chocolate Rain
 province_event = {
 	id=DE.4
-	title = "EVTNAME_DE004"
-	desc="EVTDESC_DE004"
+	title = EVTNAME_DE004
+	desc=EVTDESC_DE004
 	
 	picture = "GFX_evt_SAMPLE"
 	border = "GFX_event_SAMPLE"
@@ -200,8 +202,8 @@ province_event = {
 # Unintended Massacre
 narrative_event = {
 	id=DE.5
-	title = "EVTNAME_DE005"
-	desc="EVTDESC_DE005"
+	title = EVTNAME_DE005
+	desc=EVTDESC_DE005
 	
 	picture = "GFX_evt_SAMPLE"
 	border = "GFX_event_SAMPLE"
@@ -228,8 +230,8 @@ narrative_event = {
 # Discord loses
 character_event = {
 	id=DE.6
-	title = "EVTNAME_DE006"
-	desc = "EVTDESC_DE006"
+	title = EVTNAME_DE006
+	desc = EVTDESC_DE006
 	
 	picture = "GFX_evt_mongols"
 	border = "GFX_event_narrative_frame_war"
