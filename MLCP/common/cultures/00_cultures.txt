@@ -372,10 +372,10 @@ changeling_group = {
 		color = { 0.1 .06 0.7 }
 
 		male_names = {
-			Chitin Cloak Doppel Dogger Maurr Shifter Coxa Shadow_Shadow Ditto
+			Chitin Cloak Doppel Dagger Maurr Shifter Coxa Shadow_Shadow Ditto
 		}
 		female_names = {
-			Aconita Agave Ambrosia Aurelia Anaxa Calliphora Chrysalis Cocoon Gossamer Miasma Mirror Myxine Phantasma Pupa Vespine
+			Aconita Agave Ambrosia Aurelia Anaxa Calliphora Chrysalis Cocoon Gossamer Miasma Mirror Myxine Phantasma Proxy Pupa Vespine
 		}
 		
 		from_dynasty_prefix = "vrg "
@@ -394,80 +394,6 @@ changeling_group = {
 		pat_grm_name_chance = 10
 		mat_grm_name_chance = 50
 		mother_name_chance = 30
-
-		modifier = default_culture_modifier
-	}
-}
-###############
-#  LIVESTOCK  #
-###############
-livestock_group = {
-	cattle = {
-		graphical_culture = mesoamericangfx
-		color = { 0.4 0.5 0.9 }
-		
-		male_names = {
-			Bob
-		}
-		female_names = {
-			Erith
-		}
-		
-		from_dynasty_prefix = "of "
-		
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 0
-		father_name_chance = 0
-		
-		pat_grm_name_chance = 25
-		mat_grm_name_chance = 25
-		mother_name_chance = 0
-
-		modifier = default_culture_modifier
-	}
-	sheep = {
-		graphical_culture = mesoamericangfx
-		color = { 0.2 0.6 0.8 }
-		
-		male_names = {
-			Bob
-		}
-		female_names = {
-			Erith
-		}
-		
-		from_dynasty_prefix = "of "
-		
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 0
-		father_name_chance = 0
-		
-		pat_grm_name_chance = 25
-		mat_grm_name_chance = 25
-		mother_name_chance = 0
-
-		modifier = default_culture_modifier
-	}
-	goat = {
-		graphical_culture = mesoamericangfx
-		color = { 0.1 0.2 0.8 }
-		
-		male_names = {
-			Bob
-		}
-		female_names = {
-			Erith
-		}
-		
-		from_dynasty_prefix = "of "
-		
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 0
-		father_name_chance = 0
-		
-		pat_grm_name_chance = 25
-		mat_grm_name_chance = 25
-		mother_name_chance = 0
 
 		modifier = default_culture_modifier
 	}
