@@ -10,10 +10,6 @@ narrative_event = {
 	
 	is_triggered_only = yes
 	
-	immediate = {
-		set_character_flag = achievement_legacy_of_rome
-	}
-	
 	option = {
 		name = EVTOPTAequestria.20
 		hidden_tooltip = {
@@ -25,8 +21,6 @@ narrative_event = {
 		}
 		e_equestria = {
 			grant_title = ROOT
-			copy_title_laws = e_byzantium
-			copy_title_history = e_byzantium
 		}
 		k_unicornia = {
 			destroy_landed_title = THIS
@@ -63,12 +57,16 @@ narrative_event = {
 		name = EVTOPTAequestria.21
 		trigger = {
 			NOT = { has_landed_title = e_crystal_empire }
+			NOT = { has_landed_title = k_crystal_kingdom }
 		}
 	}
 	option = {
 		name = EVTOPTBequestria.21
 		trigger = {
-			has_landed_title = e_crystal_empire
+			OR = {
+				has_landed_title = k_crystal_kingdom
+				has_landed_title = e_crystal_empire
+			}
 		}
 		prestige = -500
 	}
