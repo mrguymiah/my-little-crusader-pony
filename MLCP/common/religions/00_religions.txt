@@ -32,14 +32,14 @@ christian = {
 	lunar = {
 		graphical_culture = westerngfx
 		
-		icon = 1
+		icon = 2
 		color = { 0.5 1 0.2 }
 		parent = celestian
 	}
 	unicorn_religion = {
 		graphical_culture = westerngfx
 
-		icon = 6
+		icon = 3
 		color = { 0.8 0.5 0.9 }
 		
 		reformed = unicorn_religion_reformed
@@ -47,7 +47,7 @@ christian = {
 	unicorn_religion_reformed = {
 		graphical_culture = westerngfx
 
-		icon = 6
+		icon = 4
 		color = { 0.5 0.5 0.9 }
 	
 	}
@@ -63,7 +63,7 @@ christian = {
 	earth_religion_reformed = {
 		graphical_culture = westerngfx
 
-		icon = 5
+		icon = 6
 		color = { 0.2 0.8 0.2 }
 		
 	}
