@@ -35,6 +35,7 @@ character_event = {
 	prisoner = no
 	
 	trigger = {
+		NOT = { ROOT = { culture = wildling } }
 		has_job_action = action_inquisition
 		NOT = { location = { religion = ROOT } }
 		location = {

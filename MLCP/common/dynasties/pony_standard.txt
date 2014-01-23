@@ -1,0 +1,40 @@
+#PONY DYNASTIES#
+#EARTH PONIES; 1 - 200
+#PEGASI; 201 - 400
+#UNICORNS; 401 - 600
+#OTHER; 601 - 999
+##EARTH PONY##
+1 = {
+	name = "D'Apple" #Applejack, Pinkie
+	culture = earth_pony_culture
+}
+##PEGASI##
+201 = {
+	name = "Swiftwind"
+	culture = pegasus_culture
+}
+202 = {
+	name = "Mistwing" #Fluttershy
+	culture = pegasus_culture
+}
+203 = {
+	name = "Chroma" #Rainbow Dash
+	culture = pegasus_culture
+}
+##UNICORN##
+401 = {
+	name = "Blueblood"
+	culture = unicorn_culture
+}
+402 = {
+	name = "Sparkle" #Twilight
+	culture = unicorn_culture
+}
+403 = {
+	name = "Whitegold" #Rarity
+	culture = unicorn_culture
+}
+##OTHER##
+601 = {
+	name="Galaxia"
+}

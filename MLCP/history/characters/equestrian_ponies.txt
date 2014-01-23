@@ -1,0 +1,239 @@
+#PONIES#
+#1 - 10 reserved#
+#EARTH PONIES; 11 - 210
+#PEGASI; 211 - 410
+#UNICORNS; 411 - 610
+#OTHER; 611 - 999
+1 = {
+	name="Platinum"
+	dynasty=401
+	female=yes
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="unicorn_religion"
+	add_trait="unicorn"
+	add_trait="gregarious"
+	add_trait="honest"
+	culture="unicorn_culture"
+	father = 411
+	mother = 412
+	84.1.2 = {
+		birth="84.1.2"
+	}
+}
+
+2 = {
+	name="Clover"
+	dynasty=402
+	diplomacy=5
+	martial=7
+	stewardship=5
+	intrigue=7
+	learning=10
+	religion="unicorn_religion"
+	culture="unicorn_culture"
+	add_trait="unicorn"
+	add_trait="midas_touched"
+	add_trait="kind"
+	81.8.13 = {
+		birth="81.8.13 "
+	}
+}
+3 = {
+		name = "Hurricane"
+		dynasty=201
+		female=yes
+		diplomacy=6
+		martial=9
+		stewardship=6
+		intrigue=7
+		learning=3
+		culture="pegasus_culture"
+		religion="soarastrian"
+		add_trait="pegasus"
+		add_trait="proud"
+		add_trait="brave"
+		add_trait="brilliant_strategist"
+		70.1.2 = {
+			birth="70.1.2"
+		}
+}
+4 = {
+		name = "Pansy"
+		dynasty = 202
+		female = yes
+		diplomacy = 12
+		martial = 0
+		stewardship = 9
+		intrigue = 3
+		learning = 7
+		culture="pegasus_culture"
+		religion="soarastrian"
+		add_trait="pegasus"
+		add_trait="craven"
+		add_trait="shy"
+		add_trait="misguided_warrior"
+		76.1.2 = {
+			birth="76.1.2"
+		}
+}
+5 = {
+	name="Puddinghead"
+	dynasty=1
+	female=yes
+	diplomacy=6
+	martial=3
+	stewardship=7
+	intrigue=2
+	learning=3
+	religion="earth_religion"
+	culture="earth_pony_culture"
+	add_trait="earth_pony"
+	add_trait="gregarious"
+	add_trait="honest"
+	add_trait="arbitrary"
+	75.1.2 = {
+		birth="75.1.2"
+	}
+}
+6 = {
+	name="Smart Cookie"
+	female = yes
+	dynasty=1
+	diplomacy=7
+	martial=4
+	stewardship=6
+	intrigue=2
+	learning=5
+	religion="earth_religion"
+	culture="earth_pony_culture"
+	add_trait="earth_pony"
+	add_trait="midas_touched"
+	add_trait="kind"
+	72.1.2 = {
+		birth="72.1.2"
+	}
+}	
+7 = {
+	name ="Star Swirl"
+	dynasty =601
+	diplomacy = 6
+	martial = 5
+	stewardship = 6
+	intrigue = 7
+	learning =17
+	religion="unicorn_religion"
+	culture="unicorn_culture"
+	add_trait="unicorn"
+	add_trait="genius"
+	add_trait="mastermind_theologian"
+	50.6.22 = {
+		birth="50.6.22"
+	}
+}
+#Earth Ponies#
+#Pegasi#
+#Unicorns#
+411 = {
+	name="Blueblood"
+	dynasty=401
+	female=no
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="unicorn_religion"
+	add_trait="unicorn"
+	add_trait="slothful"
+	add_trait="proud"
+	add_trait="paranoid"
+	culture="unicorn_culture"
+	spouse = 412
+	52.1.2 = {
+		birth="52.1.2"
+	}
+	109.5.2 = {
+		death="109.5.2"
+	}
+}
+412 = {
+	name="Glimmer"
+	dynasty=0
+	female=yes
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="unicorn_religion"
+	add_trait="unicorn"
+	add_trait="kind"
+	add_trait="humble"
+	add_trait="paranoid"
+	culture="unicorn_culture"
+	spouse = 411
+	63.7.2 = {
+		birth="63.7.2"
+	}
+	102.5.2 = {
+		death="102.5.2"
+	}
+}
+413 = {
+	name="Polaris"
+	dynasty=401
+	female=no
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="unicorn_religion"
+	add_trait="unicorn"
+	culture="unicorn_culture"
+	father = 411
+	mother = 412
+	87.3.12 = {
+		birth="87.3.12"
+	}
+}
+414 = {
+	name="Proxima"
+	dynasty=401
+	female=no
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="unicorn_religion"
+	add_trait="unicorn"
+	culture="unicorn_culture"
+	father = 411
+	mother = 412
+	90.1.18 = {
+		birth="90.1.18"
+	}
+}
+415 = {
+	name="Palladium"
+	dynasty=401
+	female=yes
+	diplomacy=5
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	religion="unicorn_religion"
+	add_trait="unicorn"
+	culture="unicorn_culture"
+	father = 411
+	mother = 412
+	92.3.18 = {
+		birth="90.3.18"
+	}
+}

@@ -7,9 +7,9 @@ title = c_seaddle
 max_settlements = 7
 
 b_saddlestown = castle
-b_seaddle = city
-b_seawood = temple
-b_stagvew = city
+#b_seaddle = city
+#b_seawood = temple
+#b_stagvew = city
 #b_redmond = city
 #b_woodgrove = temple
 #b_marecer = castle

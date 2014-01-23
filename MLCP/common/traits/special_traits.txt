@@ -1,0 +1,10 @@
+#SPECIAL TRAITS#
+#DO NOT GIVE THESE TRAITS TO CHARACTERS OR YOU WILL BREAK EUROPE#
+
+the_wilds = { #Only for The Wilds
+	immortal = yes
+	intrigue = 100
+	fertility = -100
+	ai_ambition = -100
+	ai_zeal = -100
+}

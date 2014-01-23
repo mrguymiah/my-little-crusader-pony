@@ -17,6 +17,7 @@ province_event = {
 			top_liege = {
 				culture = PREV
 			}
+			NOT = { ROOT = { culture = wildling } }
 			NOT = { culture = ROOT }
 			religion = ROOT
 		}
@@ -153,6 +154,7 @@ province_event = {
 			top_liege = {
 				culture = PREV
 			}
+			NOT = { ROOT = { culture = wildling } }
 			NOT = { culture = ROOT }
 			capital_scope = {
 				province_id = ROOT

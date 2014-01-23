@@ -62,3 +62,53 @@ d_tribe_c_diamonddogs = {
 	landless = yes #Diamond Dogs flee underground if defeated on the surface
 	tribe = yes
 }
+
+#PONY TRIBES#
+
+d_unicorns_tribe = {
+	color={ 156 94 177 }
+	color2={ 255 255 255 }
+	
+	tribe = yes
+	
+	allow = {
+		always = no
+	}
+	
+	culture = unicorn_culture
+	title = "QUEEN"
+	foa = "QUEEN_FOA"
+	title_prefix = "PONY_TRIBE"
+}
+
+d_pegasi_tribe = {
+	color={ 16 49 134 }
+	color2={ 255 255 255 }
+	
+	tribe = yes
+	
+	allow = {
+		always = no
+	}
+	
+	culture = pegasus_culture
+	title = "COMMANDER"
+	foa = "COMMANDER_FOA"
+	title_prefix = "PONY_TRIBE"
+}
+
+d_earth_tribe = {
+	color={ 87 153 38 }
+	color2={ 255 255 255 }
+	
+	tribe = yes
+	
+	allow = {
+		always = no
+	}
+	
+	culture = earth_culture
+	title = "CHANCELLOR"
+	foa = "CHANCELLOR_FOA"
+	title_prefix = "PONY_TRIBE"
+}

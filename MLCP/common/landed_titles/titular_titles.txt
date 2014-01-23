@@ -89,6 +89,8 @@ e_equestria = {
 		
 		capital = 324 # Baltimare
 		
+		primary = yes
+		
 		culture = earth_pony_culture
 		
 	}
@@ -100,6 +102,8 @@ e_equestria = {
 		
 		capital = 370 # Pegasopolis
 		
+		primary = yes
+		
 		culture = pegasus_culture
 	}
 	k_unicornia = {
@@ -107,6 +111,8 @@ e_equestria = {
 		color2={ 255 255 255 }
 		
 		capital = 296 # Canterlot
+		
+		primary = yes
 		
 		culture = unicorn_culture
 	}
@@ -116,7 +122,24 @@ e_equestria = {
 		
 		capital = 321 # Manehatten
 		
+		primary = yes
+		
 		culture = earth_pony_culture
 		
 	}
+}
+
+######################
+# Specialized States #
+######################
+
+e_the_wilds = {
+	color = { 0 0 0 }
+	color2 = { 0 0 0 }
+	
+	capital = 3
+	
+	primary = yes
+	
+	culture = earth_pony_culture
 }

@@ -6,7 +6,7 @@ decisions = {
 		potential = {
 			OR = {
 				culture = unicorn_culture
-				culture = pegasi_culture
+				culture = pegasus_culture
 				culture = earth_culture	
 			}
 			OR = {
@@ -69,7 +69,7 @@ decisions = {
 			culture = unicorn_culture
 			OR = {
 				AND = {
-					has_landed_title = d_unicorn_tribe
+					has_landed_title = d_unicorns_tribe
 					religion = unicorn_religion_reformed
 				}
 				has_landed_title = d_canterlot
@@ -121,10 +121,10 @@ decisions = {
 		is_high_prio = yes
 		
 		potential = {
-			culture = pegasi_culture
+			culture = pegasus_culture
 			OR = {
 				AND = {
-					has_landed_title = d_pegasus_tribe
+					has_landed_title = d_pegasi_tribe
 					religion = soarastrian_reformed
 				}
 				has_landed_title = d_pegasopolis
@@ -180,10 +180,10 @@ decisions = {
 		is_high_prio = yes
 		
 		potential = {
-			culture = earth_culture
+			culture = earth_pony_culture
 			OR = {
 				AND = {
-					has_landed_title = d_eath_tribe
+					has_landed_title = d_earth_tribe
 					religion = earth_religion_reformed
 				}
 				has_landed_title = d_pegasopolis

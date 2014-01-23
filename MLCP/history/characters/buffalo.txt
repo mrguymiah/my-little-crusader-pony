@@ -4,7 +4,7 @@
 1500 = { #Blackhoof Tribe
 	name = ""
 	dynasty = 1500
-	religion = "bufflo_religion"
+	religion = "buffalo_religion"
 	culture = "blackhoof"
 	add_trait = "buffalo"
 	add_trait = "tough_soldier"
@@ -18,7 +18,7 @@
 1501 = { #Strongheart Tribe
 	name = ""
 	dynasty = 1501
-	religion = "bufflo_religion"
+	religion = "buffalo_religion"
 	culture = "blackhoof"
 	add_trait = "buffalo"
 	add_trait = "tough_soldier"
@@ -32,7 +32,7 @@
 1502 = { #Yeggagalwa Tribe
 	name = ""
 	dynasty = 1502
-	religion = "bufflo_religion"
+	religion = "buffalo_religion"
 	culture = "blackhoof"
 	add_trait = "buffalo"
 	add_trait = "tough_soldier"
@@ -45,9 +45,37 @@
 }
 #TAZAPAN
 1600 = { 
-	name = ""
-	dynasty = 1502
-	religion = "bufflo_religion"
+	name = "Zapamearpan"
+	dynasty = 1600
+	religion = "buffalo_religion"
+	culture = "tazapan"
+	add_trait = "buffalo"
+	add_trait = "tough_soldier"
+	95.1.1 = {
+		birth = "95.1.1"
+	}
+	145.1.1 = {
+		death = "145.1.1"
+	}
+}
+1601 = { 
+	name = "Xachapan"
+	dynasty = 1601
+	religion = "buffalo_religion"
+	culture = "tazapan"
+	add_trait = "buffalo"
+	add_trait = "tough_soldier"
+	95.1.1 = {
+		birth = "95.1.1"
+	}
+	145.1.1 = {
+		death = "145.1.1"
+	}
+}
+1602 = { 
+	name = "Malakpash"
+	dynasty = 1602
+	religion = "buffalo_religion"
 	culture = "tazapan"
 	add_trait = "buffalo"
 	add_trait = "tough_soldier"
@@ -60,9 +88,23 @@
 }
 #SIOXEN
 1700 = { 
-	name = ""
-	dynasty = 1502
-	religion = "bufflo_religion"
+	name = "Evanfreeka"
+	dynasty = 1700
+	religion = "buffalo_religion"
+	culture = "sioxen"
+	add_trait = "buffalo"
+	add_trait = "tough_soldier"
+	95.1.1 = {
+		birth = "95.1.1"
+	}
+	145.1.1 = {
+		death = "145.1.1"
+	}
+}
+1701 = { 
+	name = "Tepakanan"
+	dynasty = 1701
+	religion = "buffalo_religion"
 	culture = "sioxen"
 	add_trait = "buffalo"
 	add_trait = "tough_soldier"

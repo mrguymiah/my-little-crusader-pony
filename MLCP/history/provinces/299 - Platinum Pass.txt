@@ -6,8 +6,8 @@ title = c_platinum_pass
 # Settlements
 max_settlements = 4
 
-b_platinum_pass = castle
-b_platinum_pass2 = temple
+b_platinum_pass = temple
+b_platinum_pass2 = castle
 b_starswirl_academy = temple
 
 # Misc

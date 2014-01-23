@@ -48,7 +48,7 @@
 	add_trait="crystal_pony"
 	add_trait="kind"
 	add_trait="quick"
-	add_trait="mastermind_theologician"
+	add_trait="mastermind_theologian"
 	father = 1000
 	102.4.3 = {
 		birth="102.4.3"

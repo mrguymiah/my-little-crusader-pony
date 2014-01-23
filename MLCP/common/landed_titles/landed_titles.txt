@@ -2468,6 +2468,10 @@ k_tazapan = {
 			
 			capital = 156 # Tazapan21
 			
+			tazapan = "Malakpash"
+			blackhoof = "Malakpash"
+			sioxen = "Malakpash"
+			
 		c_tazapan21 = {
 			color={ 175 140 13 }
 			color2={ 255 255 255 }
@@ -3098,6 +3102,11 @@ k_sioxen = {
 						taruca = "Dos'Muntura"
 						
 					}
+					b_everfree_heart1 = {}
+					b_everfree_heart2 = {}
+					b_everfree_heart3 = {}
+					b_everfree_heart5 = {}
+					b_everfree_heart6 = {}
 				}
 				c_everfree7 = {
 					color={ 17 95 66 }
@@ -5848,7 +5857,9 @@ k_crystal_kingdom = {
 				color={ 91 88 150 }
 				color2={ 255 255 255 }
 			
-				b_west_gallop = {}
+				b_west_gallop = {
+					holy_site = elaphanti
+				}
 			}
 			c_east_gallop = {
 				color={ 59 54 158 }
@@ -6195,7 +6206,8 @@ k_crystal_kingdom = {
 			color2={ 255 255 255 }
 		
 			b_smokey_mountain = {
-}
+				holy_site = elaphanti
+			}
 	}
 	}
 		d_lower_doegon = {
@@ -6987,7 +6999,7 @@ k_crystal_kingdom = {
 		
 					b_dh25 = {}
 					b_dh25_2 = {
-						holy_site = elaphanti
+						holy_site = falphanti
 					}
 			}
 		}

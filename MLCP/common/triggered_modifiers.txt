@@ -1,0 +1,40 @@
+##################################################
+#
+# STRATEGIC EFFECTS - A.K.A. "TRIGGERED MODIFIERS"
+#
+##################################################
+
+# Bankruptcy
+negative_money = {
+	potential = {
+		is_ruler = yes
+	}
+	
+	trigger = {
+		NOT = { wealth = 0 }
+	}
+	
+	icon = 24
+	
+	land_morale = -0.25 
+	
+	active = no
+}
+
+is_wildling = {
+	trigger = {
+		culture = wildling
+	}
+	
+	icon = 1
+	
+	fertility = -100
+	global_revolt_risk = -100
+	global_tax_modifier = -100
+	castle_levy_size = -100
+	castle_tax_modifier = -100
+	city_levy_size = -100
+	city_tax_modifier = -100
+	temple_levy_size = -100
+	temple_tax_modifier = -100
+}

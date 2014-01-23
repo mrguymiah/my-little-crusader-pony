@@ -7,8 +7,8 @@ title = c_yeeha
 max_settlements = 3
 
 b_yeeha1 = castle
-b_yeeha2 = city
-b_yeeha3 = temple
+#b_yeeha2 = city
+#b_yeeha3 = temple
 
 # Misc
 culture = zebradid

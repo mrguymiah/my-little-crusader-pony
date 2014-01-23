@@ -7,8 +7,8 @@ title = c_nagallop
 max_settlements = 3
 
 b_nagallop1 = castle
-b_nagallop2 = city
-b_nagallop3 = temple
+#b_nagallop2 = city
+#b_nagallop3 = temple
 
 # Misc
 culture = zebradid

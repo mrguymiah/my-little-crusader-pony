@@ -49,8 +49,8 @@
 	add_trait="midas_touched"
 	add_trait="zealous"
 	add_trait="ambitious"
-	79.3.11 = {
-		birth="79.3.11"
+	59.3.11 = {
+		birth="59.3.11"
 	}
 	117.6.2 = {
 		death="117.6.2"
@@ -471,7 +471,7 @@
 	learning=9
 	religion="falphanti"
 	culture="fallow"
-	add_trait="mastermind_theologican"
+	add_trait="mastermind_theologian"
 	add_trait="zealous"
 	add_trait="just"
 	add_trait="content"

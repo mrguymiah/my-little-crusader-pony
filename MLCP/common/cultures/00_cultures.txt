@@ -3,9 +3,10 @@
 ## Feather Book updated - 18/06/2013
 ## Mrguymiah updated - 29/9/2013 - Colour errors and naming tradition errors.
 ## HeshieokFasla updated 18/1/'14 - New cultures, block organization, poni poni poni
+## HeshieokFasla added SPECIAL and the wildling culture
 
-#GROUPS (AS OF 18/1/'14)
-#PONY, HORSE, OTHER EQUINE, GRIFFON, CHANGELING, LIVESTOCK, CANINE, CERVID, DRACONIC
+#GROUPS (AS OF 22/1/'14)
+#PONY, HORSE, OTHER EQUINE, GRIFFON, CHANGELING, LIVESTOCK, CANINE, CERVID, DRACONIC, SPECIAL
 
 ############
 #   PONY   #
@@ -13,31 +14,6 @@
 equestrian = {
 	graphical_culture = westerngfx
 	
-	alicorn_culture = {
-		graphical_culture = saxongfx
-		
-		color = { 50 254 45 }
-		
-		male_names = {
-			What WTF
-		}
-		
-		female_names = {
-			Celestia Luna Twilight
-		}
-		from_dynasty_prefix = "of "
-
-		modifier = default_culture_modifier
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 10
-		father_name_chance = 25
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 20
-		mat_grm_name_chance = 40
-		mother_name_chance = 5
-	}
 	earth_pony_culture = {
 		graphical_culture = saxongfx
 		
@@ -803,34 +779,31 @@ deer_group = {
 #   DRACONIC   #
 ################
 
-
 ###############
-#   DRACONEQUUS   #
+#   SPECIAL   #
 ###############
-draconequus_group = {
-
-	draconequus_culture = {
-		graphical_culture = saxongfx
-		
-		color = { 163 216 255 }
+special_group = {
+	wildling = {
+		graphical_culture = mesoamericangfx
+		color = { 0.3 0.1 0.1 }
 		
 		male_names = {
-			Discord Entropy
+			"No One" Vacant Empty 404 "Not Found"
 		}
 		female_names = {
-			Eris
+			"No One" Vacant Empty 404 "Not Found"
 		}
-		from_dynasty_prefix = "of "
 		
-		modifier = default_culture_modifier
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 10
-		father_name_chance = 25
+		from_dynasty_prefix = " "
 		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 20
-		mat_grm_name_chance = 40
-		mother_name_chance = 5
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+
+		modifier = wildling_culture_modifier
 	}
 }
