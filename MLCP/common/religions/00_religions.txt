@@ -70,7 +70,7 @@ christian = {
 	soarastrian= {
 		graphical_culture = westerngfx
 
-		icon = 37 #hellenic
+		icon = 7 #hellenic
 		color = { 1 0.2 0.2 }
 		
 		reformed = soarastrian_reformed
