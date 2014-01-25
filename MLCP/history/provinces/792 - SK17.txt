@@ -7,6 +7,8 @@ title = c_sk17
 max_settlements = 3
 
 b_sk17 = castle
+Winterclaw = city
+Hawking_Ridge = temple
 
 # Misc
 culture = high_griffon

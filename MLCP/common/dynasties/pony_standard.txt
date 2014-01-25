@@ -7,6 +7,17 @@
 1 = {
 	name = "D'Apple" #Applejack, Pinkie
 	culture = earth_pony_culture
+		coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 2
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 ##PEGASI##
 201 = {
@@ -16,10 +27,32 @@
 202 = {
 	name = "Mistwing" #Fluttershy
 	culture = pegasus_culture
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 5
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 203 = {
 	name = "Chroma" #Rainbow Dash
 	culture = pegasus_culture
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 4
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 ##UNICORN##
 401 = {
@@ -29,10 +62,32 @@
 402 = {
 	name = "Sparkle" #Twilight
 	culture = unicorn_culture
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 1
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 403 = {
 	name = "Whitegold" #Rarity
 	culture = unicorn_culture
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 ##OTHER##
 601 = {

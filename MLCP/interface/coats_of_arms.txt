@@ -79,7 +79,7 @@ culture =
 		}
 		
 		texture = {
-			file = "gfx\\coats_of_arms\\dynasties.tga"
+			file = "gfx\\coats_of_arms\\pony_dynasties.tga"
 			size = { x = 16 y = 4 }
 			noOfFrames = 51
 			color = 0
@@ -108,13 +108,6 @@ culture =
 		}
 		texture = {
 			file = "gfx\\coats_of_arms\\dynasties3.tga"
-			size = { x = 16 y = 4 }
-			noOfFrames = 51
-			color = 0
-			random = no # Do not use for random CoAs
-		}
-		texture = {
-			file = "gfx\\coats_of_arms\\pony_dynasties.tga"
 			size = { x = 16 y = 4 }
 			noOfFrames = 51
 			color = 0
