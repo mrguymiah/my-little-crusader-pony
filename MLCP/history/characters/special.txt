@@ -3,6 +3,7 @@
 10 = {
 	name="No One"
 	dynasty=0
+	occluded=yes
 	female=no
 	diplomacy=0
 	martial=0
