@@ -1,0 +1,27 @@
+9000000 = { #Skydanavian
+	name = "High Claw"
+	culture = high_griffon
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 10
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+9000001 = {
+	name = "af Greenback"
+	culture = crystal_culture
+}
+9000002 = {
+	name = "Bloodtalon"
+	culture = crystal_culture
+}
+9000003 = {
+	name = "Break Wing"
+	culture = crystal_culture
+}

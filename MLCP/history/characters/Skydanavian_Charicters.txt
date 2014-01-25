@@ -1,14 +1,62 @@
 900000 = {
-	name=""
-	dynasty=0
+	name="Clovis"
+	dynasty=9000003
 	martial=7
 	diplomacy=6
 	intrigue=8
 	stewardship=7
 	learning=5
-	religion=
-	culture=
-	1.1.1 = {
-		birth="1.1.1"
+	religion=grifflyreise
+	culture=high_griffon
+	add_trait="griffon"
+	81.6.15 = {
+		birth="81.6.15"
+	}
+}
+900001 = {
+	name="Gösta"
+	dynasty=9000001
+	martial=5
+	diplomacy=3
+	intrigue=2
+	stewardship=5
+	learning=2
+	religion=grifflyreise
+	culture=high_griffon
+	add_trait="griffon"
+	75.10.8 = {
+		birth="75.10.8"
+	}
+}
+900002 = {
+	name="Gytha"
+	dynasty=9000002
+	martial=2
+	diplomacy=10
+	intrigue=1
+	stewardship=5
+	learning=8
+	female=yes
+	religion=grifflyreise
+	culture=high_griffon
+	add_trait="griffon"
+	82.7.21 = {
+		birth="90.7.21"
+	}
+}
+900003 = {
+	name="Feather Beak"
+	dynasty=9000000
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	learning=10
+	religion=grifflyreise
+	culture=high_griffon
+	add_trait="griffon"
+	add_trait="scholar"
+	94.12.18 = {
+		birth="94.12.18"
 	}
 }
