@@ -142,4 +142,6 @@ e_the_wilds = {
 	primary = yes
 	
 	culture = earth_pony_culture
+	
+	tribe = yes
 }
