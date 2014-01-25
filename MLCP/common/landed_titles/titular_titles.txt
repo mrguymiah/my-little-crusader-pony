@@ -133,7 +133,7 @@ e_equestria = {
 # Specialized States #
 ######################
 
-e_the_wilds = {
+c_the_wilds = {
 	color = { 0 0 0 }
 	color2 = { 0 0 0 }
 	
@@ -141,7 +141,7 @@ e_the_wilds = {
 	
 	primary = yes
 	
-	culture = earth_pony_culture
+	dignity = 10000
 	
-	tribe = yes
+	culture = wildling
 }
