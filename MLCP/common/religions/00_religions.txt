@@ -214,12 +214,17 @@ griffon_Rgroup = {
 
 		icon = 19 #norse
 		heresy_icon = 21
-		color = { 0.4 0.8 0.3 }
+		color = { 0.175 0.174 0.160 }
 		
-		crusade_name = "CRUSADE"
-		scripture_name = THE_BIBLE
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_SAGAS
+		priest_title = GODI
 		god_names = {
-			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+			GOD_WODWING GOD_TUNDERCLAW GOD_FLYR
+		}
+		
+		evil_god_names = {
+			SABARI HARTHAR
 		}
 		
 		investiture = yes
@@ -244,12 +249,17 @@ griffon_Rgroup = {
 
 		icon = 19 #norse
 		heresy_icon = 21
-		color = { 0.1 0.6 0.3 }
+		color = { 0.175 0.168 0.87 }
 		
-		crusade_name = "CRUSADE"
-		scripture_name = THE_BIBLE
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_SAGAS
+		priest_title = GODI
 		god_names = {
-			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+			GOD_WODWING GOD_TUNDERCLAW GOD_FLYR
+		}
+		
+		evil_god_names = {
+			SABARI HARTHAR
 		}
 		
 		investiture = yes
