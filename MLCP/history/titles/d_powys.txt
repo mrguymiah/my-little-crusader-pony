@@ -2,9 +2,6 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-112.5.12={
-	holder=900001
-}
 800.1.1={
 	liege=k_east_griffonia
 }

@@ -3,7 +3,8 @@
 	law = succ_gavelkind
 }
 112.5.12={
-	holder=900002
+	holder=900008
+	liege=d_uppgriffenland
 }
 1080.1.1={
 	liege=d_uppgriffenland

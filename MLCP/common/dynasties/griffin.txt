@@ -4,7 +4,7 @@
 	coat_of_arms = {
 		template = 0
 		layer = {
-			texture = 3
+			texture = 8
 			texture_internal = 10
 			emblem = 0
 			color = 0
@@ -15,13 +15,37 @@
 }
 9000001 = {
 	name = "af Greenback"
-	culture = crystal_culture
+	culture = high_griffon
 }
 9000002 = {
 	name = "Bloodtalon"
-	culture = crystal_culture
+	culture = high_griffon
 }
 9000003 = {
 	name = "Break Wing"
-	culture = crystal_culture
+	culture = high_griffon
+}
+9000004 = {
+	name = "Ostkun"
+	culture = high_griffon
+}
+9000005 = {
+	name = "Farwing"
+	culture = high_griffon
+}
+9000006 = {
+	name = "af Gizzar"
+	culture = high_griffon
+}
+9000007 = {
+	name = "Novik"
+	culture = high_griffon
+}
+9000008 = {
+	name = "Talonald"
+	culture = high_griffon
+}
+9000009 = {
+	name = "Freeclaw"
+	culture = high_griffon
 }

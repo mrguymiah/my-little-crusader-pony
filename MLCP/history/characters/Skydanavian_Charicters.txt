@@ -8,7 +8,7 @@
 	learning=5
 	religion=grifflyreise
 	culture=high_griffon
-	add_trait="griffon"
+	trait="griffon"
 	81.6.15 = {
 		birth="81.6.15"
 	}
@@ -23,7 +23,7 @@
 	learning=2
 	religion=grifflyreise
 	culture=high_griffon
-	add_trait="griffon"
+	trait="griffon"
 	75.10.8 = {
 		birth="75.10.8"
 	}
@@ -39,7 +39,7 @@
 	female=yes
 	religion=grifflyreise
 	culture=high_griffon
-	add_trait="griffon"
+	trait="griffon"
 	82.7.21 = {
 		birth="90.7.21"
 	}
@@ -54,9 +54,110 @@
 	learning=10
 	religion=grifflyreise
 	culture=high_griffon
-	add_trait="griffon"
-	add_trait="scholar"
+	trait="griffon"
+	trait="scholar"
 	94.12.18 = {
 		birth="94.12.18"
+	}
+}
+900004 = {
+	name="Kló"
+	dynasty=9000004
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion=grifflyreise
+	culture=high_griffon
+	trait="griffon"
+	89.1.6 = {
+		birth="89.1.6"
+	}
+}
+
+900005 = {
+	name="Gerhard"
+	dynasty=9000005
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion=grifflyreise
+	culture=high_griffon
+	trait="griffon"
+	72.3.17 = {
+		birth="72.3.17"
+	}
+}
+
+900006 = {
+	name="Greger"
+	dynasty=9000006
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	religion=grifflyreise
+	culture=high_griffon
+	trait="griffon"
+	trait="cynical"
+	trait="underhanded_rogue"
+	85.5.24 = {
+		birth="85.5.24"
+	}
+}
+900007 = {
+	name="Vindur"
+	female=yes
+	dynasty=9000009
+	religion=grifflyreise
+	culture=high_griffon
+	trait=fortune_builder
+	82.1.10={
+		birth=yes
+	}
+}
+
+900008 = {
+	name="Georg"
+	dynasty=9000008
+	religion=grifflyreise
+	culture=high_griffon
+	martial=7
+	stewardship=7
+	diplomacy=5
+	intrigue=5
+	learning=3
+	trait=wroth
+	trait=hunter
+	trait=strong
+	trait=brave
+	trait=skilled_tactician
+	
+	80.10.4={
+		birth="80.10.4"
+	}
+}
+
+900009 = {
+	name="Draumursoar"
+	female=yes
+	dynasty=9000007
+	religion=grifflyreise
+	culture=high_griffon
+	diplomacy = 7
+	martial = 7
+	stewardship = 7
+	intrigue = 5
+	learning = 7
+	trait=fair
+	trait=quick
+	trait=zealous
+	trait=temperate
+	trait=mystic
+	trait=midas_touched
+	92.9.7={
+		birth=yes
 	}
 }
