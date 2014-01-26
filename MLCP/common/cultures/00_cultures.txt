@@ -435,7 +435,7 @@ great_canine_group = {
 			Bob
 		}
 		female_names = {
-			Erith
+			Erith Saffron
 		}
 		
 		from_dynasty_prefix = "of "
