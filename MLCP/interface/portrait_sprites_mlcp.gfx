@@ -97,4 +97,14 @@ spriteTypes = {
 		norefcount = yes
 		can_be_lowres = yes
 	}
+	#########
+	#CERVIDS#
+	#########
+	spriteType = {
+		name = "GFX_cervid_placeholder"
+		texturefile = "gfx//characters//cervid_placeholder.tga"
+		noOfFrames = 1
+		norefcount = yes
+		can_be_lowres = yes
+	}
 }

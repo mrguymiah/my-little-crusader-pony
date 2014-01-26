@@ -97,3 +97,7 @@ changelinggfx = {
 mesoamericangfx = {
 	skin_tone = 1
 }
+
+cervidgfx = {
+	skin_tone = 0
+}

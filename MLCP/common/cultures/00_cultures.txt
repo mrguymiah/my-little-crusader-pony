@@ -543,8 +543,9 @@ buffalo_group = {
 #   CERVID   #
 ##############
 deer_group = {
-
+	graphical_culture = cervidgfx
 	elapho_culture = {
+		graphical_culture = cervidgfx
 		color = { 0.5 0.1 0.2 }
 		
 		male_names = {
@@ -567,6 +568,7 @@ deer_group = {
 	}
 	
 	whitetail = {
+		graphical_culture = cervidgfx
 		color = { 1.0 0.8 0.8 }
 		
 		male_names = {
@@ -589,6 +591,7 @@ deer_group = {
 	}
 	
 	fallow = {
+		graphical_culture = cervidgfx
 		color = { 0.7 0.4 0.4 }
 		
 		male_names = {
@@ -611,6 +614,7 @@ deer_group = {
 	}
 
 	muntjac = {
+		graphical_culture = cervidgfx
 		color = { 0.8 0.4 0.3 }
 		
 		male_names = {
@@ -633,6 +637,7 @@ deer_group = {
 	}
 	
 	taruca = {
+		graphical_culture = cervidgfx
 		color = { 0.4 0.2 0.1 }
 		
 		male_names = {
@@ -655,6 +660,7 @@ deer_group = {
 	}
 	
 	cephalo = {
+		graphical_culture = cervidgfx
 		color = { 0.5 0.2 0.4 }
 		
 		male_names = {
@@ -677,6 +683,7 @@ deer_group = {
 	}
 	
 	caribou_culture = {
+		graphical_culture = cervidgfx
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
