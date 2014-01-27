@@ -97,9 +97,15 @@
 	add_trait="gregarious"
 	add_trait="honest"
 	add_trait="arbitrary"
+	mother = 12
+	father = 11
+	100.1.2 = {
+		add_spouse = 13
+	}
 	75.1.2 = {
 		birth="75.1.2"
 	}
+	
 }
 6 = {
 	name="Smart Cookie"
@@ -115,8 +121,13 @@
 	add_trait="earth_pony"
 	add_trait="midas_touched"
 	add_trait="kind"
-	72.1.2 = {
-		birth="72.1.2"
+	father = 11
+	mother = 12
+	78.1.2 = {
+		birth="78.1.2"
+	}
+	95.1.2 = {
+		add_spouse = 17
 	}
 }	
 7 = {
@@ -137,6 +148,276 @@
 	}
 }
 #Earth Ponies#
+11 = {
+	name="Shamrock"
+	diplomacy=4
+	martial=4
+	stewardship=7
+	intrigue=2
+	learning=3
+	religion="earth_religion"
+	culture="earth_pony_culture"
+	add_trait="earth_pony"
+	69.1.2 = {
+		add_spouse = 12
+	}
+	49.1.2 = {
+		birth="49.1.2"
+	}
+}
+12 = {
+	name="Marmalade"
+	dynasty=1
+	female = yes
+	diplomacy=7
+	martial=3
+	stewardship=6
+	intrigue=4
+	learning=5
+	religion="earth_religion"
+	culture="earth_pony_culture"
+	add_trait="earth_pony"
+	69.1.2 = {
+		add_spouse = 11
+	}
+	father=16
+	49.1.2 = {
+		birth="49.1.2"
+	}
+	99.1.2 = {
+		death="99.1.2"
+	}
+	
+}
+13 = {
+	name="Pine"
+	
+	diplomacy=4
+	martial=7
+	stewardship=4
+	intrigue=5
+	learning=3
+	religion="earth_religion"
+	culture="earth_pony_culture"
+	add_trait="earth_pony"
+	100.1.2 = {
+		add_spouse = 5
+	}
+		
+	
+	
+	80.1.2 = {
+		birth="80.1.2"
+	}
+	
+}
+	
+14= {
+	name="Mango"
+	dynasty=1
+	female = yes
+	diplomacy=5
+	martial=4
+	stewardship=4
+	intrigue=6
+	learning=7
+	religion="earth_religion"
+	culture="earth_pony_culture"
+	add_trait="earth_pony"
+	mother=5
+	father=13
+	99.1.2 = {
+		birth="99.1.2"
+	}
+	115.1.2 = {
+		add_spouse = 22
+	}
+}
+15= {
+	name="Gingerbread"
+	dynasty=1
+	diplomacy=5
+	martial=4
+	stewardship=4
+	intrigue=6
+	learning=7
+	religion="earth_religion"
+	culture="earth_pony_culture"
+	add_trait="earth_pony"
+	mother=5
+	father=13
+	101.1.2 = {
+		birth="101.1.2"
+	}
+}
+16 = { ###############
+	name="Rivet"
+	dynasty=1
+	diplomacy=5
+	martial=4
+	stewardship=4
+	intrigue=6
+	learning=7
+	religion="earth_religion"
+	culture="earth_pony_culture"
+	add_trait="earth_pony"
+	20.1.2 = {
+		birth="20.1.2"
+	}
+	63.1.2 = {
+		death="63.1.2"
+	}
+}
+17= {
+	name="Silverstar"
+
+	diplomacy=5
+	martial=4
+	stewardship=4
+	intrigue=6
+	learning=7
+	religion="earth_religion"
+	culture="earth_pony_culture"
+	add_trait="earth_pony"
+	76.1.2 = {
+		birth="76.1.2"
+	}
+	95.1.2 = {
+		add_spouse = 6
+	}
+}
+18= {
+	name="Charcoal"
+	female=yes
+	dynasty=1
+	diplomacy=5
+	martial=4
+	stewardship=4
+	intrigue=6
+	learning=7
+	religion="earth_religion"
+	culture="earth_pony_culture"
+	add_trait="earth_pony"
+	father=17
+	mother=6
+	97.1.2 = {
+		birth="97.1.2"
+	}
+	114.1.2 = {
+		add_spouse = 19
+	}
+}
+19 = {
+	name="Ace"
+	diplomacy=5
+	martial=4
+	stewardship=4
+	intrigue=6
+	learning=7
+	religion="earth_religion"
+	culture="earth_pony_culture"
+	add_trait="earth_pony"
+	95.1.2 = {
+		birth = "95.1.2"
+	}
+	114.1.2 = {
+		add_spouse = 18
+	}
+}
+20= {
+	name="Redheart"
+	female=yes
+	dynasty=1
+	diplomacy=5
+	martial=4
+	stewardship=4
+	intrigue=6
+	learning=7
+	religion="earth_religion"
+	culture="earth_pony_culture"
+	add_trait="earth_pony"
+	father=18
+	mother=19
+	115.1.2 = {
+		birth ="115.1.2"
+	}
+
+}
+21= {
+	name="Golden"
+	female=yes
+	dynasty=1
+	diplomacy=5
+	martial=4
+	stewardship=4
+	intrigue=6
+	learning=7
+	religion="earth_religion"
+	culture="earth_pony_culture"
+	add_trait="earth_pony"
+	father=22
+	mother=14
+	117.1.2 = {
+		birth ="117.1.2"
+	}
+
+}
+22= {
+	name="Golden"
+	diplomacy=5
+	martial=4
+	stewardship=4
+	intrigue=6
+	learning=7
+	religion="earth_religion"
+	culture="earth_pony_culture"
+	add_trait="earth_pony"
+	95.1.2 = {
+		birth ="95.1.2"
+	}
+	115.2.2 = {
+		add_spouse = 14
+	}
+}
+23= {
+	name="Tailor"
+	dynasty=1
+	diplomacy=5
+	martial=4
+	stewardship=4
+	intrigue=6
+	learning=7
+	religion="earth_religion"
+	culture="earth_pony_culture"
+	add_trait="earth_pony"
+	father=17
+	mother=6
+	103.1.2 = {
+		birth="103.1.2"
+	}
+}
+24= {
+	name="Aloe"
+	female = yes
+	dynasty=1
+	diplomacy=5
+	martial=4
+	stewardship=4
+	intrigue=6
+	learning=7
+	religion="earth_religion"
+	culture="earth_pony_culture"
+	add_trait="earth_pony"
+	mother=5
+	father=13
+	107.1.2 = {
+		birth="107.1.2"
+	}
+}
+
+
+
+
 #Pegasi#
 211 = {
 	name = "Twister"
@@ -240,7 +521,9 @@
 	add_trait="proud"
 	add_trait="paranoid"
 	culture="unicorn_culture"
-	spouse = 412
+	82.1.2 = {
+		add_spouse = 412
+	}
 	52.1.2 = {
 		birth="52.1.2"
 	}
@@ -263,7 +546,9 @@
 	add_trait="humble"
 	add_trait="paranoid"
 	culture="unicorn_culture"
-	spouse = 411
+	82.1.2 = {
+		add_spouse = 411
+	}
 	63.7.2 = {
 		birth="63.7.2"
 	}
