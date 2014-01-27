@@ -1,8 +1,8 @@
 culture =
 {
-	religion_group = "christian"
-	religion_group = "discordian_Rgroup"
-
+	religion_group = "pegasus_RGroup"
+	religion_group = "unicorn_Rgroup"
+	religion_group = "earthpony_Rgroup"
 	templates = { 
 		"coa_plain:1"
 		"coa_party_per_fess:2"
@@ -56,7 +56,7 @@ culture =
 	}
 
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
-	textures = {
+	textures = { 
 		texture = {
 			file = "gfx\\coats_of_arms\\pattern.tga"
 			size = { x = 10 y = 5 }
