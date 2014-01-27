@@ -4,5 +4,5 @@
 }
 100.1.1={
 	holder=4
-	liege=d_pegasi_tribe
+	liege=k_pegasopolis
 }

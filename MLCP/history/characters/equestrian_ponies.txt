@@ -505,6 +505,61 @@
 		add_spouse = 3
 	}
 }
+215 = {
+	name = "Bifrost"
+	
+	diplomacy=4
+	martial=4
+	stewardship=2
+	intrigue=4
+	learning=1
+	culture="pegasus_culture"
+	religion="soarastrian"
+	add_trait="pegasus"
+	79.1.22= {
+		birth="79.1.22"
+	}
+	96.3.18 = {
+		add_spouse = 4
+	}
+}
+216 = {
+	name = "Lilly"
+	female=yes
+	dynasty=202
+	diplomacy=4
+	martial=4
+	stewardship=2
+	intrigue=4
+	learning=1
+	culture="pegasus_culture"
+	religion="soarastrian"
+	add_trait="pegasus"
+	mother=4
+	father=215
+	97.1.22= {
+		birth="97.1.18"
+	}
+}
+217 = {
+	name = "Dizzy"
+	female=yes
+	dynasty=202
+	diplomacy=4
+	martial=4
+	stewardship=2
+	intrigue=4
+	learning=1
+	culture="pegasus_culture"
+	religion="soarastrian"
+	add_trait="pegasus"
+	add_trait="weak"
+	mother=4
+	father=215
+	101.1.22= {
+		birth="101.1.18"
+	}
+}
 #Unicorns#
 411 = {
 	name="Blueblood"
