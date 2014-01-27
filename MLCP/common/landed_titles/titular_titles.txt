@@ -1,7 +1,6 @@
-############################
-# Cervid Religious Leaders #
-############################
-
+#####################
+# RELIGIOUS LEADERS #
+#####################
 d_elaphanti = {
 	color = { 240 155 155 }
 	color2 = { 255 255 255 }
@@ -65,6 +64,21 @@ d_cephalo = {
 	religion = falphanti
 	controls_religion = cephala
 	caliphate = yes
+	primary = yes
+}
+
+d_ponitentum = {
+	color = { 25 40 255 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+		always = no
+	}
+	
+	title = "UNICORN_POPE"
+	foa = "UNICORN_POPEFOA"
+	religion = unicorn_religion
+	controls_religion = unicorn_religion
 	primary = yes
 }
 

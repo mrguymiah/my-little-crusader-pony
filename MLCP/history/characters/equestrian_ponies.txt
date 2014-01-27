@@ -81,6 +81,9 @@
 	76.1.2 = {
 		birth="76.1.2"
 	}
+	96.3.18 = {
+		add_spouse = 215
+	}
 }
 5 = {
 	name="Puddinghead"
@@ -158,9 +161,6 @@
 	religion="earth_religion"
 	culture="earth_pony_culture"
 	add_trait="earth_pony"
-	69.1.2 = {
-		add_spouse = 12
-	}
 	49.1.2 = {
 		birth="49.1.2"
 	}
@@ -191,7 +191,6 @@
 }
 13 = {
 	name="Pine"
-	
 	diplomacy=4
 	martial=7
 	stewardship=4
@@ -200,16 +199,9 @@
 	religion="earth_religion"
 	culture="earth_pony_culture"
 	add_trait="earth_pony"
-	100.1.2 = {
-		add_spouse = 5
-	}
-		
-	
-	
 	80.1.2 = {
 		birth="80.1.2"
 	}
-	
 }
 	
 14= {
@@ -360,7 +352,6 @@
 	117.1.2 = {
 		birth ="117.1.2"
 	}
-
 }
 22= {
 	name="Golden"
@@ -374,9 +365,6 @@
 	add_trait="earth_pony"
 	95.1.2 = {
 		birth ="95.1.2"
-	}
-	115.2.2 = {
-		add_spouse = 14
 	}
 }
 23= {
@@ -487,15 +475,13 @@
 	dynasty=0
 	female=yes
 	diplomacy=4
-	martial=4
-	stewardship=2
+	martial=3
+	stewardship=3
 	intrigue=4
 	learning=1
 	culture="pegasus_culture"
 	religion="soarastrian"
 	add_trait="pegasus"
-	add_trait="quick"
-	add_trait="bastard"
 	add_trait="just"
 	add_trait="brilliant_strategist"
 	79.1.22= {
@@ -507,7 +493,6 @@
 }
 215 = {
 	name = "Bifrost"
-	
 	diplomacy=4
 	martial=4
 	stewardship=2
@@ -518,9 +503,6 @@
 	add_trait="pegasus"
 	79.1.22= {
 		birth="79.1.22"
-	}
-	96.3.18 = {
-		add_spouse = 4
 	}
 }
 216 = {
