@@ -6,14 +6,14 @@ crystal_Rgroup = {
 	crystal_religion = {
 		graphical_culture = westerngfx
 
-		icon = 6
+		icon = 8
 		color = { 0.5 0.5 0.9 }
 		reformed = crystal_religion_reformed
 	}
 	crystal_religion_reformed = {
 		graphical_culture = westerngfx
 
-		icon = 6
+		icon = 9
 		color = { 0.5 0.5 0.9 }
 	}
 }
@@ -82,7 +82,7 @@ pegasus_Rgroup = {
 	soarastrian_reformed= {
 		graphical_culture = westerngfx
 
-		icon = 37
+		icon = 8
 		color = { 1 0.2 0.2 }
 		
 		crusade_name = CRUSADE
@@ -102,7 +102,7 @@ zebra_Rgroup = {
 	zulhooves_religion = {
 		graphical_culture = westerngfx
 
-		icon = 34
+		icon = 11
 		color = { 0.8 0.8 0.6 }
 		
 		crusade_name = "CRUSADE"
@@ -125,7 +125,7 @@ zebra_Rgroup = {
 	zulhooves_religion_reformed = {
 		graphical_culture = westerngfx
 
-		icon = 35
+		icon = 12
 		color = { 0.8 0.8 0.6 }
 		
 		crusade_name = "CRUSADE"
@@ -324,7 +324,7 @@ buffalo_Rgroup = {
 	buffalo_religion = {
 		graphical_culture = westerngfx
 
-		icon = 1
+		icon = 18
 		color = { 0.8 0.8 0.6 }
 		
 		crusade_name = "CRUSADE"
@@ -345,7 +345,7 @@ buffalo_Rgroup = {
 	buffalo_religion_reformed = {
 		graphical_culture = westerngfx
 
-		icon = 1
+		icon = 19
 		color = { 0.8 0.8 0.6 }
 		
 		crusade_name = "CRUSADE"
