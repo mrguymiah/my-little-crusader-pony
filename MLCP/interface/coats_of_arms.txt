@@ -1,11 +1,10 @@
 culture =
 {
-
-	religion_group = "pegasus_Rgroup"
-	religion_group = "unicorn_Rgroup"
-	religion_group = "earthpony_Rgroup"
-	religion_group = "discordian_Rgroup"
 	religion_group = "crystal_Rgroup"
+	religion_group = "earthpony_Rgroup"
+	religion_group = "unicorn_Rgroup"
+	religion_group = "pegasus_Rgroup"
+	religion_group = "discordian_Rgroup"
 
 	templates = { 
 		"coa_plain:1"

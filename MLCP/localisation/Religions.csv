@@ -1,19 +1,15 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-christian;Equestrian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-equestrian_religion;Equestrian;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-celestian;Celestian;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-celestian_DESC;The unified pony faith may have gained little ground prior to the fall of Discord and ascendancy of the Royal Pony Sisters, but its roots are owed entirely to one fateful encounter in a lonely cave. All may have been lost had the Founders not been driven there together by pure chance, miraculously allowing Clover the Clever to ignite the Fire of Friendship. And yet, perhaps things could have been different had the rest of ponykind taken Harmony to heart so readily as they.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-lunar;Lunar;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-GOD_CELESTIA;Celestia;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-GOD_LUNA;Luna;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-GOD_THE_SISTERS;The Sisters;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-GOD_THE_SUN;Celestia;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-GOD_THE_MOON;Luna;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+crystal_Rgroup;Crystal Religions;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+crystal_religion;Crystallum;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+crystal_religion_DESC;The Crystal Pony religion centers around the worship of the Crystal Heart, with grand ceremonies and rituals to send messages from those in the mortal plane to the fallen in the 'crystal' plane.;;;;;;;;;x
+earthpony_Rgroup;Earth Pony Religions;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 earth_religion;Earth Pony Rites;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 earth_religion_reformed;Earth Pony Rites;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+pegasus_Rgroup;Pegasi Religions;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 soarastrian;Soarastrian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 soarastrian_DESC;The Sky Lord, Soaron, gave the gift of flight to the first Pegasi, deigning them as his servants.;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 soarastrian_reformed;Soarastrian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+unicorn_Rgroup;Unicorn Religions;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 unicorn_religion;Ponitentum;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 unicorn_religion_reformed;Ponitentum;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 unicorn_religion_DESC;The Pony Mother, Epona, gave unto unicorns magic, deigning them as her servants upon the world.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
