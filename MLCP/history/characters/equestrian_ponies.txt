@@ -43,23 +43,25 @@
 	}
 }
 3 = {
-		name = "Hurricane"
-		dynasty=201
-		female=yes
-		diplomacy=6
-		martial=9
-		stewardship=6
-		intrigue=7
-		learning=3
-		culture="pegasus_culture"
-		religion="soarastrian"
-		add_trait="pegasus"
-		add_trait="proud"
-		add_trait="brave"
-		add_trait="brilliant_strategist"
-		70.1.2 = {
-			birth="70.1.2"
-		}
+	name = "Hurricane"
+	dynasty=201
+	diplomacy=6
+	martial=9
+	stewardship=6
+	intrigue=7
+	learning=3
+	culture="pegasus_culture"
+	religion="soarastrian"
+	add_trait="pegasus"
+	add_trait="proud"
+	add_trait="brave"
+	add_trait="brilliant_strategist"
+	70.1.2 = {
+		birth="70.1.2"
+	}
+	87.3.18 = {
+		add_spouse = 214
+	}
 }
 4 = {
 		name = "Pansy"
@@ -136,6 +138,92 @@
 }
 #Earth Ponies#
 #Pegasi#
+211 = {
+	name = "Twister"
+	dynasty=201
+	female=yes
+	diplomacy=5
+	martial=7
+	stewardship=4
+	intrigue=4
+	learning=3
+	culture="pegasus_culture"
+	religion="soarastrian"
+	add_trait="pegasus"
+	add_trait="kind"
+	add_trait="just"
+	add_trait="skilled_tactician"
+	father = 3
+	mother = 214
+	89.2.8 = {
+		birth="89.2.8"
+	}
+}
+212 = {
+	name = "Tsunami"
+	dynasty=201
+	female=yes
+	diplomacy=1
+	martial=8
+	stewardship=4
+	intrigue=4
+	learning=6
+	culture="pegasus_culture"
+	religion="soarastrian"
+	add_trait="pegasus"
+	add_trait="envious"
+	add_trait="wroth"
+	add_trait="skilled_tactician"
+	father = 3
+	mother = 214
+	93.2.8= {
+		birth="93.2.8"
+	}
+}
+213 = {
+	name = "Icarus"
+	dynasty=201
+	female=yes
+	diplomacy=4
+	martial=4
+	stewardship=2
+	intrigue=4
+	learning=1
+	culture="pegasus_culture"
+	religion="soarastrian"
+	add_trait="pegasus"
+	add_trait="quick"
+	add_trait="bastard"
+	add_trait="just"
+	add_trait="brilliant_strategist"
+	father = 3
+	94.3.18= {
+		birth="94.3.18"
+	}
+}
+214 = {
+	name = "Firefly"
+	dynasty=0
+	female=yes
+	diplomacy=4
+	martial=4
+	stewardship=2
+	intrigue=4
+	learning=1
+	culture="pegasus_culture"
+	religion="soarastrian"
+	add_trait="pegasus"
+	add_trait="quick"
+	add_trait="bastard"
+	add_trait="just"
+	add_trait="brilliant_strategist"
+	79.1.22= {
+		birth="79.1.22"
+	}
+	87.3.18 = {
+		add_spouse = 3
+	}
+}
 #Unicorns#
 411 = {
 	name="Blueblood"
