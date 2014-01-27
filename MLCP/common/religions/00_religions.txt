@@ -1,56 +1,27 @@
-christian = {
+crystal_Rgroup = {
+	playable = yes
+	has_coa_on_barony_only = yes
+	crusade_cb = crusade
+
+	crystal_religion = {
+		graphical_culture = westerngfx
+
+		icon = 6
+		color = { 0.5 0.5 0.9 }
+		reformed = crystal_religion_reformed
+	}
+	crystal_religion_reformed = {
+		graphical_culture = westerngfx
+
+		icon = 6
+		color = { 0.5 0.5 0.9 }
+	}
+}
+earthpony_Rgroup = {
 	playable = yes
 	has_coa_on_barony_only = yes
 	crusade_cb = crusade
 	
-	celestian = {
-		#Parent Equestrian religion, should not appear until Celestia
-		#Temporarily enabled until Celestian Arrival events
-		graphical_culture = westerngfx
-		
-		icon = 1
-		color = { 0.8 0.8 0.6 }
-		
-		crusade_name = "CRUSADE"
-		scripture_name = THE_BIBLE
-		god_names = {
-			GOD_CELESTIA GOD_LUNA GOD_THE_SISTERS GOD_THE_SUN GOD_THE_MOON
-		}
-		
-		investiture = yes
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_invasion_cb = invasion
-		can_grant_claim = yes
-		can_call_crusade = yes
-		priests_can_marry = yes
-		female_temple_holders = yes
-		max_wives = 1
-		
-		
-	}
-	lunar = {
-		graphical_culture = westerngfx
-		
-		icon = 2
-		color = { 0.5 1 0.2 }
-		parent = celestian
-	}
-	unicorn_religion = {
-		graphical_culture = westerngfx
-
-		icon = 3
-		color = { 0.8 0.5 0.9 }
-		
-		reformed = unicorn_religion_reformed
-	}
-	unicorn_religion_reformed = {
-		graphical_culture = westerngfx
-
-		icon = 4
-		color = { 0.5 0.5 0.9 }
-	
-	}
 	earth_religion= {
 		graphical_culture = westerngfx
 
@@ -67,7 +38,36 @@ christian = {
 		color = { 0.2 0.8 0.2 }
 		
 	}
-	soarastrian= {
+}
+
+unicorn_Rgroup = {
+	playable = yes
+	has_coa_on_barony_only = yes
+	crusade_cb = crusade
+
+	unicorn_religion = {
+		graphical_culture = westerngfx
+
+		icon = 3
+		color = { 0.8 0.5 0.9 }
+		
+		reformed = unicorn_religion_reformed
+	}
+	unicorn_religion_reformed = {
+		graphical_culture = westerngfx
+
+		icon = 4
+		color = { 0.5 0.5 0.9 }
+	
+	}
+}
+
+pegasus_Rgroup = {
+	playable = yes
+	has_coa_on_barony_only = yes
+	crusade_cb = crusade
+	
+		soarastrian= {
 		graphical_culture = westerngfx
 
 		icon = 7 #hellenic
@@ -91,19 +91,6 @@ christian = {
 		can_call_crusade = yes
 		raised_vassal_opinion_loss = no
 		allow_viking_invasion = yes
-	}
-	crystal_religion = {
-		graphical_culture = westerngfx
-
-		icon = 6
-		color = { 0.5 0.5 0.9 }
-		reformed = crystal_religion_reformed
-	}
-	crystal_religion_reformed = {
-		graphical_culture = westerngfx
-
-		icon = 6
-		color = { 0.5 0.5 0.9 }
 	}
 }
 
@@ -616,7 +603,6 @@ caribou_Rgroup = {
 			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
 		}
 		
-		parent = muntura
 		can_grant_claim = yes
 		can_call_crusade = yes
 		priests_can_marry = yes

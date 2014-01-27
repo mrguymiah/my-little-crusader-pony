@@ -64,23 +64,23 @@
 	}
 }
 4 = {
-		name = "Pansy"
-		dynasty = 202
-		female = yes
-		diplomacy = 12
-		martial = 0
-		stewardship = 9
-		intrigue = 3
-		learning = 7
-		culture="pegasus_culture"
-		religion="soarastrian"
-		add_trait="pegasus"
-		add_trait="craven"
-		add_trait="shy"
-		add_trait="misguided_warrior"
-		76.1.2 = {
-			birth="76.1.2"
-		}
+	name = "Pansy"
+	dynasty = 202
+	female = yes
+	diplomacy = 12
+	martial = 0
+	stewardship = 9
+	intrigue = 3
+	learning = 7
+	culture="pegasus_culture"
+	religion="soarastrian"
+	add_trait="pegasus"
+	add_trait="craven"
+	add_trait="shy"
+	add_trait="misguided_warrior"
+	76.1.2 = {
+		birth="76.1.2"
+	}
 }
 5 = {
 	name="Puddinghead"

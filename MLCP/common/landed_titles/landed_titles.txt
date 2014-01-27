@@ -5224,8 +5224,9 @@ k_crystal_kingdom = {
 }
 				b_crystal_city = {
 }
-				b_highgem = {
-}
+				b_highgem = { 
+					holy_site = crystal_religion
+				}
 				b_diamondside = {
 }
 				b_imperial_quarters = {
@@ -5685,11 +5686,12 @@ k_crystal_kingdom = {
 				b_north13 = {
 				}
 			}
-			c_dh19 = {
+			c_tricourt = {
 				color={ 84 125 167 }
 				color2={ 255 255 255 }
 		
 				b_dh19 = {
+					holy_site = crystal_religion
 				}
 			}
 		}

@@ -1,7 +1,7 @@
 # c_dh19
 
 # County Title
-title = c_dh19
+title = c_tricourt
 
 # Settlements
 max_settlements = 3
