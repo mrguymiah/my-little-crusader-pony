@@ -277,63 +277,63 @@ narrative_event = {
 }
 	
 # Luna starts getting jealous
-narrative_event = {
-	id = LIBP.5
-	title = "EVTNAME_LIBP_005"
-	desc = "EVTDESC_LIBP_005"
+#narrative_event = {
+	#id = LIBP.5
+	#title = "EVTNAME_LIBP_005"
+	#desc = "EVTDESC_LIBP_005"
 	
-	picture = "GFX_evt_mongols"
-	border = "GFX_event_narrative_frame_war"
-	allow = {
-		NOT = {
-			year = 100 ## Won't fire until we decide more on this 
-		}
-	}
-	trigger = {
+	#picture = "GFX_evt_mongols"
+	#border = "GFX_event_narrative_frame_war"
+	#allow = {
+		#NOT = {
+		#	year = 100 ## Won't fire until we decide more on this 
+		#}
+	#}
+	#trigger = {
+	#
+	#}
 	
-	}
+	#mean_time_to_happen = {
+	#	months = 24
+	#}
 	
-	mean_time_to_happen = {
-		months = 24
-	}
+	#immediate = {
+	#	set_global_flag = Luna_jealous
+	#}
 	
-	immediate = {
-		set_global_flag = Luna_jealous
-	}
-	
-	option = {
-		name = "Sample"
-	}
-}
+	#option = {
+	#	name = "Sample"
+	#}
+#}
 	
 # Luna becomes Nightmare Moon
-narrative_event = {
-	id = LIBP.6
-	title = "EVTNAME_LIBP_006"
-	desc = "EVTDESC_LIBP_006"
+#narrative_event = {
+	#id = LIBP.6
+	#title = "EVTNAME_LIBP_006"
+	#desc = "EVTDESC_LIBP_006"
 	
-	allow = {
-		NOT = {
-			year = 100  ## Won't fire until we decide more on this 
-		}
-	}
+	#allow = {
+	#	NOT = {
+	#		year = 100  ## Won't fire until we decide more on this 
+	#	}
+	#}
 	
-	picture = "GFX_evt_mongols"
-	border = "GFX_event_narrative_frame_war"
+	#picture = "GFX_evt_mongols"
+	#border = "GFX_event_narrative_frame_war"
 	
-	trigger = {
-	has_global_flag = Luna_jealous
-	}
+	#trigger = {
+	#has_global_flag = Luna_jealous
+	#}
 	
-	mean_time_to_happen = {
-		months = 24
-	}
+	#mean_time_to_happen = {
+	#	months = 24
+	#}
 	
-	immediate = {
+	#immediate = {
+	#
+	#}
 	
-	}
-	
-	option = {
-		name = "Sample"
-	}
-}
+	#option = {
+	#	name = "Sample"
+	#}
+#}
