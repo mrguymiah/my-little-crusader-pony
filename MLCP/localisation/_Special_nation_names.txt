@@ -1,13 +1,13 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-c_the_wilds;The Wilds;;;;;;;;;;;;;x;
-c_the_wilds_adj;Wildling;;;;;;;;;;;;;x;
-d_ponitentum;The Star Library;;;;;;;;;;;;;x;
-d_ponitentum_adj;Ponitentum;;;;;;;;;;;;;x;
-d_elaphanti;Elaphanti Priesthood;;;;;;;;;;;;;x;
-d_elaphanti_adj;Elaphanti;;;;;;;;;;;;;x;
-d_falphanti;Falphanti Priesthood;;;;;;;;;;;;;x;
-d_falphanti_adj;Falphanti;;;;;;;;;;;;;x;
-d_cephalo;Cephala Priesthood;;;;;;;;;;;;;x;;
-d_cephalo_adk;Cephala;;;;;;;;;;;;;x;;
-d_muntura;Muntura Priesthood;;;;;;;;;;;;;x;;
-d_muntura_adj;Muntura;;;;;;;;;;;;;x;;
+#CODE;ENGLISH;;;;;;;;;;;;;;;;x
+c_the_wilds;The Wilds;;;;;;;;;;;;;;;;x
+c_the_wilds_adj;Wildling;;;;;;;;;;;;;;;;x
+d_ponitentum;The Star Library;;;;;;;;;;;;;;;;x
+d_ponitentum_adj;Ponitentum;;;;;;;;;;;;;;;;x
+d_elaphanti;Elaphanti Priesthood;;;;;;;;;;;;;;;;x
+d_elaphanti_adj;Elaphanti;;;;;;;;;;;;;;;;x
+d_falphanti;Falphanti Priesthood;;;;;;;;;;;;;;;;x
+d_falphanti_adj;Falphanti;;;;;;;;;;;;;;;;x
+d_cephalo;Cephala Priesthood;;;;;;;;;;;;;;;;x;
+d_cephalo_adk;Cephala;;;;;;;;;;;;;;;;x;
+d_muntura;Muntura Priesthood;;;;;;;;;;;;;;;;x;
+d_muntura_adj;Muntura;;;;;;;;;;;;;;;;x;

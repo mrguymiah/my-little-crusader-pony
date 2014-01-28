@@ -2,7 +2,7 @@
 #IDS 1500 - 1999 reserved#
 #BLACKHOOF
 1500 = { #Blackhoof Tribe
-	name = ""
+	name = "Blackhoof"
 	dynasty = 1500
 	religion = "buffalo_religion"
 	culture = "blackhoof"
@@ -16,7 +16,7 @@
 	}
 }
 1501 = { #Strongheart Tribe
-	name = ""
+	name = "Strongheart"
 	dynasty = 1501
 	religion = "buffalo_religion"
 	culture = "blackhoof"
@@ -30,7 +30,7 @@
 	}
 }
 1502 = { #Yeggagalwa Tribe
-	name = ""
+	name = "Yeggagalwa"
 	dynasty = 1502
 	religion = "buffalo_religion"
 	culture = "blackhoof"
