@@ -199,7 +199,7 @@ griffon_Rgroup = {
 	grifflyreise = {
 		graphical_culture = westerngfx
 
-		icon = 19 #norse
+		icon = 13
 		heresy_icon = 21
 		color = { 175 174 160 }
 		
@@ -234,7 +234,7 @@ griffon_Rgroup = {
 	grifflyreise_reformed = {
 		graphical_culture = westerngfx
 
-		icon = 19 #norse
+		icon = 14
 		heresy_icon = 21
 		color = { 175 168 87 }
 		
@@ -273,7 +273,7 @@ changeling_Rgroup = {
 	changeling_religion = {
 		graphical_culture = westerngfx
 
-		icon = 22
+		icon = 15
 		color = { 0.2 0.2 0.2 }
 		
 		crusade_name = "CRUSADE"
@@ -296,7 +296,7 @@ changeling_Rgroup = {
 	changeling_religion_reformed = {
 		graphical_culture = westerngfx
 
-		icon = 22
+		icon = 16
 		color = { 0.1 0.1 0.1 }
 		
 		crusade_name = "CRUSADE"
