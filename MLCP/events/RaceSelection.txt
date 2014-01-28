@@ -1,0 +1,793 @@
+###Pony Mod Breeding Events
+
+namespace = RaceAssignment
+
+character_event = {
+	id = RaceAssignment.100
+	desc = "RaceAssignment.100.desc" #What race am I...?
+	picture = GFX_evt_child_play
+	
+	trigger = {
+		ROOT = {
+			NOT = {
+				OR = {
+					trait = "pegasus"
+					trait = "unicorn"
+					trait = "earth_pony"
+					trait = "crystal_pony"
+					trait = "changeling"
+					trait = "changeling_queen"
+					trait = "cephalo_deer"
+					trait = "zebra"
+					trait = "buffalo"
+					trait = "griffon"
+					trait = "cervid"
+					trait = "caribou"
+				}
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	#earth_pony Ponies
+	option = {
+		name = "RaceBreeding.100.optE1" #earth_pony + earth_pony
+		trigger = {
+			ROOT = {
+				AND = {
+					AND = {
+					mother_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+					father_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+				
+				}
+					mother_even_if_dead = { trait = earth_pony }
+					father_even_if_dead = { trait = earth_pony }
+				}
+			}
+		}
+		random = {
+			90 = {
+				add_trait = earth_pony
+			}
+			5 = {
+				add_trait = unicorn
+			}
+			5 = {
+				add_trait = pegasus
+			}
+		}
+	}
+	option = {
+		name = "RaceBreeding.100.optE2" #earth_pony + Unicorn
+		trigger = {
+			AND = {
+				AND = {
+					mother_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+					father_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+				
+				}
+				OR = {
+					mother_even_if_dead = { trait = earth_pony }
+					father_even_if_dead = { trait = earth_pony }
+				}
+				Or = {
+					mother_even_if_dead = { trait = unicorn }
+					father_even_if_dead = { trait = unicorn }
+				}
+			}
+			
+		}
+		random = {
+			47 = {
+				add_trait = earth_pony
+			}
+			47 = {
+				add_trait = unicorn
+			}
+			6 = {
+				add_trait = pegasus
+			}
+		}
+	}
+	option = {
+		name = "RaceBreeding.100.optE3" #earth_pony + Pegasus
+		trigger = {
+			AND = {
+				AND = {
+					mother_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+					father_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+				
+				}
+				OR = {
+					mother_even_if_dead = { trait = earth_pony }
+					father_even_if_dead = { trait = earth_pony }
+				}
+				OR = {
+					mother_even_if_dead = { trait = pegasus }
+					father_even_if_dead = { trait = pegasus }
+				}
+			}
+			
+		}
+		random = {
+			47 = {
+				add_trait = earth_pony
+			}
+			6 = {
+				add_trait = unicorn
+			}
+			47 = {
+				add_trait = pegasus
+			}
+		}
+	}
+	option = {
+		name = "RaceBreeding.100.optE4" #earth_pony + Alicorn
+		trigger = {
+			AND = {
+				AND = {
+					mother_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+					father_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+				
+				}
+				OR = {
+					mother_even_if_dead = { trait = earth_pony }
+					father_even_if_dead = { trait = earth_pony }
+				}
+				Or = {
+					mother_even_if_dead = { trait = alicorn }
+					father_even_if_dead = { trait = alicorn }
+				}
+			}
+			
+		}
+		random = {
+			60 = {
+				add_trait = earth_pony
+			}
+			15 = {
+				add_trait = unicorn
+			}
+			15 = {
+				add_trait = pegasus
+			}
+			10 = {
+				add_trait = alicorn
+			}
+		}
+	}
+	#Unicorns
+	option = {
+		name = "RaceBreeding.100.optU1" #Unicorn + Unicorn
+		trigger = {
+			AND = {
+				AND = {
+					mother_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+					father_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+				
+				}
+				mother_even_if_dead = { trait = unicorn }
+				father_even_if_dead = { trait = unicorn }
+			}
+			
+		}
+		random = {
+			90 = {
+				add_trait = unicorn
+			}
+			5 = {
+				add_trait = earth_pony
+			}
+			5 = {
+				add_trait = pegasus
+			}
+		}
+	}
+	option = {
+		name = "RaceBreeding.100.optU2" #Unicorn + Pegasus
+		trigger = {
+			AND = {
+				AND = {
+					mother_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+					father_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+				
+				}
+				OR = {
+					mother_even_if_dead = { trait = unicorn }
+					father_even_if_dead = { trait = unicorn }
+				}
+				Or = {
+					mother_even_if_dead = { trait = pegasus }
+					father_even_if_dead = { trait = pegasus }
+				}
+			}
+			
+		}
+		random = {
+			6 = {
+				add_trait = earth_pony
+			}
+			47 = {
+				add_trait = unicorn
+			}
+			47 = {
+				add_trait = pegasus
+			}
+		}
+	}
+	option = {
+		name = "RaceBreeding.100.optU3" #Unicorn + Alicorn
+		trigger = {
+			AND = {
+				AND = {
+					mother_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+					father_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+				
+				}
+				OR = {
+					mother_even_if_dead = { trait = unicorn }
+					father_even_if_dead = { trait = unicorn }
+				}
+				Or = {
+					mother_even_if_dead = { trait = alicorn }
+					father_even_if_dead = { trait = alicorn }
+				}
+			}
+			
+		}
+		random = {
+			15 = {
+				add_trait = earth_pony
+			}
+			60 = {
+				add_trait = unicorn
+			}
+			15 = {
+				add_trait = pegasus
+			}
+			10 = {
+				add_trait = alicorn
+			}
+		}
+	}
+	#Pegasi
+	option = {
+		name = "RaceBreeding.100.optP1" #Pegasus + Pegasus
+		trigger = {
+			AND = {
+				AND = {
+					mother_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+					father_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+				
+				}
+				mother_even_if_dead = { trait = pegasus }
+				father_even_if_dead = { trait = pegasus }
+			}
+			
+		}
+		random = {
+			90 = {
+				add_trait = pegasus
+			}
+			5 = {
+				add_trait = earth_pony
+			}
+			5 = {
+				add_trait = unicorn
+			}
+		}
+	}
+	option = {
+		name = "RaceBreeding.100.optU2" #Pegasus + Alicorn
+		trigger = {
+			AND = {
+					mother_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+					father_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+				
+				}
+			AND = {
+				OR = {
+					mother_even_if_dead = { trait = pegasus }
+					father_even_if_dead = { trait = pegasus }
+				}
+				Or = {
+					mother_even_if_dead = { trait = alicorn }
+					father_even_if_dead = { trait = alicorn }
+				}
+			}
+			
+		}
+		random = {
+			15 = {
+				add_trait = earth_pony
+			}
+			15 = {
+				add_trait = unicorn
+			}
+			60 = {
+				add_trait = pegasus
+			}
+			10 = {
+				add_trait = alicorn
+			}
+		}
+	}
+	#Alicorns
+	option = {
+		name = "RaceBreeding.100.optA1" #Alicorn + Alicorn
+		trigger = {
+			AND = {
+					mother_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+					father_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+				
+				}
+			AND = {
+				mother_even_if_dead = { trait = alicorn }
+				father_even_if_dead = { trait = alicorn }
+			}
+			
+		}
+		random = {
+			70 = {
+				add_trait = alicorn
+			}
+			10 = {
+				add_trait = earth_pony
+			}
+			10 = {
+				add_trait = unicorn
+			}
+			10 = {
+				add_trait = earth_pony
+			}
+		}
+	}
+	option = {
+		name = "RaceBreeding.100.FailSafe" # If all else fails or character is lowborn (and has no kids!)
+		trigger = {
+			NOT = {
+				AND = {
+					mother_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+					father_even_if_dead = {
+						OR = {
+							trait = pegasus
+							trait = unicorn
+							trait = earth_pony
+							trait = crystal_pony
+							trait = changeling
+							trait = changeling_queen
+							trait = cephalo_deer
+							trait = zebra
+							trait = buffalo
+							trait = griffon
+							trait = cervid
+							trait = caribou
+						}
+					}
+				
+				}
+			}
+			year = 100
+		}
+		if = {
+			limit = {
+			culture = earth_pony_culture
+			
+			}
+		add_trait = earth_pony
+		}
+		if = {
+			limit = {
+			culture = pegasus_culture
+			
+			}
+		add_trait = pegasus
+		}
+		if = {
+			limit = {
+			culture = unicorn_culture
+			
+			}
+		add_trait = unicorn
+		}
+		if = {
+			limit = {
+			culture = crystal_culture
+			
+			}
+		add_trait = crystal_pony
+		}
+		if = {
+			limit = {
+			OR = {
+				culture = zebradid
+				culture = zebrazen
+				
+			
+			}
+			}
+		add_trait = zebra
+		}
+		if = {
+			limit = {
+			OR = {
+				culture = high_griffon
+				culture = south_griffon
+				culture = low_griffon
+				}
+			}
+		add_trait = griffon
+		}
+		if = {
+			limit = {
+			OR = {
+				culture = changeling_culture
+				
+			
+			}
+				independent = no
+			}
+		add_trait = changeling
+		}
+		if = {
+			limit = {
+			OR = {
+				culture = changeling_culture
+				
+			
+			}
+				independent = yes
+			}
+			add_trait = changeling_queen
+		}
+		if = {
+			limit = {
+			OR = {
+				culture = blackhoof
+				culture = sioxen
+				culture = tazapan
+				}
+			}
+		add_trait = buffalo
+		}
+		if = {
+			limit = {
+			OR = {
+				culture = elapho_culture
+				culture = whitetail
+				culture = fallow
+				culture = muntjac
+				culture = taruca
+				culture = cephalo
+				}
+			}
+		add_trait = cervid
+		}
+		if = {
+			limit = {
+			OR = {
+				culture = caribou_culture
+				}
+			}
+		add_trait = caribou
+		}	
+				
+	}
+}
