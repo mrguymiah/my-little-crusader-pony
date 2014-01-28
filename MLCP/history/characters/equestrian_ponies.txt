@@ -87,6 +87,7 @@
 }
 5 = {
 	name="Puddinghead"
+	dna="ffffffggggg"
 	dynasty=1
 	female=yes
 	diplomacy=6
@@ -109,6 +110,7 @@
 }
 6 = {
 	name="Smart Cookie"
+	dna="aaaaabbbbbb"
 	female = yes
 	dynasty=1
 	diplomacy=7
@@ -147,6 +149,7 @@
 #Earth Ponies#
 11 = {
 	name="Shamrock"
+	dna="abcabcabcde"
 	diplomacy=4
 	martial=4
 	stewardship=7
@@ -164,6 +167,7 @@
 }
 12 = {
 	name="Marmalade"
+	dna="fffffffffff"
 	dynasty=1
 	female = yes
 	diplomacy=7
@@ -188,6 +192,7 @@
 }
 14= {
 	name="Mango"
+	dna="eeeeeeeeeee"
 	dynasty=1
 	female = yes
 	diplomacy=5
@@ -205,6 +210,7 @@
 }
 15= {
 	name="Gingerbread"
+	dna="ggggggggggg"
 	dynasty=1
 	diplomacy=5
 	martial=4
@@ -221,6 +227,7 @@
 }
 16 = { ###############
 	name="Rivet"
+	dna="ffffffggggg"
 	dynasty=1
 	diplomacy=5
 	martial=4
@@ -239,6 +246,7 @@
 }
 18= {
 	name="Charcoal"
+	dna="rrrrrrrrrrr"
 	female=yes
 	dynasty=1
 	diplomacy=5
@@ -256,6 +264,7 @@
 }
 20= {
 	name="Redheart"
+	dna="sssssssssss"
 	female=yes
 	dynasty=1
 	diplomacy=5
@@ -274,6 +283,7 @@
 }
 21= {
 	name="Golden"
+	dna="zzzzzzzzzzz"
 	female=yes
 	dynasty=1
 	diplomacy=5
@@ -291,6 +301,7 @@
 }
 22= {
 	name="Golden"
+	dna="yyyyyyyyyyy"
 	diplomacy=5
 	martial=4
 	stewardship=4
@@ -305,6 +316,7 @@
 }
 23= {
 	name="Tailor"
+	dna="qqqqqqqqqqq"
 	dynasty=1
 	diplomacy=5
 	martial=4
@@ -321,6 +333,7 @@
 }
 24= {
 	name="Aloe"
+	dna="qwertyqwert"
 	female = yes
 	dynasty=1
 	diplomacy=5
