@@ -284,7 +284,11 @@ narrative_event = {
 	
 	picture = "GFX_evt_mongols"
 	border = "GFX_event_narrative_frame_war"
-	
+	allow = {
+		NOT = {
+			year = 100 ## Won't fire until we decide more on this 
+		}
+	}
 	trigger = {
 	
 	}
@@ -307,6 +311,12 @@ narrative_event = {
 	id = LIBP.6
 	title = "EVTNAME_LIBP_006"
 	desc = "EVTDESC_LIBP_006"
+	
+	allow = {
+		NOT = {
+			year = 100  ## Won't fire until we decide more on this 
+		}
+	}
 	
 	picture = "GFX_evt_mongols"
 	border = "GFX_event_narrative_frame_war"
