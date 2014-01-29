@@ -2,4 +2,3 @@
 	law = agnatic_succession
 	holder = 2000
 }
-

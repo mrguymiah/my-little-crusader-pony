@@ -431,8 +431,8 @@
 	add_trait="pegasus"
 	add_trait="just"
 	add_trait="brilliant_strategist"
-	79.1.22= {
-		birth="79.1.22"
+	69.1.22= {
+		birth="69.1.22"
 	}
 	87.3.18 = {
 		add_spouse = 3

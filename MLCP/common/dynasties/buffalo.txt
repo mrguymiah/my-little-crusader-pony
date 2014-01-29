@@ -35,3 +35,11 @@
 	name = "Tepakanan"
 	culture = sioxen
 }
+1702 = {
+	name = "Hekkaonapkan"
+	culture = sioxen
+}
+1703 = {
+	name = "Negakapaken"
+	culture = sioxen
+}

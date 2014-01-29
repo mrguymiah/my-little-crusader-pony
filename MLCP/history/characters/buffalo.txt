@@ -115,3 +115,31 @@
 		death = "145.1.1"
 	}
 }
+1702 = { 
+	name = "Hekkaonapkan"
+	dynasty = 1702
+	religion = "buffalo_religion"
+	culture = "sioxen"
+	add_trait = "buffalo"
+	add_trait = "tough_soldier"
+	95.1.1 = {
+		birth = "95.1.1"
+	}
+	145.1.1 = {
+		death = "145.1.1"
+	}
+}
+1703 = { 
+	name = "Negakapaken"
+	dynasty = 1703
+	religion = "buffalo_religion"
+	culture = "sioxen"
+	add_trait = "buffalo"
+	add_trait = "tough_soldier"
+	95.1.1 = {
+		birth = "95.1.1"
+	}
+	145.1.1 = {
+		death = "145.1.1"
+	}
+}
