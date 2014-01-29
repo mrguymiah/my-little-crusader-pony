@@ -1,0 +1,61 @@
+This'll refer to how we want some of the big events of the game to go down. Imagine event chains like the mongols arriving, or the plague spreading, etc. Things aren't being coded here, but with a single reference sheet, we should be able to iron out how we want the game to play without needing to ask people if things changed. Edits here should be made only after arguments have been fielded in Skype, though.
+###############################################################
+
+**Birth of Discord** 
+
+Approx. Years - 1xxx-1xxx
+Exclusionary chain - *Peace Through Power*
+
+-Triggered by one of the following:
+	-Fall of a kingdom (need to work on this - see end paths)
+	-Low religious authority across all pony religions
+
+Synopsis - When the triggering event fires to start the chain, a random pony province is selected to mark where Discord will first materialize. After a period of time, Discord will spawn there, usurping the title of the local count and getting claims on all nearby lands. Every time he expands his reach, he gets claims on new bordering provinces, and will eventually try to spread chaos to all of everything. Extra events shall be included that can cause strange modifiers to provinces he has claims to, though those are largely flavor.
+
+End Paths - 2 potential ends exist:
+	Path 1 - If Discord is defeated before he obtains a fair number of provinces, the chain ends. This also means the sisters won't pop to unite Equestria, leaving the *Peace Through Power* chain to form it.
+	Path 2 - If Discord's rule grows large enough, the event chain continues to give birth to the sisters. Move to *Alicorn Sisters Arrive*
+
+**Alicorn Sisters Arrive**
+
+Approx Years - xx years after *Birth of Discord*
+Exclusionary chain - *Peace Through Power*
+
+-Triggered by one of the following:
+	-Discord holds 10 titles
+
+Synopsis - The alicorn sisters are popped in a random province, and begin rallying ponykind against Discord through character events. Ponies will get events in which the sisters ask that they join the war to stop Discord's tyranny. Accepting immediately throws the character into war against Discord, along with providing a few character modifiers. Declining provides a slight character debuff, and prevents the event from popping again for 3 months.
+
+End Paths - 2 potential ends exist:
+	Path 1 - If Discord ever captures the sisters, they are put to death and the chain ends. Discord can still be defeated, but whether he's defeated or not, no possible plot arcs exist for him after this point.
+	Path 2 - If Discord loses control of all of his holdings, the sisters capture him and decide his fate. Move to *Discord's Fate*
+
+**Discord's Fate**
+
+Approx Years - xx after *Alicorn Sisters Arrive*
+Exclusionary Chain - *Peace Through Power*
+
+-Triggered by one of the following:
+	-Discord controls 0 holdings
+	-The event *Alicorn Sisters Arrive* fired
+
+Synopsis - The alicorn sisters have two choices. They can either force Discord to serve, or stone him (for however long that lasts). Certain events that can fire during the war affect how the AI will choose.
+
+End Paths - 2 potential ends exist:
+	Path 1 - The sisters can force Discord to work with them, making him swear fealty under one of them. His reformation falls under the *Discord Reformed* event arc, while the sisters move to establish Celestian and form Equestria under the *Sisters Take Charge* event arc.
+	Path 2 - The sisters can stone Discord, removing him from the game. The *Sisters Take Charge* event arc begins shortly after. The event chain *Discord Returns 2: Discord Harder* can occur later on, which results in a second war against a much more dangerous draconequus.
+
+**Peace Through Power** 
+
+Approx. Years - 1xxx-1xxx
+Exclusionary chain - *Sisters Take Charge*
+
+-Triggered by one of the following:
+	-The 3 pony kingdom titles are held by 1 ruler
+	-High religious authority for the relgion of the kingdom 	holder
+
+Synopsis - If a pony manages to obtain all the kingdom-level pony titles, they can select a decision to form the Equestrian Empire. If they do, they gain the title, crown authority moves to max, and an event chain begins that causes unrest among ponies of a different culture/religion than the ruler.
+
+End Paths - 2 potential ends exist:
+	Path 1 - If crown authority ever slips below max, the empire is disbanded, and several negative modifiers are attached to the pony provinces. The arc ends, but can be restarted.
+	Path 2 - After 30 years, much of the discontent will die down, ending the unrest events that attempt to fracture the kingdom, and replacing them with a global modifier that causes all pony races to get along a little better. The event arc continues with *The Tree of Harmony* to unite the religions.
