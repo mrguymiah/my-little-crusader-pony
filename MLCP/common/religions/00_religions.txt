@@ -424,7 +424,7 @@ discordian_Rgroup = {
 	discord_religion1 = {
 		graphical_culture = westerngfx
 		
-		icon = 1
+		icon = 21
 		color = { 0.8 0.8 0.6 }
 		
 		crusade_name = "CRUSADE"
@@ -445,7 +445,7 @@ discordian_Rgroup = {
 	discord_religion2 = {
 		graphical_culture = westerngfx
 
-		icon = 1
+		icon = 20
 		color = { 0.8 0.8 0.6 }
 		
 		crusade_name = "CRUSADE"
@@ -472,7 +472,7 @@ caribou_Rgroup = {
 	mooselam = {
 		graphical_culture = westerngfx
 
-		icon = 19 #norse
+		icon = 22 #norse
 		heresy_icon = 21
 		color = { 0.3 0.1 0.1 }
 		
@@ -496,7 +496,7 @@ caribou_Rgroup = {
 	mooselam_reformed = {
 		graphical_culture = westerngfx
 
-		icon = 19 #norse
+		icon = 23 #norse
 		heresy_icon = 21
 		color = { 0.8 0.8 0.6 }
 		
@@ -520,7 +520,7 @@ caribou_Rgroup = {
 	elaphanti = {
 		graphical_culture = westerngfx
 
-		icon = 19 #norse
+		icon = 24 #norse
 		heresy_icon = 21
 		color = { 0.7 0.3 0.3 }
 		
@@ -544,7 +544,7 @@ caribou_Rgroup = {
 	falphanti = {
 		graphical_culture = westerngfx
 
-		icon = 19 #norse
+		icon = 24 #norse
 		heresy_icon = 21
 		color = { 0.6 0.2 0.2 }
 		
@@ -569,7 +569,7 @@ caribou_Rgroup = {
 	muntura = {
 		graphical_culture = westerngfx
 
-		icon = 19 #norse
+		icon = 24 #norse
 		heresy_icon = 21
 		color = { 0.7 0.6 0.1 }
 		
@@ -593,7 +593,7 @@ caribou_Rgroup = {
 	cephala = {
 		graphical_culture = westerngfx
 
-		icon = 19 #norse
+		icon = 24 #norse
 		heresy_icon = 21
 		color = { 0.3 0.2 0.0 }
 		
