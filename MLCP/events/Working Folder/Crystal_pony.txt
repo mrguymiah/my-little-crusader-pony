@@ -1,0 +1,58 @@
+namespace = crystal
+
+#Birth of the Crystal Kingdom
+character_event = {
+	id = crystal.100
+	name = "CRYSTAL.100"
+	desc = "CRYSTAL.100.DESC"
+	
+	trigger = {
+		ROOT = {
+			landed_title = c_crystal_city
+		}
+		year = 125
+		NOT = { has_holder = k_crystal_kingdom }
+	}
+	
+	mean_time_to_happen = {
+		months = 3
+	}
+	
+	option = {
+		name = "CRYSTAL.100.OPTA"
+		
+		gain_title = k_crystal_kingdom
+		wealth = -200
+		piety = -200
+		prestige = 1000
+		any_independent_ruler = {
+			limit = {
+				culture = crystal_culture
+				religion = crystal_religion
+			}
+			
+			letter_event = { id = crystal.101 days = 7 tooltip = "CRYSTAL.101" }
+		}
+	}
+}
+
+letter_event = {
+	id = crystal.101
+	desc = "CRYSTAL.101.DESC"
+	border = GFX_event_letter_frame_economy
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "CRYSTAL.101.OPTA"
+		
+		set_defacto_liege = FROM
+		ai_will_do = 70
+	}
+	option = {
+		name = "CRYSTAL.101.OPTB"
+		
+		prestige = 25
+		ai_will_do = 30
+	}
+}

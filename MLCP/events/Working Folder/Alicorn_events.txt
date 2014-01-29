@@ -1,3 +1,13 @@
+################################
+# 
+# Alicorn Events
+#
+################################
+
+# Written by Tony Taylor
+
+namespace = LIBP
+
 # Arrival of Celestia and Luna
 narrative_event = {
 	id=LIBP.1
