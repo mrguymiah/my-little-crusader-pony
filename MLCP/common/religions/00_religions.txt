@@ -372,7 +372,7 @@ zoroastrian_group = {
 	saddle_arabian_religion = {
 		graphical_culture = westerngfx
 
-		icon = 4
+		icon = 25
 		color = { 0.4 0.4 0.8 }
 		
 		crusade_name = "CRUSADE"
@@ -394,7 +394,7 @@ zoroastrian_group = {
 	saddle_arabian_religion_reformed = {
 		graphical_culture = westerngfx
 
-		icon = 4
+		icon = 26
 		color = { 0.3 0.3 0.9 }
 		
 		crusade_name = "CRUSADE"
