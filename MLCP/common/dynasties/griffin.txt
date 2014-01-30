@@ -1,4 +1,4 @@
-9000000 = { #Skydanavian
+3500 = { #Skydanavian
 	name = "High Claw"
 	culture = high_griffon
 	coat_of_arms = {
@@ -13,39 +13,39 @@
 		}
 	}
 }
-9000001 = {
+3501 = {
 	name = "af Greenback"
 	culture = high_griffon
 }
-9000002 = {
+3502 = {
 	name = "Bloodtalon"
 	culture = high_griffon
 }
-9000003 = {
+3503 = {
 	name = "Break Wing"
 	culture = high_griffon
 }
-9000004 = {
+3504 = {
 	name = "Ostkun"
 	culture = high_griffon
 }
-9000005 = {
+3505 = {
 	name = "Farwing"
 	culture = high_griffon
 }
-9000006 = {
+3506 = {
 	name = "af Gizzar"
 	culture = high_griffon
 }
-9000007 = {
+3507 = {
 	name = "Novik"
 	culture = high_griffon
 }
-9000008 = {
+3508 = {
 	name = "Talonald"
 	culture = high_griffon
 }
-9000009 = {
+3509 = {
 	name = "Freeclaw"
 	culture = high_griffon
 }

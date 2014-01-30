@@ -1,6 +1,6 @@
-900000 = {
+3500 = {
 	name="Clovis"
-	dynasty=9000003
+	dynasty=3503
 	martial=7
 	diplomacy=6
 	intrigue=8
@@ -13,9 +13,9 @@
 		birth="81.6.15"
 	}
 }
-900001 = {
+3501 = {
 	name="Gösta"
-	dynasty=9000001
+	dynasty=3501
 	martial=5
 	diplomacy=3
 	intrigue=2
@@ -28,9 +28,9 @@
 		birth="75.10.8"
 	}
 }
-900002 = {
+3502 = {
 	name="Gytha"
-	dynasty=9000002
+	dynasty=3502
 	martial=2
 	diplomacy=10
 	intrigue=1
@@ -44,9 +44,9 @@
 		birth="90.7.21"
 	}
 }
-900003 = {
+3503 = {
 	name="Feather Beak"
-	dynasty=9000000
+	dynasty=3500
 	martial=4
 	diplomacy=6
 	intrigue=7
@@ -60,9 +60,9 @@
 		birth="94.12.18"
 	}
 }
-900004 = {
+3504 = {
 	name="Kló"
-	dynasty=9000004
+	dynasty=3504
 	martial=7
 	diplomacy=7
 	intrigue=7
@@ -75,9 +75,9 @@
 	}
 }
 
-900005 = {
+3505 = {
 	name="Gerhard"
-	dynasty=9000005
+	dynasty=3505
 	martial=6
 	diplomacy=6
 	intrigue=5
@@ -90,9 +90,9 @@
 	}
 }
 
-900006 = {
+3506 = {
 	name="Greger"
-	dynasty=9000006
+	dynasty=35006
 	martial=4
 	diplomacy=7
 	intrigue=5
@@ -107,10 +107,10 @@
 		birth="85.5.24"
 	}
 }
-900007 = {
+3507 = {
 	name="Vindur"
 	female=yes
-	dynasty=9000009
+	dynasty=35009
 	religion=grifflyreise
 	culture=high_griffon
 	trait=fortune_builder
@@ -119,9 +119,9 @@
 	}
 }
 
-900008 = {
+3508 = {
 	name="Georg"
-	dynasty=9000008
+	dynasty=35008
 	religion=grifflyreise
 	culture=high_griffon
 	martial=7
@@ -140,10 +140,10 @@
 	}
 }
 
-900009 = {
+3509 = {
 	name="Draumursoar"
 	female=yes
-	dynasty=9000007
+	dynasty=35007
 	religion=grifflyreise
 	culture=high_griffon
 	diplomacy = 7
