@@ -695,7 +695,6 @@ weak = {
 
 unicorn = {
 	birth = 0
-	inherit_chance = 100
 	
 	diplomacy = 2
 	learning = 1
@@ -720,7 +719,6 @@ unicorn = {
 
 pegasus = {
 	birth = 0
-	inherit_chance = 100
 	
 	martial = 2
 	diplomacy = 1
@@ -745,7 +743,6 @@ pegasus = {
 
 earth_pony = {
 	birth = 0
-	inherit_chance = 100
 	
 	stewardship = 2
 	martial = 1
@@ -770,7 +767,6 @@ earth_pony = {
 
 crystal_pony = {
 	birth = 0
-	inherit_chance = 100
 	
 	diplomacy = 2
 	stewardship = 1
@@ -796,7 +792,6 @@ crystal_pony = {
 
 alicorn = {
 	birth = 0
-	inherit_chance = 100
 	immortal = yes
 
 	learning = 1

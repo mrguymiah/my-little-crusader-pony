@@ -130,3 +130,227 @@ great_wizard = {
 		expert_sorcerer
 	}
 }
+
+
+#### Cutiemarks!
+
+cm_race = {
+	health = 1
+	martial = 2
+	diplomacy = -1
+	learning = -1
+	intrigue = -2 # compensate for health
+	opposites = {
+		draconequus
+		griffon
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+	
+
+}
+
+cm_cook = {
+	stewardship = 3
+	intrigue = -3
+	opposites = {
+		draconequus
+		griffon
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+	
+}
+
+cm_magic = {
+	learning = 4
+	martial = -1
+	diplomacy = -3
+	
+	
+	opposites = {
+		pegasus
+		earth_pony
+		crystal_pony
+		draconequus
+		griffon
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+}
+
+cm_duel = {
+	martial = 3
+	
+	diplomacy = -1
+	stewardship = -1
+	learning = -1
+	
+	opposites = {
+		draconequus
+		griffon
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+	
+}
+
+cm_party = {
+	diplomacy = 4
+	martial = -1
+	intrigue = -2
+	learning = -1
+	
+	
+	opposites = {
+		draconequus
+		griffon
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+	
+}
+
+cm_fashion = {
+	diplomacy = 2
+	martial = -1
+	learning = -1
+	
+	
+	
+	opposites = {
+		draconequus
+		griffon
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+	
+}
+
+cm_farm = {
+
+	stewardship = 4
+	martial = -2
+	learning = -2
+
+
+	opposites = {
+		draconequus
+		griffon
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+	
+
+
+}
+
+cm_commander = {
+	martial = 8 # Very rare CM
+	learning = -4
+	stewardship = -4
+
+	opposites = {
+		draconequus
+		griffon
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+	
+
+}
+
+cm_music = {
+	diplomacy = 2
+	general_opinion = 10
+
+	opposites = {
+		draconequus
+		griffon
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+	
+
+}
+cm_flight = {
+
+	opposites = {
+		earth_pony
+		unicorn
+		draconequus
+		griffon
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+}
+cm_blank_flank = {
+
+	diplomacy = -4
+	general_opinion = -10
+
+
+	opposites = {
+
+		draconequus
+		griffon
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+	
+}

@@ -77,7 +77,7 @@ character_event = {
 				}
 			}
 		}
-		random = {
+		random_list = {
 			90 = {
 				add_trait = earth_pony
 			}
@@ -132,14 +132,14 @@ character_event = {
 					mother_even_if_dead = { trait = earth_pony }
 					father_even_if_dead = { trait = earth_pony }
 				}
-				Or = {
+				OR = {
 					mother_even_if_dead = { trait = unicorn }
 					father_even_if_dead = { trait = unicorn }
 				}
 			}
 			
 		}
-		random = {
+		random_list = {
 			47 = {
 				add_trait = earth_pony
 			}
@@ -201,7 +201,7 @@ character_event = {
 			}
 			
 		}
-		random = {
+		random_list = {
 			47 = {
 				add_trait = earth_pony
 			}
@@ -263,7 +263,7 @@ character_event = {
 			}
 			
 		}
-		random = {
+		random_list = {
 			60 = {
 				add_trait = earth_pony
 			}
@@ -323,7 +323,7 @@ character_event = {
 			}
 			
 		}
-		random = {
+		random_list = {
 			90 = {
 				add_trait = unicorn
 			}
@@ -385,7 +385,7 @@ character_event = {
 			}
 			
 		}
-		random = {
+		random_list = {
 			6 = {
 				add_trait = earth_pony
 			}
@@ -447,7 +447,7 @@ character_event = {
 			}
 			
 		}
-		random = {
+		random_list = {
 			15 = {
 				add_trait = earth_pony
 			}
@@ -507,7 +507,7 @@ character_event = {
 			}
 			
 		}
-		random = {
+		random_list = {
 			90 = {
 				add_trait = pegasus
 			}
@@ -569,7 +569,7 @@ character_event = {
 			}
 			
 		}
-		random = {
+		random_list = {
 			15 = {
 				add_trait = earth_pony
 			}
@@ -629,7 +629,7 @@ character_event = {
 			}
 			
 		}
-		random = {
+		random_list = {
 			70 = {
 				add_trait = alicorn
 			}
@@ -645,7 +645,7 @@ character_event = {
 		}
 	}
 	option = {
-		name = "RaceBreeding.100.FailSafe" # If all else fails or character is lowborn (and has no kids!)
+		name = "RaceBreeding.100.FailSafe" # If all else fails or character is lowborn (and has no parents!)
 		trigger = {
 			NOT = {
 				AND = {
