@@ -14,7 +14,6 @@ d_elaphanti = {
 	religion = elaphanti
 	controls_religion = elaphanti
 	caliphate = yes
-	primary = yes
 
 }
 
@@ -31,7 +30,6 @@ d_falphanti = {
 	religion = falphanti
 	controls_religion = falphanti
 	caliphate = yes
-	primary = yes
 	
 }
 
@@ -48,7 +46,6 @@ d_muntura = {
 	religion = falphanti
 	controls_religion = muntura
 	caliphate = yes
-	primary = yes
 }
 
 d_cephalo = {
@@ -64,7 +61,6 @@ d_cephalo = {
 	religion = falphanti
 	controls_religion = cephala
 	caliphate = yes
-	primary = yes
 }
 
 d_ponitentum = {
@@ -142,6 +138,42 @@ e_equestria = {
 		
 	}
 }
+####################
+# Griffon Generals #
+####################
+	k_great_carnivore_flight = {
+		color = {255 0 0 }
+		color2 = { 255 255 255 }
+		
+		culture = south_griffon
+		
+		dignity = 150
+		
+		d_stone_flight = {
+			color= {100 100 100}
+			color2 = { 255 255 255 }
+			
+			culture = south_griffon
+			
+			dignity = 50
+		}
+		d_iron_flight = {
+			color= {175 175 175}
+			color2 = { 255 255 255 }
+			
+			culture = south_griffon
+			
+			dignity = 50
+		}
+		d_steel_flight = {
+			color = {240 240 240}
+			color2 = {255 255 255}
+			
+			culture = south_griffon
+			
+			dignity = 50
+		}
+	}
 
 ######################
 # Specialized States #

@@ -773,21 +773,6 @@ k_zebrican_desert = {
 	}
 	}
 	
-e_hayseed = {
-	color={ 190 192 125 }
-	color2={ 255 255 20 }
-	
-	capital = 77 # Marshend	
-	short_name = yes
-	
-	culture = earth_pony_culture
-	
-
-
-	
-
-	}
-	
 e_saddle_arabia = {
 	color={ 137 184 62 }
 	color2={ 255 255 20 }

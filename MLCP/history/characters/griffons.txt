@@ -1,3 +1,9 @@
+#GRIFFONS#
+#3500 - 3599
+#3600 - 3699
+#3700 - 3799
+#3800 - 3899
+#3900 - 3999
 3500 = {
 	name="Clovis"
 	dynasty=3503
@@ -158,6 +164,80 @@
 	trait=mystic
 	trait=midas_touched
 	92.9.7={
+		birth=yes
+	}
+}
+3900 = { #The High General
+	name="Bloodbeak"
+	female=yes
+	dynasty=35007
+	religion=grifflyreise
+	culture=south_griffon
+	diplomacy = 6
+	martial = 11
+	stewardship = 6
+	intrigue = 6
+	learning = 6
+	trait=hunter
+	trait=quick
+	trait=wroth
+	trait=ambitious
+	trait=brilliant_strategist
+	84.2.9={
+		birth=yes
+	}
+}
+3901 = {
+	name="Stoneclaw"
+	female=yes
+	dynasty=35007
+	religion=grifflyreise
+	culture=south_griffon
+	diplomacy = 6
+	martial = 11
+	stewardship = 6
+	intrigue = 6
+	learning = 6
+	trait=hunter
+	trait=ambitious
+	trait=brilliant_strategist
+	101.2.4={
+		birth=yes
+	}
+}
+3902 = {
+	name="Ironwing"
+	female=yes
+	dynasty=35007
+	religion=grifflyreise
+	culture=south_griffon
+	diplomacy = 6
+	martial = 11
+	stewardship = 6
+	intrigue = 6
+	learning = 6
+	trait=hunter
+	trait=ambitious
+	trait=brilliant_strategist
+	101.2.4={
+		birth=yes
+	}
+}
+3903 = {
+	name="Steeltalon"
+	female=yes
+	dynasty=35007
+	religion=grifflyreise
+	culture=south_griffon
+	diplomacy = 6
+	martial = 11
+	stewardship = 6
+	intrigue = 6
+	learning = 6
+	trait=hunter
+	trait=ambitious
+	trait=brilliant_strategist
+	101.2.4={
 		birth=yes
 	}
 }
