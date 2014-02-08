@@ -49,3 +49,9 @@
 	name = "Freeclaw"
 	culture = high_griffon
 }
+
+#Low Griffin
+3600 = {
+	name = "Clovatin"
+	culture = low_griffon
+}

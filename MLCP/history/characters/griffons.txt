@@ -6,17 +6,23 @@
 #3900 - 3999
 3500 = {
 	name="Clovis"
-	dynasty=3503
-	martial=7
-	diplomacy=6
-	intrigue=8
-	stewardship=7
-	learning=5
+	dynasty=3600
+	martial=11
+	diplomacy=9
+	intrigue=7
+	stewardship=12
+	learning=10
 	religion=grifflyreise
-	culture=high_griffon
+	culture=low_griffon
 	trait="griffon"
-	81.6.15 = {
-		birth="81.6.15"
+	trait="diligent"
+	trait="zealous"
+	trait="brilliant_strategist"
+	91.6.15 = {
+		birth="91.6.15"
+	}
+	125.5.12 = {
+		give_nickname=nick_the_great
 	}
 }
 3501 = {
@@ -239,5 +245,50 @@
 	trait=brilliant_strategist
 	101.2.4={
 		birth=yes
+	}
+}
+3510 = {
+	name="Gjurd"
+	dynasty=3503
+	martial=4
+	diplomacy=8
+	intrigue=5
+	stewardship=2
+	learning=3
+	religion=grifflyreise
+	culture=low_griffon
+	trait="griffon"
+	91.6.15 = {
+		birth="91.6.15"
+	}
+}
+3511 = {
+	name="Gizzard"
+	dynasty=3503
+	martial=9
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	learning=2
+	religion=grifflyreise
+	culture=low_griffon
+	trait="griffon"
+	52.6.15 = {
+		birth="52.6.15"
+	}
+}
+3512 = {
+	name="Bløffmaker"
+	dynasty=3503
+	martial=3
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	learning=2
+	religion=grifflyreise
+	culture=low_griffon
+	trait="griffon"
+	87.6.15 = {
+		birth="87.6.15"
 	}
 }
