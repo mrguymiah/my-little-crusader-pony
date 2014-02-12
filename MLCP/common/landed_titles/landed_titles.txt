@@ -5571,10 +5571,10 @@ k_crystal_kingdom = {
 				color={ 96 118 140 }
 				color2={ 255 255 255 }
 		
-				b_dh17 = {}
-				b_dh17_2 = {
+				b_dh17 = {
 					holy_site = unicorn_religion
 				}
+				b_dh17_2 = {}
 			}
 			c_dh18 = {
 				color={ 87 123 141 }
