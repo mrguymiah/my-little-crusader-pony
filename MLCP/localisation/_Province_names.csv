@@ -699,33 +699,33 @@ PROV698;Rainaut;;;;;;;;x
 PROV699;Bredaland;;;;;;;;x
 PROV700;Firebeakland;;;;;;;;x
 PROV701;Upper Firebeak;;;;;;;;x
-PROV702;EG1;;;;;;;;x
-PROV703;EG2;;;;;;;;x
-PROV704;EG3;;;;;;;;x
-PROV705;EG4;;;;;;;;x
-PROV706;EG5;;;;;;;;x
-PROV707;EG6;;;;;;;;x
-PROV708;EG7;;;;;;;;x
-PROV709;EG8;;;;;;;;x
-PROV710;EG9;;;;;;;;x
-PROV711;EG10;;;;;;;;x
-PROV712;EG11;;;;;;;;x
-PROV713;EG12;;;;;;;;x
-PROV714;EG13;;;;;;;;x
-PROV715;EG14;;;;;;;;x
-PROV716;EG15;;;;;;;;x
-PROV717;EG16;;;;;;;;x
-PROV718;EG17;;;;;;;;x
-PROV719;EG18;;;;;;;;x
-PROV720;EG19;;;;;;;;x
-PROV721;EG20;;;;;;;;x
-PROV722;EG21;;;;;;;;x
-PROV723;EG22;;;;;;;;x
-PROV724;EG23;;;;;;;;x
-PROV725;EG24;;;;;;;;x
-PROV726;EG25;;;;;;;;x
-PROV727;EG26;;;;;;;;x
-PROV728;EG27;;;;;;;;x
+PROV702;Kelle;;;;;;;;x
+PROV703;Schwingburg;;;;;;;;x
+PROV704;Beaklenburg;;;;;;;;x
+PROV705;Bentalonim;;;;;;;;x
+PROV706;Oldwingburg;;;;;;;;x
+PROV707;Osnabuck;;;;;;;;x
+PROV708;Beakmen;;;;;;;;x
+PROV709;Hawkstein;;;;;;;;x
+PROV710;Thurwingen;;;;;;;;x
+PROV711;Narsoar;;;;;;;;x
+PROV712;Klaw;;;;;;;;x
+PROV713;Munsoar;;;;;;;;x
+PROV714;Klaweve;;;;;;;;x
+PROV715;Mainz;;;;;;;;x
+PROV716;Wurzwingburg;;;;;;;;x
+PROV717;Bawingberg;;;;;;;;x
+PROV718;Lauwingburg;;;;;;;;x
+PROV719;Airhalt;;;;;;;;x
+PROV720;Blankwingburg;;;;;;;;x
+PROV721;Schwingben;;;;;;;;x
+PROV722;Vlm;;;;;;;;x
+PROV723;Feathrstenberg;;;;;;;;x
+PROV724;Wittwingberg;;;;;;;;x
+PROV725;Mareseburg;;;;;;;;x
+PROV726;Zeitzoar;;;;;;;;x
+PROV727;Gottingwing;;;;;;;;x
+PROV728;Eversoartein;;;;;;;;x
 PROV729;Lynxwingbourg;;;;;;;;x
 PROV730;Airlon;;;;;;;;x
 PROV731;Clawin;;;;;;;;x
@@ -813,14 +813,14 @@ PROV812;South Griffking;;;;;;;;x
 PROV813;West Griffking;;;;;;;;x
 PROV814;Highwing Straits;;;;;;;;x
 PROV815;Lake Griffking;;;;;;;;x
-PROV816;Greatwing River1;;;;;;;;x
-PROV817;Greatwing River2;;;;;;;;x
-PROV818;Greatwing River3;;;;;;;;x
-PROV819;Greatwing River4;;;;;;;;x
+PROV816;Greatwing River;;;;;;;;x
+PROV817;Greatwing River;;;;;;;;x
+PROV818;Greatwing River;;;;;;;;x
+PROV819;Greatwing River;;;;;;;;x
 PROV820;Fillyzan Straits;;;;;;;;x
 PROV821;Al Zebara Bay;;;;;;;;x
-PROV822;Coltegol Sea1;;;;;;;;x
-PROV823;Coltegol Sea2;;;;;;;;x
+PROV822;Coltegol Sea;;;;;;;;x
+PROV823;Coltegol Sea;;;;;;;;x
 PROV824;Zebrican Horn;;;;;;;;x
 PROV825;Zebgola Sea;;;;;;;;x
 PROV826;Coast of Telmane;;;;;;;;x
@@ -828,48 +828,48 @@ PROV827;Stripped Straits;;;;;;;;x
 PROV828;Zebnyati Bay;;;;;;;;x
 PROV829;Buckbuffa;;;;;;;;x
 PROV830;Buffalo Sea;;;;;;;;x
-PROV831;Buffalo Sea2;;;;;;;;x
-PROV832;Stampeading Coast1;;;;;;;;x
-PROV833;Stampeading Coast2;;;;;;;;x
+PROV831;Buffalo Sea;;;;;;;;x
+PROV832;Stampeading Coast;;;;;;;;x
+PROV833;Stampeading Coast;;;;;;;;x
 PROV834;Gulf of Mecxicoltto;;;;;;;;x
 PROV835;Bufazam River;;;;;;;;x
 PROV836;Lake Bufcoco;;;;;;;;x
-PROV837;Sea1;;;;;;;;x
-PROV838;Sea2;;;;;;;;x
-PROV839;Sea3;;;;;;;;x
-PROV840;Sea4;;;;;;;;x
-PROV841;Sea5;;;;;;;;x
+PROV837;West Sea;;;;;;;;x
+PROV838;West Sea;;;;;;;;x
+PROV839;West Sea;;;;;;;;x
+PROV840;West Sea;;;;;;;;x
+PROV841;West Sea;;;;;;;;x
 PROV842;Las Pegasus Bay;;;;;;;;x
-PROV843;Sea6;;;;;;;;x
+PROV843;West Sea;;;;;;;;x
 PROV844;Gulf of Saddles;;;;;;;;x
-PROV845;Sea7;;;;;;;;x
-PROV846;Sea8;;;;;;;;x
-PROV847;Sea9;;;;;;;;x
-PROV848;Sea10;;;;;;;;x
-PROV849;Sea11;;;;;;;;x
-PROV850;Sea12;;;;;;;;x
+PROV845;West Sea;;;;;;;;x
+PROV846;West Sea;;;;;;;;x
+PROV847;West Sea;;;;;;;;x
+PROV848;West Sea;;;;;;;;x
+PROV849;West Sea;;;;;;;;x
+PROV850;West Sea;;;;;;;;x
 PROV851;Vanhoover Bay;;;;;;;;x
 PROV852;Marecific North West;;;;;;;;x
-PROV853;Marecific North West 2;;;;;;;;x
+PROV853;Marecific North West;;;;;;;;x
 PROV854;Strait of Vanhoover;;;;;;;;x
 PROV855;Crystal Gulf;;;;;;;;x
-PROV856;Forzan Coast1;;;;;;;;x
-PROV857;Forzan Coast2;;;;;;;;x
-PROV858;Forzan Coast3;;;;;;;;x
-PROV859;Forzan Coast4;;;;;;;;x
-PROV860;Ice Sea1;;;;;;;;x
-PROV861;Ice Sea2;;;;;;;;x
-PROV862;Ice Sea3;;;;;;;;x
-PROV863;Coast of Mooseland 1;;;;;;;;x
-PROV864;Coast of Mooseland 2;;;;;;;;x
-PROV865;Coast of Mooseland 3;;;;;;;;x
-PROV866;Coast of Mooseland 4;;;;;;;;x
-PROV867;Ice Sea5;;;;;;;;x
-PROV868;Ice Sea6;;;;;;;;x
-PROV869;Ice Sea7;;;;;;;;x
-PROV870;North Marelantic 1;;;;;;;;x
-PROV871;North Marelantic 2;;;;;;;;x
-PROV872;North Marelantic 3;;;;;;;;x
+PROV856;Forzan Coast;;;;;;;;x
+PROV857;Forzan Coast;;;;;;;;x
+PROV858;Forzan Coast;;;;;;;;x
+PROV859;Forzan Coast;;;;;;;;x
+PROV860;Ice Sea;;;;;;;;x
+PROV861;Ice Sea;;;;;;;;x
+PROV862;Ice Sea;;;;;;;;x
+PROV863;Coast of Mooseland;;;;;;;;x
+PROV864;Coast of Mooseland;;;;;;;;x
+PROV865;Coast of Mooseland;;;;;;;;x
+PROV866;Coast of Mooseland;;;;;;;;x
+PROV867;Ice Sea;;;;;;;;x
+PROV868;Ice Sea;;;;;;;;x
+PROV869;Ice Sea;;;;;;;;x
+PROV870;North Marelantic;;;;;;;;x
+PROV871;North Marelantic;;;;;;;;x
+PROV872;North Marelantic;;;;;;;;x
 PROV873;Diamond Straits;;;;;;;;x
 PROV874;Crystal Coast;;;;;;;;x
 PROV875;Manehatten Sea;;;;;;;;x
@@ -880,44 +880,44 @@ PROV879;Fillydelphia Bay;;;;;;;;x
 PROV880;North Hoof Sea;;;;;;;;x
 PROV881;Horseshoe Estuary;;;;;;;;x
 PROV882;Horseshoe Bay;;;;;;;;x
-PROV883;Marelantic 1;;;;;;;;x
-PROV884;Marelantic 2;;;;;;;;x
-PROV885;Marelantic 3;;;;;;;;x
-PROV886;Marelantic 4;;;;;;;;x
-PROV887;Marelantic 5;;;;;;;;x
-PROV888;Marelantic 6;;;;;;;;x
-PROV889;Marelantic 7;;;;;;;;x
-PROV890;Marelantic 8;;;;;;;;x
-PROV891;Marelantic 9;;;;;;;;x
-PROV892;Marelantic 10;;;;;;;;x
-PROV893;Marelantic 11;;;;;;;;x
+PROV883;Marelantic;;;;;;;;x
+PROV884;Marelantic;;;;;;;;x
+PROV885;Marelantic;;;;;;;;x
+PROV886;Marelantic;;;;;;;;x
+PROV887;Marelantic;;;;;;;;x
+PROV888;Marelantic;;;;;;;;x
+PROV889;Marelantic;;;;;;;;x
+PROV890;Marelantic;;;;;;;;x
+PROV891;Marelantic;;;;;;;;x
+PROV892;Marelantic;;;;;;;;x
+PROV893;Marelantic;;;;;;;;x
 PROV894;Hayseed Gulf;;;;;;;;x
-PROV895;Hayseed Coast1;;;;;;;;x
-PROV896;Hayseed Coast2;;;;;;;;x
+PROV895;Hayseed Coast;;;;;;;;x
+PROV896;Hayseed Coast;;;;;;;;x
 PROV897;Haytree Strait;;;;;;;;x
 PROV898;Hayseed Approach;;;;;;;;x
 PROV899;Dunfjord;;;;;;;;x
-PROV900;RiverMouth1;;;;;;;;x
+PROV900;Rivermoth;;;;;;;;x
 PROV901;Sjona;;;;;;;;x
 PROV902;Featheringet;;;;;;;;x
 PROV903;Griffbotn;;;;;;;;x
 PROV904;Northwing Sea;;;;;;;;x
 PROV905;Mouth of Greatwing;;;;;;;;x
-PROV906;Bluewing Coast1;;;;;;;;x
-PROV907;Bluewing Coast2;;;;;;;;x
-PROV908;Bluewing Coast3;;;;;;;;x
+PROV906;Bluewing Coast;;;;;;;;x
+PROV907;Bluewing Coast;;;;;;;;x
+PROV908;Bluewing Coast;;;;;;;;x
 PROV909;Redwing Bay;;;;;;;;x
 PROV910;Gap of Gryphons;;;;;;;;x
-PROV911;Maredriatic1;;;;;;;;x
-PROV912;Maredriatic2;;;;;;;;x
-PROV913;Maredriatic3;;;;;;;;x
+PROV911;Maredriatic;;;;;;;;x
+PROV912;Maredriatic;;;;;;;;x
+PROV913;Maredriatic;;;;;;;;x
 PROV914;Gulf of Talonberis;;;;;;;;x
-PROV915;Maredriatic4;;;;;;;;x
-PROV916;Arabian Cost1;;;;;;;;x
-PROV917;Arabian Cost2;;;;;;;;x
-PROV918;Arabian Cost3;;;;;;;;x
-PROV919;Arabian Cost4;;;;;;;;x
-PROV920;Arabian Cost5;;;;;;;;x
+PROV915;Maredriatic;;;;;;;;x
+PROV916;Arabian Cost;;;;;;;;x
+PROV917;Arabian Cost;;;;;;;;x
+PROV918;Arabian Cost;;;;;;;;x
+PROV919;Arabian Cost;;;;;;;;x
+PROV920;Arabian Cost;;;;;;;;x
 PROV921;Greenhoof Gulf;;;;;;;;x
 PROV922;Hadib Channel;;;;;;;;x
 PROV923;Gulf of Hamaremet;;;;;;;;x
@@ -933,20 +933,20 @@ PROV932;Marediterranean Sea;;;;;;;;x
 PROV933;Green Isles Approach;;;;;;;;x
 PROV934;Longhorn Coast;;;;;;;;x
 PROV935;Greenclaw Straits;;;;;;;;x
-PROV936;South Marelantic1;;;;;;;;x
-PROV937;South Marelantic2;;;;;;;;x
-PROV938;South Marelantic3;;;;;;;;x
+PROV936;South Marelantic;;;;;;;;x
+PROV937;South Marelantic;;;;;;;;x
+PROV938;South Marelantic;;;;;;;;x
 PROV939;Shadow Bay;;;;;;;;x
-PROV940;Changling Coast1;;;;;;;;x
-PROV941;Changling Coast2;;;;;;;;x
-PROV942;Changling Coast3;;;;;;;;x
-PROV943;Changling Coast4;;;;;;;;x
-PROV944;Changling Coast5;;;;;;;;x
-PROV945;Narrow Sea1;;;;;;;;x
-PROV946;Narrow Sea2;;;;;;;;x
-PROV947;Narrow Sea3;;;;;;;;x
-PROV948;Zebrican Approach1;;;;;;;;x
-PROV949;Zebrican Approach2;;;;;;;;x
+PROV940;Changling Coast;;;;;;;;x
+PROV941;Changling Coast;;;;;;;;x
+PROV942;Changling Coast;;;;;;;;x
+PROV943;Changling Coast;;;;;;;;x
+PROV944;Changling Coast;;;;;;;;x
+PROV945;Narrow Sea;;;;;;;;x
+PROV946;Narrow Sea;;;;;;;;x
+PROV947;Narrow Sea;;;;;;;;x
+PROV948;Zebrican Approach;;;;;;;;x
+PROV949;Zebrican Approach;;;;;;;;x
 PROV950;South Manedalus Coast;;;;;;;;x
 PROV951;Manedalus Coast;;;;;;;;x
 PROV952;North Manedalus Coast;;;;;;;;x
@@ -957,11 +957,11 @@ PROV956;Coast of Manelaga;;;;;;;;x
 PROV957;Gulf of Rams;;;;;;;;x
 PROV958;Cape of Manedalus;;;;;;;;x
 PROV959;Zebzeben Bay;;;;;;;;x
-PROV960;Zebrican Coast1;;;;;;;;x
-PROV961;Zebrican Coast2;;;;;;;;x
-PROV962;Zebrican Coast3;;;;;;;;x
-PROV963;Zebrican Coast4;;;;;;;;x
-PROV964;Zebrican Coast5;;;;;;;;x
+PROV960;Zebrican Coast;;;;;;;;x
+PROV961;Zebrican Coast;;;;;;;;x
+PROV962;Zebrican Coast;;;;;;;;x
+PROV963;Zebrican Coast;;;;;;;;x
+PROV964;Zebrican Coast;;;;;;;;x
 PROV965;Amzebos Bay;;;;;;;;x
 PROV966;Amzebos Coast;;;;;;;;x
 PROV967;Upper Zebzeben;;;;;;;;x
@@ -973,65 +973,65 @@ PROV972;Amzebos;;;;;;;;x
 PROV973;Changinus;;;;;;;;x
 PROV974;Hibrodarbis;;;;;;;;x
 PROV975;Chitalinas;;;;;;;;x
-PROV976;Hibrodarbis2;;;;;;;;x
-PROV977;Neighle1;;;;;;;;x
-PROV978;Neighle2;;;;;;;;x
-PROV979;Neighle3;;;;;;;;x
-PROV980;Neighle4;;;;;;;;x
-PROV981;Neighle5;;;;;;;;x
-PROV982;Neighle6;;;;;;;;x
-PROV983;Neighle7;;;;;;;;x
-PROV984;Neighle8;;;;;;;;x
-PROV985;Neighle9;;;;;;;;x
-PROV986;Sadalid River1;;;;;;;;x
-PROV987;Sadalid River2;;;;;;;;x
-PROV988;Sadalid River3;;;;;;;;x
+PROV976;Hibrodarbis;;;;;;;;x
+PROV977;Neighle;;;;;;;;x
+PROV978;Neighle;;;;;;;;x
+PROV979;Neighle;;;;;;;;x
+PROV980;Neighle;;;;;;;;x
+PROV981;Neighle;;;;;;;;x
+PROV982;Neighle;;;;;;;;x
+PROV983;Neighle;;;;;;;;x
+PROV984;Neighle;;;;;;;;x
+PROV985;Neighle;;;;;;;;x
+PROV986;Sadalid River;;;;;;;;x
+PROV987;Sadalid River;;;;;;;;x
+PROV988;Sadalid River;;;;;;;;x
 PROV989;Marecca Sea;;;;;;;;x
 PROV990;Talonberis;;;;;;;;x
-PROV991;Maregian Sea1;;;;;;;;x
-PROV992;Maregian Sea2;;;;;;;;x
-PROV993;Redwing1;;;;;;;;x
-PROV994;Redwing2;;;;;;;;x
-PROV995;Redwing3;;;;;;;;x
-PROV996;Redwing4;;;;;;;;x
-PROV997;Grifleb1;;;;;;;;x
-PROV998;Grifleb2;;;;;;;;x
-PROV999;Grifleb3;;;;;;;;x
-PROV1000;Grifleb4;;;;;;;;x
-PROV1001;Grifleb5;;;;;;;;x
-PROV1002;Grifleb6;;;;;;;;x
+PROV991;Maregian Sea;;;;;;;;x
+PROV992;Maregian Sea;;;;;;;;x
+PROV993;Redwing;;;;;;;;x
+PROV994;Redwing;;;;;;;;x
+PROV995;Redwing;;;;;;;;x
+PROV996;Redwing;;;;;;;;x
+PROV997;Grifleb;;;;;;;;x
+PROV998;Grifleb;;;;;;;;x
+PROV999;Grifleb;;;;;;;;x
+PROV1000;Grifleb;;;;;;;;x
+PROV1001;Grifleb;;;;;;;;x
+PROV1002;Grifleb;;;;;;;;x
 PROV1003;Iceka River;;;;;;;;x
-PROV1004;Nor1;;;;;;;;x
-PROV1005;Nor2;;;;;;;;x
-PROV1006;Dimond1;;;;;;;;x
-PROV1007;Dimond2;;;;;;;;x
-PROV1008;Dimond3;;;;;;;;x
-PROV1009;Dimond4;;;;;;;;x
-PROV1010;Iceglass Lake1;;;;;;;;x
-PROV1011;Iceglass Lake2;;;;;;;;x
-PROV1012;Iceglass Lake3;;;;;;;;x
-PROV1013;Crystal River1;;;;;;;;x
-PROV1014;Crystal River2;;;;;;;;x
-PROV1015;Crystal River3;;;;;;;;x
+PROV1004;Nor;;;;;;;;x
+PROV1005;Nor;;;;;;;;x
+PROV1006;Dimond;;;;;;;;x
+PROV1007;Dimond;;;;;;;;x
+PROV1008;Dimond;;;;;;;;x
+PROV1009;Dimond;;;;;;;;x
+PROV1010;Iceglass Lake;;;;;;;;x
+PROV1011;Iceglass Lake;;;;;;;;x
+PROV1012;Iceglass Lake;;;;;;;;x
+PROV1013;Crystal River;;;;;;;;x
+PROV1014;Crystal River;;;;;;;;x
+PROV1015;Crystal River;;;;;;;;x
 PROV1016;River Canter;;;;;;;;x
-PROV1017;Saddle River1;;;;;;;;x
+PROV1017;Saddle River;;;;;;;;x
 PROV1018;Saddle Lake;;;;;;;;x
-PROV1019;Saddle River2;;;;;;;;x
-PROV1020;Saddle River3;;;;;;;;x
-PROV1021;Saddle River4;;;;;;;;x
-PROV1022;Saddle River5;;;;;;;;x
-PROV1023;Saddle River6;;;;;;;;x
+PROV1019;Saddle River;;;;;;;;x
+PROV1020;Saddle River;;;;;;;;x
+PROV1021;Saddle River;;;;;;;;x
+PROV1022;Saddle River;;;;;;;;x
+PROV1023;Saddle River;;;;;;;;x
 PROV1024;Lake Neighagra;;;;;;;;x
-PROV1025;River Equus1;;;;;;;;x
-PROV1026;River Equus2;;;;;;;;x
-PROV1027;River Equus3;;;;;;;;x
-PROV1028;River Equus4;;;;;;;;x
-PROV1029;River Equus5;;;;;;;;x
+PROV1025;River Equus;;;;;;;;x
+PROV1026;River Equus;;;;;;;;x
+PROV1027;River Equus;;;;;;;;x
+PROV1028;River Equus;;;;;;;;x
+PROV1029;River Equus;;;;;;;;x
 PROV1030;Everstream;;;;;;;;x
-PROV1031;Hay River1;;;;;;;;x
-PROV1032;Hay River2;;;;;;;;x
-PROV1033;Hay River3;;;;;;;;x
-PROV1034;Hay River4;;;;;;;;x
+PROV1031;Hay River;;;;;;;;x
+PROV1032;Hay River;;;;;;;;x
+PROV1033;Hay River;;;;;;;;x
+PROV1034;Hay River;;;;;;;;x
 PROV1035;Zebmajani;;;;;;;;x
 PROV1036;Zebnyati;;;;;;;;x
 PROV1037;Featherjuvet;;;;;;;;x
