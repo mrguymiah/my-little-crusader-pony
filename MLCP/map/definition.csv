@@ -451,7 +451,7 @@ province;red;green;blue;x;x;;;;;
 450;174;63;115;Crystal Vale;x;;;;
 451;220;24;116;Crystal Hills;x;;;;
 452;191;60;131;East Ridge;x;;;;
-453;100;14;54;Saphire Pass;x;;;;#EMPTY
+453;100;14;54;ChangelingIslandExtra1;x;;;;
 454;148;71;107;Kunzite;x;;;;;
 455;166;98;130;Opalshire;x;;;;;
 456;178;121;159;Neighagra;Falls;x;;;;
@@ -463,16 +463,16 @@ province;red;green;blue;x;x;;;;;
 462;95;21;56;Flawlessa;x;;;;;
 463;151;79;113;CyKd12;x;;;;;
 464;102;47;72;Bergundy;x;;;;;
-465;143;79;114;Dead;x;;;;#EMPTY
+465;143;79;114;ChangelingIslandExtra2;x;;;;
 466;106;24;62;Coatshire;x;;;;;
 467;59;95;131;DH1;x;;;;;
 468;47;78;109;DH2;x;;;;;
 469;48;88;129;White;Light;x;;;;
 470;29;69;110;DH4;x;;;;;
 471;53;103;153;DH5;x;;;;;
-472;255;255;255;DEAD;x;;;;#EMPTY
+472;255;255;255;ChangelingIslandExtra3;x;;;;
 473;102;130;158;DH7;x;;;;;
-474;77;108;138;;x;;;;#EMPTY
+474;77;108;138;ChangelingIslandExtra4;x;;;;
 475;47;85;123;DH9;x;;;;;
 476;98;143;189;Preussen;x;;;;;
 477;115;153;191;DH11;x;;;;;
@@ -484,7 +484,7 @@ province;red;green;blue;x;x;;;;;
 483;96;118;140;DH17;x;;;;;
 484;87;123;141;DH18;x;;;;;
 485;84;125;167;DH19;x;;;;;
-486;72;98;126;;x;;;;#EMPTY
+486;72;98;126;ChangelingIslandExtra5;x;;;;
 487;82;142;203;DH21;x;;;;;
 488;102;138;157;DH22;x;;;;;
 489;123;156;173;DH23;x;;;;;
@@ -516,7 +516,7 @@ province;red;green;blue;x;x;;;;;
 515;10;59;92;North16;x;;;;;
 516;46;73;91;Norht16;x;;;;;
 517;31;112;135;North17;x;;;;;
-518;76;102;117;;x;;;;#EMPTY
+518;76;102;117;ChangelingIslandExtra6;x;;;;
 519;44;105;124;North18;x;;;;;
 520;61;135;130;Norht18;x;;;;;
 521;76;121;117;North19;x;;;;;

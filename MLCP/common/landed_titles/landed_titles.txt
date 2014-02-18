@@ -3229,7 +3229,47 @@ k_changeling = {
 	
 	culture = changeling_culture
 	
-	
+	d_mount_cocoon = {
+			color={ 65 80 85 }
+			color2={ 255 255 255 }
+			
+			c_mount_cocoon1 = {
+				color={ 65 80 85 }
+				color2={ 255 255 255 }
+				
+				b_mount_cocoon1_1 = {}
+			}
+			c_mount_cocoon2 = {
+				color={ 65 80 85 }
+				color2={ 255 255 255 }
+				
+				b_mount_cocoon2_1 = {}
+			}
+			c_mount_cocoon3 = {
+				color={ 65 80 85 }
+				color2={ 255 255 255 }
+				
+				b_mount_cocoon3_1 = {}
+			}
+			c_mount_cocoon4 = {
+				color={ 65 80 85 }
+				color2={ 255 255 255 }
+				
+				b_mount_cocoon4_1 = {}
+			}
+			c_mount_cocoon5 = {
+				color={ 65 80 85 }
+				color2={ 255 255 255 }
+				
+				b_mount_cocoon5_1 = {}
+			}
+			c_mount_cocoon6 = {
+				color={ 65 80 85 }
+				color2={ 255 255 255 }
+				
+				b_mount_cocoon6_1 = {}
+			}
+	}
 	
 	d_south = {
 			color={ 109 203 78 }
