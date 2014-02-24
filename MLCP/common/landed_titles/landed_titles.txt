@@ -3184,33 +3184,6 @@ k_sioxen = {
 				
 		}
 		}
-		
-	
-
-	
-	
-		
-	
-
-e_deeria = {
-	color={ 80 189 199 }
-	color2={ 255 255 20 }
-	
-	capital = 397 # Stagland	
-	short_name = yes
-	
-	culture = elapho_culture
-	
-
-
-	
-	
-	
-
-	}
-	
-
-	
 e_changeling = {
 	color={ 109 203 78 }
 	color2={ 255 255 20 }
