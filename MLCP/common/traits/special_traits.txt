@@ -8,3 +8,14 @@ the_wilds = { #Only for The Wilds
 	ai_ambition = -100
 	ai_zeal = -100
 }
+
+hearth_warmer = {
+	same_opinion = 200
+	monthly_character_prestige = 0.5
+	tolerates_pegasus_Rgroup = yes
+	tolerates_unicorn_Rgroup = yes
+	tolerates_earthpony_Rgroup = yes
+	
+	customizer = no
+	random = no
+}
