@@ -15,6 +15,7 @@
 	learning=5
 	religion="unicorn_religion"
 	add_trait="unicorn"
+	add_trait="hearth_warmer"
 	add_trait="gregarious"
 	add_trait="honest"
 	culture="unicorn_culture"
@@ -36,6 +37,7 @@
 	religion="unicorn_religion"
 	culture="unicorn_culture"
 	add_trait="unicorn"
+	add_trait"hearth_warmer"
 	add_trait="midas_touched"
 	add_trait="kind"
 	81.8.13 = {
@@ -53,6 +55,7 @@
 	culture="pegasus_culture"
 	religion="soarastrian"
 	add_trait="pegasus"
+	add_trait="hearth_warmer"
 	add_trait="proud"
 	add_trait="brave"
 	add_trait="brilliant_strategist"
@@ -75,6 +78,7 @@
 	culture="pegasus_culture"
 	religion="soarastrian"
 	add_trait="pegasus"
+	add_trait="hearth_warmer"
 	add_trait="craven"
 	add_trait="shy"
 	add_trait="misguided_warrior"
@@ -98,6 +102,7 @@
 	religion="earth_religion"
 	culture="earth_pony_culture"
 	add_trait="earth_pony"
+	add_trait="hearth_warmer"
 	add_trait="gregarious"
 	add_trait="honest"
 	add_trait="arbitrary"
@@ -121,6 +126,7 @@
 	religion="earth_religion"
 	culture="earth_pony_culture"
 	add_trait="earth_pony"
+	add_trait="hearth_warmer"
 	add_trait="midas_touched"
 	add_trait="kind"
 	father = 11
