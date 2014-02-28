@@ -80,7 +80,13 @@ spriteTypes = {
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
-
+	spriteType = {
+		name = "GFX_trait_hearth_warmer"
+		texturefile = "gfx/traits/hearth_warmer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
 	#############################
 	# End of MLCP Trait Sprites #
  	#############################
