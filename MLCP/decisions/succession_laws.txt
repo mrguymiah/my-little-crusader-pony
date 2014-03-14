@@ -309,8 +309,8 @@ succession_laws = {
 		}			
 	}
 	succ_papal_succession = {
-		potential = {
-			title = d_ponitentum
+		potential = { 
+			title = d_ponitentum 
 		}
 		
 		effect = {
@@ -322,6 +322,7 @@ succession_laws = {
 	}
 	succ_open_elective = {
 		potential = {
+			NOT = { title = d_ponitentum }
 			OR = {
 				is_primary_type_title = yes
 				AND = {
@@ -366,7 +367,8 @@ succession_laws = {
 		}
 		revoke_allowed = {
 			always = no
-		}			
+		}	
+
 	}
 	succ_catholic_bishopric = {
 		potential = {
