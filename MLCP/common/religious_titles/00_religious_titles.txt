@@ -52,7 +52,7 @@ title_unicorn_cardinal = {
 }
 
 title_unicorn_reformed_cardinal = {
-	religion = unicorn_reformed
+	religion = unicorn_religion_reformed
 	can_elect_head = yes
 	
 	grant_limit = 9
@@ -67,7 +67,7 @@ title_unicorn_reformed_cardinal = {
 	monthly_prestige = 0.5
 	
 	allow = {
-		religion = unicorn_reformed
+		religion = unicorn_religion_reformed
 		is_theocracy = yes
 		
 		NOT = {
