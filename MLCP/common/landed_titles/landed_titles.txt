@@ -5592,7 +5592,7 @@ k_crystal_kingdom = {
 	color={ 177 220 222 	}
 	color2={ 255 255 255 	}
 	
-	capital = 492 # Crystal Gap
+	capital = 531 # 
 	
 	culture = crystal_culture
 	
@@ -5600,7 +5600,7 @@ k_crystal_kingdom = {
 			color={ 53 130 145 	}
 			color2={ 255 255 255 	}
 			
-			capital = 529 # North23
+			capital = 531 # North24
 			
 			c_north23 = {
 				color={ 53 130 145 	}
