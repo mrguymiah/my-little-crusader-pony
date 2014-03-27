@@ -615,3 +615,14 @@ caribou_Rgroup = {
 		max_consorts = 5
 	}
 }
+
+wild_rgroup = {
+	playable = no
+	has_coa_on_barony_only = no
+	graphical_culture = westerngfx
+	
+	wildfaith = {
+		
+		icon = 31
+		heresy_icon = 33
+		color = { 0.0 0.1 0.0
