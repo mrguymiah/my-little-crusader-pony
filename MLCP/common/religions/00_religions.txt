@@ -625,4 +625,6 @@ wild_rgroup = {
 		
 		icon = 31
 		heresy_icon = 33
-		color = { 0.0 0.1 0.0
+		color = { 0.0 0.1 0.0 }
+	}
+}
