@@ -11,7 +11,7 @@ b_redington = city
 #b_scarletminster = temple
 
 # Misc
-100.1.1 = {
-	religion = falphanti
-	culture = fallow
-}
+culture = earth_pony_culture
+religion = earth_religion
+
+#History

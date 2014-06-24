@@ -218,7 +218,7 @@
 	culture=saddle_arabian_culture
 	trait="horse"
 	trait="charismatic_negotiator"
-	trait="genius
+	trait="genius"
 	father = 4003
 	106.2.1 = {
 		birth=yes

@@ -1,7 +1,7 @@
-100.1.1={
-	law = true_cognatic_succession
+20.1.1={
+	law = enatic_cognatic_succession
 	law = succ_gavelkind
-	holder=413
-	liege = k_unicornia
 }
-
+100.1.1={
+	liege=d_pegasus_pass
+}

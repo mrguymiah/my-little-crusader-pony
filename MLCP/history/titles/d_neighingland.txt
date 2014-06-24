@@ -1,6 +1,7 @@
-119.1.1={
-	law = true_cognatic_succession
+20.1.1={
+	law = enatic_cognatic_succession
 	law = succ_gavelkind
-	holder = 6
-	liege = k_earth
+}
+100.1.1={
+	liege=k_earth
 }

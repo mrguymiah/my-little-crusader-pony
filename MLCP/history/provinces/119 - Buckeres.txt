@@ -10,6 +10,6 @@ b_buckeres = castle
 
 # Misc
 culture = saddle_arabian_culture
-100.1.1 = {
-	religion = saddle_arabian_religion
-}
+religion = saddle_arabian_religion
+
+#History

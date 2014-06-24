@@ -37,7 +37,7 @@
 	religion="unicorn_religion"
 	culture="unicorn_culture"
 	add_trait="unicorn"
-	add_trait"hearth_warmer"
+	add_trait="hearth_warmer"
 	add_trait="midas_touched"
 	add_trait="kind"
 	81.8.13 = {
@@ -184,12 +184,12 @@
 	religion="earth_religion"
 	culture="earth_pony_culture"
 	add_trait="earth_pony"
-	69.1.2 = {
-		add_spouse = 11
-	}
 	father=16
 	49.1.2 = {
 		birth="49.1.2"
+	}
+	69.1.2 = {
+		add_spouse = 11
 	}
 	99.1.2 = {
 		death="99.1.2"
@@ -474,7 +474,7 @@
 	add_trait="pegasus"
 	mother=4
 	father=215
-	97.1.22= {
+	97.1.18= {
 		birth="97.1.18"
 	}
 }
@@ -494,7 +494,7 @@
 	mother=4
 	father=215
 	101.1.22= {
-		birth="101.1.18"
+		birth="101.1.22"
 	}
 }
 #Unicorns#
@@ -512,11 +512,11 @@
 	add_trait="proud"
 	add_trait="paranoid"
 	culture="unicorn_culture"
-	82.1.2 = {
-		add_spouse = 412
-	}
 	52.1.2 = {
 		birth="52.1.2"
+	}
+	82.1.2 = {
+		add_spouse = 412
 	}
 	109.5.2 = {
 		death="109.5.2"
@@ -537,11 +537,11 @@
 	add_trait="humble"
 	add_trait="paranoid"
 	culture="unicorn_culture"
-	82.1.2 = {
-		add_spouse = 411
-	}
 	63.7.2 = {
 		birth="63.7.2"
+	}
+	82.1.2 = {
+		add_spouse = 411
 	}
 	102.5.2 = {
 		death="102.5.2"
@@ -598,6 +598,6 @@
 	father = 411
 	mother = 412
 	92.3.18 = {
-		birth="90.3.18"
+		birth="92.3.18"
 	}
 }

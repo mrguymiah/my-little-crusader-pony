@@ -10,6 +10,6 @@ b_hoofi = castle
 
 # Misc
 culture = sioxen
-100.1.1 = {
-	religion = buffalo_religion
-}
+religion = buffalo_religion
+
+#History

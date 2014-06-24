@@ -1,5 +1,7 @@
-100.1.1={
-	holder=3
+20.1.1={
+	law = enatic_cognatic_succession
+	law = succ_gavelkind
 }
-
-
+100.1.1={
+	liege=d_cold_wind_pass
+}

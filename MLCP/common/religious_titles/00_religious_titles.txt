@@ -12,7 +12,7 @@
 #	message: should fire a message to the its owner when set
 #	The other fields are all character modifiers.
 
-title_unicorn_cardinal = {
+title_unicorn_religion_cardinal = {
 	religion = unicorn_religion
 	can_elect_head = yes
 	
@@ -51,7 +51,7 @@ title_unicorn_cardinal = {
 	message = yes
 }
 
-title_unicorn_reformed_cardinal = {
+title_unicorn_religion_reformed_cardinal = {
 	religion = unicorn_religion_reformed
 	can_elect_head = yes
 	

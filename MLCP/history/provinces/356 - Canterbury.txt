@@ -4,15 +4,15 @@
 title = c_canterbury
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_canterbury = temple
 #b_canterham_b) = city
-#b_whitestable = city
+b_whitestable = city
 #b_horseden = castle
 
 # Misc
-100.1.1 = {
-	religion = earth_religion
-	culture = earth_pony_culture
-}
+culture = earth_pony_culture
+religion = earth_religion
+
+#History

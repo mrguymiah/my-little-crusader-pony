@@ -12,10 +12,10 @@
 #   PONY   #
 ############
 equestrian = {
-	graphical_culture = westerngfx
+	graphical_culture = ponygfx
 	
 	earth_pony_culture = {
-		graphical_culture = saxongfx
+		graphical_culture = ponygfx
 		
 		color = { 87 174 78 }
 		
@@ -53,7 +53,7 @@ equestrian = {
 	
 	
 	pegasus_culture = {
-		graphical_culture = saxongfx
+		graphical_culture = ponygfx
 		
 		color = { 163 216 255 }
 		
@@ -86,7 +86,7 @@ equestrian = {
 	}
 	
 	unicorn_culture = {
-		graphical_culture = germangfx
+		graphical_culture = ponygfx
 		
 		color = { 233 147 233 }
 		
@@ -117,7 +117,7 @@ equestrian = {
 	}
 	
 	crystal_culture = {
-		graphical_culture = norsegfx
+		graphical_culture = ponygfx
 		
 		color = { 0.1 0.0 0.7 }
 		
@@ -153,7 +153,7 @@ equestrian = {
 		
 	}
 	thestral_culture = {
-		graphical_culture = saxongfx
+		graphical_culture = ponygfx
 		
 		color = { 0.2 0.2 0.4 }
 		
@@ -176,10 +176,10 @@ equestrian = {
 #   HORSE   #
 #############
 saddle_arabian_group = {
-	graphical_culture = muslimgfx
+	graphical_culture = ponygfx
 	
 	saddle_arabian_culture = {
-		graphical_culture = muslimgfx
+		graphical_culture = ponygfx
 		
 		color = { 0.2 0.3 0.7 }
 		
@@ -206,10 +206,10 @@ saddle_arabian_group = {
 #   OTHER EQUINE   #
 ####################
 zebra_group = {
-	graphical_culture = africangfx
+	graphical_culture = ponygfx
 	
 	zebradid = {
-		graphical_culture = africangfx
+		graphical_culture = ponygfx
 		
 		color = { 0.4 0.2 0.3 }
 
@@ -232,7 +232,7 @@ zebra_group = {
 	}
 	
 	zebrazen = {
-		graphical_culture = africangfx
+		graphical_culture = ponygfx
 		
 		color = { 0.4 0.9 0.4 }
 
@@ -260,10 +260,10 @@ zebra_group = {
 #   GRIFFON   #
 ###############
 griffon_group = {
-	graphical_culture = norsegfx
+	graphical_culture = ponygfx
 	
 	high_griffon = {
-		graphical_culture = norsegfx
+		graphical_culture = ponygfx
 		
 		color = { 0.5 0.2 0.1 }
 		
@@ -301,7 +301,7 @@ griffon_group = {
 	}
 	
 	south_griffon = {
-		graphical_culture = norsegfx
+		graphical_culture = ponygfx
 		color = { 0.15 0.4 0.55 }
 		
 		male_names = {
@@ -334,7 +334,7 @@ griffon_group = {
 	}
 	
 	low_griffon = {
-		graphical_culture = norsegfx
+		graphical_culture = ponygfx
 	
 		color = { 0.2 0.45 0.65 }
 		
@@ -403,7 +403,7 @@ changeling_group = {
 ##############
 wolf_group = {
 	timberwolf = {
-		graphical_culture = mesoamericangfx
+		graphical_culture = ponygfx
 		color = { 0.3 0.1 0.1 }
 		
 		male_names = {
@@ -428,7 +428,7 @@ wolf_group = {
 }
 great_canine_group = {
 	diamond_dog = {
-		graphical_culture = mesoamericangfx
+		graphical_culture = ponygfx
 		color = { 0.9 0.9 0.7 }
 		
 		male_names = {
@@ -456,7 +456,7 @@ great_canine_group = {
 ###############
 buffalo_group = {
 	blackhoof = {
-		graphical_culture = mesoamericangfx
+		graphical_culture = ponygfx
 		color = { 0.7 0.5 0.0 }
 		
 		male_names = {
@@ -484,7 +484,7 @@ buffalo_group = {
 	}
 	
 	sioxen = {
-			graphical_culture = mesoamericangfx
+			graphical_culture = ponygfx
 		color = { 1.0 0.5 0.0 }
 		
 		male_names = {
@@ -512,7 +512,7 @@ buffalo_group = {
 	}
 	
 	tazapan = {
-		graphical_culture = mesoamericangfx
+		graphical_culture = ponygfx
 		color = { 0.6 0.5 0.2 }
 		
 		male_names = {
@@ -715,7 +715,7 @@ deer_group = {
 ###############
 special_group = {
 	wildling = {
-		graphical_culture = mesoamericangfx
+		graphical_culture = ponygfx
 		color = { 0.3 0.1 0.1 }
 		
 		male_names = {

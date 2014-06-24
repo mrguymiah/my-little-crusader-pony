@@ -1,5 +1,4 @@
-max_provinces = 1043
-sea_starts = 809
+max_provinces = 1017
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
@@ -14,11 +13,10 @@ climate = "climate.txt"
 region = "region.txt"
 static = "static.txt"
 
-#Ocean Placeholder
-sea_zones = { 820 966 }
+# All Seas
+sea_zones = { 796 1011 }
 
-
-ocean_region = {
+ocean_region = {	# All Oceans
 	sea_zones = { 1 }
 }
 
@@ -26,90 +24,44 @@ ocean_region = {
 tree = { 3 4 7 10 }
 major_rivers = 
 { 
-#Zebzeben River; connects to Lake Strippas (968)
-967
-968
-969
-970
-971
-972
-#Changeling Rivers
-973
-974
-975
-976
-#Neighle
-977
-978
-979
-980
-981
-982
-983
-984
-985
-#Sadalid River; connects to Marecca Sea (989)
-986
-987
-988
-989
-#Talonberis; connects to Maregian Sea (991,992)
-990
-991
-992
-#Redwing River
-993
-994
-995
-996
-#Griflble River
-997
-998
-999
-1000
-1001
-1002
-#Iceka
-1003
-#North Griffon River
-1004
-1005
-#Diamond Hills River
-1006
-1007
-1008
-1009
-1010
-1011
-1012
-#Crystal River; connects to Lake Iceglass (1010, 1011, 1012)
-1013
-1014
-1015
-#River Saddle
-1016
-1017
-1018
-1019
-1020
-1021
-1022
-#Amzebos
-1023
-2024
-#River Equus; connects to Everlake (1041) and Lake Neighagra (1024)
-1025
-1026
-1027
-1028
-1029
-1030
-#Hay River
-1031
-1032
-1033
-1034
-#Pre Zebrica Rivers
-1035
-1036
+#Zebra Rivers:
+796 797 798 799 800 					#Zebzeben River; connects to Lake Strippas (968)
+801 									#Amzebos River
+#
+#Changeling Rivers:
+802										#Changinus
+803 804 805								#Hibrodarbis and Chitalinas
+#
+#Saddle Arabian Rivers:
+806 807 808 809 810 811 812 813 814 815	#Neighle River
+816 817 818 819							#Sadalid River; connects to Marecca Sea (989)
+#
+#Griffon Rivers:
+820 821 822 							#Talonberis; connects to Maregian Sea (991,992)
+823 824 825 826 						#Redwing River
+827 828 829 830 831 832					#Griflble River
+833 834 								#North Griffon River
+835										#Iceka
+836 837 338 839							#Greatwing River
+#
+#Diamond Hills Rivers:
+840 841 842	843						#Diamond Hills River
+#
+#The North Rivers:
+844	845 846 847 848 849					#Crystal River; connects to Lake Iceglass (1010, 1011, 1012)
+#
+#Unicornia Rivers:
+850 851 852 853 854 855 856 857 858 	#River Saddle
+#
+#Earth Rivers:
+859 860 861 862 863 864	865				#River Equus; connects to Everlake (1041) and Lake Neighagra (1024)
+#
+#Hayseed Rivers:
+866 867 868 869 870 					#Hay River
+#
+#Badland Rivers:
+871 									#Zebnyati
+#
+#Buffalonian Rivers:
+872 873 								#River Ungala
 }

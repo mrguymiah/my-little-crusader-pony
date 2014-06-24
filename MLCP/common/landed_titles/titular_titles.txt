@@ -1,143 +1,28 @@
 #####################
 # RELIGIOUS LEADERS #
 #####################
-d_elaphanti = {
-	color = { 240 155 155 }
-	color2 = { 255 255 255 }
-	
-	allow = {
-		piety = 2500
-	}
-	
-	title = "CERVID_CALIPHTITLE"
-	foa = "CERVID_CALIPHFOA"
-	religion = elaphanti
-	controls_religion = elaphanti
-	caliphate = yes
-
-}
-
-d_falphanti = {
-	color = { 195 115 115 }
-	color2 = { 255 255 255 }
-	
-	allow = {
-		piety = 2500
-	}
-	
-	title = "CERVID_CALIPHTITLE"
-	foa = "CERVID_CALIPHFOA"
-	religion = falphanti
-	controls_religion = falphanti
-	caliphate = yes
-	
-}
-
-d_muntura = {
-	color = { 200 170 90 }
-	color2 = { 255 255 255 }
-	
-	allow = {
-		piety = 2500
-	}
-	
-	title = "CERVID_CALIPHTITLE"
-	foa = "CERVID_CALIPHFOA"
-	religion = falphanti
-	controls_religion = muntura
-	caliphate = yes
-}
-
-d_cephalo = {
-	color = { 95 45 40 }
-	color2 = { 255 255 255 }
-	
-	allow = {
-		piety = 2500
-	}
-	
-	title = "CERVID_CALIPHTITLE"
-	foa = "CERVID_CALIPHFOA"
-	religion = falphanti
-	controls_religion = cephala
-	caliphate = yes
-}
 
 d_ponitentum = {
 	color = { 25 40 255 }
 	color2 = { 255 255 255 }
 	
-	allow = {
-		always = no
-	}
-	
 	title = "UNICORN_POPE"
 	foa = "UNICORN_POPEFOA"
-	religion = unicorn_religion
+	
+	landless = yes
+	
 	controls_religion = unicorn_religion
+	religion = unicorn_religion
+	
 	primary = yes
+	
+	dynasty_title_names = no
 }
 
 #######################
 # Equestrian Kingdoms #
 #######################
 
-e_equestria = {
-	color={ 52 194 251 }
-	color2={ 255 255 20 }
-	
-	capital = 296 # Canterlot 	
-	short_name = yes
-	
-	culture = unicorn_culture
-	
-	k_earth = {	
-		title = "CHANCELLOR"
-		foa = "CHANCELLOR_FOA"
-		color={ 87 153 38 }
-		color2={ 255 255 255 }
-		
-		capital = 324 # Baltimare
-		
-		primary = yes
-		
-		culture = earth_pony_culture
-		
-	}
-	k_pegasopolis = {
-		title = "COMMANDER"
-		foa = "COMMANDER_FOA"
-		color={ 16 49 134 }
-		color2={ 255 255 255 }
-		
-		capital = 370 # Pegasopolis
-		
-		primary = yes
-		
-		culture = pegasus_culture
-	}
-	k_unicornia = {
-		color={ 156 94 177 }
-		color2={ 255 255 255 }
-		
-		capital = 296 # Canterlot
-		
-		primary = yes
-		
-		culture = unicorn_culture
-	}
-	k_manehatten = {
-		color={ 189 54 80 }
-		color2={ 255 255 255 }
-		
-		capital = 321 # Manehatten
-		
-		primary = yes
-		
-		culture = earth_pony_culture
-		
-	}
-}
 ####################
 # Griffon Generals #
 ####################
@@ -178,16 +63,3 @@ e_equestria = {
 ######################
 # Specialized States #
 ######################
-
-c_the_wilds = {
-	color = { 0 0 0 }
-	color2 = { 0 0 0 }
-	
-	capital = 3
-	
-	primary = yes
-	
-	dignity = 10000
-	
-	culture = wildling
-}

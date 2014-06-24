@@ -7,11 +7,11 @@ title = c_mecxicoltto
 max_settlements = 7
 
 b_halmanox_palace = castle
-#b_mecxicoltto = city
-#b_shepatekata_steps = temple
+b_mecxicoltto = city
+b_shepatekata_steps = temple
 
 # Misc
 culture = tazapan
-100.1.1 = {
-	religion = buffalo_religion
-}
+religion = buffalo_religion
+
+#History

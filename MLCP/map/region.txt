@@ -3,6 +3,3 @@
 #
 # NOTE: do not add any regions here that are NOT islands
 
-region_archipelago_of_manehattan = {
-	provinces = { 3 }
-}

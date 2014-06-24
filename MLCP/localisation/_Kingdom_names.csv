@@ -1,83 +1,69 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
-k_zebrazen;Zebrazen;;;;;;;;;;;;;x;
-k_zebrazen_adj;Zebrazenian;;;;;;;;;;;;;x;
-k_zebora;Zebora;;;;;;;;;;;;;x;
-k_zebora_adj;Zeborian;;;;;;;;;;;;;x;
-k_zebrican_desert;Zebrican Desert;;;;;;;;;;;;;x
-k_zebrican_desert_adj;Zebrican Desertian;;;;;;;;;;;;;x
-k_hayseed;Taru;;;;;;;;;;;;;x;
-k_hayseed_adj;Taruca;;;;;;;;;;;;;x;
-k_manedalus;Manedalus;;;;;;;;;;;;;x;
-k_manedalus_adj;Manedalusian;;;;;;;;;;;;;x;
-k_badlands;Badlands;;;;;;;;;;;;;x;
-k_badlands_adj;Badlandsian;;;;;;;;;;;;;x;
-k_tazapan;Tazapan;;;;;;;;;;;;;x;
-k_tazapan_adj;Tazapanian;;;;;;;;;;;;;x;
-k_buffatania;Buffatania;;;;;;;;;;;;;x;
-k_buffatania_adj;Buffatanian;;;;;;;;;;;;;x;
-k_sioxen;Sioxen;;;;;;;;;;;;;x;
-k_sioxen_adj;Sioxenian;;;;;;;;;;;;;x;
-k_golden_forest;Muntjo;;;;;;;;;;;;;x
-k_golden_forest_adj;Muntjac;;;;;;;;;;;;;x
-k_everfree;Everfree;;;;;;;;;;;;;x;
-k_everfree_adj;Everfrian;;;;;;;;;;;;;x;
-k_unicornia;Unicornia;;;;;;;;;;;;;x;
-k_unicornia_adj;Unicornian;;;;;;;;;;;;;x;
-k_manehatten;Manehatten;;;;;;;;;;;;;x;
-k_manehatten_adj;Manehattenite;;;;;;;;;;;;;x;
-k_earth;Earth;;;;;;;;;;;;;x;
-k_earth_adj;Earthling;;;;;;;;;;;;;x;
-k_pegasopolis;Pegasopolis;;;;;;;;;;;;;x;
-k_pegasopolis_adj;Pegasopolisian;;;;;;;;;;;;;x;
-k_whitetail;Whitetail;;;;;;;;;;;;;x;
-k_whitetail_adj;Whitetailian;;;;;;;;;;;;;x;
-k_doegon;Doegon;;;;;;;;;;;;;x;
-k_doegon_adj;Doegonian;;;;;;;;;;;;;x;
-k_coltumbia;Coltumbia;;;;;;;;;;;;;x;
-k_coltumbia_adj;Coltumbian;;;;;;;;;;;;;x;
-k_crystal_kingdom;Crystal Kingdom;;;;;;;;;;;;;x
-k_crystal_kingdom_adj;Crystal Kingdomian;;;;;;;;;;;;;x
-k_diamond_hills;Diamond Hills;;;;;;;;;;;;;x
-k_diamond_hills_adj;Diamond Hillsian;;;;;;;;;;;;;x
-k_frostbound;Frostbound;;;;;;;;;;;;;x;
-k_frostbound_adj;Frostbound;;;;;;;;;;;;;x;
-k_changeling;Changeling;;;;;;;;;;;;;x;
-k_changeling_adj;Changeling;;;;;;;;;;;;;x;
-k_saddle_arabia;Saddle Arabia;;;;;;;;;;;;;x
-k_saddle_arabia_adj;Saddle Arabian;;;;;;;;;;;;;x
-k_styria;Styria;;;;;;;;;;;;;x;
-k_styria_adj;Styrian;;;;;;;;;;;;;x;
-k_maresopotamia;Maresopotamia;;;;;;;;;;;;;x;
-k_maresopotamia_adj;Maresopotamian;;;;;;;;;;;;;x;
-k_coltiva;Coltiva;;;;;;;;;;;;;x;
-k_coltiva_adj;Coltivian;;;;;;;;;;;;;x;
-k_maregypt;Maregypt;;;;;;;;;;;;;x;
-k_maregypt_adj;Maregyptian;;;;;;;;;;;;;x;
-k_wingbardy;Wingbardy;;;;;;;;;;;;;x;
-k_wingbardy_adj;Wingbardian;;;;;;;;;;;;;x;
-k_feathisia;Feathisia;;;;;;;;;;;;;x;
-k_feathisia_adj;Feathisian;;;;;;;;;;;;;x;
-k_east_griffonia;East Griffonia;;;;;;;;;;;;;x
-k_east_griffonia_adj;East Griffonian;;;;;;;;;;;;;x
-k_talonringia;Talonringia;;;;;;;;;;;;;x;
-k_talonringia_adj;Talonringian;;;;;;;;;;;;;x;
-k_west_griffonia;West Griffonia;;;;;;;;;;;;;x
-k_west_griffonia_adj;West Griffonian;;;;;;;;;;;;;x
-k_skydinavia;Skydinavia;;;;;;;;;;;;;x;
-k_skydinavia_adj;Skydinavian;;;;;;;;;;;;;x;
-k_mooseland;Mooseland;;;;;;;;;;;;;x;
-k_mooseland_adj;Mooselandian;;;;;;;;;;;;;x;
-k_iceglass;Iceglass;;;;;;;;;;;;;x;
-k_iceglass_adj;Iceglassite;;;;;;;;;;;;;x;
-k_elapha;Elapha;;;;;;;;;;;;;x;
-k_elapha_adj;Elaphan;;;;;;;;;;;;;x;
-k_roenal;Roenal;;;;;;;;;;;;;x;
-k_roenal_adj;Roenali;;;;;;;;;;;;;x;
-k_fasran;Fasran;;;;;;;;;;;;;x;
-k_fasran_adj;Fasrani;;;;;;;;;;;;;x;
-k_terrandi;Terrandi;;;;;;;;;;;;;x;
-k_terrandi_adj;Terrand;;;;;;;;;;;;;x;
-k_falandi;Falandi;;;;;;;;;;;;;x;
-k_falandi_adj;Faland;;;;;;;;;;;;;x;
-k_applewood;Applewood;;;;;;;;;;;;;x;
-k_applewood_adj;Apple;;;;;;;;;;;;;x;
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+k_badlands;Badlands;Badlands;Badlands;;;;;;;;;;;x
+k_badlands_adj;Badlandsian;;badlandsisch;;;;;;;;;;;x
+k_buffatania;Buffatania;Buffatania;Buffatania;;;;;;;;;;;x
+k_buffatania_adj;Buffatanian;;buffatanisch;;;;;;;;;;;x
+k_changeling;Changeling;Changeling;Changeling;;;;;;;;;;;x
+k_changeling_adj;Changelingian;;changelingisch;;;;;;;;;;;x
+k_coltiva;Coltiva;Coltiva;Coltiva;;;;;;;;;;;x
+k_coltiva_adj;Coltivian;;coltivisch;;;;;;;;;;;x
+k_coltumbia;Coltumbia;Coltumbia;Coltumbia;;;;;;;;;;;x
+k_coltumbia_adj;Coltumbian;;coltumbisch;;;;;;;;;;;x
+k_crystal_kingdom;Crystal Kingdom;Crystal Kingdom;Crystal Kingdom;;;;;;;;;;;x
+k_crystal_kingdom_adj;Crystal Kingdomian;;crystal kingdomisch;;;;;;;;;;;x
+k_diamond_hills;Diamond Hills;Diamond Hills;Diamond Hills;;;;;;;;;;;x
+k_diamond_hills_adj;Diamond Hillsian;;diamond hillsisch;;;;;;;;;;;x
+k_doegon;Doegon;Doegon;Doegon;;;;;;;;;;;x
+k_doegon_adj;Doegonian;;doegonisch;;;;;;;;;;;x
+k_earth;Earth;Earth;Earth;;;;;;;;;;;x
+k_earth_adj;Earthian;;earthisch;;;;;;;;;;;x
+k_east_griffonia;East Griffonia;East Griffonia;East Griffonia;;;;;;;;;;;x
+k_east_griffonia_adj;East Griffonian;;east griffonisch;;;;;;;;;;;x
+k_everfree;Everfree;Everfree;Everfree;;;;;;;;;;;x
+k_everfree_adj;Everfrian;;everfrisch;;;;;;;;;;;x
+k_feathisia;Feathisia;Feathisia;Feathisia;;;;;;;;;;;x
+k_feathisia_adj;Feathisian;;feathisisch;;;;;;;;;;;x
+k_golden_forest;Golden Forest;Golden Forest;Golden Forest;;;;;;;;;;;x
+k_golden_forest_adj;Golden Forestian;;golden forestisch;;;;;;;;;;;x
+k_hayseed;Hayseed;Hayseed;Hayseed;;;;;;;;;;;x
+k_hayseed_adj;Hayseedian;;hayseedisch;;;;;;;;;;;x
+k_manedalus;Manedalus;Manedalus;Manedalus;;;;;;;;;;;x
+k_manedalus_adj;Manedalusian;;manedalusisch;;;;;;;;;;;x
+k_manehatten;Manehatten;Manehatten;Manehatten;;;;;;;;;;;x
+k_manehatten_adj;Manehattenian;;manehattenisch;;;;;;;;;;;x
+k_maregypt;Maregypt;Maregypt;Maregypt;;;;;;;;;;;x
+k_maregypt_adj;Maregyptian;;maregyptisch;;;;;;;;;;;x
+k_maresopotamia;Maresopotamia;Maresopotamia;Maresopotamia;;;;;;;;;;;x
+k_maresopotamia_adj;Maresopotamian;;maresopotamisch;;;;;;;;;;;x
+k_mooseland;Mooseland;Mooseland;Mooseland;;;;;;;;;;;x
+k_mooseland_adj;Mooselandian;;mooselandisch;;;;;;;;;;;x
+k_northlands;Northlands;Northlands;Northlands;;;;;;;;;;;x
+k_northlands_adj;Northlandsian;;northlandsisch;;;;;;;;;;;x
+k_pegasopolis;Pegasopolis;Pegasopolis;Pegasopolis;;;;;;;;;;;x
+k_pegasopolis_adj;Pegasopolisian;;pegasopolisisch;;;;;;;;;;;x
+k_saddle_arabia;Saddle Arabia;Saddle Arabia;Saddle Arabia;;;;;;;;;;;x
+k_saddle_arabia_adj;Saddle Arabian;;saddle arabisch;;;;;;;;;;;x
+k_sioxen;Sioxen;Sioxen;Sioxen;;;;;;;;;;;x
+k_sioxen_adj;Sioxenian;;sioxenisch;;;;;;;;;;;x
+k_skydinavia;Skydinavia;Skydinavia;Skydinavia;;;;;;;;;;;x
+k_skydinavia_adj;Skydinavian;;skydinavisch;;;;;;;;;;;x
+k_styria;Styria;Styria;Styria;;;;;;;;;;;x
+k_styria_adj;Styrian;;styrisch;;;;;;;;;;;x
+k_talonringia;Talonringia;Talonringia;Talonringia;;;;;;;;;;;x
+k_talonringia_adj;Talonringian;;talonringisch;;;;;;;;;;;x
+k_tazapan;Tazapan;Tazapan;Tazapan;;;;;;;;;;;x
+k_tazapan_adj;Tazapanian;;tazapanisch;;;;;;;;;;;x
+k_unicornia;Unicornia;Unicornia;Unicornia;;;;;;;;;;;x
+k_unicornia_adj;Unicornian;;unicornisch;;;;;;;;;;;x
+k_west_griffonia;West Griffonia;West Griffonia;West Griffonia;;;;;;;;;;;x
+k_west_griffonia_adj;West Griffonian;;west griffonisch;;;;;;;;;;;x
+k_whitetail;Whitetail;Whitetail;Whitetail;;;;;;;;;;;x
+k_whitetail_adj;Whitetailian;;whitetailisch;;;;;;;;;;;x
+k_wingbardy;Wingbardy;Wingbardy;Wingbardy;;;;;;;;;;;x
+k_wingbardy_adj;Wingbardian;;wingbardisch;;;;;;;;;;;x
+k_zebora;Zebora;Zebora;Zebora;;;;;;;;;;;x
+k_zebora_adj;Zeborian;;zeborisch;;;;;;;;;;;x
+k_zebrazen;Zebrazen;Zebrazen;Zebrazen;;;;;;;;;;;x
+k_zebrazen_adj;Zebrazenian;;zebrazenisch;;;;;;;;;;;x
+k_zebrican_desert;Zebrican Desert;Zebrican Desert;Zebrican Desert;;;;;;;;;;;x
+k_zebrican_desert_adj;Zebrican Desertian;;zebrican desertisch;;;;;;;;;;;x
