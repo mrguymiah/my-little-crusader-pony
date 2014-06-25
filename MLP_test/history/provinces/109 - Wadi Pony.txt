@@ -1,0 +1,17 @@
+# c_wadi_pony
+
+# County Title
+title = c_wadi_pony
+
+# Settlements
+max_settlements = 5
+
+b_wadi_pony = castle
+b_coltrado = city
+b_ponytemple = temple
+
+# Misc
+culture = saddle_arabian_culture
+religion = saddle_arabian_religion
+
+#History

@@ -1,0 +1,15 @@
+# c_yemare
+
+# County Title
+title = c_yemare
+
+# Settlements
+max_settlements = 6
+
+b_yemare = castle
+
+# Misc
+culture = saddle_arabian_culture
+religion = saddle_arabian_religion
+
+#History

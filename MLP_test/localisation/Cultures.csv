@@ -1,0 +1,68 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#
+#
+# Equestrian Group
+#
+equestrian;Equestrian;;;;;;;;;x;;;;
+earth_pony_culture;Earth Pony;;;;;;;;;x;;;
+pegasus_culture;Pegasus;;;;;;;;;x;;;;
+unicorn_culture;Unicorn;;;;;;;;;x;;;;
+crystal_culture;Crystal Pony;;;;;;;;;x;;;
+#
+# Saddle Arabian Group
+#
+thestral_culture;Thestral;;;;;;;;;x;;;;
+saddle_arabian_group;Saddle Arabian;;;;;;;;;x;;;
+saddle_arabian_culture;Saddle Arabian;;;;;;;;;x;;;
+#
+# Zebra Group
+#
+zebra_group;Zebra;;;;;;;;;x;;;;
+zebra_culture;Zebra;;;;;;;;;x;;;;
+zebradid;Zebradid;;;;;;;;;x;;;;
+zebrazen;Zebrazen;;;;;;;;;x;;;;
+#
+# Buffalo Group
+#
+buffalo_group;Buffalo;;;;;;;;;x;;;;
+blackhoof;Blackhoof;;;;;;;;;x;;;;
+sioxen;Sioxen;;;;;;;;;x;;;;
+tazapan;Tazapan;;;;;;;;;x;;;;
+#
+# Griffon Group
+#
+griffon_group;Griffon;;;;;;;;;x;;;;
+high_griffon;Highland Griffon;;;;;;;;;x;;;
+low_griffon;Lowland Griffon;;;;;;;;;x;;;
+south_griffon;South Griffon;;;;;;;;;x;;;
+#
+# Changeling Group
+#
+changeling_group;Changeling;;;;;;;;;x;;;;
+changeling_culture;Changeling;;;;;;;;;x;;;;
+#
+# Deer Group
+#
+deer_group;Cervid;;;;;;;;;x;;;;
+elapho_culture;Elapho;;;;;;;;;x;;;;
+caribou_culture;Caribou;;;;;;;;;x;;;;
+whitetail;Whitetail;;;;;;;;;x;;;;
+fallow;Fallow;;;;;;;;;x;;;;
+muntjac;Muntjac;;;;;;;;;x;;;;
+taruca;Taruca;;;;;;;;;x;;;;
+cephalo;Cephalo;;;;;;;;;x;;;;
+#
+# Canine Group
+#
+great_canine_group;Greater Canines;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+diamond_dog;Diamond Dog;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#
+# Wolf Group
+#
+wolf_group;Wolf;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+Timberwolf;Timberwolf;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#
+# Wilding Group
+#
+special_group;;;;;;;;;;x;;;;
+wildling;Wildling;;;;;;;;;x;;;;

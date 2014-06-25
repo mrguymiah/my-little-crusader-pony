@@ -1,0 +1,15 @@
+# c_swamptown
+
+# County Title
+title = c_swamptown
+
+# Settlements
+max_settlements = 3
+
+b_swamptwon = castle
+
+# Misc
+culture = taruca
+religion = muntura
+
+#History

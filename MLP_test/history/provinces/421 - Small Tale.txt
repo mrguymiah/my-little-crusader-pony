@@ -1,0 +1,15 @@
+# c_small_tale
+
+# County Title
+title = c_small_tale
+
+# Settlements
+max_settlements = 5
+
+b_small_tale = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

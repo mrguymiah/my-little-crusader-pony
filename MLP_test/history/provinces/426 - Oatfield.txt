@@ -1,0 +1,15 @@
+# c_oatfield
+
+# County Title
+title = c_oatfield
+
+# Settlements
+max_settlements = 3
+
+b_oatfield = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

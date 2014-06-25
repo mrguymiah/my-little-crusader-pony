@@ -1,0 +1,15 @@
+# c_grainshire
+
+# County Title
+title = c_grainshire
+
+# Settlements
+max_settlements = 3
+
+b_grainshire = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

@@ -1,0 +1,15 @@
+# c_al_trotters
+
+# County Title
+title = c_al_trotters
+
+# Settlements
+max_settlements = 3
+
+b_al_trotters = castle
+
+# Misc
+culture = saddle_arabian_culture
+religion = saddle_arabian_religion
+
+#History

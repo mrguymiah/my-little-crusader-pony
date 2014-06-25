@@ -1,0 +1,15 @@
+# c_sk16
+
+# County Title
+title = c_sk16
+
+# Settlements
+max_settlements = 3
+
+b_sk16 = castle
+
+# Misc
+culture = high_griffon
+religion = grifflyreise
+
+#History

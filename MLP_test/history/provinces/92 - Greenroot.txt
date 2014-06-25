@@ -1,0 +1,15 @@
+# c_greenroot
+
+# County Title
+title = c_greenroot
+
+# Settlements
+max_settlements = 3
+
+b_greenroot = castle
+
+# Misc
+culture = taruca
+religion = muntura
+
+#History

@@ -1,0 +1,15 @@
+# c_oldgrove
+
+# County Title
+title = c_oldgrove
+
+# Settlements
+max_settlements = 3
+
+b_oldgrove = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

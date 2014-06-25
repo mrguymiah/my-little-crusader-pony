@@ -1,0 +1,18 @@
+# c_buckfast
+
+# County Title
+title = c_buckfast
+
+# Settlements
+max_settlements = 4
+
+b_buckfast = castle
+b_ashbuckton = city
+b_kingswood = temple
+#b_newton_buckligh = castle
+
+# Misc
+culture = earth_pony_culture
+religion = earth_religion
+
+#History

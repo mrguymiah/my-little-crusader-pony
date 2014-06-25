@@ -1,0 +1,15 @@
+# c_mount_emerald
+
+# County Title
+title = c_mount_emerald
+
+# Settlements
+max_settlements = 3
+
+b_mount_emerald = castle
+
+# Misc
+culture = earth_pony_culture
+religion = earth_religion
+
+#History

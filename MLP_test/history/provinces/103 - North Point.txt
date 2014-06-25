@@ -1,0 +1,15 @@
+# c_north_point
+
+# County Title
+title = c_north_point
+
+# Settlements
+max_settlements = 3
+
+b_north_point = castle
+
+# Misc
+culture = taruca
+religion = muntura
+
+#History

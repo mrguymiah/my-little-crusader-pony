@@ -1,0 +1,15 @@
+# c_appleville
+
+# County Title
+title = c_appleville
+
+# Settlements
+max_settlements = 3
+
+b_appleville = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

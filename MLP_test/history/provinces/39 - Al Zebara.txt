@@ -1,0 +1,15 @@
+# c_al_zebara
+
+# County Title
+title = c_al_zebara
+
+# Settlements
+max_settlements = 3
+
+b_al_zebara = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

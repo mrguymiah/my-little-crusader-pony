@@ -1,0 +1,15 @@
+# c_altocumulus
+
+# County Title
+title = c_altocumulus
+
+# Settlements
+max_settlements = 4
+
+b_altocumulus = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

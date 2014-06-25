@@ -1,0 +1,15 @@
+# c_cykd10
+
+# County Title
+title = c_cykd10
+
+# Settlements
+max_settlements = 3
+
+b_cykd10 = castle
+
+# Misc
+culture = crystal_culture
+religion = crystal_religion
+
+#History

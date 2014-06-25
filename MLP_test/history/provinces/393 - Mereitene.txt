@@ -1,0 +1,15 @@
+# c_mereitene
+
+# County Title
+title = c_mereitene
+
+# Settlements
+max_settlements = 4
+
+b_mereitene = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

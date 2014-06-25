@@ -1,0 +1,15 @@
+# c_rurala
+
+# County Title
+title = c_rurala
+
+# Settlements
+max_settlements = 3
+
+b_rurala = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

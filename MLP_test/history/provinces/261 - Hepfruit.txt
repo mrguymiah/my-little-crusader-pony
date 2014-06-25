@@ -1,0 +1,15 @@
+# c_hepfruit
+
+# County Title
+title = c_hepfruit
+
+# Settlements
+max_settlements = 3
+
+b_hepfruit = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

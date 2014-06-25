@@ -1,0 +1,142 @@
+
+song = {
+	name = "dce_1_arrival.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "dce_2_the_walls_are_moving.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "dce_3_the_ancient_hall.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "dce_4_acheron.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "dce_5_spectral_steps.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "dce_6_upheaval.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "dce_7_fire_and_ice.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "dce_8-1_blades_of_inferno.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "dce_8-2_windigo_march.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "dce_9-1_our_flame.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "dce_9-2_rip_in_time.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "dce_10-1_embattled.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "dce_10-2_darkest_hour.ogg"
+	
+	chance = {
+		factor = 1
+	}
+}
+
+
+song = {
+	name = "hurricanes_army.ogg"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = { culture = pegasus_culture }
+		}
+	}
+}
+
+
+song = {
+	name = "legacy_of_star_swirl.ogg"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = { culture = unicorn_culture }
+		}
+	}
+}

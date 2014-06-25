@@ -1,0 +1,15 @@
+# c_canterlein
+
+# County Title
+title = c_canterlein
+
+# Settlements
+max_settlements = 3
+
+b_canterlein = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

@@ -1,0 +1,15 @@
+# c_coltiala
+
+# County Title
+title = c_coltiala
+
+# Settlements
+max_settlements = 3
+
+b_coltiala = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

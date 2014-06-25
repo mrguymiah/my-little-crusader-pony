@@ -1,0 +1,15 @@
+# c_neighshire
+
+# County Title
+title = c_neighshire
+
+# Settlements
+max_settlements = 4
+
+b_neighshire = castle
+
+# Misc
+culture = earth_pony_culture
+religion = earth_religion
+
+#History

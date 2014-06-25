@@ -1,0 +1,15 @@
+# c_grassased
+
+# County Title
+title = c_grassased
+
+# Settlements
+max_settlements = 3
+
+b_grassased = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

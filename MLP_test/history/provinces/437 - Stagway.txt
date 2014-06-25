@@ -1,0 +1,15 @@
+# c_stagway
+
+# County Title
+title = c_stagway
+
+# Settlements
+max_settlements = 5
+
+b_stagway = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

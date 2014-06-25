@@ -1,0 +1,15 @@
+# c_furdreu
+
+# County Title
+title = c_furdreu
+
+# Settlements
+max_settlements = 3
+
+b_furdreu = castle
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

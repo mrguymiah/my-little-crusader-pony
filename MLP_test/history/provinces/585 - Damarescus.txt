@@ -1,0 +1,15 @@
+# c_damarescus
+
+# County Title
+title = c_damarescus
+
+# Settlements
+max_settlements = 7
+
+b_damarescus = castle
+
+# Misc
+culture = saddle_arabian_culture
+religion = saddle_arabian_religion
+
+#History

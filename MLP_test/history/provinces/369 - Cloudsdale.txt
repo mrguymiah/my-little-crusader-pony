@@ -1,0 +1,15 @@
+# c_cloudsdale
+
+# County Title
+title = c_cloudsdale
+
+# Settlements
+max_settlements = 6
+
+b_cloudsdale = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

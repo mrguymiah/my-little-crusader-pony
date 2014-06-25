@@ -1,0 +1,15 @@
+# c_everfree13
+
+# County Title
+title = c_everfree13
+
+# Settlements
+max_settlements = 1
+
+b_everfree13 = castle
+
+# Misc
+culture = fallow
+religion = mooselam
+
+#History

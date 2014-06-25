@@ -1,0 +1,15 @@
+# c_lesser_markamear
+
+# County Title
+title = c_lesser_markamear
+
+# Settlements
+max_settlements = 3
+
+b_lesser_markamear = castle
+
+# Misc
+culture = taruca
+religion = muntura
+
+#History

@@ -1,0 +1,15 @@
+# c_goldenbourg
+
+# County Title
+title = c_goldenbourg
+
+# Settlements
+max_settlements = 3
+
+b_goldenbourg = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

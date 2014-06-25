@@ -1,0 +1,15 @@
+# c_gators_creek
+
+# County Title
+title = c_gators_creek
+
+# Settlements
+max_settlements = 3
+
+b_gators_creek = castle
+
+# Misc
+culture = taruca
+religion = muntura
+
+#History

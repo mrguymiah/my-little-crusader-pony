@@ -1,0 +1,15 @@
+# c_south_neighagra
+
+# County Title
+title = c_south_neighagra
+
+# Settlements
+max_settlements = 4
+
+b_south_neighagra = castle
+
+# Misc
+culture = earth_pony_culture
+religion = earth_religion
+
+#History

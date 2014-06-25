@@ -1,0 +1,15 @@
+# c_latigo_gallop
+
+# County Title
+title = c_latigo_gallop
+
+# Settlements
+max_settlements = 3
+
+b_latigo_gallop = castle
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

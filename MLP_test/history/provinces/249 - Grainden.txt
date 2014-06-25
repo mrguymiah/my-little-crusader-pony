@@ -1,0 +1,15 @@
+# c_grainden
+
+# County Title
+title = c_grainden
+
+# Settlements
+max_settlements = 3
+
+b_grainden = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

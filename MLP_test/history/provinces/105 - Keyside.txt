@@ -1,0 +1,15 @@
+# c_keyside
+
+# County Title
+title = c_keyside
+
+# Settlements
+max_settlements = 3
+
+b_keyside = castle
+
+# Misc
+culture = taruca
+religion = muntura
+
+#History

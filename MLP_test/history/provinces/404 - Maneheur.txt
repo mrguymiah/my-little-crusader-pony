@@ -1,0 +1,15 @@
+# c_maneheur
+
+# County Title
+title = c_maneheur
+
+# Settlements
+max_settlements = 3
+
+b_maneheur = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

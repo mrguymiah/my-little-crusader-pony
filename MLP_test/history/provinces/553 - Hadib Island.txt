@@ -1,0 +1,15 @@
+# c_hadib_island
+
+# County Title
+title = c_hadib_island
+
+# Settlements
+max_settlements = 2
+
+b_hadib_island = castle
+
+# Misc
+culture = saddle_arabian_culture
+religion = saddle_arabian_religion
+
+#History

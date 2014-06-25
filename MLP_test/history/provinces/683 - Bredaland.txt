@@ -1,0 +1,15 @@
+# c_bredaland
+
+# County Title
+title = c_bredaland
+
+# Settlements
+max_settlements = 5
+
+b_bredaland = castle
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

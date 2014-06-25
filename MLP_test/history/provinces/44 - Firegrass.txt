@@ -1,0 +1,15 @@
+# c_firegrass
+
+# County Title
+title = c_firegrass
+
+# Settlements
+max_settlements = 3
+
+b_firegrass = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

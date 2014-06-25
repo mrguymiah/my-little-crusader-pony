@@ -1,0 +1,15 @@
+# c_kumaresi
+
+# County Title
+title = c_kumaresi
+
+# Settlements
+max_settlements = 3
+
+b_kumaresi = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

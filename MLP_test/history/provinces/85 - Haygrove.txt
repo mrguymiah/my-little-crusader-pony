@@ -1,0 +1,15 @@
+# c_haygrove
+
+# County Title
+title = c_haygrove
+
+# Settlements
+max_settlements = 3
+
+b_haygrove = castle
+
+# Misc
+culture = taruca
+religion = muntura
+
+#History

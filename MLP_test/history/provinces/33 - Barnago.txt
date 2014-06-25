@@ -1,0 +1,15 @@
+# c_barnago
+
+# County Title
+title = c_barnago
+
+# Settlements
+max_settlements = 3
+
+b_barnago = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

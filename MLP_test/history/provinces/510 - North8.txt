@@ -1,0 +1,15 @@
+# c_north8
+
+# County Title
+title = c_north8
+
+# Settlements
+max_settlements = 2
+
+b_north8 = castle
+
+# Misc
+culture = crystal_culture
+religion = crystal_religion
+
+#History

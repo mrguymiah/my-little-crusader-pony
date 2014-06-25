@@ -1,0 +1,15 @@
+# c_squawk
+
+# County Title
+title = c_squawk
+
+# Settlements
+max_settlements = 4
+
+b_squawk = castle
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

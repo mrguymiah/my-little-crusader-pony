@@ -1,0 +1,15 @@
+# c_corvemona
+
+# County Title
+title = c_corvemona
+
+# Settlements
+max_settlements = 4
+
+b_corvemona = castle
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

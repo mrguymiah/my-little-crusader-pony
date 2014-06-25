@@ -1,0 +1,15 @@
+# c_berry_creek
+
+# County Title
+title = c_berry_creek
+
+# Settlements
+max_settlements = 3
+
+b_berry_creek = castle
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

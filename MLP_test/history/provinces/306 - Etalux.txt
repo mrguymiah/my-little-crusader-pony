@@ -1,0 +1,15 @@
+# c_etalux
+
+# County Title
+title = c_etalux
+
+# Settlements
+max_settlements = 6
+
+b_etalux = castle
+
+# Misc
+culture = unicorn_culture
+religion = unicorn_religion
+
+#History

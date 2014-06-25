@@ -1,0 +1,15 @@
+# c_al_ferrier
+
+# County Title
+title = c_al_ferrier
+
+# Settlements
+max_settlements = 3
+
+b_al_ferrier = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

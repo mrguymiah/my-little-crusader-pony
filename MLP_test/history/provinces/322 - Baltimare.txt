@@ -1,0 +1,21 @@
+# c_baltimare
+
+# County Title
+title = c_baltimare
+
+# Settlements
+max_settlements = 7
+
+b_baltiham = castle
+b_baltamare = city
+b_firewood_hill = temple
+#b_sparrows_point = castle
+#b_rivermoth = city
+#b_woodlaw = temple
+#b_dancertown = castle
+
+# Misc
+culture = earth_pony_culture
+religion = earth_religion
+
+#History

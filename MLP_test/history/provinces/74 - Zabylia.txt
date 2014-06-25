@@ -1,0 +1,15 @@
+# c_zabylia
+
+# County Title
+title = c_zabylia
+
+# Settlements
+max_settlements = 3
+
+b_zabylia = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

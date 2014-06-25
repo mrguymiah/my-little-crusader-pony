@@ -1,0 +1,15 @@
+# c_applemud
+
+# County Title
+title = c_applemud
+
+# Settlements
+max_settlements = 3
+
+b_applemud = castle
+
+# Misc
+culture = taruca
+religion = muntura
+
+#History

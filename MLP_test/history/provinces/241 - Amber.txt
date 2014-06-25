@@ -1,0 +1,15 @@
+# c_amber
+
+# County Title
+title = c_amber
+
+# Settlements
+max_settlements = 3
+
+b_amber = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

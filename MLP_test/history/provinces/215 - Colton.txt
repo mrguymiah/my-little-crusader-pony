@@ -1,0 +1,15 @@
+# c_colton
+
+# County Title
+title = c_colton
+
+# Settlements
+max_settlements = 3
+
+b_colton = castle
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

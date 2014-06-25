@@ -1,0 +1,15 @@
+# c_skydeia
+
+# County Title
+title = c_skydeia
+
+# Settlements
+max_settlements = 4
+
+b_skydeia = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

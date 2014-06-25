@@ -1,0 +1,15 @@
+# c_poulain
+
+# County Title
+title = c_poulain
+
+# Settlements
+max_settlements = 6
+
+b_poulain = castle
+
+# Misc
+culture = unicorn_culture
+religion = unicorn_religion
+
+#History

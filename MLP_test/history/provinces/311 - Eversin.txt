@@ -1,0 +1,15 @@
+# c_eversin
+
+# County Title
+title = c_eversin
+
+# Settlements
+max_settlements = 5
+
+b_eversin = castle
+
+# Misc
+culture = unicorn_culture
+religion = unicorn_religion
+
+#History

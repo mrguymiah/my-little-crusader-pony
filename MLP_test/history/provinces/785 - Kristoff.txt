@@ -1,0 +1,15 @@
+# c_kristoff
+
+# County Title
+title = c_kristoff
+
+# Settlements
+max_settlements = 3
+
+b_kristoff = castle
+
+# Misc
+culture = high_griffon
+religion = grifflyreise
+
+#History

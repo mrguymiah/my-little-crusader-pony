@@ -1,0 +1,15 @@
+# c_quarray_bend
+
+# County Title
+title = c_quarray_bend
+
+# Settlements
+max_settlements = 3
+
+b_quarray_bend = castle
+
+# Misc
+culture = fallow
+religion = mooselam
+
+#History

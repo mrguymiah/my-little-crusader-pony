@@ -1,0 +1,15 @@
+# c_crimson_waste
+
+# County Title
+title = c_crimson_waste
+
+# Settlements
+max_settlements = 3
+
+b_crimson_waste = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

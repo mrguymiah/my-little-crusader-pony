@@ -1,0 +1,15 @@
+# c_tamare
+
+# County Title
+title = c_tamare
+
+# Settlements
+max_settlements = 3
+
+b_tamare = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

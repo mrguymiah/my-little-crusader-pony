@@ -1,0 +1,15 @@
+# c_hydraspond
+
+# County Title
+title = c_hydraspond
+
+# Settlements
+max_settlements = 3
+
+b_hydraspond = castle
+
+# Misc
+culture = taruca
+religion = muntura
+
+#History

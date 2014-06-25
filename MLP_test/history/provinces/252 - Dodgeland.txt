@@ -1,0 +1,16 @@
+# c_dodgeland
+
+# County Title
+title = c_dodgeland
+
+# Settlements
+max_settlements = 3
+
+b_sandenfort = castle
+b_dodge_junction = city
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

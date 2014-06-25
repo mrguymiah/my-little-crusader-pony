@@ -1,0 +1,15 @@
+# c_bergundy
+
+# County Title
+title = c_bergundy
+
+# Settlements
+max_settlements = 2
+
+b_bergundy = castle
+
+# Misc
+culture = crystal_culture
+religion = crystal_religion
+
+#History

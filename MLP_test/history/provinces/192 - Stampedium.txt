@@ -1,0 +1,15 @@
+# c_stampedium
+
+# County Title
+title = c_stampedium
+
+# Settlements
+max_settlements = 3
+
+b_stampedium = castle
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

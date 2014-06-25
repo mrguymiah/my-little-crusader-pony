@@ -1,0 +1,15 @@
+# c_mangostone
+
+# County Title
+title = c_mangostone
+
+# Settlements
+max_settlements = 3
+
+b_mangostone = castle
+
+# Misc
+culture = taruca
+religion = muntura
+
+#History

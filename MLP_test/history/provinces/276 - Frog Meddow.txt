@@ -1,0 +1,15 @@
+# c_frog_meddow
+
+# County Title
+title = c_frog_meddow
+
+# Settlements
+max_settlements = 4
+
+b_frog_meddow = castle
+
+# Misc
+culture = fallow
+religion = mooselam
+
+#History

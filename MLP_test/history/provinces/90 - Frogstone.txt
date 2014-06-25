@@ -1,0 +1,15 @@
+# c_frogstone
+
+# County Title
+title = c_frogstone
+
+# Settlements
+max_settlements = 3
+
+b_frogstone = castle
+
+# Misc
+culture = taruca
+religion = muntura
+
+#History

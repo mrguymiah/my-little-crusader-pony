@@ -1,0 +1,15 @@
+# c_nuzzleshire
+
+# County Title
+title = c_nuzzleshire
+
+# Settlements
+max_settlements = 3
+
+b_nuzzleshire = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

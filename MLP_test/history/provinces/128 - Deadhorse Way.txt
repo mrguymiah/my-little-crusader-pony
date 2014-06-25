@@ -1,0 +1,15 @@
+# c_deadhorse_way
+
+# County Title
+title = c_deadhorse_way
+
+# Settlements
+max_settlements = 2
+
+b_deadhorse_way = castle
+
+# Misc
+culture = blackhoof
+religion = buffalo_religion
+
+#History

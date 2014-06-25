@@ -1,0 +1,15 @@
+# c_maneathon
+
+# County Title
+title = c_maneathon
+
+# Settlements
+max_settlements = 4
+
+b_maneathon = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

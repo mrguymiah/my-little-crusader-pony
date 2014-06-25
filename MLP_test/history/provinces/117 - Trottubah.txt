@@ -1,0 +1,15 @@
+# c_trottubah
+
+# County Title
+title = c_trottubah
+
+# Settlements
+max_settlements = 5
+
+b_trottubah = castle
+
+# Misc
+culture = saddle_arabian_culture
+religion = saddle_arabian_religion
+
+#History

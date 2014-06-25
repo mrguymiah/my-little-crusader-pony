@@ -1,0 +1,15 @@
+# c_tallgrass
+
+# County Title
+title = c_tallgrass
+
+# Settlements
+max_settlements = 4
+
+b_tallgrass = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

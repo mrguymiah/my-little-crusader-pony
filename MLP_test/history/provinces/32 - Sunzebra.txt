@@ -1,0 +1,15 @@
+# c_sunzebra
+
+# County Title
+title = c_sunzebra
+
+# Settlements
+max_settlements = 3
+
+b_sunzebra = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

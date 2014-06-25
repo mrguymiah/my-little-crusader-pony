@@ -1,0 +1,15 @@
+# c_manecara
+
+# County Title
+title = c_manecara
+
+# Settlements
+max_settlements = 3
+
+b_manecara = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

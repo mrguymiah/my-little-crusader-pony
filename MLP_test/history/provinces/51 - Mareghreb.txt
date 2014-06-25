@@ -1,0 +1,15 @@
+# c_mareghreb
+
+# County Title
+title = c_mareghreb
+
+# Settlements
+max_settlements = 3
+
+b_mareghreb = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

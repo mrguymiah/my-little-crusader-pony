@@ -1,0 +1,15 @@
+# c_maredea
+
+# County Title
+title = c_maredea
+
+# Settlements
+max_settlements = 3
+
+b_maredea = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

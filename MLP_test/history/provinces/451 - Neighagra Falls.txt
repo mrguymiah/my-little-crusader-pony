@@ -1,0 +1,15 @@
+# c_neighagra_falls
+
+# County Title
+title = c_neighagra_falls
+
+# Settlements
+max_settlements = 3
+
+b_neighagra_falls = castle
+
+# Misc
+culture = crystal_culture
+religion = crystal_religion
+
+#History

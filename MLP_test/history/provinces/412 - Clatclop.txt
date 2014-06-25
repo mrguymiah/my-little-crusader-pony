@@ -1,0 +1,15 @@
+# c_clatclop
+
+# County Title
+title = c_clatclop
+
+# Settlements
+max_settlements = 3
+
+b_clatclop = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

@@ -1,0 +1,15 @@
+# c_nacreous
+
+# County Title
+title = c_nacreous
+
+# Settlements
+max_settlements = 4
+
+b_nacreous = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

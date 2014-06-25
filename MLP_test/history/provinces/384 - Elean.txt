@@ -1,0 +1,15 @@
+# c_elean
+
+# County Title
+title = c_elean
+
+# Settlements
+max_settlements = 3
+
+b_elean = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

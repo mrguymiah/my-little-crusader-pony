@@ -1,0 +1,15 @@
+# c_greenvale
+
+# County Title
+title = c_greenvale
+
+# Settlements
+max_settlements = 6
+
+b_leaf_farm = city
+
+# Misc
+culture = unicorn_culture
+religion = unicorn_religion
+
+#History

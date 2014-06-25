@@ -1,0 +1,15 @@
+# c_moskato
+
+# County Title
+title = c_moskato
+
+# Settlements
+max_settlements = 3
+
+b_moskato = castle
+
+# Misc
+culture = taruca
+religion = muntura
+
+#History

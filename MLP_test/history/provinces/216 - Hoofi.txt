@@ -1,0 +1,15 @@
+# c_hoofi
+
+# County Title
+title = c_hoofi
+
+# Settlements
+max_settlements = 3
+
+b_hoofi = castle
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

@@ -1,0 +1,15 @@
+# c_hayden
+
+# County Title
+title = c_hayden
+
+# Settlements
+max_settlements = 3
+
+b_hayden = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

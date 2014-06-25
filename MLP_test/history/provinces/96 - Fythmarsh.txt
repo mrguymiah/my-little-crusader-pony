@@ -1,0 +1,15 @@
+# c_fythmarsh
+
+# County Title
+title = c_fythmarsh
+
+# Settlements
+max_settlements = 3
+
+b_fythmarsh = castle
+
+# Misc
+culture = taruca
+religion = muntura
+
+#History

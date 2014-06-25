@@ -1,0 +1,15 @@
+# c_cervidam
+
+# County Title
+title = c_cervidam
+
+# Settlements
+max_settlements = 3
+
+b_cervidam = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

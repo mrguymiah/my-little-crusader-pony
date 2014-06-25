@@ -1,0 +1,15 @@
+# c_sireha
+
+# County Title
+title = c_sireha
+
+# Settlements
+max_settlements = 3
+
+b_sireha = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

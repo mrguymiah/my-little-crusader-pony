@@ -1,0 +1,13 @@
+# Skin tones are 0 (light), 1 (tan), 2 (dark) and 3 (black)
+
+# Culture groups
+
+ponygfx = {
+	skin_tone = 0
+}
+changelinggfx = {
+	skin_tone = 3
+}
+cervidgfx = {
+	skin_tone = 0
+}

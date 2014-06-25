@@ -1,0 +1,15 @@
+# c_kara-colt
+
+# County Title
+title = c_kara-colt
+
+# Settlements
+max_settlements = 6
+
+b_kara-colt = castle
+
+# Misc
+culture = saddle_arabian_culture
+religion = saddle_arabian_religion
+
+#History

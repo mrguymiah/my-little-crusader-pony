@@ -1,0 +1,15 @@
+# c_deerhutes
+
+# County Title
+title = c_deerhutes
+
+# Settlements
+max_settlements = 3
+
+b_deerhutes = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

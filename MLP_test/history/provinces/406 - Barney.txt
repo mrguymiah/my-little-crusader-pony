@@ -1,0 +1,15 @@
+# c_barney
+
+# County Title
+title = c_barney
+
+# Settlements
+max_settlements = 3
+
+b_barney = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

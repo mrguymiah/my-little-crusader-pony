@@ -1,0 +1,15 @@
+# c_gemstone_hills
+
+# County Title
+title = c_gemstone_hills
+
+# Settlements
+max_settlements = 6
+
+b_gemstone_hills = castle
+
+# Misc
+culture = unicorn_culture
+religion = unicorn_religion
+
+#History

@@ -1,0 +1,18 @@
+# c_hoofington
+
+# County Title
+title = c_hoofington
+
+# Settlements
+max_settlements = 4
+
+b_hoofington = castle
+b_mareington_spa = city
+#b_buckby = temple
+#b_trottingbrooke = castle
+
+# Misc
+culture = earth_pony_culture
+religion = earth_religion
+
+#History

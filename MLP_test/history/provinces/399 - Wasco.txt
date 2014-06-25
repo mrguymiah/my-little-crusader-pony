@@ -1,0 +1,15 @@
+# c_wasco
+
+# County Title
+title = c_wasco
+
+# Settlements
+max_settlements = 3
+
+b_wasco = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

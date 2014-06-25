@@ -1,0 +1,15 @@
+# c_tazapan14
+
+# County Title
+title = c_tazapan14
+
+# Settlements
+max_settlements = 3
+
+b_tazapan14 = castle
+
+# Misc
+culture = tazapan
+religion = buffalo_religion
+
+#History

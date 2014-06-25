@@ -1,0 +1,17 @@
+# c_manelaga
+
+# County Title
+title = c_manelaga
+
+# Settlements
+max_settlements = 5
+
+b_manelaga = castle
+b_marebella = city
+b_antecrin = temple
+
+# Misc
+culture = saddle_arabian_culture
+religion = saddle_arabian_religion
+
+#History

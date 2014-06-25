@@ -1,0 +1,15 @@
+# c_tepakanan
+
+# County Title
+title = c_tepakanan
+
+# Settlements
+max_settlements = 3
+
+b_tepakanan = castle
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

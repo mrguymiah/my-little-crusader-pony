@@ -1,0 +1,19 @@
+# c_horse_bay
+
+# County Title
+title = c_horse_bay
+
+# Settlements
+max_settlements = 5
+
+b_horse_bay = castle
+b_stallinonton-on-sea = city
+#b_humblestone = temple
+#b_runtford = castle
+#b_docking_rock = city
+
+# Misc
+culture = earth_pony_culture
+religion = earth_religion
+
+#History

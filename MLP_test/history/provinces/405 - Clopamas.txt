@@ -1,0 +1,15 @@
+# c_clopamas
+
+# County Title
+title = c_clopamas
+
+# Settlements
+max_settlements = 3
+
+b_clopamas = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

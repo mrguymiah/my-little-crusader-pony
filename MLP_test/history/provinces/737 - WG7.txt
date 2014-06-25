@@ -1,0 +1,15 @@
+# c_wg7
+
+# County Title
+title = c_wg7
+
+# Settlements
+max_settlements = 5
+
+b_wg7 = castle
+
+# Misc
+culture = high_griffon
+religion = grifflyreise
+
+#History

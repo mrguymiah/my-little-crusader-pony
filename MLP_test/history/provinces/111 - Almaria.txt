@@ -1,0 +1,15 @@
+# c_almaria
+
+# County Title
+title = c_almaria
+
+# Settlements
+max_settlements = 4
+
+b_almaria = castle
+
+# Misc
+culture = saddle_arabian_culture
+religion = saddle_arabian_religion
+
+#History

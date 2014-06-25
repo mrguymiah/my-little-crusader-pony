@@ -1,0 +1,15 @@
+# c_stillwater
+
+# County Title
+title = c_stillwater
+
+# Settlements
+max_settlements = 3
+
+b_stillwater = castle
+
+# Misc
+culture = taruca
+religion = muntura
+
+#History

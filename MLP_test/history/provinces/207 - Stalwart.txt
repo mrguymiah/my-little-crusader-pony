@@ -1,0 +1,15 @@
+# c_stalwart
+
+# County Title
+title = c_stalwart
+
+# Settlements
+max_settlements = 3
+
+b_stalwart = castle
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

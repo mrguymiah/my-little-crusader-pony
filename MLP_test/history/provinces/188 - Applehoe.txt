@@ -1,0 +1,15 @@
+# c_applehoe
+
+# County Title
+title = c_applehoe
+
+# Settlements
+max_settlements = 3
+
+b_applehoe = castle
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

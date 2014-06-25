@@ -1,0 +1,17 @@
+# c_ring_sour
+
+# County Title
+title = c_ring_sour
+
+# Settlements
+max_settlements = 3
+
+b_ring_sour1 = castle
+b_ring_sour2 = city
+b_ring_sour3 = temple
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

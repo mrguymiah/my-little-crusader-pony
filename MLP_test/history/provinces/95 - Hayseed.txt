@@ -1,0 +1,15 @@
+# c_hayseed
+
+# County Title
+title = c_hayseed
+
+# Settlements
+max_settlements = 3
+
+b_hayseed = castle
+
+# Misc
+culture = taruca
+religion = muntura
+
+#History

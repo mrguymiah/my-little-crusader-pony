@@ -1,0 +1,15 @@
+# c_cloponeia
+
+# County Title
+title = c_cloponeia
+
+# Settlements
+max_settlements = 4
+
+b_cloponeia = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

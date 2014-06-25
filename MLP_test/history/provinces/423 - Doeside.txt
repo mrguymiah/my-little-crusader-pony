@@ -1,0 +1,15 @@
+# c_doeside
+
+# County Title
+title = c_doeside
+
+# Settlements
+max_settlements = 3
+
+b_doeside = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

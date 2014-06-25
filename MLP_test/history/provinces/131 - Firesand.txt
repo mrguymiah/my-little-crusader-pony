@@ -1,0 +1,15 @@
+# c_firesand
+
+# County Title
+title = c_firesand
+
+# Settlements
+max_settlements = 2
+
+b_firesand = castle
+
+# Misc
+culture = blackhoof
+religion = buffalo_religion
+
+#History

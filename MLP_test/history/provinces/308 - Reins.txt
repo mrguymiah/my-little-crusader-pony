@@ -1,0 +1,15 @@
+# c_reins
+
+# County Title
+title = c_reins
+
+# Settlements
+max_settlements = 6
+
+b_reins = castle
+
+# Misc
+culture = unicorn_culture
+religion = unicorn_religion
+
+#History

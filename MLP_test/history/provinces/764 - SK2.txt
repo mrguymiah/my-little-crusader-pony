@@ -1,0 +1,15 @@
+# c_sk2
+
+# County Title
+title = c_sk2
+
+# Settlements
+max_settlements = 3
+
+b_sk2 = castle
+
+# Misc
+culture = high_griffon
+religion = grifflyreise
+
+#History

@@ -1,0 +1,15 @@
+# c_coltnomah
+
+# County Title
+title = c_coltnomah
+
+# Settlements
+max_settlements = 3
+
+b_coltnomah = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

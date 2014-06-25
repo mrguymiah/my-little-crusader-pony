@@ -1,0 +1,15 @@
+# c_mareya
+
+# County Title
+title = c_mareya
+
+# Settlements
+max_settlements = 3
+
+b_mareya = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

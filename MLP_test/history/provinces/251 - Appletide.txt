@@ -1,0 +1,15 @@
+# c_appletide
+
+# County Title
+title = c_appletide
+
+# Settlements
+max_settlements = 3
+
+b_appletide = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

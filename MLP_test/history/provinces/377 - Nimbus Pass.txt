@@ -1,0 +1,16 @@
+# c_nimbus_pass
+
+# County Title
+title = c_nimbus_pass
+
+# Settlements
+max_settlements = 4
+
+b_wind_acre_keep = castle
+b_cloud_ranch = city
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

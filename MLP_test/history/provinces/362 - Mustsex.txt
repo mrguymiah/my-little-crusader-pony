@@ -1,0 +1,17 @@
+# c_mustsex
+
+# County Title
+title = c_mustsex
+
+# Settlements
+max_settlements = 3
+
+b_bucksbey = castle
+b_stallionton = city
+#b_saddlestone = temple
+
+# Misc
+culture = earth_pony_culture
+religion = earth_religion
+
+#History

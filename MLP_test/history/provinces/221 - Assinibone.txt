@@ -1,0 +1,15 @@
+# c_assinibone
+
+# County Title
+title = c_assinibone
+
+# Settlements
+max_settlements = 3
+
+b_assinibone = castle
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

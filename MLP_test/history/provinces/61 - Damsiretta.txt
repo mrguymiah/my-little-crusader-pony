@@ -1,0 +1,15 @@
+# c_damsiretta
+
+# County Title
+title = c_damsiretta
+
+# Settlements
+max_settlements = 3
+
+b_damsiretta = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

@@ -1,0 +1,15 @@
+# c_galloping_slopes
+
+# County Title
+title = c_galloping_slopes
+
+# Settlements
+max_settlements = 3
+
+b_galloping_slopes = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

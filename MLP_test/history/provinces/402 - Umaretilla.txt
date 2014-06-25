@@ -1,0 +1,15 @@
+# c_umaretilla
+
+# County Title
+title = c_umaretilla
+
+# Settlements
+max_settlements = 3
+
+b_umaretilla = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

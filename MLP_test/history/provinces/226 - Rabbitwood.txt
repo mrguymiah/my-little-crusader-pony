@@ -1,0 +1,15 @@
+# c_rabbitwood
+
+# County Title
+title = c_rabbitwood
+
+# Settlements
+max_settlements = 3
+
+b_rabbitwood = castle
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

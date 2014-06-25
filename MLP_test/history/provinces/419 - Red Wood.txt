@@ -1,0 +1,15 @@
+# c_red_wood
+
+# County Title
+title = c_red_wood
+
+# Settlements
+max_settlements = 5
+
+b_red_wood = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

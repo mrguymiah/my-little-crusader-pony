@@ -1,0 +1,15 @@
+# c_baybaba
+
+# County Title
+title = c_baybaba
+
+# Settlements
+max_settlements = 3
+
+b_baybaba = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

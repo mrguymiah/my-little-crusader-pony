@@ -1,0 +1,15 @@
+# c_crystal_hills
+
+# County Title
+title = c_crystal_hills
+
+# Settlements
+max_settlements = 3
+
+b_crystal_hills = castle
+
+# Misc
+culture = crystal_culture
+religion = crystal_religion
+
+#History
