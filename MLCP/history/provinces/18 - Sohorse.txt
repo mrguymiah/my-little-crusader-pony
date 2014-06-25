@@ -1,0 +1,15 @@
+# c_sohorse
+
+# County Title
+title = c_sohorse
+
+# Settlements
+max_settlements = 3
+
+b_sohorse = castle
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

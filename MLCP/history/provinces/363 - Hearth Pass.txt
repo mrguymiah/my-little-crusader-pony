@@ -1,0 +1,15 @@
+# c_hearth_pass
+
+# County Title
+title = c_hearth_pass
+
+# Settlements
+max_settlements = 3
+
+b_hearth_pass = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

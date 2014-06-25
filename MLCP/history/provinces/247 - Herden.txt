@@ -1,0 +1,15 @@
+# c_herden
+
+# County Title
+title = c_herden
+
+# Settlements
+max_settlements = 3
+
+b_herden = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

@@ -1,0 +1,15 @@
+# c_pellagallop
+
+# County Title
+title = c_pellagallop
+
+# Settlements
+max_settlements = 3
+
+b_pellagallop = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

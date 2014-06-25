@@ -1,0 +1,15 @@
+# c_east_ghastly
+
+# County Title
+title = c_east_ghastly
+
+# Settlements
+max_settlements = 3
+
+b_east_ghastly = castle
+
+# Misc
+culture = fallow
+religion = mooselam
+
+#History

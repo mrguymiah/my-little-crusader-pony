@@ -1,0 +1,17 @@
+# c_zebraway
+
+# County Title
+title = c_zebraway
+
+# Settlements
+max_settlements = 3
+
+b_zebraway1 = castle
+b_zebraway2 = city
+b_zebraway3 = temple
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

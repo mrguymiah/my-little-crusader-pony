@@ -1,0 +1,15 @@
+# c_airbydos
+
+# County Title
+title = c_airbydos
+
+# Settlements
+max_settlements = 4
+
+b_airbydos = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

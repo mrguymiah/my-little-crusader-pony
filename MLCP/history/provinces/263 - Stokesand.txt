@@ -1,0 +1,15 @@
+# c_stokesand
+
+# County Title
+title = c_stokesand
+
+# Settlements
+max_settlements = 3
+
+b_stokesand = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

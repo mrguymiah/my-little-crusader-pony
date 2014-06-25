@@ -1,0 +1,15 @@
+# c_griffinten
+
+# County Title
+title = c_griffinten
+
+# Settlements
+max_settlements = 5
+
+b_griffinten = castle
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

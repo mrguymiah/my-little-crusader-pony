@@ -1,0 +1,15 @@
+# c_elkerson
+
+# County Title
+title = c_elkerson
+
+# Settlements
+max_settlements = 3
+
+b_elkerson = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

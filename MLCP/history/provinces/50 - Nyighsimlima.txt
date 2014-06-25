@@ -1,0 +1,15 @@
+# c_nyighsimlima
+
+# County Title
+title = c_nyighsimlima
+
+# Settlements
+max_settlements = 3
+
+b_nyighsimlima = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

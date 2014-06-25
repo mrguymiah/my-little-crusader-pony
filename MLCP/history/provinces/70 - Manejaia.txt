@@ -1,0 +1,15 @@
+# c_manejaia
+
+# County Title
+title = c_manejaia
+
+# Settlements
+max_settlements = 3
+
+b_manejaia = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

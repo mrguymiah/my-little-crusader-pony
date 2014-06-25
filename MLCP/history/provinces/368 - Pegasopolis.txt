@@ -1,0 +1,15 @@
+# c_pegasopolis
+
+# County Title
+title = c_pegasopolis
+
+# Settlements
+max_settlements = 7
+
+b_pegasopolis = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

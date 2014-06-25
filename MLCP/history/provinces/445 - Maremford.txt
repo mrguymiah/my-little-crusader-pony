@@ -1,0 +1,15 @@
+# c_maremford
+
+# County Title
+title = c_maremford
+
+# Settlements
+max_settlements = 3
+
+b_maremford = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

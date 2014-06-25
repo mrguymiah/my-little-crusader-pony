@@ -1,0 +1,15 @@
+# c_whitetail_woods
+
+# County Title
+title = c_whitetail_woods
+
+# Settlements
+max_settlements = 3
+
+b_whitetail_woods = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

@@ -1,0 +1,15 @@
+# c_pegasus_pass
+
+# County Title
+title = c_pegasus_pass
+
+# Settlements
+max_settlements = 4
+
+b_pegasus_pass = castle
+
+# Misc
+culture = unicorn_culture
+religion = unicorn_religion
+
+#History

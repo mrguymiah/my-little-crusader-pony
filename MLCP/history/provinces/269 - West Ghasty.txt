@@ -1,0 +1,15 @@
+# c_west_ghasty
+
+# County Title
+title = c_west_ghasty
+
+# Settlements
+max_settlements = 3
+
+b_west_ghasty = castle
+
+# Misc
+culture = fallow
+religion = mooselam
+
+#History

@@ -1,0 +1,15 @@
+# c_tobronc
+
+# County Title
+title = c_tobronc
+
+# Settlements
+max_settlements = 3
+
+b_tobronc = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

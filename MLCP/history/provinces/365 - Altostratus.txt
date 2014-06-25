@@ -1,0 +1,15 @@
+# c_altostratus
+
+# County Title
+title = c_altostratus
+
+# Settlements
+max_settlements = 4
+
+b_altostratus = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

@@ -1,0 +1,15 @@
+# c_feathernze
+
+# County Title
+title = c_feathernze
+
+# Settlements
+max_settlements = 6
+
+b_feathernze = castle
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

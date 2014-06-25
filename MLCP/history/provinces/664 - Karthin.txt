@@ -1,0 +1,15 @@
+# c_karthin
+
+# County Title
+title = c_karthin
+
+# Settlements
+max_settlements = 4
+
+b_karthin = castle
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

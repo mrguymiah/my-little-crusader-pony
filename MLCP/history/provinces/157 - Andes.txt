@@ -1,0 +1,15 @@
+# c_andes
+
+# County Title
+title = c_andes
+
+# Settlements
+max_settlements = 3
+
+b_andes = castle
+
+# Misc
+culture = tazapan
+religion = buffalo_religion
+
+#History

@@ -1,0 +1,15 @@
+# c_sandgrass
+
+# County Title
+title = c_sandgrass
+
+# Settlements
+max_settlements = 3
+
+b_sandgrass = castle
+
+# Misc
+culture = tazapan
+religion = buffalo_religion
+
+#History

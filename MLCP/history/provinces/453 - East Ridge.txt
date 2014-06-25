@@ -1,0 +1,15 @@
+# c_east_ridge
+
+# County Title
+title = c_east_ridge
+
+# Settlements
+max_settlements = 2
+
+b_east_ridge = castle
+
+# Misc
+culture = crystal_culture
+religion = crystal_religion
+
+#History

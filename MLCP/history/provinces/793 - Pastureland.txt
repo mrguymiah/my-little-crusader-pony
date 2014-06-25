@@ -1,0 +1,15 @@
+# c_pastureland
+
+# County Title
+title = c_pastureland
+
+# Settlements
+max_settlements = 2
+
+b_pastureland = castle
+
+# Misc
+culture = caribou_culture
+religion = mooselam
+
+#History

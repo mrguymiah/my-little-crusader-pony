@@ -1,0 +1,15 @@
+# c_crystalwing
+
+# County Title
+title = c_crystalwing
+
+# Settlements
+max_settlements = 3
+
+b_crystalwing = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

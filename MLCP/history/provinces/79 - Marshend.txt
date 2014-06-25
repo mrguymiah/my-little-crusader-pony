@@ -1,0 +1,15 @@
+# c_marshend
+
+# County Title
+title = c_marshend
+
+# Settlements
+max_settlements = 3
+
+b_marshend = castle
+
+# Misc
+culture = taruca
+religion = muntura
+
+#History

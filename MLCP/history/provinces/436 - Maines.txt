@@ -1,0 +1,15 @@
+# c_maines
+
+# County Title
+title = c_maines
+
+# Settlements
+max_settlements = 5
+
+b_maines = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

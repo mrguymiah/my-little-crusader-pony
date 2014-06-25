@@ -1,0 +1,15 @@
+# c_atal
+
+# County Title
+title = c_atal
+
+# Settlements
+max_settlements = 4
+
+b_atal = castle
+
+# Misc
+culture = saddle_arabian_culture
+religion = saddle_arabian_religion
+
+#History

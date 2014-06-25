@@ -1,0 +1,15 @@
+# c_hurricanedretta
+
+# County Title
+title = c_hurricanedretta
+
+# Settlements
+max_settlements = 4
+
+b_hurricanedretta = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

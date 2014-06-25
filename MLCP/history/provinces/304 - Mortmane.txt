@@ -1,0 +1,15 @@
+# c_mortmane
+
+# County Title
+title = c_mortmane
+
+# Settlements
+max_settlements = 5
+
+b_mortmane = castle
+
+# Misc
+culture = unicorn_culture
+religion = unicorn_religion
+
+#History

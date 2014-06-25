@@ -1,0 +1,15 @@
+# c_buckh
+
+# County Title
+title = c_buckh
+
+# Settlements
+max_settlements = 4
+
+b_buckh = castle
+
+# Misc
+culture = saddle_arabian_culture
+religion = saddle_arabian_religion
+
+#History

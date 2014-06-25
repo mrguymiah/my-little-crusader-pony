@@ -1,0 +1,18 @@
+# c_mustangia
+
+# County Title
+title = c_mustangia
+
+# Settlements
+max_settlements = 4
+
+b_mustangingburg = castle
+b_mustangton = city
+#b_mustang_hill = temple
+#b_stallion_hill = castle
+
+# Misc
+culture = earth_pony_culture
+religion = earth_religion
+
+#History

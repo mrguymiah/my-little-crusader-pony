@@ -1,0 +1,15 @@
+# c_roumare
+
+# County Title
+title = c_roumare
+
+# Settlements
+max_settlements = 5
+
+b_roumare = castle
+
+# Misc
+culture = unicorn_culture
+religion = unicorn_religion
+
+#History

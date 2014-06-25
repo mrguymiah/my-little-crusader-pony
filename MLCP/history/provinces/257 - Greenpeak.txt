@@ -1,0 +1,15 @@
+# c_greenpeak
+
+# County Title
+title = c_greenpeak
+
+# Settlements
+max_settlements = 3
+
+b_greenpeak = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

@@ -1,0 +1,15 @@
+# c_rain
+
+# County Title
+title = c_rain
+
+# Settlements
+max_settlements = 3
+
+b_rain = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

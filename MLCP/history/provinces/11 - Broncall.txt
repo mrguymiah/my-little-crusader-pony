@@ -1,0 +1,17 @@
+# c_broncall
+
+# County Title
+title = c_broncall
+
+# Settlements
+max_settlements = 3
+
+b_broncall1 = castle
+b_broncall2 = city
+b_broncall = temple
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

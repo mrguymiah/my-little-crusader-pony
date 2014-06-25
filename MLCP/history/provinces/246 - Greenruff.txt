@@ -1,0 +1,15 @@
+# c_greenruff
+
+# County Title
+title = c_greenruff
+
+# Settlements
+max_settlements = 3
+
+b_greenruff = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

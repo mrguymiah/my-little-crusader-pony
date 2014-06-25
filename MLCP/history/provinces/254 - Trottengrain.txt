@@ -1,0 +1,15 @@
+# c_trottengrain
+
+# County Title
+title = c_trottengrain
+
+# Settlements
+max_settlements = 3
+
+b_trottengrain = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

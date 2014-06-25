@@ -1,0 +1,15 @@
+# c_sage
+
+# County Title
+title = c_sage
+
+# Settlements
+max_settlements = 3
+
+b_sage = castle
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

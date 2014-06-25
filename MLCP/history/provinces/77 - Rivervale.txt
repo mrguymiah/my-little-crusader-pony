@@ -1,0 +1,15 @@
+# c_rivervale
+
+# County Title
+title = c_rivervale
+
+# Settlements
+max_settlements = 3
+
+b_rivervale = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

@@ -1,0 +1,15 @@
+# c_morrow
+
+# County Title
+title = c_morrow
+
+# Settlements
+max_settlements = 3
+
+b_morrow = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

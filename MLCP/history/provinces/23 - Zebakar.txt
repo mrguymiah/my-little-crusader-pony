@@ -1,0 +1,15 @@
+# c_zebakar
+
+# County Title
+title = c_zebakar
+
+# Settlements
+max_settlements = 3
+
+b_zebakar = castle
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

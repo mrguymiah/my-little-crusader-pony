@@ -1,0 +1,15 @@
+# c_la_mareche
+
+# County Title
+title = c_la_mareche
+
+# Settlements
+max_settlements = 5
+
+b_la_mareche = castle
+
+# Misc
+culture = unicorn_culture
+religion = unicorn_religion
+
+#History

@@ -1,0 +1,15 @@
+# c_thunderpolis
+
+# County Title
+title = c_thunderpolis
+
+# Settlements
+max_settlements = 4
+
+b_thunderpolis = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

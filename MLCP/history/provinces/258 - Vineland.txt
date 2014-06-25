@@ -1,0 +1,15 @@
+# c_vineland
+
+# County Title
+title = c_vineland
+
+# Settlements
+max_settlements = 3
+
+b_vineland = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

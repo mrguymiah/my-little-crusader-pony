@@ -1,0 +1,15 @@
+# c_appleshire
+
+# County Title
+title = c_appleshire
+
+# Settlements
+max_settlements = 4
+
+b_appleshire = castle
+
+# Misc
+culture = earth_pony_culture
+religion = earth_religion
+
+#History

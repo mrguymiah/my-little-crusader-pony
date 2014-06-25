@@ -1,0 +1,15 @@
+# c_wbd2
+
+# County Title
+title = c_wbd2
+
+# Settlements
+max_settlements = 5
+
+b_wbd2 = castle
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

@@ -1,0 +1,15 @@
+# c_sauk
+
+# County Title
+title = c_sauk
+
+# Settlements
+max_settlements = 3
+
+b_sauk = castle
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

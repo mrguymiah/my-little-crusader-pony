@@ -1,0 +1,15 @@
+# c_grazi
+
+# County Title
+title = c_grazi
+
+# Settlements
+max_settlements = 3
+
+b_grazi = castle
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

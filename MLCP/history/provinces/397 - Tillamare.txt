@@ -1,0 +1,15 @@
+# c_tillamare
+
+# County Title
+title = c_tillamare
+
+# Settlements
+max_settlements = 3
+
+b_tillamare = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

@@ -1,0 +1,15 @@
+# c_turmule
+
+# County Title
+title = c_turmule
+
+# Settlements
+max_settlements = 3
+
+b_turmule = castle
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

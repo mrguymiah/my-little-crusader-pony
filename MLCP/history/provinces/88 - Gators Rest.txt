@@ -1,0 +1,15 @@
+# c_gators_rest
+
+# County Title
+title = c_gators_rest
+
+# Settlements
+max_settlements = 3
+
+b_gators_rest = castle
+
+# Misc
+culture = taruca
+religion = muntura
+
+#History

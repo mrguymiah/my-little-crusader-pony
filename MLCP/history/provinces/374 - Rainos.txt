@@ -1,0 +1,15 @@
+# c_rainos
+
+# County Title
+title = c_rainos
+
+# Settlements
+max_settlements = 4
+
+b_rainos = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

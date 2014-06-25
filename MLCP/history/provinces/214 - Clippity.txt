@@ -1,0 +1,15 @@
+# c_clippity
+
+# County Title
+title = c_clippity
+
+# Settlements
+max_settlements = 3
+
+b_clippity = castle
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

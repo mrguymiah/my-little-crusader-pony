@@ -1,0 +1,22 @@
+#SPECIAL TRAITS#
+#DO NOT GIVE THESE TRAITS TO CHARACTERS OR YOU WILL BREAK EUROPE#
+
+the_wilds = { #Only for The Wilds
+	immortal = yes
+	intrigue = 100
+	fertility = -100
+	ai_ambition = -100
+	ai_zeal = -100
+}
+
+hearth_warmer = {
+	same_opinion = 125
+	monthly_character_prestige = 0.5
+	tolerates_pegasus_Rgroup = yes
+	tolerates_unicorn_Rgroup = yes
+	tolerates_earthpony_Rgroup = yes
+	tolerates_equestrian_Rgroup = yes
+	
+	customizer = no
+	random = no
+}

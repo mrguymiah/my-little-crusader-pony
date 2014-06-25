@@ -1,0 +1,15 @@
+# c_upper_platinum
+
+# County Title
+title = c_upper_platinum
+
+# Settlements
+max_settlements = 5
+
+b_upper_platinum = castle
+
+# Misc
+culture = crystal_culture
+religion = crystal_religion
+
+#History

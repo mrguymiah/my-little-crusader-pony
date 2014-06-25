@@ -1,0 +1,15 @@
+# c_the_palace_of_the_two_sisters
+
+# County Title
+title = c_the_palace_of_the_two_sisters
+
+# Settlements
+max_settlements = 6
+
+b_the_palace_of_the_two_sisters = castle
+
+# Misc
+culture = fallow
+religion = mooselam
+
+#History

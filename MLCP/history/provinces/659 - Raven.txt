@@ -1,0 +1,15 @@
+# c_raven
+
+# County Title
+title = c_raven
+
+# Settlements
+max_settlements = 5
+
+b_raven = castle
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

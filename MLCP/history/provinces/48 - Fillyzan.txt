@@ -1,0 +1,15 @@
+# c_fillyzan
+
+# County Title
+title = c_fillyzan
+
+# Settlements
+max_settlements = 3
+
+b_fillyzan = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

@@ -1,0 +1,21 @@
+# c_bucklyn
+
+# County Title
+title = c_bucklyn
+
+# Settlements
+max_settlements = 7
+
+b_hooveridge = city
+b_eastfort = castle
+b_midwood = temple
+b_buckwick = city
+#b_colt_island = city
+#b_buckington = temple
+#b_hayhill = castle
+
+# Misc
+culture = earth_pony_culture
+religion = earth_religion
+
+#History

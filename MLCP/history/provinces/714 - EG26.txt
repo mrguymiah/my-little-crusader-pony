@@ -1,0 +1,15 @@
+# c_eg26
+
+# County Title
+title = c_eg26
+
+# Settlements
+max_settlements = 5
+
+b_eg26 = castle
+
+# Misc
+culture = low_griffon
+religion = grifflyreise
+
+#History

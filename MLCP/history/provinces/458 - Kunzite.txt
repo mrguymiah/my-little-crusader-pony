@@ -1,0 +1,15 @@
+# c_kunzite
+
+# County Title
+title = c_kunzite
+
+# Settlements
+max_settlements = 5
+
+b_kunzite = castle
+
+# Misc
+culture = crystal_culture
+religion = crystal_religion
+
+#History

@@ -1,0 +1,15 @@
+# c_mareda
+
+# County Title
+title = c_mareda
+
+# Settlements
+max_settlements = 3
+
+b_mareda = castle
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

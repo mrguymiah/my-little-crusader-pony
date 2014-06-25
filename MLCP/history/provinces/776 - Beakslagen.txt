@@ -1,0 +1,15 @@
+# c_beakslagen
+
+# County Title
+title = c_beakslagen
+
+# Settlements
+max_settlements = 3
+
+b_beakslagen = castle
+
+# Misc
+culture = high_griffon
+religion = grifflyreise
+
+#History

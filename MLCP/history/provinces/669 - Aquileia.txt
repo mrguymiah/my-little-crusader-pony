@@ -1,0 +1,15 @@
+# c_aquileia
+
+# County Title
+title = c_aquileia
+
+# Settlements
+max_settlements = 3
+
+b_aquileia = castle
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

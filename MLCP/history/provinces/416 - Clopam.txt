@@ -1,0 +1,15 @@
+# c_clopam
+
+# County Title
+title = c_clopam
+
+# Settlements
+max_settlements = 3
+
+b_clopam = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

@@ -1,0 +1,15 @@
+# c_west_gallop
+
+# County Title
+title = c_west_gallop
+
+# Settlements
+max_settlements = 4
+
+b_west_gallop = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

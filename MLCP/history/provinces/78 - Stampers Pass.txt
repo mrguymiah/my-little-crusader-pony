@@ -1,0 +1,15 @@
+# c_stampers_pass
+
+# County Title
+title = c_stampers_pass
+
+# Settlements
+max_settlements = 3
+
+b_stampers_pass = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

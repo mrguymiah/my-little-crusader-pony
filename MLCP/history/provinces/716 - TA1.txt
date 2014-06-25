@@ -1,0 +1,15 @@
+# c_ta1
+
+# County Title
+title = c_ta1
+
+# Settlements
+max_settlements = 2
+
+b_ta1 = castle
+
+# Misc
+culture = low_griffon
+religion = grifflyreise
+
+#History

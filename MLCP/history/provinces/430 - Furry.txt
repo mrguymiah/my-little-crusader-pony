@@ -1,0 +1,15 @@
+# c_furry
+
+# County Title
+title = c_furry
+
+# Settlements
+max_settlements = 3
+
+b_furry = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

@@ -1,0 +1,15 @@
+# c_crackedsand
+
+# County Title
+title = c_crackedsand
+
+# Settlements
+max_settlements = 2
+
+b_crackedsand = castle
+
+# Misc
+culture = blackhoof
+religion = buffalo_religion
+
+#History

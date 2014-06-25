@@ -1,0 +1,15 @@
+# c_ch6
+
+# County Title
+title = c_ch6
+
+# Settlements
+max_settlements = 3
+
+b_ch6 = castle
+
+# Misc
+culture = changeling_culture
+religion = changeling_religion
+
+#History

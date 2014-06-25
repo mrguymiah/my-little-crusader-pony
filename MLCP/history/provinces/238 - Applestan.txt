@@ -1,0 +1,15 @@
+# c_applestan
+
+# County Title
+title = c_applestan
+
+# Settlements
+max_settlements = 3
+
+b_applestan = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

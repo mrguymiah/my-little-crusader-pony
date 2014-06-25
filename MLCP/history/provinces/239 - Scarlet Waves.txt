@@ -1,0 +1,15 @@
+# c_scarlet_waves
+
+# County Title
+title = c_scarlet_waves
+
+# Settlements
+max_settlements = 3
+
+b_scarlet_waves = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

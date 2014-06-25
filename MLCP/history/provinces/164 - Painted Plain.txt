@@ -1,0 +1,15 @@
+# c_painted_plain
+
+# County Title
+title = c_painted_plain
+
+# Settlements
+max_settlements = 3
+
+b_painted_plain = castle
+
+# Misc
+culture = tazapan
+religion = buffalo_religion
+
+#History

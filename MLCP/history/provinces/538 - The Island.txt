@@ -1,0 +1,15 @@
+# c_the_island
+
+# County Title
+title = c_the_island
+
+# Settlements
+max_settlements = 3
+
+b_the_island = castle
+
+# Misc
+culture = changeling_culture
+religion = changeling_religion
+
+#History

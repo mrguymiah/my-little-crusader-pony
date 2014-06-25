@@ -1,0 +1,15 @@
+# c_medlesburg
+
+# County Title
+title = c_medlesburg
+
+# Settlements
+max_settlements = 3
+
+b_medlesburg = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

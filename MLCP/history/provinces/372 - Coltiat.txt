@@ -1,0 +1,15 @@
+# c_coltiat
+
+# County Title
+title = c_coltiat
+
+# Settlements
+max_settlements = 4
+
+b_coltiat = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

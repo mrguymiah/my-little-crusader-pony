@@ -1,0 +1,15 @@
+# c_angoulemane
+
+# County Title
+title = c_angoulemane
+
+# Settlements
+max_settlements = 5
+
+b_angoulemane = castle
+
+# Misc
+culture = unicorn_culture
+religion = unicorn_religion
+
+#History

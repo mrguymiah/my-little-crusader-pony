@@ -1,0 +1,18 @@
+# c_hayshire
+
+# County Title
+title = c_hayshire
+
+# Settlements
+max_settlements = 4
+
+b_oatford = castle
+b_cornsbury = city
+#b_hoofbrough = temple
+#b_eatingham = castle
+
+# Misc
+culture = earth_pony_culture
+religion = earth_religion
+
+#History

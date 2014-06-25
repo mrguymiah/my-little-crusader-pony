@@ -1,0 +1,21 @@
+# c_manehatten
+
+# County Title
+title = c_manehatten
+
+# Settlements
+max_settlements = 7
+
+b_manehatten = city
+b_tortbetica = castle
+b_greenminster = temple
+b_haylem = city
+b_midton = city
+#b_saddleton = temple
+#b_manester = castle
+
+# Misc
+culture = earth_pony_culture
+religion = earth_religion
+
+#History

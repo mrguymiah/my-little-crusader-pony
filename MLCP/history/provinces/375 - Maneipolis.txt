@@ -1,0 +1,15 @@
+# c_maneipolis
+
+# County Title
+title = c_maneipolis
+
+# Settlements
+max_settlements = 4
+
+b_maneipolis = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

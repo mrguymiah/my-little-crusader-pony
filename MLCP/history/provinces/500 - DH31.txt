@@ -1,0 +1,15 @@
+# c_dh31
+
+# County Title
+title = c_dh31
+
+# Settlements
+max_settlements = 1
+
+b_dh31 = castle
+
+# Misc
+culture = crystal_culture
+religion = crystal_religion
+
+#History

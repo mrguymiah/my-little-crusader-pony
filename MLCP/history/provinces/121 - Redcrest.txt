@@ -1,0 +1,15 @@
+# c_redcrest
+
+# County Title
+title = c_redcrest
+
+# Settlements
+max_settlements = 3
+
+b_redcrest = castle
+
+# Misc
+culture = blackhoof
+religion = buffalo_religion
+
+#History

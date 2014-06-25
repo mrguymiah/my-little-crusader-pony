@@ -1,0 +1,15 @@
+# c_greenwater
+
+# County Title
+title = c_greenwater
+
+# Settlements
+max_settlements = 3
+
+b_greenwater = castle
+
+# Misc
+culture = taruca
+religion = muntura
+
+#History

@@ -1,0 +1,15 @@
+# c_upper_vanhoover
+
+# County Title
+title = c_upper_vanhoover
+
+# Settlements
+max_settlements = 5
+
+b_upper_vanhoover = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

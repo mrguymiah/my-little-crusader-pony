@@ -1,0 +1,15 @@
+# c_sap
+
+# County Title
+title = c_sap
+
+# Settlements
+max_settlements = 3
+
+b_sap = castle
+
+# Misc
+culture = cephalo
+religion = cephala
+
+#History

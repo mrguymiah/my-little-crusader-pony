@@ -1,0 +1,15 @@
+# c_skag_it
+
+# County Title
+title = c_skag_it
+
+# Settlements
+max_settlements = 3
+
+b_skag_it = castle
+
+# Misc
+culture = whitetail
+religion = falphanti
+
+#History

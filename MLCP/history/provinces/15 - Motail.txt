@@ -1,0 +1,17 @@
+# c_motail
+
+# County Title
+title = c_motail
+
+# Settlements
+max_settlements = 3
+
+b_motail1 = castle
+b_motail2 = city
+b_motail3 = temple
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

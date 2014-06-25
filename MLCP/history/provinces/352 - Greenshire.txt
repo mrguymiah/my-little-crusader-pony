@@ -1,0 +1,15 @@
+# c_greenshire
+
+# County Title
+title = c_greenshire
+
+# Settlements
+max_settlements = 3
+
+b_greenshire = castle
+
+# Misc
+culture = earth_pony_culture
+religion = earth_religion
+
+#History
