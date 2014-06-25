@@ -1,0 +1,6 @@
+100.1.2 = {
+	holder = 5
+	law = true_cognatic_succession
+	law = succ_gavelkind
+}
+

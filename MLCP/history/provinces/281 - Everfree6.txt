@@ -10,6 +10,6 @@ b_everfree6 = castle
 
 # Misc
 culture = fallow
-religion = mooselam
+religion = elaphanti
 
 #History

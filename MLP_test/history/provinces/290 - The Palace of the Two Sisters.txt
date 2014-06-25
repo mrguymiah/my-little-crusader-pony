@@ -10,6 +10,6 @@ b_the_palace_of_the_two_sisters = castle
 
 # Misc
 culture = fallow
-religion = mooselam
+religion = elaphanti
 
 #History

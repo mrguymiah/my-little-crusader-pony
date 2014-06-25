@@ -10,6 +10,6 @@ b_froggy_side = castle
 
 # Misc
 culture = fallow
-religion = mooselam
+religion = elaphanti
 
 #History

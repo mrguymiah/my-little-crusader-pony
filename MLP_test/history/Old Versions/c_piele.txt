@@ -1,0 +1,4 @@
+100.1.1 = {
+	law = agnatic_succession
+	holder = 2299
+}
