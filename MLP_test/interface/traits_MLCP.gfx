@@ -1,0 +1,94 @@
+spriteTypes = {
+
+	######################
+	# MLCP Trait Sprites #
+	######################
+	spriteType = {
+		name = "GFX_trait_alicorn"
+		texturefile = "gfx/traits/alicorn.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}	
+	spriteType = {
+		name = "GFX_trait_unicorn"
+		texturefile = "gfx/traits/unicorn.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}	
+	spriteType = {
+		name = "GFX_trait_crystal_pony"
+		texturefile = "gfx/traits/crystal_pony.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}	
+	spriteType = {
+		name = "GFX_trait_pegasus"
+		texturefile = "gfx/traits/pegasus.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}	
+	spriteType = {
+		name = "GFX_trait_earth_pony"
+		texturefile = "gfx/traits/earth_pony.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}	
+	spriteType = {
+		name = "GFX_trait_buffalo"
+		texturefile = "gfx/traits/buffalo.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}	
+	spriteType = {
+		name = "GFX_trait_griffon"
+		texturefile = "gfx/traits/griffon.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}	
+	spriteType = {
+		name = "GFX_trait_draconequus"
+		texturefile = "gfx/traits/draconequus.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}	
+	spriteType = {
+		name = "GFX_trait_zebra"
+		texturefile = "gfx/traits/zebra.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}	
+	spriteType = {
+		name = "GFX_trait_changeling"
+		texturefile = "gfx/traits/changeling.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}	
+	spriteType = {
+		name = "GFX_trait_changeling_queen"
+		texturefile = "gfx/traits/changeling.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_hearth_warmer"
+		texturefile = "gfx/traits/hearth_warmer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	#############################
+	# End of MLCP Trait Sprites #
+ 	#############################
+	
+}
