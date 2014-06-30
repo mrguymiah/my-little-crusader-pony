@@ -35,7 +35,12 @@ decisions = {
 			completely_controls = k_earth
 			OR = {
 				has_landed_title = k_everfree
-				has_landed_title = k_manehatten
+				has_landed_title = k_golden_forest
+			}
+			OR = {
+				has_landed_title = k_coltumbia
+				has_landed_title = k_doegon
+				has_landed_title = k_whitetail
 			}
 			OR = {
 				religion = unicorn_religion_reformed
