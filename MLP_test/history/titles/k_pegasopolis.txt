@@ -1,7 +1,5 @@
-20.1.1={
-	law = enatic_cognatic_succession
+100.1.1 = {
+	law = true_cognatic_succession
 	law = succ_gavelkind
-}
-100.1.1={
-	liege=e_equestria
+	holder = 3
 }

@@ -53,7 +53,7 @@
 	culture=high_griffon
 	trait="griffon"
 	82.7.21 = {
-		birth="90.7.21"
+		birth="82.7.21"
 	}
 }
 3503 = {
@@ -103,7 +103,7 @@
 }
 3506 = {
 	name="Greger"
-	dynasty=35006
+	dynasty=3506
 	martial=4
 	diplomacy=7
 	intrigue=5
@@ -120,7 +120,7 @@
 3507 = {
 	name="Vindur"
 	female=yes
-	dynasty=35009
+	dynasty=3509
 	religion=grifflyreise
 	culture=high_griffon
 	trait=fortune_builder
@@ -131,7 +131,7 @@
 
 3508 = {
 	name="Georg"
-	dynasty=35008
+	dynasty=3508
 	religion=grifflyreise
 	culture=high_griffon
 	martial=7
@@ -153,7 +153,7 @@
 3509 = {
 	name="Draumursoar"
 	female=yes
-	dynasty=35007
+	dynasty=3507
 	religion=grifflyreise
 	culture=high_griffon
 	diplomacy = 7
@@ -174,7 +174,7 @@
 3900 = { #The High General
 	name="Bloodbeak"
 	female=yes
-	dynasty=35007
+	dynasty=3507
 	religion=grifflyreise
 	culture=south_griffon
 	diplomacy = 6
@@ -194,7 +194,7 @@
 3901 = {
 	name="Stoneclaw"
 	female=yes
-	dynasty=35007
+	dynasty=3507
 	religion=grifflyreise
 	culture=south_griffon
 	diplomacy = 6
@@ -212,7 +212,7 @@
 3902 = {
 	name="Ironwing"
 	female=yes
-	dynasty=35007
+	dynasty=3507
 	religion=grifflyreise
 	culture=south_griffon
 	diplomacy = 6
@@ -230,7 +230,7 @@
 3903 = {
 	name="Steeltalon"
 	female=yes
-	dynasty=35007
+	dynasty=3507
 	religion=grifflyreise
 	culture=south_griffon
 	diplomacy = 6
