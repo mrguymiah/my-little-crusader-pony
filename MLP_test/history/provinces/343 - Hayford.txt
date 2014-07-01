@@ -12,7 +12,7 @@ b_parkbridge = temple
 #b_southam = castle
 
 # Misc
-culture = earth_pony_culture
-religion = earth_religion
+culture = muntjac
+religion = elaphanti
 
 #History

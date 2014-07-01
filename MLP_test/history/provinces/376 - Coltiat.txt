@@ -9,7 +9,7 @@ max_settlements = 4
 b_coltiat = castle
 
 # Misc
-culture = pegasus_culture
-religion = soarastrian
+culture = whitetail
+religion = falphanti
 
 #History

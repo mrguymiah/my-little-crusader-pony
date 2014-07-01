@@ -10,7 +10,7 @@ b_wind_acre_keep = castle
 b_cloud_ranch = city
 
 # Misc
-culture = pegasus_culture
-religion = soarastrian
+culture = whitetail
+religion = falphanti
 
 #History

@@ -9,7 +9,7 @@ max_settlements = 4
 b_reinshire = castle
 
 # Misc
-culture = earth_pony_culture
-religion = earth_religion
+culture = muntjac
+religion = elaphanti
 
 #History

@@ -1,0 +1,15 @@
+# c_deerer
+
+# County Title
+title = c_deerer
+
+# Settlements
+max_settlements = 2
+
+b_deerer = castle
+
+# Misc
+culture = caribou_culture
+religion = mooselam
+
+#History

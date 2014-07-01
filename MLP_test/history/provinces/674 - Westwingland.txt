@@ -1,0 +1,15 @@
+# c_westwingland
+
+# County Title
+title = c_westwingland
+
+# Settlements
+max_settlements = 4
+
+b_westwingland = castle
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

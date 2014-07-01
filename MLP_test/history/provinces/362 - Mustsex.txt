@@ -11,7 +11,7 @@ b_stallionton = city
 #b_saddlestone = temple
 
 # Misc
-culture = earth_pony_culture
-religion = earth_religion
+culture = muntjac
+religion = elaphanti
 
 #History

@@ -9,7 +9,7 @@ max_settlements = 3
 b_crystalwing = castle
 
 # Misc
-culture = pegasus_culture
-religion = soarastrian
+culture = whitetail
+religion = falphanti
 
 #History

@@ -1,0 +1,15 @@
+# c_kravin
+
+# County Title
+title = c_kravin
+
+# Settlements
+max_settlements = 3
+
+b_kravin = castle
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

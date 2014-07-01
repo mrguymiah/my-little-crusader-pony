@@ -1,0 +1,15 @@
+# c_buckstra
+
+# County Title
+title = c_buckstra
+
+# Settlements
+max_settlements = 4
+
+b_buckstra = castle
+
+# Misc
+culture = saddle_arabian_culture
+religion = saddle_arabian_religion
+
+#History

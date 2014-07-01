@@ -1,0 +1,15 @@
+# c_berrdon
+
+# County Title
+title = c_berrdon
+
+# Settlements
+max_settlements = 1
+
+b_berrdon = castle
+
+# Misc
+culture = caribou_culture
+religion = mooselam
+
+#History

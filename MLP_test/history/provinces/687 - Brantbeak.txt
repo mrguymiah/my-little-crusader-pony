@@ -1,0 +1,15 @@
+# c_brantbeak
+
+# County Title
+title = c_brantbeak
+
+# Settlements
+max_settlements = 6
+
+b_brantbeak = castle
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

@@ -1,0 +1,15 @@
+# c_panthmbino
+
+# County Title
+title = c_panthmbino
+
+# Settlements
+max_settlements = 4
+
+b_panthmbino = castle
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

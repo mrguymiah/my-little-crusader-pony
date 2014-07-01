@@ -1,0 +1,15 @@
+# c_manetua
+
+# County Title
+title = c_manetua
+
+# Settlements
+max_settlements = 4
+
+b_manetua = castle
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

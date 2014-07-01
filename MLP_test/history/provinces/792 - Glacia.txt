@@ -1,0 +1,15 @@
+# c_glacia
+
+# County Title
+title = c_glacia
+
+# Settlements
+max_settlements = 2
+
+b_glacia = castle
+
+# Misc
+culture = caribou_culture
+religion = mooselam
+
+#History

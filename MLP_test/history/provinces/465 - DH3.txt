@@ -9,7 +9,7 @@ max_settlements = 3
 b_dh3 = castle
 
 # Misc
-culture = crystal_culture
-religion = crystal_religion
+culture = caribou_culture
+religion = mooselam
 
 #History

@@ -9,7 +9,7 @@ max_settlements = 5
 b_eversin = castle
 
 # Misc
-culture = unicorn_culture
-religion = unicorn_religion
+culture = fallow
+religion = cephala
 
 #History

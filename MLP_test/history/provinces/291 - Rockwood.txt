@@ -10,6 +10,6 @@ b_rockwood = castle
 
 # Misc
 culture = fallow
-religion = elaphanti
+religion = cephala
 
 #History

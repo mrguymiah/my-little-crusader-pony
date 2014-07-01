@@ -1,0 +1,15 @@
+# c_north14
+
+# County Title
+title = c_north14
+
+# Settlements
+max_settlements = 1
+
+b_north14 = castle
+
+# Misc
+culture = caribou_culture
+religion = mooselam
+
+#History
