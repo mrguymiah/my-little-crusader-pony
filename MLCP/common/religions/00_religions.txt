@@ -738,3 +738,19 @@ caribou_Rgroup = {
 		
 	}
 }
+
+wild_rgroup = {
+	playable = no
+	graphical_culture = pony_graphical_culture
+	
+	wildfaith = {
+		graphical_culture = 
+		
+		icon = 5 #pagan
+		heresy_icon = 14
+		color = { 0.3 0.1 0.1 }
+		
+		defensive_attrition = yes
+		
+	}
+}
