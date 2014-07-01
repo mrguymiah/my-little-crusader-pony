@@ -1,7 +1,5 @@
-20.1.1={
-	law = enatic_cognatic_succession
-	law = succ_gavelkind
-}
+
 100.1.1={
-	liege=d_smokey_mountain
+	holder = 2011
 }
+

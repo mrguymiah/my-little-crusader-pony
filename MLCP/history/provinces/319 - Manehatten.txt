@@ -15,7 +15,7 @@ b_midton = city
 #b_manester = castle
 
 # Misc
-culture = earth_pony_culture
-religion = earth_religion
+culture = muntjac
+religion = elaphanti
 
 #History

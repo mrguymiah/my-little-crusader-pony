@@ -12,7 +12,7 @@ b_mareingham = city
 #b_skagars_ness = castle
 
 # Misc
-culture = earth_pony_culture
-religion = earth_religion
+culture = muntjac
+religion = elaphanti
 
 #History

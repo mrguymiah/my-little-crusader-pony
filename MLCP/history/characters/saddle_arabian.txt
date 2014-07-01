@@ -18,9 +18,7 @@
 		add_spouse = 4001
 	}
 	119.11.12 = {
-		death=yes
-		death_reason = death_battle
-		killer = 3900
+		death="119.11.12"
 	}
 }
 4001 = {
@@ -60,9 +58,7 @@
 		birth=yes
 	}
 	119.11.12 = {
-		death=yes
-		death_reason = death_battle
-		killer = 3900
+		death="119.11.12"
 	}
 }
 4003 = {
@@ -84,9 +80,7 @@
 		birth=yes
 	}
 	119.11.12 = {
-		death=yes
-		death_reason = death_battle
-		killer = 3900
+		death="119.11.12"
 	}
 }
 4004 = {
@@ -108,9 +102,7 @@
 		birth=yes
 	}
 	119.11.12 = {
-		death=yes
-		death_reason = death_battle
-		killer = 3900
+		death="119.11.12"
 	}
 }
 4005 = {
@@ -126,7 +118,6 @@
 	culture=saddle_arabian_culture
 	trait="horse"
 	trait="charismatic_negotiator"
-	host = 4007
 	father = 4000
 	mother = 4001
 	89.2.12 = {

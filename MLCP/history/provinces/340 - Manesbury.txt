@@ -13,7 +13,7 @@ b_stableing = temple
 #b_elsenham = city
 
 # Misc
-culture = earth_pony_culture
-religion = earth_religion
+culture = muntjac
+religion = elaphanti
 
 #History

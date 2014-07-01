@@ -14,7 +14,7 @@ b_dunel_hill = temple
 #b_fallstone = temple
 
 # Misc
-culture = earth_pony_culture
-religion = earth_religion
+culture = muntjac
+religion = elaphanti
 
 #History

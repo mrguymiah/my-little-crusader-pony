@@ -10,6 +10,6 @@ b_west_ghasty = castle
 
 # Misc
 culture = fallow
-religion = elaphanti
+religion = cephala
 
 #History

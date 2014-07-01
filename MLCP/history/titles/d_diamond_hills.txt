@@ -1,7 +1,8 @@
-20.1.1={
+500.1.1={
 	law = enatic_cognatic_succession
 	law = succ_gavelkind
 }
-100.1.1={
+800.1.1={
 	liege=k_crystal_kingdom
 }
+

@@ -12,7 +12,7 @@ b_mereton_keynes = temple
 #b_bichester = castle
 
 # Misc
-culture = earth_pony_culture
-religion = earth_religion
+culture = muntjac
+religion = elaphanti
 
 #History
