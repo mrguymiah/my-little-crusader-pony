@@ -738,3 +738,24 @@ caribou_Rgroup = {
 		
 	}
 }
+
+wild_rgroup = {
+	playable = no
+	graphical_culture = pony_graphixal_culture
+	
+	wildfaith = {
+		icon = 14
+		heresy_icon = 14
+		color = { 0.3 0.1 0.1 }
+		
+		 crusade_name = "CRUSADE"
+         scripture_name = THE_BIBLE
+         god_names = {
+              GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+         }
+         
+		defensive_attrition = yes
+		max_wives = 0
+	
+	}
+}
