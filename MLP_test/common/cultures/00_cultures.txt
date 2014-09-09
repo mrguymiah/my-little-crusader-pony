@@ -129,7 +129,7 @@ equestrian = {
 		female_names = {
 			Abalone Agate Amazonite Amber Amethyst_Amethyst Ametrin Angel Aura Angelite Apatite Aqua Aquamarine Bizbite Cassiterite Celestite Chalcedony Charoite Chrysocholla Chrysoprase Crystal_Crystal
 			Diamantina Dimond_Dimond Emerald_Emerald Fuschite Feldspar Gold_Gold Golden_Golden Harlequin Iolite Ivory Kaolinite Labradorite Lapis Lemurian Lightbray Lithium Lodolite Moonstone Morganite Opal
-			Opalite Ouro Pearl_Pearl Pearlspar Peridot Phenacite Pink_Pink Pinkie_Pinkie Petalite Rainbow_Rainbow Red_Red Ruby Seraphinite Shiva Saphire Sunstone Tanzanite Tanzine Tektites Topaz
+			Opalite Ouro Pearl_Pearl Pearlspar Peridot Phenacite Pink_Pink Pinkie_Pinkie Petalite Rainbow_Rainbow Red_Red Ruby Seraphinite Shiva Sapphire Sunstone Tanzanite Tanzine Tektites Topaz
 			Turquoise Unakite
 		}
 		
