@@ -273,7 +273,7 @@ PROV272;Dimview;Dimview;Dimview;;;;;;;;;x
 PROV273;Everfree8;Everfree8;Everfree8;;;;;;;;;x
 PROV274;Froggy Bottom;Froggy Bottom;Froggy Bottom;;;;;;;;;x
 PROV275;Froggy Side;Froggy Side;Froggy Side;;;;;;;;;x
-PROV276;Frog Meddow;Frog Meddow;Frog Meddow;;;;;;;;;x
+PROV276;Frog Meadow;Frog Meadow;Frog Meadow;;;;;;;;;x
 PROV277;Everfree1;Everfree1;Everfree1;;;;;;;;;x
 PROV278;Everfree2;Everfree2;Everfree2;;;;;;;;;x
 PROV279;Everfree3;Everfree3;Everfree3;;;;;;;;;x
@@ -287,7 +287,7 @@ PROV286;Everfree12;Everfree12;Everfree12;;;;;;;;;x
 PROV287;Everfree5;Everfree5;Everfree5;;;;;;;;;x
 PROV288;Everwatch;Everwatch;Everwatch;;;;;;;;;x
 PROV289;Everfree7;Everfree7;Everfree7;;;;;;;;;x
-PROV290;The Palace of the Two Sisters;The Palace of the Two Sisters;The Palace of the Two Sisters;;;;;;;;;x
+PROV290;Everfree Heart;Everfree Heart;Everfree Heart;;;;;;;;;x
 PROV291;Rockwood;Rockwood;Rockwood;;;;;;;;;x
 PROV292;Everfree9;Everfree9;Everfree9;;;;;;;;;x
 PROV293;Everfree15;Everfree15;Everfree15;;;;;;;;;x
@@ -316,7 +316,7 @@ PROV315;Stallionge;Stallionge;Stallionge;;;;;;;;;x
 PROV316;Poulain;Poulain;Poulain;;;;;;;;;x
 PROV317;Coltoulouse;Coltoulouse;Coltoulouse;;;;;;;;;x
 PROV318;Limehill;Limehill;Limehill;;;;;;;;;x
-PROV319;Manehatten;Manehatten;Manehatten;;;;;;;;;x
+PROV319;Manehattan;Manehattan;Manehattan;;;;;;;;;x
 PROV320;Bucklyn;Bucklyn;Bucklyn;;;;;;;;;x
 PROV321;Newmane;Newmane;Newmane;;;;;;;;;x
 PROV322;Baltimare;Baltimare;Baltimare;;;;;;;;;x
@@ -578,10 +578,10 @@ PROV577;Horsoms;Horsoms;Horsoms;;;;;;;;;x
 PROV578;Manema;Manema;Manema;;;;;;;;;x
 PROV579;Algalloppo;Algalloppo;Algalloppo;;;;;;;;;x
 PROV580;Amane;Amane;Amane;;;;;;;;;x
-PROV581;Al-Stallhmane;Al-Stallhmane;Al-Stallhmane;;;;;;;;;x
+PROV581;Al Stallhmane;Al Stallhmane;Al Stallhmane;;;;;;;;;x
 PROV582;Al Trotters;Al Trotters;Al Trotters;;;;;;;;;x
 PROV583;Suwamare;Suwamare;Suwamare;;;;;;;;;x
-PROV584;Al- Buckri;Al- Buckri;Al- Buckri;;;;;;;;;x
+PROV584;Al Buckri;Al Buckri;Al Buckri;;;;;;;;;x
 PROV585;Neighessa;Neighessa;Neighessa;;;;;;;;;x
 PROV586;Damarescus;Damarescus;Damarescus;;;;;;;;;x
 PROV587;Az Starqa;Az Starqa;Az Starqa;;;;;;;;;x
@@ -663,7 +663,7 @@ PROV662;Verenia;Verenia;Verenia;;;;;;;;;x
 PROV663;Taloneia;Taloneia;Taloneia;;;;;;;;;x
 PROV664;Eagleia;Eagleia;Eagleia;;;;;;;;;x
 PROV665;Karthin;Karthin;Karthin;;;;;;;;;x
-PROV666;Griffinten;Griffinten;Griffinten;;;;;;;;;x
+PROV666;Griffonten;Griffonten;Griffonten;;;;;;;;;x
 PROV667;Pridea;Pridea;Pridea;;;;;;;;;x
 PROV668;Panthmbino;Panthmbino;Panthmbino;;;;;;;;;x
 PROV669;Wbd1;Wbd1;Wbd1;;;;;;;;;x
@@ -872,7 +872,7 @@ PROV871;Zebmajani;Zebmajani;Zebmajani;;;;;;;;;x
 PROV872;Zebnyati;Zebnyati;Zebnyati;;;;;;;;;x
 PROV873;Ungala Lake;Ungala Lake;Ungala Lake;;;;;;;;;x
 PROV874;River Ungala;River Ungala;River Ungala;;;;;;;;;x
-PROV875;Griffin's Mouth;Griffin's Mouth;Griffin's Mouth;;;;;;;;;x
+PROV875;Griffon's Mouth;Griffon's Mouth;Griffon's Mouth;;;;;;;;;x
 PROV876;North Griffking;North Griffking;North Griffking;;;;;;;;;x
 PROV877;East Griffking;East Griffking;East Griffking;;;;;;;;;x
 PROV878;South Griffking;South Griffking;South Griffking;;;;;;;;;x
@@ -1015,3 +1015,5 @@ PROV1014;Lake2;Lake2;Lake2;;;;;;;;;x
 PROV1015;Lake3;Lake3;Lake3;;;;;;;;;x
 PROV1016;Lake4;Lake4;Lake4;;;;;;;;;x
 PROV1017;Lake5;Lake5;Lake5;;;;;;;;;x
+PROV1018;Lake6;Lake6;Lake6;;;;;;;;;x
+PROV1019;Lake7;Lake7;Lake7;;;;;;;;;x
