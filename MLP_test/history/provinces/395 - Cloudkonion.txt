@@ -9,7 +9,7 @@ max_settlements = 4
 b_cloudkonion = castle
 
 # Misc
-culture = pegasus_culture
-religion = soarastrian
+culture = earth_pony_culture
+religion = earth_religion
 
 #History

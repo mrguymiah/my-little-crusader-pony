@@ -1,12 +1,12 @@
-# c_the_palace_of_the_two_sisters
+# c_everfree_heart
 
 # County Title
-title = c_the_palace_of_the_two_sisters
+title = c_everfree_heart
 
 # Settlements
 max_settlements = 6
 
-b_the_palace_of_the_two_sisters = castle
+b_everfree_heart = castle
 
 # Misc
 culture = fallow

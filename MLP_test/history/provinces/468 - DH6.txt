@@ -1,0 +1,15 @@
+# c_dh6
+
+# County Title
+title = c_dh6
+
+# Settlements
+max_settlements = 3
+
+b_dh6 = castle
+
+# Misc
+culture = caribou_culture
+religion = mooselam
+
+#History

@@ -1,12 +1,12 @@
-# c_al-stallhmane
+# c_al_stallhmane
 
 # County Title
-title = c_al-stallhmane
+title = c_al_stallhmane
 
 # Settlements
 max_settlements = 3
 
-b_al-stallhmane = castle
+b_al_stallhmane = castle
 
 # Misc
 culture = saddle_arabian_culture

@@ -8,7 +8,7 @@ max_settlements = 5
 
 b_coltcchester = castle
 b_highwoods = temple
-b_clopton-on-sea = city
+b_clopton_on_sea = city
 #b_haywich = castle
 #b_oakley = city
 

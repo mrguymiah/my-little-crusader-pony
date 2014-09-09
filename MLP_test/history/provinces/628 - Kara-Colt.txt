@@ -1,12 +1,12 @@
-# c_kara-colt
+# c_kara_colt
 
 # County Title
-title = c_kara-colt
+title = c_kara_colt
 
 # Settlements
 max_settlements = 6
 
-b_kara-colt = castle
+b_kara_colt = castle
 
 # Misc
 culture = saddle_arabian_culture

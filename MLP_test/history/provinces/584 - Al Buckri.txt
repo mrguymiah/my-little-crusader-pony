@@ -1,13 +1,13 @@
-# c_al-_buckri
+# c_al_buckri
 
 # County Title
-title = c_al-_buckri
+title = c_al_buckri
 
 # Settlements
 max_settlements = 3
 
 b_buckri = castle
-b_mare_al-zur = city
+b_mare_al_zur = city
 b_horsrhoene = temple
 
 # Misc

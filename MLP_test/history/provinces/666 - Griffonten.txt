@@ -1,12 +1,12 @@
-# c_griffinten
+# c_griffonten
 
 # County Title
-title = c_griffinten
+title = c_griffonten
 
 # Settlements
 max_settlements = 5
 
-b_griffinten = castle
+b_griffonten = castle
 
 # Misc
 culture = south_griffon

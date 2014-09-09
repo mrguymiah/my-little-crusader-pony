@@ -1,7 +1,7 @@
-# c_manehatten
+# c_manehattan
 
 # County Title
-title = c_manehatten
+title = c_manehattan
 
 # Settlements
 max_settlements = 7

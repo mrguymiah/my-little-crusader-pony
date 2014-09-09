@@ -1,12 +1,12 @@
-# c_al-maneia
+# c_al_maneia
 
 # County Title
-title = c_al-maneia
+title = c_al_maneia
 
 # Settlements
 max_settlements = 7
 
-b_al-maneia = castle
+b_al_maneia = castle
 
 # Misc
 culture = saddle_arabian_culture

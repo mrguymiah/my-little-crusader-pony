@@ -1,12 +1,12 @@
-# c_frog_meddow
+# c_frog_meadow
 
 # County Title
-title = c_frog_meddow
+title = c_frog_meadow
 
 # Settlements
 max_settlements = 4
 
-b_frog_meddow = castle
+b_frog_meadow = castle
 
 # Misc
 culture = fallow

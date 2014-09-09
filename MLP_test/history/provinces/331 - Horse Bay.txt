@@ -7,7 +7,7 @@ title = c_horse_bay
 max_settlements = 5
 
 b_horse_bay = castle
-b_stallinonton-on-sea = city
+b_stallinonton_on_sea = city
 #b_humblestone = temple
 #b_runtford = castle
 #b_docking_rock = city
