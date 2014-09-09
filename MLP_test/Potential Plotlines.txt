@@ -57,7 +57,7 @@ Exclusionary chain - *Sisters Take Charge*
 
 -Triggered by one of the following:
 	-The 3 pony kingdom titles are held by 1 ruler
-	-High religious authority for the relgion of the kingdom 	holder
+	-High religious authority for the relgion of the kingdom holder
 
 Synopsis - If a pony manages to obtain all the kingdom-level pony titles, they can select a decision to form the Equestrian Empire. If they do, they gain the title, crown authority moves to max, and an event chain begins that causes unrest among ponies of a different culture/religion than the ruler.
 
