@@ -30,25 +30,23 @@ decisions = {
 		}
 		
 		allow = {
-			completely_controls = k_unicornia
-			completely_controls = k_pegasopolis
-			completely_controls = k_earth
 			OR = {
-				has_landed_title = k_everfree
-				has_landed_title = k_golden_forest
+				completely_controls = k_unicornia
+				completely_controls = k_pegasopolis
+				completely_controls = k_earth
 			}
-			OR = {
-				has_landed_title = k_coltumbia
-				has_landed_title = k_doegon
-				has_landed_title = k_whitetail
-			}
+			has_landed_title = k_unicornia
+			has_landed_title = k_pegasopolis
+			has_landed_title = k_earth
+			has_landed_title = k_everfree
+			has_landed_title = k_manehattan
 			OR = {
 				religion = unicorn_religion_reformed
 				religion = soarastrian_reformed
 				religion = earth_religion_reformed
 			}
 			wealth = 500
-			prestige = 2500
+			prestige = 500
 		}
 		
 		ai_will_do = {
@@ -59,10 +57,140 @@ decisions = {
 			e_equestria = {
 				grant_title = ROOT
 			}
+			k_unicornia = { de_jure_liege = e_equestria }
+			k_earth = { de_jure_liege = e_equestria }
+			k_pegasopolis = { de_jure_liege = e_equestria }
 			wealth = -500
-			prestige = 500
-			piety = 150
-			narrative_event = { id = equestria.20 tooltip = EVTTOOLTIPequestria.20 }
+			narrative_event = { id = equestria.100 tooltip = EVTTOOLTIPequestria.100 }
+		}
+	}
+	
+	integrate_deeria = {
+		is_high_prio = yes
+		
+		potential = {
+			OR = {
+				culture = unicorn_culture
+				culture = pegasus_culture
+				culture = earth_pony_culture	
+			}
+			has_landed_title = e_equestria
+			age = 16
+			prisoner = no
+			NOT = { trait = incapable }
+			OR = {
+				prestige = 200
+				trait = ambitious
+			}
+			OR = {
+				trait = unicorn
+				trait = pegasus
+				trait = earth_pony
+			}
+		}
+		
+		allow = {
+			completely_controls = e_equestria
+			has_landed_title = e_deeria
+			wealth = 200
+		}
+		
+		ai_will_do = {
+			factor = 1			
+		}
+		
+		effect = {
+			k_whitetail = { de_jure_liege = e_equestria }
+			k_doegon = { de_jure_liege = e_equestria }
+			k_coltumbia = { de_jure_liege = e_equestria }
+			wealth = -200
+			narrative_event = { id = equestria.101 tooltip = EVTTOOLTIPequestria.101 }
+		}
+	}
+	
+	integrate_hayseed = {
+		is_high_prio = yes
+		
+		potential = {
+			OR = {
+				culture = unicorn_culture
+				culture = pegasus_culture
+				culture = earth_pony_culture	
+			}
+			has_landed_title = e_equestria
+			age = 16
+			prisoner = no
+			NOT = { trait = incapable }
+			OR = {
+				prestige = 200
+				trait = ambitious
+			}
+			OR = {
+				trait = unicorn
+				trait = pegasus
+				trait = earth_pony
+			}
+		}
+		
+		allow = {
+			completely_controls = e_equestria
+			has_landed_title = e_hayseed
+			wealth = 200
+		}
+		
+		ai_will_do = {
+			factor = 1			
+		}
+		
+		effect = {
+			k_golden_forest = { de_jure_liege = e_equestria }
+			k_hayseed = { de_jure_liege = k_hayseed }
+			wealth = -200
+			narrative_event = { id = equestria.102 tooltip = EVTTOOLTIPequestria.102 }
+		}
+	}
+	
+	integrate_buffalonia = {
+		is_high_prio = yes
+		
+		potential = {
+			OR = {
+				culture = unicorn_culture
+				culture = pegasus_culture
+				culture = earth_pony_culture	
+			}
+			has_landed_title = e_equestria
+			age = 16
+			prisoner = no
+			NOT = { trait = incapable }
+			OR = {
+				prestige = 200
+				trait = ambitious
+			}
+			OR = {
+				trait = unicorn
+				trait = pegasus
+				trait = earth_pony
+			}
+		}
+		
+		allow = {
+			completely_controls = e_equestria
+			has_landed_title = e_buffalonia
+			wealth = 200
+		}
+		
+		ai_will_do = {
+			factor = 1			
+		}
+		
+		effect = {
+			k_badlands = { de_jure_liege = e_equestria }
+			k_tazapan = { de_jure_liege = e_equestria }
+			k_buffatania = { de_jure_liege = e_equestria }
+			k_sioxen = { de_jure_liege = e_equestria }
+			wealth = -200
+			narrative_event = { id = equestria.103 tooltip = EVTTOOLTIPequestria.103 }
 		}
 	}
 }
