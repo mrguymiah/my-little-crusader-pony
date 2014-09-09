@@ -274,7 +274,7 @@ province;red;green;blue;x;x
 273;52;135;128;Everfree8;x
 274;28;61;86;Froggy Bottom;x
 275;28;86;67;Froggy Side;x
-276;13;55;85;Frog Meddow;x
+276;13;55;85;Frog Meadow;x
 277;35;171;109;Everfree1;x
 278;11;170;112;Everfree2;x
 279;53;190;159;Everfree3;x
@@ -288,7 +288,7 @@ province;red;green;blue;x;x
 287;82;180;142;Everfree5;x
 288;12;144;99;Everwatch;x
 289;17;95;66;Everfree7;x
-290;97;169;160;The Palace of the Two Sisters;x
+290;97;169;160;Everfree Heart;x
 291;86;141;134;Rockwood;x
 292;8;49;65;Everfree9;x
 293;36;188;165;Everfree15;x
@@ -317,7 +317,7 @@ province;red;green;blue;x;x
 316;183;138;189;Poulain;x
 317;172;94;183;Coltoulouse;x
 318;195;86;211;Limehill;x
-319;189;54;80;Manehatten;x
+319;189;54;80;Manehattan;x
 320;154;14;41;Bucklyn;x
 321;209;111;129;Newmane;x
 322;87;145;76;Baltimare;x
@@ -579,10 +579,10 @@ province;red;green;blue;x;x
 578;143;143;105;Manema;x
 579;148;145;113;Algalloppo;x
 580;131;128;99;Amane;x
-581;174;177;134;Al-Stallhmane;x
+581;174;177;134;Al Stallhmane;x
 582;150;148;126;Al Trotters;x
 583;127;126;100;Suwamare;x
-584;144;148;125;Al- Buckri;x
+584;144;148;125;Al Buckri;x
 585;120;116;84;Neighessa;x
 586;171;168;131;Damarescus;x
 587;158;154;112;Az Starqa;x
@@ -664,7 +664,7 @@ province;red;green;blue;x;x
 663;141;203;175;Taloneia;x
 664;86;149;120;Eagleia;x
 665;110;166;140;Karthin;x
-666;95;131;101;Griffinten;x
+666;95;131;101;Griffonten;x
 667;131;153;139;Pridea;x
 668;156;174;162;Panthmbino;x
 669;157;184;166;Wbd1;x
@@ -873,7 +873,7 @@ province;red;green;blue;x;x
 872;60;58;7;Zebnyati;x
 873;97;206;224;Ungala Lake;x
 874;93;143;152;River Ungala;x
-875;231;63;206;Griffin's Mouth;x
+875;231;63;206;Griffon's Mouth;x
 876;206;95;189;North Griffking;x
 877;145;81;135;East Griffking;x
 878;120;90;115;South Griffking;x
@@ -1016,3 +1016,5 @@ province;red;green;blue;x;x
 1015;60;105;255;Lake3;x
 1016;98;134;255;Lake4;x
 1017;131;169;118;Lake5;x
+1018;90;176;159;Lake6;x
+1019;27;128;107;Lake7;x

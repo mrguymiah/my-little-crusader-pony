@@ -1,4 +1,4 @@
-max_provinces = 1018
+max_provinces = 1021
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
@@ -14,7 +14,7 @@ region = "region.txt"
 static = "static.txt"
 
 # All Seas
-sea_zones = { 796 1011 }
+sea_zones = { 797 1012 }
 
 ocean_region = {	# All Oceans
 	sea_zones = { 1 }
