@@ -741,7 +741,7 @@ caribou_Rgroup = {
 
 wild_rgroup = {
 	playable = no
-	graphical_culture = pony_graphixal_culture
+	graphical_culture = pony_graphical_culture
 	
 	wildfaith = {
 		icon = 14
