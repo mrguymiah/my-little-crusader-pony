@@ -107,7 +107,7 @@ song = {
 }
 
 
-Song = {
+song = {
 	name = "dce_10-2_darkest_hour.ogg"
 	
 	chance = {
