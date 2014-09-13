@@ -5,7 +5,7 @@
 #3800 - 3899
 #3900 - 3999
 3500 = {
-	name="Clovis"
+	name="Clovis" #King of Luxwingbourg
 	dynasty=3600
 	martial=11
 	diplomacy=9
@@ -26,7 +26,7 @@
 	}
 }
 3501 = {
-	name="Gösta"
+	name="Gösta" #King of Norrbeak
 	dynasty=3501
 	martial=5
 	diplomacy=3
@@ -41,7 +41,7 @@
 	}
 }
 3502 = {
-	name="Gytha"
+	name="Gytha" #Queen of Beakslagen
 	dynasty=3502
 	martial=2
 	diplomacy=10
@@ -57,7 +57,7 @@
 	}
 }
 3503 = {
-	name="Feather Beak"
+	name="Feather Beak" #King of Talonatland
 	dynasty=3500
 	martial=4
 	diplomacy=6
