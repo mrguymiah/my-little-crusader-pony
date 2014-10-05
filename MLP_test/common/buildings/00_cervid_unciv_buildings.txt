@@ -1,0 +1,495 @@
+ # Triggers are in Province scope. The From Scope contains the settlement holder (character)
+ # start trigger is in title scope.
+ #
+ #<tag> = {
+ #	desc = description used in the tooltip of the building
+ #	trigger = used for tech requirement of the building, set to 0 if no requirement so it can be build automatically on new games
+ #	build_cost = cost to build the building
+ #	build_time = time to build, in days
+ #	
+ #	ai_creation_factor = weight that the AI uses to determine what building to build
+ #	extra_tech_building_start = when starting a new game this building will be pre-built if the province has higher tech than the requirement + this + random 0-1
+ #}
+#
+#
+# TABLE OF CONTENTS:
+#
+# 1. Cervids [Cer.000]
+# 		A) Religious Belief Developtment [Cer.001]
+# 			(1)	Religious Belief	[Cer.001.A]
+# 			(2)	Religious Fervor	[Cer.001.B]
+# 			(3)	Religious Rule		[Cer.001.C]
+# 			(4)	Religious Doctrine	[Cer.001.D]
+# 			(5)	Religious Law		[Cer.001.E]
+# 		B) Religious Constructions 	[Cer.002]
+# 			(1)	Shrine				[Cer.002.A]
+# 			(2)	Ritual Circle		[Cer.002.B]
+# 			(3)	Shaman Grove		[Cer.002.C]
+# 		C) Cervid Food Production 	[Cer.003]
+# 			(1) Gatherers			[Cer.003.A]
+# 			(2) Agriculture			[Cer.003.B]
+# 			(3) Serfdom				[Cer.003.C]
+# 		D) Cervid Military Tradition [Cer.004]
+# 			(1) Tribal Warriors		[Cer.004.A]
+# 			(2) Warrior Caste		[Cer.004.B]
+# 			(3) Warrior's Code		[Cer.004.C]
+#		E) Feudalism 				[Cer.005]
+#
+ 
+castle = {
+
+	#
+	# Cervids [Cer.000]
+	#
+	# Religious Belief Development [Cer.001]
+	#
+	# 	(1)	Religious Belief	[Cer.001.A]
+	# 	(2)	Religious Fervor	[Cer.001.B]
+	# 	(3)	Religious Rule		[Cer.001.C]
+	# 	(4)	Religious Doctrine	[Cer.001.D]
+	# 	(5)	Religious Law		[Cer.001.E]
+	#
+	ca_culture_deer_group_doctrine_1 = {
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+			}
+			OR = {
+				FROM = {
+					culture_group = deer_group
+				}
+			
+				FROMFROM = {
+					has_building = ca_culture_deer_group_doctrine_1
+				}
+			}
+		}
+		desc = ca_culture_deer_group_doctrine_1_desc
+		build_cost = 0
+		build_time = 180
+		ai_creation_factor = 10
+		extra_tech_building_start = 1.0
+		add_number_to_name = no
+	}
+	ca_culture_deer_group_doctrine_2 = {
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+			}
+			OR = {
+				FROM = {
+					culture_group = deer_group
+				}
+			
+				FROMFROM = {
+					has_building = ca_culture_deer_group_doctrine_2
+				}
+			}
+		}
+		upgrades_from = ca_culture_deer_group_doctrine_1
+		desc = ca_culture_deer_group_doctrine_2_desc
+		build_cost = 0
+		build_time = 180
+		ai_creation_factor = 80
+		extra_tech_building_start = 1.0
+		add_number_to_name = no
+	}
+	ca_culture_deer_group_doctrine_3 = {
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+			}
+			OR = {
+				FROM = {
+					culture_group = deer_group
+				}
+			
+				FROMFROM = {
+					has_building = ca_culture_deer_group_doctrine_3
+				}
+			}
+		}
+		upgrades_from = ca_culture_deer_group_doctrine_2
+		desc = ca_culture_deer_group_doctrine_3_desc
+		build_cost = 0
+		build_time = 180
+		ai_creation_factor = 80
+		extra_tech_building_start = 1.0
+		add_number_to_name = no
+	}
+	ca_culture_deer_group_doctrine_4 = {
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+			}
+			OR = {
+				FROM = {
+					culture_group = deer_group
+				}
+			
+				FROMFROM = {
+					has_building = ca_culture_deer_group_doctrine_4
+				}
+			}
+		}
+		upgrades_from = ca_culture_deer_group_doctrine_3
+		desc = ca_culture_deer_group_doctrine_4_desc
+		build_cost = 0
+		build_time = 180
+		ai_creation_factor = 80
+		extra_tech_building_start = 1.0
+		add_number_to_name = no
+	}
+	ca_culture_deer_group_doctrine_5 = {
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+			}
+			OR = {
+				FROM = {
+					culture_group = deer_group
+				}
+			
+				FROMFROM = {
+					has_building = ca_culture_deer_group_doctrine_5
+				}
+			}
+		}
+		upgrades_from = ca_culture_deer_group_doctrine_4
+		desc = ca_culture_deer_group_doctrine_5_desc
+		build_cost = 0
+		build_time = 180
+		ai_creation_factor = 80
+		extra_tech_building_start = 1.0
+		add_number_to_name = no
+	}
+	
+	#
+	# Cervid Religious Constructions [Cer.002]
+	#
+	# (1) Shrine			[Cer.002.A]
+	# (2) Ritual Circle		[Cer.002.B]
+	# (3) Shamanistic Grove [Cer.002.C]
+	#
+	
+	# Shrine [Cer.002.A]
+	ca_culture_deer_group_religious_construction_1 = {
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+			}
+			OR = {
+				FROM = {
+					culture_group = deer_group
+				}
+			
+				FROMFROM = {
+					has_building = ca_culture_deer_group_religious_construction_1
+				}
+			}
+		}
+		prerequisites = { ca_culture_deer_group_doctrine_1 }
+		desc = ca_culture_deer_group_religious_construction_1_desc
+		build_cost = 0
+		build_time = 30
+		ai_creation_factor = 80
+		extra_tech_building_start = 1.0
+		add_number_to_name = no
+	}
+	
+	# Ritual Circle [Cer.002.B]
+	ca_culture_deer_group_religious_construction_2 = {
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+			}
+			OR = {
+				FROM = {
+					culture_group = deer_group
+				}
+			
+				FROMFROM = {
+					has_building = ca_culture_deer_group_religious_construction_2
+				}
+			}
+		}
+		prerequisites = { 
+			ca_culture_deer_group_doctrine_2
+			ca_culture_deer_group_religious_construction_1
+		}
+		upgrades_from = ca_culture_deer_group_religious_construction_1
+		desc = ca_culture_deer_group_religious_construction_2_desc
+		build_cost = 0
+		build_time = 60
+		ai_creation_factor = 80
+		extra_tech_building_start = 1.0
+		add_number_to_name = no
+	}
+	
+	# Shamanistic Grove [Cer.002.C]
+	ca_culture_deer_group_religious_construction_3 = {
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+			}
+			OR = {
+				FROM = {
+					culture_group = deer_group
+				}
+			
+				FROMFROM = {
+					has_building = ca_culture_deer_group_religious_construction_3
+				}
+			}
+		}
+		prerequisites = { ca_culture_deer_group_doctrine_3 }
+		upgrades_from = ca_culture_deer_group_religious_construction_2
+		desc = ca_culture_deer_group_religious_construction_3_desc
+		build_cost = 0
+		build_time = 180
+		ai_creation_factor = 80
+		extra_tech_building_start = 1.0
+		add_number_to_name = no
+	}
+	
+	#
+	# Cervid Food Production [Cer.003]
+	#
+	# (1) Gatherers		[Cer.003.A]
+	# (2) Agriculture	[Cer.003.B]
+	# (3) Serfdom		[Cer.003.C]
+	#
+	
+	# Gatherers [Cer.003.A]
+	ca_culture_deer_group_food_1 = {
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+			}
+			OR = {
+				FROM = {
+					culture_group = deer_group
+				}
+				FROMFROM = {
+					has_building = ca_culture_deer_group_food_1
+				}
+			}
+		}
+		prerequisites = { ca_culture_deer_group_doctrine_2 }
+		desc = ca_culture_deer_group_food_1_desc
+		build_cost = 0
+		build_time = 30
+		ai_creation_factor = 80
+		extra_tech_building_start = 1.0
+		add_number_to_name = no
+	}
+	
+	# Agriculture [Cer.003.B]
+	ca_culture_deer_group_food_2 = {
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+			}
+			OR = {
+				FROM = {
+					culture_group = deer_group
+				}
+			
+				FROMFROM = {
+					has_building = ca_culture_deer_group_food_2
+				}
+			}
+		}
+		prerequisites = { ca_culture_deer_group_doctrine_3 }
+		upgrades_from = ca_culture_deer_group_food_1
+		desc = ca_culture_deer_group_food_2_desc
+		build_cost = 0
+		build_time = 365
+		ai_creation_factor = 80
+		extra_tech_building_start = 1.0
+		add_number_to_name = no
+	}
+	
+	# Serfdom [Cer.003.C]
+	ca_culture_deer_group_food_3 = {
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+			}
+			OR = {
+				FROM = {
+					culture_group = deer_group
+				}
+			
+				FROMFROM = {
+					has_building = ca_culture_deer_group_food_3
+				}
+			}
+		}
+		prerequisites = { ca_culture_deer_group_doctrine_4 }
+		upgrades_from = ca_culture_deer_group_food_2
+		desc = ca_culture_deer_group_food_3_desc
+		build_cost = 0
+		build_time = 730
+		ai_creation_factor = 80
+		extra_tech_building_start = 1.0
+		add_number_to_name = no
+	}
+	
+	#
+	# Cervid Military Tradition [Cer.004]
+	#
+	# (1) Tribal Warriors	[Cer.004.A]
+	# (2) Warrior Caste		[Cer.004.B]
+	# (3) Warrior's Code	[Cer.004.C]
+	#
+	
+	# Tribal Warriors [Cer.004.A]
+	ca_culture_deer_group_military_tradition_1 = {
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+			}
+			OR = {
+				FROM = {
+					culture_group = deer_group
+				}
+			
+				FROMFROM = {
+					has_building = ca_culture_deer_group_military_tradition_1
+				}
+			}
+		}
+		prerequisites = { 
+			ca_culture_deer_group_doctrine_3 
+			ca_culture_deer_group_religious_construction_2
+			ca_culture_deer_group_food_1
+		}
+		desc = ca_culture_deer_group_military_tradition_1_desc
+		build_cost = 0
+		build_time = 60
+		ai_creation_factor = 80
+		extra_tech_building_start = 1.0
+		add_number_to_name = no
+	}
+	
+	# Warrior Caste [Cer.004.B]
+	ca_culture_deer_group_military_tradition_2 = {
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+			}
+			OR = {
+				FROM = {
+					culture_group = deer_group
+				}
+			
+				FROMFROM = {
+					has_building = ca_culture_deer_group_military_tradition_2
+				}
+			}
+		}
+		prerequisites = { 
+			ca_culture_deer_group_doctrine_4
+			ca_culture_deer_group_food_2
+		}
+		upgrades_from = ca_culture_deer_group_religious_construction_2
+		desc = ca_culture_deer_group_religious_construction_3_desc
+		build_cost = 0
+		build_time = 120
+		ai_creation_factor = 80
+		extra_tech_building_start = 1.0
+		add_number_to_name = no
+	}
+	
+	# Warrior's Code [Cer.004.C]
+	ca_culture_deer_group_military_tradition_3 = {
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+			}
+			OR = {
+				FROM = {
+					culture_group = deer_group
+				}
+			
+				FROMFROM = {
+					has_building = ca_culture_deer_group_military_tradition_3
+				}
+			}
+		}
+		prerequisites = { 
+			ca_culture_deer_group_doctrine_4
+			ca_culture_deer_group_religious_construction_3
+			ca_culture_deer_group_food_2
+		}
+		desc = ca_culture_deer_group_military_tradition_3_desc
+		build_cost = 0
+		build_time = 90
+		ai_creation_factor = 80
+		extra_tech_building_start = 1.0
+		add_number_to_name = no
+	}
+	
+	# Feudalism [Cer.005]
+	ca_culture_deer_group_feudalism_1 = {
+		potential = {
+			FROM = {
+				capital_holding = {
+					title = FROMFROM
+				}
+			}
+			OR = {
+				FROM = {
+					culture_group = deer_group
+				}
+			
+				FROMFROM = {
+					has_building = ca_culture_deer_group_feudalism_1
+				}
+			}
+		}
+		prerequisites = { 
+			ca_culture_deer_group_doctrine_5
+			ca_culture_deer_group_religious_construction_3
+			ca_culture_deer_group_food_3
+			ca_culture_deer_group_military_tradition_2
+			ca_culture_deer_group_military_tradition_3
+		}
+		upgrades_from = ca_culture_deer_group_feudalism_1
+		desc = ca_culture_deer_group_feudalism_1_desc
+		build_cost = 0
+		build_time = 1825
+		ai_creation_factor = 80
+		extra_tech_building_start = 1.0
+		add_number_to_name = no
+	}
+}
