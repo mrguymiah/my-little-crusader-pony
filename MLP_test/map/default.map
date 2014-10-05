@@ -1,4 +1,4 @@
-max_provinces = 1021
+max_provinces = 1022
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
@@ -25,43 +25,43 @@ tree = { 3 4 7 10 }
 major_rivers = 
 { 
 #Zebra Rivers:
-796 797 798 799 800 					#Zebzeben River; connects to Lake Strippas (968)
-801 									#Amzebos River
+797 798 799 800 801						#Zebzeben River; connects to Lake Strippas (968)
+802 									#Amzebos River
 #
 #Changeling Rivers:
-802										#Changinus
-803 804 805								#Hibrodarbis and Chitalinas
+803										#Changinus
+804 805 806								#Hibrodarbis and Chitalinas
 #
 #Saddle Arabian Rivers:
-806 807 808 809 810 811 812 813 814 815	#Neighle River
-816 817 818 819							#Sadalid River; connects to Marecca Sea (989)
+807 808 809 810 811 812 813 814 815 816	#Neighle River
+817 818 819 820							#Sadalid River; connects to Marecca Sea (989)
 #
 #Griffon Rivers:
-820 821 822 							#Talonberis; connects to Maregian Sea (991,992)
-823 824 825 826 						#Redwing River
-827 828 829 830 831 832					#Griflble River
-833 834 								#North Griffon River
-835										#Iceka
-836 837 338 839							#Greatwing River
+821 822 823								#Talonberis; connects to Maregian Sea (991,992)
+824 825 826 827							#Redwing River
+828 829 830 831 832	833					#Griflble River
+834 835									#North Griffon River
+836										#Iceka
+837 338 839	840							#Greatwing River
 #
 #Diamond Hills Rivers:
-840 841 842	843						#Diamond Hills River
+841 842	843	844							#Diamond Hills River
 #
 #The North Rivers:
-844	845 846 847 848 849					#Crystal River; connects to Lake Iceglass (1010, 1011, 1012)
+845 846 847 848 849	850					#Crystal River; connects to Lake Iceglass (1010, 1011, 1012)
 #
 #Unicornia Rivers:
-850 851 852 853 854 855 856 857 858 	#River Saddle
+851 852 853 854 855 856 857 858 859		#River Saddle
 #
 #Earth Rivers:
-859 860 861 862 863 864	865				#River Equus; connects to Everlake (1041) and Lake Neighagra (1024)
+860 861 862 863 864	865 866				#River Equus; connects to Everlake (1041) and Lake Neighagra (1024)
 #
 #Hayseed Rivers:
-866 867 868 869 870 					#Hay River
+867 868 869 870 871						#Hay River
 #
 #Badland Rivers:
-871 									#Zebnyati
+872 									#Zebnyati
 #
 #Buffalonian Rivers:
-872 873 								#River Ungala
+873 874 								#River Ungala
 }

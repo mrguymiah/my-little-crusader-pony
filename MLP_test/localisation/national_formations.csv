@@ -2,7 +2,7 @@
 create_equestria;Form Equestria;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 create_equestria_desc;Unite the three Kingdoms of pony kind.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 equestria.100;Equestria United;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
-EVTDESCequestria.100;With the various pony lords united under a single banner, no longer are you the Lord of Unicornia, Earth, or Pegasopolis, but of something new. From this point on, the cultural kin of all pony kind shall live under one banner. She rises, Equestria!
+EVTDESCequestria.100;With the various pony lords united under a single banner, no longer are you the Lord of Unicornia, Earth, or Pegasopolis, but of something new. From this point on, the cultural kin of all pony kind shall live under one banner. She rises, Equestria!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 EVTOPTAequestria.100;All hail me!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 EVTOPTBequestria.100;Ponies united? It won't last.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
 EVTOPTCequestria.100;Let our enemies tremble!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
