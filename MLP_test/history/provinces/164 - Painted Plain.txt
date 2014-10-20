@@ -7,6 +7,8 @@ title = c_painted_plain
 max_settlements = 3
 
 b_painted_plain = castle
+#b_painted_plain_2 = city
+#b_painted_plain_3 = temple
 
 # Misc
 culture = tazapan

@@ -7,9 +7,11 @@ title = c_buckonagen
 max_settlements = 3
 
 b_buckonagen = castle
+#b_buckonagen_2 = city
+#b_buckonagen_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

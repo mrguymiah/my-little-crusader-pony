@@ -7,6 +7,7 @@ title = c_east_pass
 max_settlements = 2
 
 b_east_pass = castle
+#b_east_pass_2 = city
 
 # Misc
 culture = caribou_culture

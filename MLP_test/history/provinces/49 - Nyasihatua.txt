@@ -7,6 +7,8 @@ title = c_nyasihatua
 max_settlements = 3
 
 b_nyasihatua = castle
+#b_nyasihatua_2 = city
+#b_nyasihatua_3 = temple
 
 # Misc
 culture = zebrazen

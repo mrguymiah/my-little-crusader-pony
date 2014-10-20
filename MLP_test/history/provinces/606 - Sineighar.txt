@@ -7,6 +7,10 @@ title = c_sineighar
 max_settlements = 5
 
 b_sineighar = castle
+#b_sineighar_2 = city
+#b_sineighar_3 = temple
+#b_sineighar_4 = castle
+#b_sineighar_5 = city
 
 # Misc
 culture = saddle_arabian_culture

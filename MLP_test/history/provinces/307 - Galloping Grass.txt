@@ -7,6 +7,11 @@ title = c_galloping_grass
 max_settlements = 6
 
 b_galloping_grass = castle
+#b_galloping_grass_2 = city
+#b_galloping_grass_3 = temple
+#b_galloping_grass_4 = castle
+#b_galloping_grass_5 = city
+#b_galloping_grass_6 = temple
 
 # Misc
 culture = unicorn_culture

@@ -7,6 +7,10 @@ title = c_eg20
 max_settlements = 5
 
 b_eg20 = castle
+#b_eg20_2 = city
+#b_eg20_3 = temple
+#b_eg20_4 = castle
+#b_eg20_5 = city
 
 # Misc
 culture = low_griffon

@@ -7,6 +7,7 @@ title = c_el_mareish
 max_settlements = 2
 
 b_el_mareish = castle
+#b_el_mareish_2 = city
 
 # Misc
 culture = saddle_arabian_culture

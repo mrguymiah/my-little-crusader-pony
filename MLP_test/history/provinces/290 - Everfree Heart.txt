@@ -7,9 +7,14 @@ title = c_everfree_heart
 max_settlements = 6
 
 b_everfree_heart = castle
+#b_everfree_heart_2 = city
+#b_everfree_heart_3 = temple
+#b_everfree_heart_4 = castle
+#b_everfree_heart_5 = city
+#b_everfree_heart_6 = temple
 
 # Misc
 culture = fallow
-religion = cephala
+religion = agniphanum
 
 #History

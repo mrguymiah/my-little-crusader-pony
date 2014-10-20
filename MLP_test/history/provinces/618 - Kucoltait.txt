@@ -7,6 +7,9 @@ title = c_kucoltait
 max_settlements = 4
 
 b_kucoltait = castle
+#b_kucoltait_2 = city
+#b_kucoltait_3 = temple
+#b_kucoltait_4 = castle
 
 # Misc
 culture = saddle_arabian_culture

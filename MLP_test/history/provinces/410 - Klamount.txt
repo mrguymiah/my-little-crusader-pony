@@ -7,9 +7,11 @@ title = c_klamount
 max_settlements = 3
 
 b_klamount = castle
+#b_klamount_2 = city
+#b_klamount_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

@@ -7,9 +7,11 @@ title = c_haygrove
 max_settlements = 3
 
 b_haygrove = castle
+#b_haygrove_2 = city
+#b_haygrove_3 = temple
 
 # Misc
 culture = taruca
-religion = muntura
+religion = evantol
 
 #History

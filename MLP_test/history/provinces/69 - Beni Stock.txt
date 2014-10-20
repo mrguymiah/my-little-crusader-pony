@@ -7,6 +7,8 @@ title = c_beni_stock
 max_settlements = 3
 
 b_beni_stock = castle
+#b_beni_stock_2 = city
+#b_beni_stock_3 = temple
 
 # Misc
 culture = zebrazen

@@ -7,6 +7,8 @@ title = c_berry_creek
 max_settlements = 3
 
 b_berry_creek = castle
+#b_berry_creek_2 = city
+#b_berry_creek_3 = temple
 
 # Misc
 culture = sioxen

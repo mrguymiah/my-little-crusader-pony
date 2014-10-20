@@ -7,9 +7,12 @@ title = c_cloudon
 max_settlements = 4
 
 b_cloudon = castle
+#b_cloudon_2 = city
+#b_cloudon_3 = temple
+#b_cloudon_4 = castle
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

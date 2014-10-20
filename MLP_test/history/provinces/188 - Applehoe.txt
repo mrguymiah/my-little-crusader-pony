@@ -7,6 +7,8 @@ title = c_applehoe
 max_settlements = 3
 
 b_applehoe = castle
+#b_applehoe_2 = city
+#b_applehoe_3 = temple
 
 # Misc
 culture = sioxen

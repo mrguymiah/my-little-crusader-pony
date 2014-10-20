@@ -7,6 +7,8 @@ title = c_grazi
 max_settlements = 3
 
 b_grazi = castle
+#b_grazi_2 = city
+#b_grazi_3 = temple
 
 # Misc
 culture = sioxen

@@ -7,6 +7,9 @@ title = c_al_mareza
 max_settlements = 4
 
 b_al_mareza = castle
+#b_al_mareza_2 = city
+#b_al_mareza_3 = temple
+#b_al_mareza_4 = castle
 
 # Misc
 culture = saddle_arabian_culture

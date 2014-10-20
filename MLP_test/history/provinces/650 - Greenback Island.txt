@@ -7,6 +7,8 @@ title = c_greenback_island
 max_settlements = 3
 
 b_greenback_island = castle
+#b_greenback_island_2 = city
+#b_greenback_island_3 = temple
 
 # Misc
 culture = south_griffon

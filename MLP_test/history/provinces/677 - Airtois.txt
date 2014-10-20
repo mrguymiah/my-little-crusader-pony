@@ -7,6 +7,10 @@ title = c_airtois
 max_settlements = 5
 
 b_airtois = castle
+#b_airtois_2 = city
+#b_airtois_3 = temple
+#b_airtois_4 = castle
+#b_airtois_5 = city
 
 # Misc
 culture = south_griffon

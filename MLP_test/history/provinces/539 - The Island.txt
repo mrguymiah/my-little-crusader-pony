@@ -7,6 +7,8 @@ title = c_the_island
 max_settlements = 3
 
 b_the_island = castle
+#b_the_island_2 = city
+#b_the_island_3 = temple
 
 # Misc
 culture = changeling_culture

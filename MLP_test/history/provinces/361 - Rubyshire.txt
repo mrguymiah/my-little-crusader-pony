@@ -12,6 +12,6 @@ b_redington = city
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

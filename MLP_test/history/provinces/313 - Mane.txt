@@ -7,9 +7,14 @@ title = c_mane
 max_settlements = 6
 
 b_mane = castle
+#b_mane_2 = city
+#b_mane_3 = temple
+#b_mane_4 = castle
+#b_mane_5 = city
+#b_mane_6 = temple
 
 # Misc
 culture = fallow
-religion = cephala
+religion = agniphanum
 
 #History

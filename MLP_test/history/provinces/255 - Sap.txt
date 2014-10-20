@@ -7,9 +7,11 @@ title = c_sap
 max_settlements = 3
 
 b_sap = castle
+#b_sap_2 = city
+#b_sap_3 = temple
 
 # Misc
 culture = cephalo
-religion = cephala
+religion = agniphanum
 
 #History

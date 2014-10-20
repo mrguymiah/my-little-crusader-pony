@@ -7,6 +7,11 @@ title = c_kara_colt
 max_settlements = 6
 
 b_kara_colt = castle
+#b_kara_colt_2 = city
+#b_kara_colt_3 = temple
+#b_kara_colt_4 = castle
+#b_kara_colt_5 = city
+#b_kara_colt_6 = temple
 
 # Misc
 culture = saddle_arabian_culture

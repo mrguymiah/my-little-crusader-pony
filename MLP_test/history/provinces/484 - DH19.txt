@@ -7,6 +7,8 @@ title = c_dh19
 max_settlements = 3
 
 b_dh19 = castle
+#b_dh19_2 = city
+#b_dh19_3 = temple
 
 # Misc
 culture = caribou_culture

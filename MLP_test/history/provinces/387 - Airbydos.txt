@@ -7,9 +7,12 @@ title = c_airbydos
 max_settlements = 4
 
 b_airbydos = castle
+#b_airbydos_2 = city
+#b_airbydos_3 = temple
+#b_airbydos_4 = castle
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

@@ -7,9 +7,13 @@ title = c_toumane
 max_settlements = 5
 
 b_toumane = castle
+#b_toumane_2 = city
+#b_toumane_3 = temple
+#b_toumane_4 = castle
+#b_toumane_5 = city
 
 # Misc
 culture = fallow
-religion = cephala
+religion = agniphanum
 
 #History

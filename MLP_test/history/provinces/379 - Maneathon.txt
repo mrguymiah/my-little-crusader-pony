@@ -7,9 +7,12 @@ title = c_maneathon
 max_settlements = 4
 
 b_maneathon = castle
+#b_maneathon_2 = city
+#b_maneathon_3 = temple
+#b_maneathon_4 = castle
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

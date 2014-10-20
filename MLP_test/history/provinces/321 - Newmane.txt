@@ -16,6 +16,6 @@ b_trottstreat = city
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

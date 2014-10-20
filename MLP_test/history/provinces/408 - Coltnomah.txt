@@ -7,9 +7,11 @@ title = c_coltnomah
 max_settlements = 3
 
 b_coltnomah = castle
+#b_coltnomah_2 = city
+#b_coltnomah_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

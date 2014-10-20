@@ -7,6 +7,8 @@ title = c_hoofo
 max_settlements = 3
 
 b_hoofo = castle
+#b_hoofo_2 = city
+#b_hoofo_3 = temple
 
 # Misc
 culture = sioxen

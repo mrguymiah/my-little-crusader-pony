@@ -7,9 +7,11 @@ title = c_elktians
 max_settlements = 3
 
 b_elktians = castle
+#b_elktians_2 = city
+#b_elktians_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

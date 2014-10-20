@@ -7,6 +7,8 @@ title = c_el_tailif
 max_settlements = 3
 
 b_el_tailif = castle
+#b_el_tailif_2 = city
+#b_el_tailif_3 = temple
 
 # Misc
 culture = zebrazen

@@ -7,6 +7,9 @@ title = c_talont
 max_settlements = 4
 
 b_talont = castle
+#b_talont_2 = city
+#b_talont_3 = temple
+#b_talont_4 = castle
 
 # Misc
 culture = south_griffon

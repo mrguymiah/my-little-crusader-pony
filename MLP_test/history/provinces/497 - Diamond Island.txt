@@ -7,6 +7,8 @@ title = c_diamond_island
 max_settlements = 3
 
 b_diamond_island = castle
+#b_diamond_island_2 = city
+#b_diamond_island_3 = temple
 
 # Misc
 culture = caribou_culture

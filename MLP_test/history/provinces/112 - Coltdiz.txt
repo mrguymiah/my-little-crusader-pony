@@ -7,9 +7,13 @@ title = c_coltdiz
 max_settlements = 5
 
 b_coltdiz = castle
+#b_coltdiz_2 = city
+#b_coltdiz_3 = temple
+#b_coltdiz_4 = castle
+#b_coltdiz_5 = city
 
 # Misc
-culture = saddle_arabian_culture
-religion = saddle_arabian_religion
+culture = zebrazen
+religion = dahomaine_religion
 
 #History

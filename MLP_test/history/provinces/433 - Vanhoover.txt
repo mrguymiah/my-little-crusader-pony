@@ -16,6 +16,6 @@ b_staggey = city
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

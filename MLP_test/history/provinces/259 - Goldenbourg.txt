@@ -7,9 +7,11 @@ title = c_goldenbourg
 max_settlements = 3
 
 b_goldenbourg = castle
+#b_goldenbourg_2 = city
+#b_goldenbourg_3 = temple
 
 # Misc
 culture = cephalo
-religion = cephala
+religion = agniphanum
 
 #History

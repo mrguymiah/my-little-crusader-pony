@@ -7,6 +7,10 @@ title = c_canterlusia
 max_settlements = 5
 
 b_canterlusia = castle
+#b_canterlusia_2 = city
+#b_canterlusia_3 = temple
+#b_canterlusia_4 = castle
+#b_canterlusia_5 = city
 
 # Misc
 culture = saddle_arabian_culture

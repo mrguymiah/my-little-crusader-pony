@@ -7,6 +7,12 @@ title = c_yerapern
 max_settlements = 7
 
 b_yerapern = castle
+#b_yerapern_2 = city
+#b_yerapern_3 = temple
+#b_yerapern_4 = castle
+#b_yerapern_5 = city
+#b_yerapern_6 = temple
+#b_yerapern_7 = castle
 
 # Misc
 culture = south_griffon

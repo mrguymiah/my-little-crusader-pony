@@ -7,6 +7,9 @@ title = c_poniala
 max_settlements = 4
 
 b_poniala = castle
+#b_poniala_2 = city
+#b_poniala_3 = temple
+#b_poniala_4 = castle
 
 # Misc
 culture = earth_pony_culture

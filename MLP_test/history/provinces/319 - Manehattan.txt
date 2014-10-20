@@ -16,6 +16,6 @@ b_midton = city
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

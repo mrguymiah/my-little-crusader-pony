@@ -7,6 +7,8 @@ title = c_colticia
 max_settlements = 3
 
 b_colticia = castle
+#b_colticia_2 = city
+#b_colticia_3 = temple
 
 # Misc
 culture = saddle_arabian_culture

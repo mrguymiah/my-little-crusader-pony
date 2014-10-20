@@ -7,6 +7,8 @@ title = c_sunzebra
 max_settlements = 3
 
 b_sunzebra = castle
+#b_sunzebra_2 = city
+#b_sunzebra_3 = temple
 
 # Misc
 culture = zebrazen

@@ -7,6 +7,9 @@ title = c_karthin
 max_settlements = 4
 
 b_karthin = castle
+#b_karthin_2 = city
+#b_karthin_3 = temple
+#b_karthin_4 = castle
 
 # Misc
 culture = south_griffon

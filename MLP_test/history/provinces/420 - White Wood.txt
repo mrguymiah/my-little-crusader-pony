@@ -7,9 +7,13 @@ title = c_white_wood
 max_settlements = 5
 
 b_white_wood = castle
+#b_white_wood_2 = city
+#b_white_wood_3 = temple
+#b_white_wood_4 = castle
+#b_white_wood_5 = city
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

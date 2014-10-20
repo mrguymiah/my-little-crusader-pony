@@ -7,6 +7,8 @@ title = c_buckhara
 max_settlements = 3
 
 b_buckhara = castle
+#b_buckhara_2 = city
+#b_buckhara_3 = temple
 
 # Misc
 culture = saddle_arabian_culture

@@ -7,6 +7,8 @@ title = c_greeningtrees
 max_settlements = 3
 
 b_greeningtrees = castle
+#b_greeningtrees_2 = city
+#b_greeningtrees_3 = temple
 
 # Misc
 culture = tazapan

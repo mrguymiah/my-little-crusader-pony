@@ -7,9 +7,11 @@ title = c_westmarester
 max_settlements = 3
 
 b_westmarester = castle
+#b_westmarester_2 = city
+#b_westmarester_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

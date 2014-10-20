@@ -7,9 +7,12 @@ title = c_tallgrass
 max_settlements = 4
 
 b_tallgrass = castle
+#b_tallgrass_2 = city
+#b_tallgrass_3 = temple
+#b_tallgrass_4 = castle
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

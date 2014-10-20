@@ -7,6 +7,7 @@ title = c_deadhorse_way
 max_settlements = 2
 
 b_deadhorse_way = castle
+#b_deadhorse_way_2 = city
 
 # Misc
 culture = blackhoof

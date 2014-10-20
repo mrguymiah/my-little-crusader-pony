@@ -7,6 +7,8 @@ title = c_pundaanyighumbani
 max_settlements = 3
 
 b_pundaanyighumbani = castle
+#b_pundaanyighumbani_2 = city
+#b_pundaanyighumbani_3 = temple
 
 # Misc
 culture = zebrazen

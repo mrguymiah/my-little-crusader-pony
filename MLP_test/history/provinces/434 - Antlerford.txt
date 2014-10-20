@@ -7,9 +7,13 @@ title = c_antlerford
 max_settlements = 5
 
 b_antlerford = castle
+#b_antlerford_2 = city
+#b_antlerford_3 = temple
+#b_antlerford_4 = castle
+#b_antlerford_5 = city
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

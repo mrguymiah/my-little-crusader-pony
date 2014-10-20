@@ -7,6 +7,12 @@ title = c_beakland
 max_settlements = 7
 
 b_beakland = castle
+#b_beakland_2 = city
+#b_beakland_3 = temple
+#b_beakland_4 = castle
+#b_beakland_5 = city
+#b_beakland_6 = temple
+#b_beakland_7 = castle
 
 # Misc
 culture = south_griffon

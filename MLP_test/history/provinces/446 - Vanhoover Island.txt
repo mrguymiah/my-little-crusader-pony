@@ -7,9 +7,11 @@ title = c_vanhoover_island
 max_settlements = 3
 
 b_vanhoover_island = castle
+#b_vanhoover_island_2 = city
+#b_vanhoover_island_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

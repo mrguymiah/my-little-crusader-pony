@@ -7,9 +7,14 @@ title = c_poulain
 max_settlements = 6
 
 b_poulain = castle
+#b_poulain_2 = city
+#b_poulain_3 = temple
+#b_poulain_4 = castle
+#b_poulain_5 = city
+#b_poulain_6 = temple
 
 # Misc
 culture = fallow
-religion = cephala
+religion = agniphanum
 
 #History

@@ -7,6 +7,8 @@ title = c_zebroidar
 max_settlements = 3
 
 b_zebroidar = castle
+#b_zebroidar_2 = city
+#b_zebroidar_3 = temple
 
 # Misc
 culture = zebradid

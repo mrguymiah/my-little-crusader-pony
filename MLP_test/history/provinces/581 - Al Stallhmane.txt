@@ -7,6 +7,8 @@ title = c_al_stallhmane
 max_settlements = 3
 
 b_al_stallhmane = castle
+#b_al_stallhmane_2 = city
+#b_al_stallhmane_3 = temple
 
 # Misc
 culture = saddle_arabian_culture

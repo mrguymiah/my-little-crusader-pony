@@ -7,6 +7,7 @@ title = c_crackedsand
 max_settlements = 2
 
 b_crackedsand = castle
+#b_crackedsand_2 = city
 
 # Misc
 culture = blackhoof

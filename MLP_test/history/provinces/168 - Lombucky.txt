@@ -7,6 +7,8 @@ title = c_lombucky
 max_settlements = 3
 
 b_lombucky = castle
+#b_lombucky_2 = city
+#b_lombucky_3 = temple
 
 # Misc
 culture = tazapan

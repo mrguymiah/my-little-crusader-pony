@@ -7,6 +7,8 @@ title = c_numnah
 max_settlements = 3
 
 b_numnah = castle
+#b_numnah_2 = city
+#b_numnah_3 = temple
 
 # Misc
 culture = zebrazen

@@ -7,6 +7,9 @@ title = c_manejar
 max_settlements = 4
 
 b_manejar = castle
+#b_manejar_2 = city
+#b_manejar_3 = temple
+#b_manejar_4 = castle
 
 # Misc
 culture = saddle_arabian_culture

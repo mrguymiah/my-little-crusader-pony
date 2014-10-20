@@ -7,6 +7,8 @@ title = c_el_barnadh
 max_settlements = 3
 
 b_el_barnadh = castle
+#b_el_barnadh_2 = city
+#b_el_barnadh_3 = temple
 
 # Misc
 culture = zebrazen

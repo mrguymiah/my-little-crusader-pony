@@ -7,6 +7,7 @@ title = c_north13
 max_settlements = 2
 
 b_north13 = castle
+#b_north13_2 = city
 
 # Misc
 culture = caribou_culture

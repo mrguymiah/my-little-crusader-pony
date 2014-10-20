@@ -7,6 +7,8 @@ title = c_manitrotba
 max_settlements = 3
 
 b_manitrotba = castle
+#b_manitrotba_2 = city
+#b_manitrotba_3 = temple
 
 # Misc
 culture = sioxen

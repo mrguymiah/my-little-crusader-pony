@@ -7,6 +7,7 @@ title = c_bergundy
 max_settlements = 2
 
 b_bergundy = castle
+#b_bergundy_2 = city
 
 # Misc
 culture = crystal_culture

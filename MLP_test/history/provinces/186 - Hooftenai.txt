@@ -7,6 +7,8 @@ title = c_hooftenai
 max_settlements = 3
 
 b_hooftenai = castle
+#b_hooftenai_2 = city
+#b_hooftenai_3 = temple
 
 # Misc
 culture = sioxen

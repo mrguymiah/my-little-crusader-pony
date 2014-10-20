@@ -7,6 +7,9 @@ title = c_peckua
 max_settlements = 4
 
 b_peckua = castle
+#b_peckua_2 = city
+#b_peckua_3 = temple
+#b_peckua_4 = castle
 
 # Misc
 culture = south_griffon

@@ -7,6 +7,8 @@ title = c_tobronc
 max_settlements = 3
 
 b_tobronc = castle
+#b_tobronc_2 = city
+#b_tobronc_3 = temple
 
 # Misc
 culture = zebrazen

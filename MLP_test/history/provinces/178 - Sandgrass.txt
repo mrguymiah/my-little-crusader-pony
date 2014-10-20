@@ -7,6 +7,8 @@ title = c_sandgrass
 max_settlements = 3
 
 b_sandgrass = castle
+#b_sandgrass_2 = city
+#b_sandgrass_3 = temple
 
 # Misc
 culture = tazapan

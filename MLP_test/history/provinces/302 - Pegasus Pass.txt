@@ -7,6 +7,9 @@ title = c_pegasus_pass
 max_settlements = 4
 
 b_pegasus_pass = castle
+#b_pegasus_pass_2 = city
+#b_pegasus_pass_3 = temple
+#b_pegasus_pass_4 = castle
 
 # Misc
 culture = unicorn_culture

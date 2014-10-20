@@ -7,9 +7,12 @@ title = c_cirrus
 max_settlements = 4
 
 b_cirrus = castle
+#b_cirrus_2 = city
+#b_cirrus_3 = temple
+#b_cirrus_4 = castle
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

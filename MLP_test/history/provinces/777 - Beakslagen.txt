@@ -7,6 +7,8 @@ title = c_beakslagen
 max_settlements = 3
 
 b_beakslagen = castle
+#b_beakslagen_2 = city
+#b_beakslagen_3 = temple
 
 # Misc
 culture = high_griffon

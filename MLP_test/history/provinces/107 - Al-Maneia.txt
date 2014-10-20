@@ -9,7 +9,7 @@ max_settlements = 7
 b_al_maneia = castle
 
 # Misc
-culture = saddle_arabian_culture
-religion = saddle_arabian_religion
+culture = zebrazen
+religion = dahomaine_religion
 
 #History

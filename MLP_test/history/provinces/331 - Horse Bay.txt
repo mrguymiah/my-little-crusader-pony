@@ -14,6 +14,6 @@ b_stallinonton_on_sea = city
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

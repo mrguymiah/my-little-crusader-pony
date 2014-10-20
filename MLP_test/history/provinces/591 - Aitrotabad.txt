@@ -7,6 +7,9 @@ title = c_aitrotabad
 max_settlements = 4
 
 b_aitrotabad = castle
+#b_aitrotabad_2 = city
+#b_aitrotabad_3 = temple
+#b_aitrotabad_4 = castle
 
 # Misc
 culture = saddle_arabian_culture

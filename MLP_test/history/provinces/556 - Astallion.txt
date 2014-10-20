@@ -7,6 +7,9 @@ title = c_astallion
 max_settlements = 4
 
 b_astallion = castle
+#b_astallion_2 = city
+#b_astallion_3 = temple
+#b_astallion_4 = castle
 
 # Misc
 culture = saddle_arabian_culture

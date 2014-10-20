@@ -7,6 +7,7 @@ title = c_stamping_mesa
 max_settlements = 2
 
 b_stamping_mesa = castle
+#b_stamping_mesa_2 = city
 
 # Misc
 culture = blackhoof

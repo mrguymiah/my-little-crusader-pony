@@ -7,9 +7,11 @@ title = c_crystalwing
 max_settlements = 3
 
 b_crystalwing = castle
+#b_crystalwing_2 = city
+#b_crystalwing_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

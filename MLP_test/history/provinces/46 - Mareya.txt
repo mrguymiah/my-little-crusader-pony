@@ -7,6 +7,8 @@ title = c_mareya
 max_settlements = 3
 
 b_mareya = castle
+#b_mareya_2 = city
+#b_mareya_3 = temple
 
 # Misc
 culture = zebrazen

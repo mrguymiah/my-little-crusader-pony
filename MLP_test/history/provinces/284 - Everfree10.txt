@@ -10,6 +10,6 @@ b_everfree10 = castle
 
 # Misc
 culture = fallow
-religion = cephala
+religion = agniphanum
 
 #History

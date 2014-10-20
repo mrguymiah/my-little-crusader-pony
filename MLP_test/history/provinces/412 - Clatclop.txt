@@ -7,9 +7,11 @@ title = c_clatclop
 max_settlements = 3
 
 b_clatclop = castle
+#b_clatclop_2 = city
+#b_clatclop_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

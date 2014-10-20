@@ -7,9 +7,15 @@ title = c_neighbela
 max_settlements = 7
 
 b_neighbela = castle
+#b_neighbela_2 = city
+#b_neighbela_3 = temple
+#b_neighbela_4 = castle
+#b_neighbela_5 = city
+#b_neighbela_6 = temple
+#b_neighbela_7 = castle
 
 # Misc
-culture = saddle_arabian_culture
-religion = saddle_arabian_religion
+culture = zebrazen
+religion = dahomaine_religion
 
 #History

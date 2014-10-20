@@ -7,9 +7,11 @@ title = c_stokesand
 max_settlements = 3
 
 b_stokesand = castle
+#b_stokesand_2 = city
+#b_stokesand_3 = temple
 
 # Misc
 culture = cephalo
-religion = cephala
+religion = agniphanum
 
 #History

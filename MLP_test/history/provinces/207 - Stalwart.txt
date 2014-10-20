@@ -7,6 +7,8 @@ title = c_stalwart
 max_settlements = 3
 
 b_stalwart = castle
+#b_stalwart_2 = city
+#b_stalwart_3 = temple
 
 # Misc
 culture = sioxen

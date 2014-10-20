@@ -7,9 +7,11 @@ title = c_hayden
 max_settlements = 3
 
 b_hayden = castle
+#b_hayden_2 = city
+#b_hayden_3 = temple
 
 # Misc
 culture = cephalo
-religion = cephala
+religion = agniphanum
 
 #History

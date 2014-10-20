@@ -7,9 +7,13 @@ title = c_stagway
 max_settlements = 5
 
 b_stagway = castle
+#b_stagway_2 = city
+#b_stagway_3 = temple
+#b_stagway_4 = castle
+#b_stagway_5 = city
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

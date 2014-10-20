@@ -7,6 +7,10 @@ title = c_pridea
 max_settlements = 5
 
 b_pridea = castle
+#b_pridea_2 = city
+#b_pridea_3 = temple
+#b_pridea_4 = castle
+#b_pridea_5 = city
 
 # Misc
 culture = south_griffon

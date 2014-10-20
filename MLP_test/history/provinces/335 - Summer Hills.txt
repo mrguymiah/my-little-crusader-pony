@@ -7,9 +7,12 @@ title = c_summer_hills
 max_settlements = 4
 
 b_summer_hills = castle
+#b_summer_hills_2 = city
+#b_summer_hills_3 = temple
+#b_summer_hills_4 = castle
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

@@ -7,9 +7,12 @@ title = c_everwatch
 max_settlements = 4
 
 b_everwatch = castle
+#b_everwatch_2 = city
+#b_everwatch_3 = temple
+#b_everwatch_4 = castle
 
 # Misc
 culture = fallow
-religion = cephala
+religion = agniphanum
 
 #History

@@ -7,6 +7,7 @@ title = c_bloodslopes
 max_settlements = 2
 
 b_bloodslopes = castle
+#b_bloodslopes_2 = city
 
 # Misc
 culture = blackhoof

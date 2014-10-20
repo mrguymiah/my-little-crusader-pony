@@ -7,6 +7,7 @@ title = c_crystal_gap
 max_settlements = 2
 
 b_crystal_gap = castle
+#b_crystal_gap_2 = city
 
 # Misc
 culture = caribou_culture

@@ -7,6 +7,10 @@ title = c_taloneia
 max_settlements = 5
 
 b_taloneia = castle
+#b_taloneia_2 = city
+#b_taloneia_3 = temple
+#b_taloneia_4 = castle
+#b_taloneia_5 = city
 
 # Misc
 culture = south_griffon

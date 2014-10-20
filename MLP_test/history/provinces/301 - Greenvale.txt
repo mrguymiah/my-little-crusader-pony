@@ -10,6 +10,6 @@ b_leaf_farm = city
 
 # Misc
 culture = fallow
-religion = cephala
+religion = agniphanum
 
 #History

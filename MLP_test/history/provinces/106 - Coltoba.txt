@@ -11,7 +11,7 @@ b_almanebra = castle
 b_marezquita = temple
 
 # Misc
-culture = saddle_arabian_culture
-religion = saddle_arabian_religion
+culture = zebrazen
+religion = dahomaine_religion
 
 #History

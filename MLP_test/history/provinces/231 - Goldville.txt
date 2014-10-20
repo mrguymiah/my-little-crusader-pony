@@ -7,9 +7,11 @@ title = c_goldville
 max_settlements = 3
 
 b_goldville = castle
+#b_goldville_2 = city
+#b_goldville_3 = temple
 
 # Misc
 culture = cephalo
-religion = cephala
+religion = agniphanum
 
 #History

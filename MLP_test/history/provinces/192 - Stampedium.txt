@@ -7,6 +7,8 @@ title = c_stampedium
 max_settlements = 3
 
 b_stampedium = castle
+#b_stampedium_2 = city
+#b_stampedium_3 = temple
 
 # Misc
 culture = sioxen

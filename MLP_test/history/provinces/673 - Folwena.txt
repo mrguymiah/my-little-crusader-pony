@@ -7,6 +7,10 @@ title = c_folwena
 max_settlements = 5
 
 b_folwena = castle
+#b_folwena_2 = city
+#b_folwena_3 = temple
+#b_folwena_4 = castle
+#b_folwena_5 = city
 
 # Misc
 culture = south_griffon

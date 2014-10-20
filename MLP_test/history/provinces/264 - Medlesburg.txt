@@ -7,9 +7,11 @@ title = c_medlesburg
 max_settlements = 3
 
 b_medlesburg = castle
+#b_medlesburg_2 = city
+#b_medlesburg_3 = temple
 
 # Misc
 culture = cephalo
-religion = cephala
+religion = agniphanum
 
 #History

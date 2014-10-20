@@ -7,6 +7,9 @@ title = c_thunderpolis
 max_settlements = 4
 
 b_thunderpolis = castle
+#b_thunderpolis_2 = city
+#b_thunderpolis_3 = temple
+#b_thunderpolis_4 = castle
 
 # Misc
 culture = pegasus_culture

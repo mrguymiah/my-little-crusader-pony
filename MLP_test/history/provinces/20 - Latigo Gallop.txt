@@ -7,6 +7,8 @@ title = c_latigo_gallop
 max_settlements = 3
 
 b_latigo_gallop = castle
+#b_latigo_gallop_2 = city
+#b_latigo_gallop_3 = temple
 
 # Misc
 culture = zebradid

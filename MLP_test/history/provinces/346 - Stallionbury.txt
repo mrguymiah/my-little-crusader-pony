@@ -13,6 +13,6 @@ b_apples_bromly = temple
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

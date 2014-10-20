@@ -7,6 +7,11 @@ title = c_cloudsdale
 max_settlements = 6
 
 b_cloudsdale = castle
+#b_cloudsdale_2 = city
+#b_cloudsdale_3 = temple
+#b_cloudsdale_4 = castle
+#b_cloudsdale_5 = city
+#b_cloudsdale_6 = temple
 
 # Misc
 culture = pegasus_culture

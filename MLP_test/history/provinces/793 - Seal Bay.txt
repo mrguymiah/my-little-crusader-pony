@@ -7,6 +7,7 @@ title = c_seal_bay
 max_settlements = 2
 
 b_seal_bay = castle
+#b_seal_bay_2 = city
 
 # Misc
 culture = caribou_culture

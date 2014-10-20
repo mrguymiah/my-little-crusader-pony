@@ -7,9 +7,12 @@ title = c_rainisos
 max_settlements = 4
 
 b_rainisos = castle
+#b_rainisos_2 = city
+#b_rainisos_3 = temple
+#b_rainisos_4 = castle
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

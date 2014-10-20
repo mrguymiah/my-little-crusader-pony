@@ -7,6 +7,8 @@ title = c_ch14
 max_settlements = 3
 
 b_ch14 = castle
+#b_ch14_2 = city
+#b_ch14_3 = temple
 
 # Misc
 culture = changeling_culture

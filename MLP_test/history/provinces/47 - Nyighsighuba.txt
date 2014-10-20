@@ -7,6 +7,8 @@ title = c_nyighsighuba
 max_settlements = 3
 
 b_nyighsighuba = castle
+#b_nyighsighuba_2 = city
+#b_nyighsighuba_3 = temple
 
 # Misc
 culture = zebrazen

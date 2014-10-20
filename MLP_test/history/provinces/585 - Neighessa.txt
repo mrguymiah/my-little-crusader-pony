@@ -7,6 +7,10 @@ title = c_neighessa
 max_settlements = 5
 
 b_neighessa = castle
+#b_neighessa_2 = city
+#b_neighessa_3 = temple
+#b_neighessa_4 = castle
+#b_neighessa_5 = city
 
 # Misc
 culture = saddle_arabian_culture

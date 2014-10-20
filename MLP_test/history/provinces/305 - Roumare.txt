@@ -7,9 +7,13 @@ title = c_roumare
 max_settlements = 5
 
 b_roumare = castle
+#b_roumare_2 = city
+#b_roumare_3 = temple
+#b_roumare_4 = castle
+#b_roumare_5 = city
 
 # Misc
 culture = fallow
-religion = cephala
+religion = agniphanum
 
 #History

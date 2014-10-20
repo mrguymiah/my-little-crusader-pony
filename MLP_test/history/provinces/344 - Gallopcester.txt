@@ -13,6 +13,6 @@ b_greenhart_hill = temple
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

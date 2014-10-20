@@ -7,6 +7,10 @@ title = c_feathara
 max_settlements = 5
 
 b_feathara = castle
+#b_feathara_2 = city
+#b_feathara_3 = temple
+#b_feathara_4 = castle
+#b_feathara_5 = city
 
 # Misc
 culture = south_griffon

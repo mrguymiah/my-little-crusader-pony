@@ -1,8 +1,8 @@
-500.1.1={
+20.1.1={
 	law = enatic_cognatic_succession
 	law = succ_gavelkind
 }
-1080.1.1={
-	liege=k_diamond_hills
+120.1.1={
+	holder=2109
 }
 

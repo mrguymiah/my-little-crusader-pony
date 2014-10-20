@@ -7,6 +7,8 @@ title = c_blackhoof
 max_settlements = 3
 
 b_blackhoof = castle
+#b_blackhoof_2 = city
+#b_blackhoof_3 = temple
 
 # Misc
 culture = sioxen

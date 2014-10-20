@@ -7,6 +7,8 @@ title = c_zebroitan
 max_settlements = 3
 
 b_zebroitan = castle
+#b_zebroitan_2 = city
+#b_zebroitan_3 = temple
 
 # Misc
 culture = zebrazen

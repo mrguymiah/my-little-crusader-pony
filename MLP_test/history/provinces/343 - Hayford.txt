@@ -13,6 +13,6 @@ b_parkbridge = temple
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

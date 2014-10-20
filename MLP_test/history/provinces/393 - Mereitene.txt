@@ -7,6 +7,9 @@ title = c_mereitene
 max_settlements = 4
 
 b_mereitene = castle
+#b_mereitene_2 = city
+#b_mereitene_3 = temple
+#b_mereitene_4 = castle
 
 # Misc
 culture = pegasus_culture

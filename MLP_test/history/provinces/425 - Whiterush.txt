@@ -7,9 +7,11 @@ title = c_whiterush
 max_settlements = 3
 
 b_whiterush = castle
+#b_whiterush_2 = city
+#b_whiterush_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

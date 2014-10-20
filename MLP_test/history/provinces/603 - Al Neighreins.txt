@@ -7,6 +7,11 @@ title = c_al_neighreins
 max_settlements = 6
 
 b_al_neighreins = castle
+#b_al_neighreins_2 = city
+#b_al_neighreins_3 = temple
+#b_al_neighreins_4 = castle
+#b_al_neighreins_5 = city
+#b_al_neighreins_6 = temple
 
 # Misc
 culture = saddle_arabian_culture

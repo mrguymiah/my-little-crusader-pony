@@ -7,6 +7,7 @@ title = c_boneplane
 max_settlements = 2
 
 b_boneplane = castle
+#b_boneplane_2 = city
 
 # Misc
 culture = blackhoof

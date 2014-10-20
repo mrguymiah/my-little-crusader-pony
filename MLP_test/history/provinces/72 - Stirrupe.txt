@@ -7,6 +7,8 @@ title = c_stirrupe
 max_settlements = 3
 
 b_stirrupe = castle
+#b_stirrupe_2 = city
+#b_stirrupe_3 = temple
 
 # Misc
 culture = zebrazen

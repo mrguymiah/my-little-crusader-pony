@@ -7,6 +7,9 @@ title = c_south_neighagra
 max_settlements = 4
 
 b_south_neighagra = castle
+#b_south_neighagra_2 = city
+#b_south_neighagra_3 = temple
+#b_south_neighagra_4 = castle
 
 # Misc
 culture = earth_pony_culture

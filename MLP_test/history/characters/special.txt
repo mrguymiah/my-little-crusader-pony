@@ -10,7 +10,7 @@
 	stewardship=0
 	intrigue=0
 	learning=0
-	religion="earth_religion"
+	religion="wildfaith"
 	culture="wildling"
 	add_trait="the_wilds"
 	1.1.1 = {

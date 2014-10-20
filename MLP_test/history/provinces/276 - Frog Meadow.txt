@@ -7,9 +7,12 @@ title = c_frog_meadow
 max_settlements = 4
 
 b_frog_meadow = castle
+#b_frog_meadow_2 = city
+#b_frog_meadow_3 = temple
+#b_frog_meadow_4 = castle
 
 # Misc
 culture = fallow
-religion = cephala
+religion = agniphanum
 
 #History

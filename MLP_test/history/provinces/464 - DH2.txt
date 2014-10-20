@@ -7,9 +7,11 @@ title = c_dh2
 max_settlements = 3
 
 b_dh2 = castle
+#b_dh2_2 = city
+#b_dh2_3 = temple
 
 # Misc
-culture = caribou_culture
-religion = mooselam
+culture = muntjac
+religion = muntura
 
 #History

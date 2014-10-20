@@ -7,6 +7,9 @@ title = c_coltuz
 max_settlements = 4
 
 b_coltuz = castle
+#b_coltuz_2 = city
+#b_coltuz_3 = temple
+#b_coltuz_4 = castle
 
 # Misc
 culture = saddle_arabian_culture

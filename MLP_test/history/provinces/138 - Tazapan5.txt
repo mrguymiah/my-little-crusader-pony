@@ -7,6 +7,8 @@ title = c_tazapan5
 max_settlements = 3
 
 b_tazapan5 = castle
+#b_tazapan5_2 = city
+#b_tazapan5_3 = temple
 
 # Misc
 culture = tazapan

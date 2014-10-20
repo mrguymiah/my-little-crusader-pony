@@ -7,9 +7,13 @@ title = c_maines
 max_settlements = 5
 
 b_maines = castle
+#b_maines_2 = city
+#b_maines_3 = temple
+#b_maines_4 = castle
+#b_maines_5 = city
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

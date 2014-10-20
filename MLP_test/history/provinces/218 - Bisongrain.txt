@@ -7,6 +7,8 @@ title = c_bisongrain
 max_settlements = 3
 
 b_bisongrain = castle
+#b_bisongrain_2 = city
+#b_bisongrain_3 = temple
 
 # Misc
 culture = sioxen

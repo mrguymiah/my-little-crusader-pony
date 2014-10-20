@@ -7,6 +7,8 @@ title = c_rosa
 max_settlements = 3
 
 b_rosa = castle
+#b_rosa_2 = city
+#b_rosa_3 = temple
 
 # Misc
 culture = sioxen

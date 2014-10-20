@@ -7,6 +7,8 @@ title = c_chicacharge
 max_settlements = 3
 
 b_chicacharge = castle
+#b_chicacharge_2 = city
+#b_chicacharge_3 = temple
 
 # Misc
 culture = sioxen

@@ -13,6 +13,6 @@ b_inkburrow = city
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

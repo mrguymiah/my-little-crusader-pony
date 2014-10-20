@@ -7,9 +7,12 @@ title = c_reinshire
 max_settlements = 4
 
 b_reinshire = castle
+#b_reinshire_2 = city
+#b_reinshire_3 = temple
+#b_reinshire_4 = castle
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

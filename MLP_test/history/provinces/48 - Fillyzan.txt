@@ -7,6 +7,8 @@ title = c_fillyzan
 max_settlements = 3
 
 b_fillyzan = castle
+#b_fillyzan_2 = city
+#b_fillyzan_3 = temple
 
 # Misc
 culture = zebrazen

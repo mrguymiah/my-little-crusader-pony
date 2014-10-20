@@ -7,6 +7,10 @@ title = c_orecum
 max_settlements = 5
 
 b_orecum = castle
+#b_orecum_2 = city
+#b_orecum_3 = temple
+#b_orecum_4 = castle
+#b_orecum_5 = city
 
 # Misc
 culture = crystal_culture

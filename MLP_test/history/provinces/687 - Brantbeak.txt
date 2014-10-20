@@ -7,6 +7,11 @@ title = c_brantbeak
 max_settlements = 6
 
 b_brantbeak = castle
+#b_brantbeak_2 = city
+#b_brantbeak_3 = temple
+#b_brantbeak_4 = castle
+#b_brantbeak_5 = city
+#b_brantbeak_6 = temple
 
 # Misc
 culture = south_griffon

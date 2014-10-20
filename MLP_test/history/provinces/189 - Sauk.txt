@@ -7,6 +7,8 @@ title = c_sauk
 max_settlements = 3
 
 b_sauk = castle
+#b_sauk_2 = city
+#b_sauk_3 = temple
 
 # Misc
 culture = sioxen

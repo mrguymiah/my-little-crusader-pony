@@ -7,9 +7,15 @@ title = c_tall_tale
 max_settlements = 7
 
 b_tall_tale = castle
+#b_tall_tale_2 = city
+#b_tall_tale_3 = temple
+#b_tall_tale_4 = castle
+#b_tall_tale_5 = city
+#b_tall_tale_6 = temple
+#b_tall_tale_7 = castle
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

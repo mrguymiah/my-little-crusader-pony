@@ -7,6 +7,11 @@ title = c_kufoala
 max_settlements = 6
 
 b_kufoala = castle
+#b_kufoala_2 = city
+#b_kufoala_3 = temple
+#b_kufoala_4 = castle
+#b_kufoala_5 = city
+#b_kufoala_6 = temple
 
 # Misc
 culture = saddle_arabian_culture

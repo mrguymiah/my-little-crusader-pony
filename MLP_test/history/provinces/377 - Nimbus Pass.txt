@@ -11,6 +11,6 @@ b_cloud_ranch = city
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

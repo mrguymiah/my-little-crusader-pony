@@ -7,9 +7,11 @@ title = c_frogsgrove
 max_settlements = 3
 
 b_frogsgrove = castle
+#b_frogsgrove_2 = city
+#b_frogsgrove_3 = temple
 
 # Misc
 culture = taruca
-religion = muntura
+religion = evantol
 
 #History

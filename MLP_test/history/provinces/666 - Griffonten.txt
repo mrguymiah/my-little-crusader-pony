@@ -7,6 +7,10 @@ title = c_griffonten
 max_settlements = 5
 
 b_griffonten = castle
+#b_griffonten_2 = city
+#b_griffonten_3 = temple
+#b_griffonten_4 = castle
+#b_griffonten_5 = city
 
 # Misc
 culture = south_griffon

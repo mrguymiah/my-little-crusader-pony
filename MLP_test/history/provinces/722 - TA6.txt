@@ -7,6 +7,10 @@ title = c_ta6
 max_settlements = 5
 
 b_ta6 = castle
+#b_ta6_2 = city
+#b_ta6_3 = temple
+#b_ta6_4 = castle
+#b_ta6_5 = city
 
 # Misc
 culture = low_griffon

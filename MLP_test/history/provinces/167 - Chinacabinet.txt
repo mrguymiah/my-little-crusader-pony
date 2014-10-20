@@ -7,6 +7,8 @@ title = c_chinacabinet
 max_settlements = 3
 
 b_chinacabinet = castle
+#b_chinacabinet_2 = city
+#b_chinacabinet_3 = temple
 
 # Misc
 culture = tazapan

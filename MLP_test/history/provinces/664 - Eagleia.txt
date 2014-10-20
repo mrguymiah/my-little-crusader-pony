@@ -7,6 +7,9 @@ title = c_eagleia
 max_settlements = 4
 
 b_eagleia = castle
+#b_eagleia_2 = city
+#b_eagleia_3 = temple
+#b_eagleia_4 = castle
 
 # Misc
 culture = south_griffon

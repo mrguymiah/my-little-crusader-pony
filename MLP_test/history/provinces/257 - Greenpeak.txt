@@ -7,9 +7,11 @@ title = c_greenpeak
 max_settlements = 3
 
 b_greenpeak = castle
+#b_greenpeak_2 = city
+#b_greenpeak_3 = temple
 
 # Misc
 culture = cephalo
-religion = cephala
+religion = agniphanum
 
 #History

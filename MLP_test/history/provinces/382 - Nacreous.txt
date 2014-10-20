@@ -7,9 +7,12 @@ title = c_nacreous
 max_settlements = 4
 
 b_nacreous = castle
+#b_nacreous_2 = city
+#b_nacreous_3 = temple
+#b_nacreous_4 = castle
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

@@ -7,6 +7,9 @@ title = c_amainda
 max_settlements = 4
 
 b_amainda = castle
+#b_amainda_2 = city
+#b_amainda_3 = temple
+#b_amainda_4 = castle
 
 # Misc
 culture = saddle_arabian_culture

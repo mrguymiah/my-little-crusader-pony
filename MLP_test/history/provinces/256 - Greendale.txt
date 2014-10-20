@@ -7,9 +7,11 @@ title = c_greendale
 max_settlements = 3
 
 b_greendale = castle
+#b_greendale_2 = city
+#b_greendale_3 = temple
 
 # Misc
 culture = cephalo
-religion = cephala
+religion = agniphanum
 
 #History

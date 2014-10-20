@@ -7,9 +7,11 @@ title = c_lesser_markamear
 max_settlements = 3
 
 b_lesser_markamear = castle
+#b_lesser_markamear_2 = city
+#b_lesser_markamear_3 = temple
 
 # Misc
 culture = taruca
-religion = muntura
+religion = evantol
 
 #History

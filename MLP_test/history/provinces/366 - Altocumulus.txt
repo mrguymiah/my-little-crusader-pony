@@ -7,6 +7,9 @@ title = c_altocumulus
 max_settlements = 4
 
 b_altocumulus = castle
+#b_altocumulus_2 = city
+#b_altocumulus_3 = temple
+#b_altocumulus_4 = castle
 
 # Misc
 culture = pegasus_culture
