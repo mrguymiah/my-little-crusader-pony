@@ -6,10 +6,12 @@ title = c_algalloppo
 # Settlements
 max_settlements = 6
 
-b_algalloppo = castle
+b_algalloppo = tribal
 b_azanigh = city
 b_maneshala = temple
 b_sarmarein = castle
+#b_algalloppo_2 = city
+#b_algalloppo_3 = temple
 
 # Misc
 culture = saddle_arabian_culture

@@ -6,7 +6,9 @@ title = c_maredea
 # Settlements
 max_settlements = 3
 
-b_maredea = castle
+b_maredea = tribal
+#b_maredea_2 = city
+#b_maredea_3 = temple
 
 # Misc
 culture = zebrazen

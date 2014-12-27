@@ -6,10 +6,15 @@ title = c_stallionge
 # Settlements
 max_settlements = 6
 
-b_stallionge = castle
+b_stallionge = tribal
+#b_stallionge_2 = city
+#b_stallionge_3 = temple
+#b_stallionge_4 = castle
+#b_stallionge_5 = city
+#b_stallionge_6 = temple
 
 # Misc
 culture = fallow
-religion = cephala
+religion = agniphanum
 
 #History

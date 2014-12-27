@@ -6,7 +6,12 @@ title = c_everville
 # Settlements
 max_settlements = 6
 
-b_everville = castle
+b_everville = tribal
+#b_everville_2 = city
+#b_everville_3 = temple
+#b_everville_4 = castle
+#b_everville_5 = city
+#b_everville_6 = temple
 
 # Misc
 culture = unicorn_culture

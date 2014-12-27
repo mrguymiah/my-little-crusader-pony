@@ -6,7 +6,8 @@ title = c_cykd12
 # Settlements
 max_settlements = 2
 
-b_cykd12 = castle
+b_cykd12 = tribal
+#b_cykd12_2 = city
 
 # Misc
 culture = crystal_culture

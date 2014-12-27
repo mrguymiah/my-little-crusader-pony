@@ -6,7 +6,11 @@ title = c_bredaland
 # Settlements
 max_settlements = 5
 
-b_bredaland = castle
+b_bredaland = tribal
+#b_bredaland_2 = city
+#b_bredaland_3 = temple
+#b_bredaland_4 = castle
+#b_bredaland_5 = city
 
 # Misc
 culture = south_griffon

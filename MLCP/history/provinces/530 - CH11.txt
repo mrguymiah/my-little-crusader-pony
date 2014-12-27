@@ -6,7 +6,9 @@ title = c_ch11
 # Settlements
 max_settlements = 3
 
-b_ch11 = castle
+b_ch11 = tribal
+#b_ch11_2 = city
+#b_ch11_3 = temple
 
 # Misc
 culture = changeling_culture

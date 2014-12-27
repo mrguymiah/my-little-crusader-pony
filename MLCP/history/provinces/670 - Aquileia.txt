@@ -6,7 +6,9 @@ title = c_aquileia
 # Settlements
 max_settlements = 3
 
-b_aquileia = castle
+b_aquileia = tribal
+#b_aquileia_2 = city
+#b_aquileia_3 = temple
 
 # Misc
 culture = south_griffon

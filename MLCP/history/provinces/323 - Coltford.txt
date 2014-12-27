@@ -6,7 +6,7 @@ title = c_coltford
 # Settlements
 max_settlements = 5
 
-b_coltford = castle
+b_coltford = tribal
 b_mapolis = city
 b_farvue_hill = temple
 #b_appleapolis = castle
@@ -14,6 +14,6 @@ b_farvue_hill = temple
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

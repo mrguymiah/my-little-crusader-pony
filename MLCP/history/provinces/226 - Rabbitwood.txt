@@ -6,7 +6,9 @@ title = c_rabbitwood
 # Settlements
 max_settlements = 3
 
-b_rabbitwood = castle
+b_rabbitwood = tribal
+#b_rabbitwood_2 = city
+#b_rabbitwood_3 = temple
 
 # Misc
 culture = sioxen

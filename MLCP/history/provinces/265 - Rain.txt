@@ -6,10 +6,12 @@ title = c_rain
 # Settlements
 max_settlements = 3
 
-b_rain = castle
+b_rain = tribal
+#b_rain_2 = city
+#b_rain_3 = temple
 
 # Misc
 culture = cephalo
-religion = cephala
+religion = agniphanum
 
 #History

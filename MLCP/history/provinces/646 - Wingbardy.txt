@@ -6,7 +6,7 @@ title = c_wingbardy
 # Settlements
 max_settlements = 6
 
-b_maneano = castle
+b_maneano = tribal
 b_corveno = city
 b_imanza = temple
 #b_leondi = castle

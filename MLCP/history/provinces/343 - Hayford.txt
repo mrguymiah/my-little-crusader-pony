@@ -6,13 +6,13 @@ title = c_hayford
 # Settlements
 max_settlements = 4
 
-b_swansbury = castle
+b_swansbury = tribal
 b_newpond = city
 b_parkbridge = temple
 #b_southam = castle
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

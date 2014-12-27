@@ -6,7 +6,13 @@ title = c_muscanter
 # Settlements
 max_settlements = 7
 
-b_muscanter = castle
+b_muscanter = tribal
+#b_muscanter_2 = city
+#b_muscanter_3 = temple
+#b_muscanter_4 = castle
+#b_muscanter_5 = city
+#b_muscanter_6 = temple
+#b_muscanter_7 = castle
 
 # Misc
 culture = saddle_arabian_culture

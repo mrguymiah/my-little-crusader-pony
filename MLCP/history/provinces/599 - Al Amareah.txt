@@ -6,7 +6,11 @@ title = c_al_amareah
 # Settlements
 max_settlements = 5
 
-b_al_amareah = castle
+b_al_amareah = tribal
+#b_al_amareah_2 = city
+#b_al_amareah_3 = temple
+#b_al_amareah_4 = castle
+#b_al_amareah_5 = city
 
 # Misc
 culture = saddle_arabian_culture

@@ -6,7 +6,9 @@ title = c_baybaba
 # Settlements
 max_settlements = 3
 
-b_baybaba = castle
+b_baybaba = tribal
+#b_baybaba_2 = city
+#b_baybaba_3 = temple
 
 # Misc
 culture = zebrazen

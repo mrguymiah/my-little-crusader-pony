@@ -6,7 +6,9 @@ title = c_mareghreb
 # Settlements
 max_settlements = 3
 
-b_mareghreb = castle
+b_mareghreb = tribal
+#b_mareghreb_2 = city
+#b_mareghreb_3 = temple
 
 # Misc
 culture = zebrazen

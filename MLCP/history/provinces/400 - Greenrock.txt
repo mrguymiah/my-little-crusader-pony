@@ -6,10 +6,12 @@ title = c_greenrock
 # Settlements
 max_settlements = 3
 
-b_greenrock = castle
+b_greenrock = tribal
+#b_greenrock_2 = city
+#b_greenrock_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

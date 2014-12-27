@@ -6,7 +6,11 @@ title = c_applewood
 # Settlements
 max_settlements = 5
 
-b_applewood = castle
+b_applewood = tribal
+#b_applewood_2 = city
+#b_applewood_3 = temple
+#b_applewood_4 = castle
+#b_applewood_5 = city
 
 # Misc
 culture = sioxen

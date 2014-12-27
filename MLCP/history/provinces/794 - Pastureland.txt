@@ -6,7 +6,8 @@ title = c_pastureland
 # Settlements
 max_settlements = 2
 
-b_pastureland = castle
+b_pastureland = tribal
+#b_pastureland_2 = city
 
 # Misc
 culture = caribou_culture

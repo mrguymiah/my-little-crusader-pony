@@ -6,14 +6,14 @@ title = c_coltchester
 # Settlements
 max_settlements = 5
 
-b_coltcchester = castle
+b_coltcchester = tribal
 b_highwoods = temple
-b_clopton-on-sea = city
+b_clopton_on_sea = city
 #b_haywich = castle
 #b_oakley = city
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

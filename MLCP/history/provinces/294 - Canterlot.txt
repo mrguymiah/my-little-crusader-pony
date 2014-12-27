@@ -6,7 +6,7 @@ title = c_canterlot
 # Settlements
 max_settlements = 7
 
-b_canterlot = castle
+b_canterlot = tribal
 b_moonstreat = city
 b_irongate = castle
 b_high_rock = temple

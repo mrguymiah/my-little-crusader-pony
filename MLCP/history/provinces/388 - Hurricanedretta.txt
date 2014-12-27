@@ -6,10 +6,13 @@ title = c_hurricanedretta
 # Settlements
 max_settlements = 4
 
-b_hurricanedretta = castle
+b_hurricanedretta = tribal
+#b_hurricanedretta_2 = city
+#b_hurricanedretta_3 = temple
+#b_hurricanedretta_4 = castle
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

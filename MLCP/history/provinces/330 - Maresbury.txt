@@ -6,7 +6,7 @@ title = c_maresbury
 # Settlements
 max_settlements = 5
 
-b_manebury = castle
+b_manebury = tribal
 b_fillysby = city
 b_lincolt = temple
 #b_marelock = castle
@@ -14,6 +14,6 @@ b_lincolt = temple
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

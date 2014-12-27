@@ -6,10 +6,12 @@ title = c_hayseed
 # Settlements
 max_settlements = 3
 
-b_hayseed = castle
+b_hayseed = tribal
+#b_hayseed_2 = city
+#b_hayseed_3 = temple
 
 # Misc
 culture = taruca
-religion = muntura
+religion = evantol
 
 #History

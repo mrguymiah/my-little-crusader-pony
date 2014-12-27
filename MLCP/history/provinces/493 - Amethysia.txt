@@ -6,10 +6,11 @@ title = c_amethysia
 # Settlements
 max_settlements = 2
 
-b_amethysia = castle
+b_amethysia = tribal
+#b_amethysia_2 = city
 
 # Misc
-culture = caribou_culture
-religion = mooselam
+culture = crystal_culture
+religion = crystal_religion
 
 #History

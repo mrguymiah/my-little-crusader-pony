@@ -6,7 +6,11 @@ title = c_wg11
 # Settlements
 max_settlements = 5
 
-b_wg11 = castle
+b_wg11 = tribal
+#b_wg11_2 = city
+#b_wg11_3 = temple
+#b_wg11_4 = castle
+#b_wg11_5 = city
 
 # Misc
 culture = high_griffon

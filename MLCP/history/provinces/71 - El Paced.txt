@@ -6,7 +6,9 @@ title = c_el_paced
 # Settlements
 max_settlements = 3
 
-b_el_paced = castle
+b_el_paced = tribal
+#b_el_paced_2 = city
+#b_el_paced_3 = temple
 
 # Misc
 culture = zebrazen

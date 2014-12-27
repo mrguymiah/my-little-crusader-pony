@@ -1,12 +1,13 @@
-# c_el-mareish
+# c_el_mareish
 
 # County Title
-title = c_el-mareish
+title = c_el_mareish
 
 # Settlements
 max_settlements = 2
 
-b_el-mareish = castle
+b_el_mareish = tribal
+#b_el_mareish_2 = city
 
 # Misc
 culture = saddle_arabian_culture

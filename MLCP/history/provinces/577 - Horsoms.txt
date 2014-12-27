@@ -6,9 +6,11 @@ title = c_horsoms
 # Settlements
 max_settlements = 5
 
-b_horsoms = castle
+b_horsoms = tribal
 b_emaresa = city
 b_zweneigha = temple
+#b_horsoms_2 = castle
+#b_horsoms_3 = city
 
 # Misc
 culture = saddle_arabian_culture

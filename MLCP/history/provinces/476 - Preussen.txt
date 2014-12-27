@@ -6,10 +6,12 @@ title = c_preussen
 # Settlements
 max_settlements = 3
 
-b_preussen = castle
+b_preussen = tribal
+#b_preussen_2 = city
+#b_preussen_3 = temple
 
 # Misc
-culture = caribou_culture
-religion = mooselam
+culture = crystal_culture
+religion = crystal_religion
 
 #History

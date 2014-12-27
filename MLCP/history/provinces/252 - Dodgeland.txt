@@ -6,11 +6,12 @@ title = c_dodgeland
 # Settlements
 max_settlements = 3
 
-b_sandenfort = castle
+b_sandenfort = tribal
 b_dodge_junction = city
+#b_dodgeland = temple
 
 # Misc
 culture = cephalo
-religion = cephala
+religion = agniphanum
 
 #History

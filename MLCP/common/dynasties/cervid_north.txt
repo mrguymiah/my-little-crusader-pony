@@ -1,6 +1,6 @@
 2000 = {
 	name = "Agni'phanti"
-	culture = elapho_culture
+	culture = whitetail
 }
 2001 = {
 	name = "Doski'phanti"
@@ -12,7 +12,7 @@
 }
 2003 = {
 	name = "Doe'ga"
-	culture = elapho_culture
+	culture = whitetail
 }
 2004 = {
 	name = "Goldleaf"
@@ -44,15 +44,15 @@
 }
 2011 = {
 	name = "Smo'mount"
-	culture = elapho_culture
+	culture = whitetail
 }
 2012 = {
 	name = "Tash'to"
-	culture = elapho_culture
+	culture = whitetail
 }
 2013 = {
 	name = "Clat'na"
-	culture = elapho_culture
+	culture = whitetail
 }
 2014 = {
 	name = "Rein"
@@ -72,7 +72,7 @@
 }
 2018 = {
 	name = "Hurricani"
-	culture = elapho_culture
+	culture = whitetail
 }
 2019 = {
 	name = "Renfask"
@@ -164,11 +164,11 @@
 }
 2041 = {
 	name = "Reksi"
-	culture = elapho_culture
+	culture = whitetail
 }
 2042 = {
 	name = "Nev'to"
-	culture = elapho_culture
+	culture = whitetail
 }
 2043 = {
 	name = "Kat'el"
@@ -200,7 +200,7 @@
 }
 2050 = {
 	name = "Len'i"
-	culture = elapho_culture
+	culture = whitetail
 }
 2051 = {
 	name = "Pelandos"

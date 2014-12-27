@@ -6,7 +6,9 @@ title = c_tamare
 # Settlements
 max_settlements = 3
 
-b_tamare = castle
+b_tamare = tribal
+#b_tamare_2 = city
+#b_tamare_3 = temple
 
 # Misc
 culture = zebrazen

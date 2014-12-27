@@ -6,10 +6,12 @@ title = c_applestan
 # Settlements
 max_settlements = 3
 
-b_applestan = castle
+b_applestan = tribal
+#b_applestan_2 = city
+#b_applestan_3 = temple
 
 # Misc
 culture = cephalo
-religion = cephala
+religion = agniphanum
 
 #History

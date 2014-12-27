@@ -1,7 +1,7 @@
 bookmark =
 {
-	name = "THREE_KINGDOMS_NAME"
-	desc = "THREE_KINGDOMS_DESC"
+	name = "BM_FATE_OF_ENGLAND"
+	desc = "BM_FATE_OF_ENGLAND_DESC"
 	date = 120.1.1
 	
 	character = 1 # Princess Platinum

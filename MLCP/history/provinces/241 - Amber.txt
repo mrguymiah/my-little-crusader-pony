@@ -6,10 +6,12 @@ title = c_amber
 # Settlements
 max_settlements = 3
 
-b_amber = castle
+b_amber = tribal
+#b_amber_2 = city
+#b_amber_3 = temple
 
 # Misc
 culture = cephalo
-religion = cephala
+religion = agniphanum
 
 #History

@@ -6,10 +6,12 @@ title = c_gators_creek
 # Settlements
 max_settlements = 3
 
-b_gators_creek = castle
+b_gators_creek = tribal
+#b_gators_creek_2 = city
+#b_gators_creek_3 = temple
 
 # Misc
 culture = taruca
-religion = muntura
+religion = evantol
 
 #History

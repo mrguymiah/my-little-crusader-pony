@@ -6,7 +6,10 @@ title = c_panthmbino
 # Settlements
 max_settlements = 4
 
-b_panthmbino = castle
+b_panthmbino = tribal
+#b_panthmbino_2 = city
+#b_panthmbino_3 = temple
+#b_panthmbino_4 = castle
 
 # Misc
 culture = south_griffon

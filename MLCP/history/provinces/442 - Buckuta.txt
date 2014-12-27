@@ -6,10 +6,12 @@ title = c_buckuta
 # Settlements
 max_settlements = 3
 
-b_buckuta = castle
+b_buckuta = tribal
+#b_buckuta_2 = city
+#b_buckuta_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

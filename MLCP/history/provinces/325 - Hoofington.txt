@@ -6,7 +6,7 @@ title = c_hoofington
 # Settlements
 max_settlements = 4
 
-b_hoofington = castle
+b_hoofington = tribal
 b_mareington_spa = city
 #b_buckby = temple
 #b_trottingbrooke = castle

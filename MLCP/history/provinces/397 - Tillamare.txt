@@ -6,10 +6,12 @@ title = c_tillamare
 # Settlements
 max_settlements = 3
 
-b_tillamare = castle
+b_tillamare = tribal
+#b_tillamare_2 = city
+#b_tillamare_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

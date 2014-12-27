@@ -6,10 +6,15 @@ title = c_limehill
 # Settlements
 max_settlements = 6
 
-b_limehill = castle
+b_limehill = tribal
+#b_limehill_2 = city
+#b_limehill_3 = temple
+#b_limehill_4 = castle
+#b_limehill_5 = city
+#b_limehill_6 = temple
 
 # Misc
 culture = fallow
-religion = cephala
+religion = agniphanum
 
 #History

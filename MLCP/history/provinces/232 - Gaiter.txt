@@ -6,10 +6,12 @@ title = c_gaiter
 # Settlements
 max_settlements = 3
 
-b_gaiter = castle
+b_gaiter = tribal
+#b_gaiter_2 = city
+#b_gaiter_3 = temple
 
 # Misc
 culture = cephalo
-religion = cephala
+religion = agniphanum
 
 #History

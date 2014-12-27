@@ -6,10 +6,12 @@ title = c_mount_emerald
 # Settlements
 max_settlements = 3
 
-b_mount_emerald = castle
+b_mount_emerald = tribal
+#b_mount_emerald_2 = city
+#b_mount_emerald_3 = temple
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

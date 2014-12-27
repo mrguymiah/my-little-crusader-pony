@@ -6,10 +6,15 @@ title = c_greenvale
 # Settlements
 max_settlements = 6
 
-b_leaf_farm = city
+b_leaf_farm = tribal
+#b_greenvale = city
+#b_greenvale_2 = temple
+#b_greenvale_3 = castle
+#b_greenvale_4 = city
+#b_greenvale_5 = temple
 
 # Misc
 culture = fallow
-religion = cephala
+religion = agniphanum
 
 #History

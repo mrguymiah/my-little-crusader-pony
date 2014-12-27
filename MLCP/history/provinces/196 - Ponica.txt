@@ -6,7 +6,9 @@ title = c_ponica
 # Settlements
 max_settlements = 3
 
-b_ponica = castle
+b_ponica = tribal
+#b_ponica_2 = city
+#b_ponica_3 = temple
 
 # Misc
 culture = sioxen

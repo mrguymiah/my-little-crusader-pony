@@ -6,7 +6,9 @@ title = c_zebakar
 # Settlements
 max_settlements = 3
 
-b_zebakar = castle
+b_zebakar = tribal
+#b_zebakar_2 = city
+#b_zebakar_3 = temple
 
 # Misc
 culture = zebradid

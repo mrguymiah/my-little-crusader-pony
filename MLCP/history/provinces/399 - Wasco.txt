@@ -6,10 +6,12 @@ title = c_wasco
 # Settlements
 max_settlements = 3
 
-b_wasco = castle
+b_wasco = tribal
+#b_wasco_2 = city
+#b_wasco_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

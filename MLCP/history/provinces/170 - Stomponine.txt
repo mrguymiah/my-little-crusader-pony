@@ -6,7 +6,9 @@ title = c_stomponine
 # Settlements
 max_settlements = 3
 
-b_stomponine = castle
+b_stomponine = tribal
+#b_stomponine_2 = city
+#b_stomponine_3 = temple
 
 # Misc
 culture = tazapan

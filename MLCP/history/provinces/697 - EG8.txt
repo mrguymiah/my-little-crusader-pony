@@ -6,7 +6,11 @@ title = c_eg8
 # Settlements
 max_settlements = 5
 
-b_eg8 = castle
+b_eg8 = tribal
+#b_eg8_2 = city
+#b_eg8_3 = temple
+#b_eg8_4 = castle
+#b_eg8_5 = city
 
 # Misc
 culture = low_griffon

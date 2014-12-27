@@ -6,7 +6,9 @@ title = c_kravin
 # Settlements
 max_settlements = 3
 
-b_kravin = castle
+b_kravin = tribal
+#b_kravin_2 = city
+#b_kravin_3 = temple
 
 # Misc
 culture = south_griffon

@@ -6,7 +6,9 @@ title = c_al_zebara
 # Settlements
 max_settlements = 3
 
-b_al_zebara = castle
+b_al_zebara = tribal
+#b_al_zebara_2 = city
+#b_al_zebara_3 = temple
 
 # Misc
 culture = zebrazen

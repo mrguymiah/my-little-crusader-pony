@@ -6,7 +6,9 @@ title = c_sk3
 # Settlements
 max_settlements = 3
 
-b_sk3 = castle
+b_sk3 = tribal
+#b_sk3_2 = city
+#b_sk3_3 = temple
 
 # Misc
 culture = high_griffon

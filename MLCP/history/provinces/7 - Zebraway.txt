@@ -6,7 +6,7 @@ title = c_zebraway
 # Settlements
 max_settlements = 3
 
-b_zebraway1 = castle
+b_zebraway1 = tribal
 b_zebraway2 = city
 b_zebraway3 = temple
 

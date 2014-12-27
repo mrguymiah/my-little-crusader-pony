@@ -6,7 +6,7 @@ title = c_tippoint
 # Settlements
 max_settlements = 3
 
-b_tippoint1 = castle
+b_tippoint1 = tribal
 b_tippoint2 = city
 b_tippoint3 = temple
 

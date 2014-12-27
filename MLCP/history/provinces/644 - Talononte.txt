@@ -6,7 +6,11 @@ title = c_talononte
 # Settlements
 max_settlements = 5
 
-b_talononte = castle
+b_talononte = tribal
+#b_talononte_2 = city
+#b_talononte_3 = temple
+#b_talononte_4 = castle
+#b_talononte_5 = city
 
 # Misc
 culture = south_griffon

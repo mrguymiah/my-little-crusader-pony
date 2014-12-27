@@ -6,12 +6,12 @@ title = c_rubyshire
 # Settlements
 max_settlements = 3
 
-b_redstone_point = castle
+b_redstone_point = tribal
 b_redington = city
 #b_scarletminster = temple
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

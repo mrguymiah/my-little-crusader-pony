@@ -6,10 +6,12 @@ title = c_skag_it
 # Settlements
 max_settlements = 3
 
-b_skag_it = castle
+b_skag_it = tribal
+#b_skag_it_2 = city
+#b_skag_it_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

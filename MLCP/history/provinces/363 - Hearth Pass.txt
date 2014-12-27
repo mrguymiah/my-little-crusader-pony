@@ -6,7 +6,9 @@ title = c_hearth_pass
 # Settlements
 max_settlements = 3
 
-b_hearth_pass = castle
+b_hearth_pass = tribal
+#b_hearth_pass_2 = city
+#b_hearth_pass_3 = temple
 
 # Misc
 culture = pegasus_culture

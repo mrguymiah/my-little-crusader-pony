@@ -6,10 +6,12 @@ title = c_barney
 # Settlements
 max_settlements = 3
 
-b_barney = castle
+b_barney = tribal
+#b_barney_2 = city
+#b_barney_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

@@ -6,7 +6,8 @@ title = c_iron_hills
 # Settlements
 max_settlements = 2
 
-b_iron_hills = castle
+b_iron_hills = tribal
+#b_iron_hills_2 = city
 
 # Misc
 culture = blackhoof

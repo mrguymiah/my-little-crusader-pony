@@ -6,7 +6,9 @@ title = c_amber_ridge
 # Settlements
 max_settlements = 3
 
-b_amber_ridge = castle
+b_amber_ridge = tribal
+#b_amber_ridge_2 = city
+#b_amber_ridge_3 = temple
 
 # Misc
 culture = tazapan

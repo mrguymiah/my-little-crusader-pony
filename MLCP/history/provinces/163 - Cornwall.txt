@@ -6,7 +6,9 @@ title = c_cornwall
 # Settlements
 max_settlements = 3
 
-b_cornwall = castle
+b_cornwall = tribal
+#b_cornwall_2 = city
+#b_cornwall_3 = temple
 
 # Misc
 culture = tazapan

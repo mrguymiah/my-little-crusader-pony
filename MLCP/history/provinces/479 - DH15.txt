@@ -6,10 +6,12 @@ title = c_dh15
 # Settlements
 max_settlements = 3
 
-b_dh15 = castle
+b_dh15 = tribal
+#b_dh15_2 = city
+#b_dh15_3 = temple
 
 # Misc
-culture = caribou_culture
-religion = mooselam
+culture = crystal_culture
+religion = crystal_religion
 
 #History

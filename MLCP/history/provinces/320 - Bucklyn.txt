@@ -6,7 +6,7 @@ title = c_bucklyn
 # Settlements
 max_settlements = 7
 
-b_hooveridge = city
+b_hooveridge = tribal
 b_eastfort = castle
 b_midwood = temple
 b_buckwick = city
@@ -16,6 +16,6 @@ b_buckwick = city
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

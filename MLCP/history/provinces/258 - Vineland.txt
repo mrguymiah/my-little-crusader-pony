@@ -6,10 +6,12 @@ title = c_vineland
 # Settlements
 max_settlements = 3
 
-b_vineland = castle
+b_vineland = tribal
+#b_vineland_2 = city
+#b_vineland_3 = temple
 
 # Misc
 culture = cephalo
-religion = cephala
+religion = agniphanum
 
 #History

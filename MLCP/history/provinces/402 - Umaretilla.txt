@@ -6,10 +6,12 @@ title = c_umaretilla
 # Settlements
 max_settlements = 3
 
-b_umaretilla = castle
+b_umaretilla = tribal
+#b_umaretilla_2 = city
+#b_umaretilla_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

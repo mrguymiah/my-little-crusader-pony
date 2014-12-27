@@ -6,10 +6,12 @@ title = c_west_ghasty
 # Settlements
 max_settlements = 3
 
-b_west_ghasty = castle
+b_west_ghasty = tribal
+#b_west_ghasty_2 = city
+#b_west_ghasty_3 = temple
 
 # Misc
 culture = fallow
-religion = cephala
+religion = agniphanum
 
 #History

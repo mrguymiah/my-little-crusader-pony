@@ -6,10 +6,10 @@ title = c_everfree14
 # Settlements
 max_settlements = 1
 
-b_everfree14 = castle
+b_everfree14 = tribal
 
 # Misc
 culture = fallow
-religion = cephala
+religion = agniphanum
 
 #History

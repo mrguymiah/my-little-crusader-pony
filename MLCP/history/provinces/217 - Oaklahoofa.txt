@@ -6,7 +6,9 @@ title = c_oaklahoofa
 # Settlements
 max_settlements = 3
 
-b_oaklahoofa = castle
+b_oaklahoofa = tribal
+#b_oaklahoofa_2 = city
+#b_oaklahoofa_3 = temple
 
 # Misc
 culture = sioxen

@@ -6,10 +6,12 @@ title = c_greenshire
 # Settlements
 max_settlements = 3
 
-b_greenshire = castle
+b_greenshire = tribal
+#b_greenshire_2 = city
+#b_greenshire_3 = temple
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

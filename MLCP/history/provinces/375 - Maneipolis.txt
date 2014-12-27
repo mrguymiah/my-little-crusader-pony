@@ -6,10 +6,13 @@ title = c_maneipolis
 # Settlements
 max_settlements = 4
 
-b_maneipolis = castle
+b_maneipolis = tribal
+#b_maneipolis_2 = city
+#b_maneipolis_3 = temple
+#b_maneipolis_4 = castle
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

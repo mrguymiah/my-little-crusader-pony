@@ -1,0 +1,17 @@
+# c_dh6
+
+# County Title
+title = c_dh6
+
+# Settlements
+max_settlements = 3
+
+b_dh6 = tribal
+#b_dh6_2 = city
+#b_dh6_3 = temple
+
+# Misc
+culture = crystal_culture
+religion = crystal_religion
+
+#History

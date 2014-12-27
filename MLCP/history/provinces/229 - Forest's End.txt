@@ -6,10 +6,12 @@ title = c_forests_end
 # Settlements
 max_settlements = 3
 
-b_forests_end = castle
+b_forests_end = tribal
+#b_forests_end_2 = city
+#b_forests_end_3 = temple
 
 # Misc
 culture = cephalo
-religion = cephala
+religion = agniphanum
 
 #History

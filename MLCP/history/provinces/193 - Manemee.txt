@@ -6,7 +6,9 @@ title = c_manemee
 # Settlements
 max_settlements = 3
 
-b_manemee = castle
+b_manemee = tribal
+#b_manemee_2 = city
+#b_manemee_3 = temple
 
 # Misc
 culture = sioxen

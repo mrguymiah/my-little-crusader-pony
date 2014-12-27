@@ -6,10 +6,12 @@ title = c_deerhill
 # Settlements
 max_settlements = 3
 
-b_deerhill = castle
+b_deerhill = tribal
+#b_deerhill_2 = city
+#b_deerhill_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

@@ -6,7 +6,11 @@ title = c_verenia
 # Settlements
 max_settlements = 5
 
-b_verenia = castle
+b_verenia = tribal
+#b_verenia_2 = city
+#b_verenia_3 = temple
+#b_verenia_4 = castle
+#b_verenia_5 = city
 
 # Misc
 culture = south_griffon

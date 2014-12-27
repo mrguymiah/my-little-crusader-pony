@@ -6,7 +6,9 @@ title = c_greatstamp
 # Settlements
 max_settlements = 3
 
-b_greatstamp = castle
+b_greatstamp = tribal
+#b_greatstamp_2 = city
+#b_greatstamp_3 = temple
 
 # Misc
 culture = tazapan

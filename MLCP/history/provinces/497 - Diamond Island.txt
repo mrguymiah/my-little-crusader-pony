@@ -6,10 +6,12 @@ title = c_diamond_island
 # Settlements
 max_settlements = 3
 
-b_diamond_island = castle
+b_diamond_island = tribal
+#b_diamond_island_2 = city
+#b_diamond_island_3 = temple
 
 # Misc
-culture = caribou_culture
-religion = mooselam
+culture = crystal_culture
+religion = crystal_religion
 
 #History

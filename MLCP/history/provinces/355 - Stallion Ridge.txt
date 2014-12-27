@@ -6,7 +6,7 @@ title = c_stallion_ridge
 # Settlements
 max_settlements = 3
 
-b_medford = castle
+b_medford = tribal
 b_princhall = city
 #b_dagger_ridge = temple
 

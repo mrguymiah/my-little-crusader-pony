@@ -6,10 +6,11 @@ title = c_north9
 # Settlements
 max_settlements = 2
 
-b_north9 = castle
+b_north9 = tribal
+#b_north9_2 = city
 
 # Misc
-culture = caribou_culture
-religion = mooselam
+culture = crystal_culture
+religion = crystal_religion
 
 #History

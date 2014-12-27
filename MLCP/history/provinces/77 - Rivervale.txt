@@ -6,7 +6,9 @@ title = c_rivervale
 # Settlements
 max_settlements = 3
 
-b_rivervale = castle
+b_rivervale = tribal
+#b_rivervale_2 = city
+#b_rivervale_3 = temple
 
 # Misc
 culture = zebrazen

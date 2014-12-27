@@ -6,7 +6,10 @@ title = c_sandroll
 # Settlements
 max_settlements = 4
 
-b_sandroll = castle
+b_sandroll = tribal
+#b_sandroll_2 = city
+#b_sandroll_3 = temple
+#b_sandroll_4 = castle
 
 # Misc
 culture = saddle_arabian_culture

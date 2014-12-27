@@ -6,7 +6,9 @@ title = c_colton
 # Settlements
 max_settlements = 3
 
-b_colton = castle
+b_colton = tribal
+#b_colton_2 = city
+#b_colton_3 = temple
 
 # Misc
 culture = sioxen

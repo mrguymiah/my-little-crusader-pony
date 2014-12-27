@@ -6,7 +6,12 @@ title = c_feathernze
 # Settlements
 max_settlements = 6
 
-b_feathernze = castle
+b_feathernze = tribal
+#b_feathernze_2 = city
+#b_feathernze_3 = temple
+#b_feathernze_4 = castle
+#b_feathernze_5 = city
+#b_feathernze_6 = temple
 
 # Misc
 culture = south_griffon

@@ -6,7 +6,8 @@ title = c_redsand
 # Settlements
 max_settlements = 2
 
-b_redsand = castle
+b_redsand = tribal
+#b_redsand_2 = city
 
 # Misc
 culture = blackhoof

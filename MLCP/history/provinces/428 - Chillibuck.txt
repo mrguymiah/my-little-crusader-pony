@@ -6,10 +6,12 @@ title = c_chillibuck
 # Settlements
 max_settlements = 3
 
-b_chillibuck = castle
+b_chillibuck = tribal
+#b_chillibuck_2 = city
+#b_chillibuck_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

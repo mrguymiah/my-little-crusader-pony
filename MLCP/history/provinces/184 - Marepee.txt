@@ -6,7 +6,9 @@ title = c_marepee
 # Settlements
 max_settlements = 3
 
-b_marepee = castle
+b_marepee = tribal
+#b_marepee_2 = city
+#b_marepee_3 = temple
 
 # Misc
 culture = sioxen

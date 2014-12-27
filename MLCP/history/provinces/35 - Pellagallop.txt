@@ -6,7 +6,9 @@ title = c_pellagallop
 # Settlements
 max_settlements = 3
 
-b_pellagallop = castle
+b_pellagallop = tribal
+#b_pellagallop_2 = city
+#b_pellagallop_3 = temple
 
 # Misc
 culture = zebrazen

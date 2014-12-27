@@ -6,10 +6,13 @@ title = c_linecolt
 # Settlements
 max_settlements = 4
 
-b_ehointon = castle
+b_ehointon = tribal
+#b_linecolt = city
+#b_linecolt_2 = temple
+#b_linecolt_3 = castle
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

@@ -6,7 +6,9 @@ title = c_thundergounds
 # Settlements
 max_settlements = 3
 
-b_thundergounds = castle
+b_thundergounds = tribal
+#b_thundergounds_2 = city
+#b_thundergounds_3 = temple
 
 # Misc
 culture = tazapan

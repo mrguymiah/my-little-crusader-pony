@@ -6,7 +6,7 @@ title = c_ramsshire
 # Settlements
 max_settlements = 4
 
-b_ramsgate = castle
+b_ramsgate = tribal
 b_manewich = city
 b_woodensminster = temple
 #b_owls_hill = castle

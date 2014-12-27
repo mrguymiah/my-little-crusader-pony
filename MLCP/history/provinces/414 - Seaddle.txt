@@ -6,7 +6,7 @@ title = c_seaddle
 # Settlements
 max_settlements = 7
 
-b_saddlestown = castle
+b_saddlestown = tribal
 b_seaddle = city
 b_seawood = temple
 b_stagvew = city
@@ -16,6 +16,6 @@ b_stagvew = city
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

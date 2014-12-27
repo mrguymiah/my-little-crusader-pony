@@ -6,13 +6,13 @@ title = c_hayshire
 # Settlements
 max_settlements = 4
 
-b_oatford = castle
+b_oatford = tribal
 b_cornsbury = city
 #b_hoofbrough = temple
 #b_eatingham = castle
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

@@ -6,10 +6,12 @@ title = c_furry
 # Settlements
 max_settlements = 3
 
-b_furry = castle
+b_furry = tribal
+#b_furry_2 = city
+#b_furry_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

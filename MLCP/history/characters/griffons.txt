@@ -5,7 +5,7 @@
 #3800 - 3899
 #3900 - 3999
 3500 = {
-	name="Clovis" #King of Luxwingbourg
+	name="Clovis"
 	dynasty=3600
 	martial=11
 	diplomacy=9
@@ -26,7 +26,7 @@
 	}
 }
 3501 = {
-	name="Gösta" #King of Norrbeak
+	name="Gösta"
 	dynasty=3501
 	martial=5
 	diplomacy=3
@@ -41,7 +41,7 @@
 	}
 }
 3502 = {
-	name="Gytha" #Queen of Beakslagen
+	name="Gytha"
 	dynasty=3502
 	martial=2
 	diplomacy=10
@@ -57,7 +57,7 @@
 	}
 }
 3503 = {
-	name="Feather Beak" #King of Talonatland
+	name="Feather Beak"
 	dynasty=3500
 	martial=4
 	diplomacy=6
@@ -167,87 +167,17 @@
 	trait=temperate
 	trait=mystic
 	trait=midas_touched
-	92.9.7={
+	84.9.7={
 		birth=yes
 	}
-}
-3900 = { #The High General
-	name="Bloodbeak"
-	female=yes
-	dynasty=3507
-	religion=grifflyreise
-	culture=south_griffon
-	diplomacy = 6
-	martial = 11
-	stewardship = 6
-	intrigue = 6
-	learning = 6
-	trait=hunter
-	trait=quick
-	trait=wroth
-	trait=ambitious
-	trait=brilliant_strategist
-	84.2.9={
-		birth=yes
-	}
-}
-3901 = {
-	name="Stoneclaw"
-	female=yes
-	dynasty=3507
-	religion=grifflyreise
-	culture=south_griffon
-	diplomacy = 6
-	martial = 11
-	stewardship = 6
-	intrigue = 6
-	learning = 6
-	trait=hunter
-	trait=ambitious
-	trait=brilliant_strategist
-	101.2.4={
-		birth=yes
-	}
-}
-3902 = {
-	name="Ironwing"
-	female=yes
-	dynasty=3507
-	religion=grifflyreise
-	culture=south_griffon
-	diplomacy = 6
-	martial = 11
-	stewardship = 6
-	intrigue = 6
-	learning = 6
-	trait=hunter
-	trait=ambitious
-	trait=brilliant_strategist
-	101.2.4={
-		birth=yes
-	}
-}
-3903 = {
-	name="Steeltalon"
-	female=yes
-	dynasty=3507
-	religion=grifflyreise
-	culture=south_griffon
-	diplomacy = 6
-	martial = 11
-	stewardship = 6
-	intrigue = 6
-	learning = 6
-	trait=hunter
-	trait=ambitious
-	trait=brilliant_strategist
-	101.2.4={
-		birth=yes
+	100.9.7={
+		add_spouse=3900
 	}
 }
 3510 = {
 	name="Gjurd"
 	dynasty=3503
+	father=3511
 	martial=4
 	diplomacy=8
 	intrigue=5
@@ -278,6 +208,7 @@
 3512 = {
 	name="Bløffmaker"
 	dynasty=3503
+	father=3511
 	martial=3
 	diplomacy=5
 	intrigue=8
@@ -288,5 +219,86 @@
 	trait="griffon"
 	87.6.15 = {
 		birth="87.6.15"
+	}
+}
+3900 = { #The High General
+	name="Bloodbeak"
+	dynasty=3507
+	religion=grifflyreise
+	culture=south_griffon
+	diplomacy = 6
+	martial = 11
+	stewardship = 6
+	intrigue = 6
+	learning = 6
+	trait=hunter
+	trait=quick
+	trait=wroth
+	trait=ambitious
+	trait=brilliant_strategist
+	84.2.9={
+		birth=yes
+	}
+	100.9.7={
+		add_spouse=3507
+	}
+}
+3901 = {
+	name="Stoneclaw"
+	female=yes
+	dynasty=3507
+	mother=3509
+	father=3900
+	religion=grifflyreise
+	culture=south_griffon
+	diplomacy = 6
+	martial = 11
+	stewardship = 6
+	intrigue = 6
+	learning = 6
+	trait=hunter
+	trait=ambitious
+	trait=brilliant_strategist
+	101.6.4={
+		birth=yes
+	}
+}
+3902 = {
+	name="Ironwing"
+	dynasty=3507
+	mother=3509
+	father=3900
+	religion=grifflyreise
+	culture=south_griffon
+	diplomacy = 6
+	martial = 11
+	stewardship = 6
+	intrigue = 6
+	learning = 6
+	trait=hunter
+	trait=ambitious
+	trait=brilliant_strategist
+	102.7.4={
+		birth=yes
+	}
+}
+3903 = {
+	name="Steeltalon"
+	female=yes
+	dynasty=3507
+	mother=3509
+	father=3900
+	religion=grifflyreise
+	culture=south_griffon
+	diplomacy = 6
+	martial = 11
+	stewardship = 6
+	intrigue = 6
+	learning = 6
+	trait=hunter
+	trait=ambitious
+	trait=brilliant_strategist
+	103.5.2={
+		birth=yes
 	}
 }

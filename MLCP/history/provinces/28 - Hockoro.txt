@@ -6,7 +6,9 @@ title = c_hockoro
 # Settlements
 max_settlements = 3
 
-b_hockoro = castle
+b_hockoro = tribal
+#b_hockoro_2 = city
+#b_hockoro_3 = temple
 
 # Misc
 culture = zebrazen

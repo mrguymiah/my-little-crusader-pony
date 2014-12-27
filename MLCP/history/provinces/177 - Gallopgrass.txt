@@ -6,7 +6,9 @@ title = c_gallopgrass
 # Settlements
 max_settlements = 3
 
-b_gallopgrass = castle
+b_gallopgrass = tribal
+#b_gallopgrass_2 = city
+#b_gallopgrass_3 = temple
 
 # Misc
 culture = tazapan

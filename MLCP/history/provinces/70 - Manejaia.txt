@@ -6,7 +6,9 @@ title = c_manejaia
 # Settlements
 max_settlements = 3
 
-b_manejaia = castle
+b_manejaia = tribal
+#b_manejaia_2 = city
+#b_manejaia_3 = temple
 
 # Misc
 culture = zebrazen

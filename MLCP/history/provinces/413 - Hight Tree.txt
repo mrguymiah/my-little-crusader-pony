@@ -6,10 +6,12 @@ title = c_hight_tree
 # Settlements
 max_settlements = 3
 
-b_hight_tree = castle
+b_hight_tree = tribal
+#b_hight_tree_2 = city
+#b_hight_tree_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

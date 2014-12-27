@@ -6,7 +6,11 @@ title = c_beakia
 # Settlements
 max_settlements = 5
 
-b_beakia = castle
+b_beakia = tribal
+#b_beakia_2 = city
+#b_beakia_3 = temple
+#b_beakia_4 = castle
+#b_beakia_5 = city
 
 # Misc
 culture = south_griffon

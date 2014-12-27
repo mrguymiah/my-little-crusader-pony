@@ -6,7 +6,10 @@ title = c_appleshire
 # Settlements
 max_settlements = 4
 
-b_appleshire = castle
+b_appleshire = tribal
+#b_appleshire_2 = city
+#b_appleshire_3 = temple
+#b_appleshire_4 = castle
 
 # Misc
 culture = earth_pony_culture

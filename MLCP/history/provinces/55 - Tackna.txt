@@ -6,7 +6,9 @@ title = c_tackna
 # Settlements
 max_settlements = 3
 
-b_tackna = castle
+b_tackna = tribal
+#b_tackna_2 = city
+#b_tackna_3 = temple
 
 # Misc
 culture = zebrazen

@@ -6,10 +6,12 @@ title = c_frogsand
 # Settlements
 max_settlements = 3
 
-b_frogsand = castle
+b_frogsand = tribal
+#b_frogsand_2 = city
+#b_frogsand_3 = temple
 
 # Misc
 culture = taruca
-religion = muntura
+religion = evantol
 
 #History

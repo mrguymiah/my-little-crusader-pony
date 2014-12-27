@@ -6,7 +6,9 @@ title = c_furdreu
 # Settlements
 max_settlements = 3
 
-b_furdreu = castle
+b_furdreu = tribal
+#b_furdreu_2 = city
+#b_furdreu_3 = temple
 
 # Misc
 culture = sioxen

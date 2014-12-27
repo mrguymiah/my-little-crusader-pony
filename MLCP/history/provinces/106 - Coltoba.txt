@@ -6,12 +6,16 @@ title = c_coltoba
 # Settlements
 max_settlements = 7
 
-b_coltoba = city
+b_coltoba = tribal
 b_almanebra = castle
 b_marezquita = temple
+#b_coltoba_2 = castle
+#b_coltoba_3 = city
+#b_coltoba_4 = temple
+#b_coltoba_5 = castle
 
 # Misc
-culture = saddle_arabian_culture
-religion = saddle_arabian_religion
+culture = zebrazen
+religion = dahomaine_religion
 
 #History

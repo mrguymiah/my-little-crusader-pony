@@ -6,7 +6,8 @@ title = c_coniferdon
 # Settlements
 max_settlements = 2
 
-b_coniferdon = castle
+b_coniferdon = tribal
+#b_coniferdon_2 = city
 
 # Misc
 culture = caribou_culture

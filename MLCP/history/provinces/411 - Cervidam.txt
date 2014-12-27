@@ -6,10 +6,12 @@ title = c_cervidam
 # Settlements
 max_settlements = 3
 
-b_cervidam = castle
+b_cervidam = tribal
+#b_cervidam_2 = city
+#b_cervidam_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

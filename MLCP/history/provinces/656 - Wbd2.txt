@@ -6,7 +6,11 @@ title = c_wbd2
 # Settlements
 max_settlements = 5
 
-b_wbd2 = castle
+b_wbd2 = tribal
+#b_wbd2_2 = city
+#b_wbd2_3 = temple
+#b_wbd2_4 = castle
+#b_wbd2_5 = city
 
 # Misc
 culture = south_griffon

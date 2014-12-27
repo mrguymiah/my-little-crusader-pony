@@ -6,7 +6,7 @@ title = c_manesbury
 # Settlements
 max_settlements = 5
 
-b_manesbury = castle
+b_manesbury = tribal
 b_haylow = city
 b_stableing = temple
 #b_dancers_end = castle
@@ -14,6 +14,6 @@ b_stableing = temple
 
 # Misc
 culture = muntjac
-religion = elaphanti
+religion = muntura
 
 #History

@@ -129,7 +129,7 @@ equestrian = {
 		female_names = {
 			Abalone Agate Amazonite Amber Amethyst_Amethyst Ametrin Angel Aura Angelite Apatite Aqua Aquamarine Bizbite Cassiterite Celestite Chalcedony Charoite Chrysocholla Chrysoprase Crystal_Crystal
 			Diamantina Dimond_Dimond Emerald_Emerald Fuschite Feldspar Gold_Gold Golden_Golden Harlequin Iolite Ivory Kaolinite Labradorite Lapis Lemurian Lightbray Lithium Lodolite Moonstone Morganite Opal
-			Opalite Ouro Pearl_Pearl Pearlspar Peridot Phenacite Pink_Pink Pinkie_Pinkie Petalite Rainbow_Rainbow Red_Red Ruby Seraphinite Shiva Saphire Sunstone Tanzanite Tanzine Tektites Topaz
+			Opalite Ouro Pearl_Pearl Pearlspar Peridot Phenacite Pink_Pink Pinkie_Pinkie Petalite Rainbow_Rainbow Red_Red Ruby Seraphinite Shiva Sapphire Sunstone Tanzanite Tanzine Tektites Topaz
 			Turquoise Unakite
 		}
 		
@@ -544,28 +544,6 @@ buffalo_group = {
 ##############
 deer_group = {
 	graphical_culture = cervidgfx
-	elapho_culture = {
-		graphical_culture = cervidgfx
-		color = { 0.5 0.1 0.2 }
-		
-		male_names = {
-			Agni Agno Agnu Aus'ni Aus'no Aus'nu Aux'ni Aux'no Aux'nu Avni Avno Avnu Ban Bal'in Bal'on Bal'un Baj'ti Baj'to Baj'tu Baz'i Baz'o Baz'u Baz'li Baz'lo Baz'lu Cen'di Cen'do Cen'du Cen'dio Cen'duo Cun'vi Cun'vo Cun'vu Cun'vio Deerid Deerod Deerud De'rin De'ron De'run Elk'i Elk'o Elk'u Elk'io Fas'li Fas'lo Fas'lu Fas'ri Fas'ro Fas'ru Fas'vi Fas'vo Fas'vu Gen'dif Gen'dof Gen'duf Hen'ri_Henry Hen'ro Hen'ru Hes'ri Hes'ro Hes'ru Il'ni Il'no Il'nu Jaf'ti Jaf'to Jaf'tu Kon'bi Kon'bo Kon'bu Men'ri Men'ro Men'ru Menros Nel'ni Nel'no Nel'nu Nelrief O'ni O'no O'nu Paz'ni Paz'no Paz'nu Roe Roe'ni Roe'no Roe'nu Ro'ni Ro'no Ro'nu Rel'ni Rel'no Rel'nu Sev'ni Sev'no Sev'nu Tash'ti Tash'to Tash'tu Tal'ni Tal'no Tal'nu Tar'ni Tar'no Tar'nu Wa'ri Wa'ro Wa'ru 
-		}
-		female_names = {
-			Agni Agna Agne Aus'ni Aus'na Aus'ne Aux'ni Aux'na Aux'ne Avni Avna Avne Bambe Bal'in Bal'an Bal'en Baj'ti Baj'ta Baj'te Baz'i Baz'a Baz'e Baz'li Baz'la Baz'le Cen'di Cen'da Cen'de Cen'dio Cen'dao Cun'vi Cun'va Cun've Cun'vio Deerid Deerad Deered De'rin De'ran De'ren Elk'i Elk'a Elk'e Elk'ia Fas'li Fas'la Fas'le Fas'ri Fas'ra Fas're Fas'vi Fas'va Fas've Gen'dif Gen'daf Gen'def Hen'ri_Henry Hen'ra Hen're Hes'ri Hes'ra Hes're Il'ni Il'na Il'ne Jaf'ti Jaf'ta Jaf'te Kon'bi Kon'ba Kon'be Men'ri Men'ra Men're Menras Nel'ni Nel'na Nel'ne Nelrief O'ni O'na O'ne Paz'ni Paz'na Paz'ne Roea Roe'ni Roe'na Roe'ne Ro'ni Ro'na Ro'ne Rel'ni Rel'na Rel'ne Sev'ni Sev'na Sev'ne Tash'ti Tash'ta Tash'te Tal'ni Tal'na Tal'ne Tar'ni Tar'na Tar'ne Wa'ri Wa'ra Wa're
-		}
-		
-		dynasty_title_names = yes
-		
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 0
-		father_name_chance = 0
-		pat_grm_name_chance = 10
-		mat_grm_name_chance = 50
-		mother_name_chance = 0
-		
-		modifier = default_culture_modifier
-	}
 	
 	whitetail = {
 		graphical_culture = cervidgfx
@@ -734,7 +712,7 @@ special_group = {
 		pat_grm_name_chance = 0
 		mat_grm_name_chance = 0
 		mother_name_chance = 0
-
-		modifier = wildling_culture_modifier
+		
+		modifier = default_culture_modifier
 	}
 }

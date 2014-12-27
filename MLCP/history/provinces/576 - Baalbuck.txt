@@ -6,9 +6,10 @@ title = c_baalbuck
 # Settlements
 max_settlements = 4
 
-b_baalbuck = castle
+b_baalbuck = tribal
 b_accoltar = city
 b_halbaneigh = temple
+#b_baalbuck_2 = castle
 
 # Misc
 culture = saddle_arabian_culture

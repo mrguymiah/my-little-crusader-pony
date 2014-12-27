@@ -6,10 +6,13 @@ title = c_coltiat
 # Settlements
 max_settlements = 4
 
-b_coltiat = castle
+b_coltiat = tribal
+#b_coltiat_2 = city
+#b_coltiat_3 = temple
+#b_coltiat_4 = castle
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

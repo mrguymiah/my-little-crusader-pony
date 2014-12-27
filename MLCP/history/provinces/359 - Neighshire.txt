@@ -6,7 +6,10 @@ title = c_neighshire
 # Settlements
 max_settlements = 4
 
-b_neighshire = castle
+b_neighshire = tribal
+#b_neighshire_2 = city
+#b_neighshire_3 = temple
+#b_neighshire_4 = castle
 
 # Misc
 culture = earth_pony_culture

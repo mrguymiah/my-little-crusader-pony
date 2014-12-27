@@ -6,10 +6,12 @@ title = c_deerneu
 # Settlements
 max_settlements = 3
 
-b_deerneu = castle
+b_deerneu = tribal
+#b_deerneu_2 = city
+#b_deerneu_3 = temple
 
 # Misc
 culture = whitetail
-religion = falphanti
+religion = doskiphanum
 
 #History

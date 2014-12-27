@@ -6,7 +6,9 @@ title = c_palmareyra
 # Settlements
 max_settlements = 3
 
-b_palmareyra = castle
+b_palmareyra = tribal
+#b_palmareyra_2 = city
+#b_palmareyra_3 = temple
 
 # Misc
 culture = saddle_arabian_culture

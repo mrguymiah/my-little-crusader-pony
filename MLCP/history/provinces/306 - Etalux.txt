@@ -6,10 +6,15 @@ title = c_etalux
 # Settlements
 max_settlements = 6
 
-b_etalux = castle
+b_etalux = tribal
+#b_etalux_2 = city
+#b_etalux_3 = temple
+#b_etalux_4 = castle
+#b_etalux_5 = city
+#b_etalux_6 = temple
 
 # Misc
 culture = fallow
-religion = cephala
+religion = agniphanum
 
 #History

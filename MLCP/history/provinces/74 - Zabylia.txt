@@ -6,7 +6,9 @@ title = c_zabylia
 # Settlements
 max_settlements = 3
 
-b_zabylia = castle
+b_zabylia = tribal
+#b_zabylia_2 = city
+#b_zabylia_3 = temple
 
 # Misc
 culture = zebrazen

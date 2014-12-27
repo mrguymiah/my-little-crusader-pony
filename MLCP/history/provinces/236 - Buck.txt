@@ -6,10 +6,12 @@ title = c_buck
 # Settlements
 max_settlements = 3
 
-b_buck = castle
+b_buck = tribal
+#b_buck_2 = city
+#b_buck_3 = temple
 
 # Misc
 culture = cephalo
-religion = cephala
+religion = agniphanum
 
 #History

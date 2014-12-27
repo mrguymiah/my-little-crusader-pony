@@ -6,7 +6,9 @@ title = c_tailbessa
 # Settlements
 max_settlements = 3
 
-b_tailbessa = castle
+b_tailbessa = tribal
+#b_tailbessa_2 = city
+#b_tailbessa_3 = temple
 
 # Misc
 culture = zebrazen

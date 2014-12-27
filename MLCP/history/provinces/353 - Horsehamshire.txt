@@ -6,7 +6,7 @@ title = c_horsehamshire
 # Settlements
 max_settlements = 4
 
-b_horsehamptom = castle
+b_horsehamptom = tribal
 b_neighingborough = city
 b_gallopering = temple
 #b_buckbrooke = castle

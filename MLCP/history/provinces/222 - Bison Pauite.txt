@@ -6,7 +6,9 @@ title = c_bison_pauite
 # Settlements
 max_settlements = 3
 
-b_bison_pauite = castle
+b_bison_pauite = tribal
+#b_bison_pauite_2 = city
+#b_bison_pauite_3 = temple
 
 # Misc
 culture = sioxen
