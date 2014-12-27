@@ -6,7 +6,7 @@ title = c_durmane
 # Settlements
 max_settlements = 3
 
-b_durmane1 = castle
+b_durmane1 = tribal
 b_durmane2 = city
 b_durmane3 = temple
 

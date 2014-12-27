@@ -6,7 +6,7 @@ title = c_locustess
 # Settlements
 max_settlements = 3
 
-b_locustess = castle
+b_locustess = tribal
 #b_locustess_2 = city
 #b_locustess_3 = temple
 

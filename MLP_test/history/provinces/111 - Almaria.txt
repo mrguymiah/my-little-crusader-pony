@@ -6,7 +6,7 @@ title = c_almaria
 # Settlements
 max_settlements = 4
 
-b_almaria = castle
+b_almaria = tribal
 #b_almaria_2 = city
 #b_almaria_3 = temple
 #b_almaria_4 = castle

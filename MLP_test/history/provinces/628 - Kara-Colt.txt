@@ -6,7 +6,7 @@ title = c_kara_colt
 # Settlements
 max_settlements = 6
 
-b_kara_colt = castle
+b_kara_colt = tribal
 #b_kara_colt_2 = city
 #b_kara_colt_3 = temple
 #b_kara_colt_4 = castle

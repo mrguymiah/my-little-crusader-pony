@@ -6,7 +6,7 @@ title = c_stallionbury
 # Settlements
 max_settlements = 4
 
-b_quillwell = castle
+b_quillwell = tribal
 b_elktown = city
 b_apples_bromly = temple
 #b_hornoxter = castle

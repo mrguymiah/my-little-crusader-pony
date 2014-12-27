@@ -6,7 +6,7 @@ title = c_grainden
 # Settlements
 max_settlements = 3
 
-b_grainden = castle
+b_grainden = tribal
 #b_grainden_2 = city
 #b_grainden_3 = temple
 

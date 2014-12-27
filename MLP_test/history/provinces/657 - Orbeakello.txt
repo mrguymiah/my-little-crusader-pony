@@ -6,7 +6,7 @@ title = c_orbeakello
 # Settlements
 max_settlements = 4
 
-b_orbeakello = castle
+b_orbeakello = tribal
 #b_orbeakello_2 = city
 #b_orbeakello_3 = temple
 #b_orbeakello_4 = castle

@@ -6,7 +6,7 @@ title = c_whoofshone
 # Settlements
 max_settlements = 3
 
-b_whoofshone = castle
+b_whoofshone = tribal
 #b_whoofshone_2 = city
 #b_whoofshone_3 = temple
 

@@ -6,7 +6,7 @@ title = c_coltrava
 # Settlements
 max_settlements = 5
 
-b_coltrava = castle
+b_coltrava = tribal
 #b_coltrava_2 = city
 #b_coltrava_3 = temple
 #b_coltrava_4 = castle

@@ -6,7 +6,7 @@ title = c_manehattan
 # Settlements
 max_settlements = 7
 
-b_manehatten = city
+b_manehatten = tribal
 b_tortbetica = castle
 b_greenminster = temple
 b_haylem = city

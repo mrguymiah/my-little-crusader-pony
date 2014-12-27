@@ -6,7 +6,7 @@ title = c_skydeia
 # Settlements
 max_settlements = 4
 
-b_skydeia = castle
+b_skydeia = tribal
 #b_skydeia_2 = city
 #b_skydeia_3 = temple
 #b_skydeia_4 = castle

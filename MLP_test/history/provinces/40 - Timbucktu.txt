@@ -6,7 +6,11 @@ title = c_timbucktu
 # Settlements
 max_settlements = 5
 
-b_timbucktu = castle
+b_timbucktu = tribal
+#b_timbucktu_2 = city
+#b_timbucktu_3 = temple
+#b_timbucktu_4 = castle
+#b_timbucktu_5 = city
 
 # Misc
 culture = zebrazen

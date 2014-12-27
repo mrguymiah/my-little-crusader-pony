@@ -6,11 +6,12 @@ title = c_marecca
 # Settlements
 max_settlements = 6
 
-b_tamane = castle
+b_tamane = tribal
 b_buckddah = city
 b_marecca = temple
 b_johoofa = city
 b_turuneigh = city
+#b_marecca_2 = temple
 
 # Misc
 culture = saddle_arabian_culture

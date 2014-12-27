@@ -6,7 +6,7 @@ title = c_kufoala
 # Settlements
 max_settlements = 6
 
-b_kufoala = castle
+b_kufoala = tribal
 #b_kufoala_2 = city
 #b_kufoala_3 = temple
 #b_kufoala_4 = castle

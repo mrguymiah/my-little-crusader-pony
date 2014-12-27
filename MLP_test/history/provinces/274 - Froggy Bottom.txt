@@ -6,7 +6,7 @@ title = c_froggy_bottom
 # Settlements
 max_settlements = 1
 
-b_froggy_bottom = castle
+b_froggy_bottom = tribal
 
 # Misc
 culture = fallow

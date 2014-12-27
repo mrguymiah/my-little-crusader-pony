@@ -6,7 +6,7 @@ title = c_rockwood
 # Settlements
 max_settlements = 1
 
-b_rockwood = castle
+b_rockwood = tribal
 
 # Misc
 culture = fallow

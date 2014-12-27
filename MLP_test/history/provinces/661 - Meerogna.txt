@@ -6,7 +6,7 @@ title = c_meerogna
 # Settlements
 max_settlements = 5
 
-b_meerogna = castle
+b_meerogna = tribal
 #b_meerogna_2 = city
 #b_meerogna_3 = temple
 #b_meerogna_4 = castle

@@ -6,7 +6,7 @@ title = c_clopamas
 # Settlements
 max_settlements = 3
 
-b_clopamas = castle
+b_clopamas = tribal
 #b_clopamas_2 = city
 #b_clopamas_3 = temple
 

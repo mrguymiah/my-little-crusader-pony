@@ -6,7 +6,7 @@ title = c_upper_platinum
 # Settlements
 max_settlements = 5
 
-b_upper_platinum = castle
+b_upper_platinum = tribal
 #b_upper_platinum_2 = city
 #b_upper_platinum_3 = temple
 #b_upper_platinum_4 = castle

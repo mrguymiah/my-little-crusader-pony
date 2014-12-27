@@ -6,7 +6,7 @@ title = c_sireha
 # Settlements
 max_settlements = 3
 
-b_sireha = castle
+b_sireha = tribal
 #b_sireha_2 = city
 #b_sireha_3 = temple
 

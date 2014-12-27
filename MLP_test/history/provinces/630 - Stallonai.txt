@@ -6,7 +6,7 @@ title = c_stallonai
 # Settlements
 max_settlements = 2
 
-b_stallonai = castle
+b_stallonai = tribal
 #b_stallonai_2 = city
 
 # Misc

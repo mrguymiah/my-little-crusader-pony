@@ -6,7 +6,7 @@ title = c_suwamare
 # Settlements
 max_settlements = 4
 
-b_suwamare = castle
+b_suwamare = tribal
 #b_suwamare_2 = city
 #b_suwamare_3 = temple
 #b_suwamare_4 = castle

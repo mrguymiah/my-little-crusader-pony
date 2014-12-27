@@ -6,7 +6,7 @@ title = c_dh29
 # Settlements
 max_settlements = 1
 
-b_dh29 = castle
+b_dh29 = tribal
 
 # Misc
 culture = caribou_culture

@@ -6,7 +6,7 @@ title = c_hayden
 # Settlements
 max_settlements = 3
 
-b_hayden = castle
+b_hayden = tribal
 #b_hayden_2 = city
 #b_hayden_3 = temple
 

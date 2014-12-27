@@ -6,7 +6,7 @@ title = c_smokey_mountain
 # Settlements
 max_settlements = 3
 
-b_smokey_mountain = castle
+b_smokey_mountain = tribal
 #b_smokey_mountain_2 = city
 #b_smokey_mountain_3 = temple
 

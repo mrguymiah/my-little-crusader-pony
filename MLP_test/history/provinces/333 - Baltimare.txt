@@ -1,12 +1,12 @@
-# c_lemonshire
+# c_baltimare
 
 # County Title
-title = c_lemonshire
+title = c_baltimare
 
 # Settlements
 max_settlements = 4
 
-b_lemoncoln = castle
+b_lemoncoln = tribal
 b_woodhall_spa = temple
 b_mareingham = city
 #b_skagars_ness = castle

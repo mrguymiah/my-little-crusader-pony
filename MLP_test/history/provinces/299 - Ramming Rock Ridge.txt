@@ -6,7 +6,7 @@ title = c_ramming_rock_ridge
 # Settlements
 max_settlements = 3
 
-b_ramming_rock_ridge = castle
+b_ramming_rock_ridge = tribal
 #b_ramming_rock_ridge_2 = city
 #b_ramming_rock_ridge_3 = temple
 

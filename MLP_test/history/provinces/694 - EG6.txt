@@ -6,7 +6,7 @@ title = c_eg6
 # Settlements
 max_settlements = 5
 
-b_eg6 = castle
+b_eg6 = tribal
 #b_eg6_2 = city
 #b_eg6_3 = temple
 #b_eg6_4 = castle

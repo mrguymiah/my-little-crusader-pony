@@ -6,7 +6,7 @@ title = c_ta13
 # Settlements
 max_settlements = 5
 
-b_ta13 = castle
+b_ta13 = tribal
 #b_ta13_2 = city
 #b_ta13_3 = temple
 #b_ta13_4 = castle

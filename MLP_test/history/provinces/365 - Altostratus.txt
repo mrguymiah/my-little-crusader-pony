@@ -6,7 +6,7 @@ title = c_altostratus
 # Settlements
 max_settlements = 4
 
-b_altostratus = castle
+b_altostratus = tribal
 #b_altostratus_2 = city
 #b_altostratus_3 = temple
 #b_altostratus_4 = castle

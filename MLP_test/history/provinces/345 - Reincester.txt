@@ -6,7 +6,7 @@ title = c_reincester
 # Settlements
 max_settlements = 4
 
-b_winteringham = castle
+b_winteringham = tribal
 b_cheeseton = city
 b_lemonminster = temple
 #b_ashbuck = castle

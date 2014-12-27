@@ -6,7 +6,7 @@ title = c_saddleside
 # Settlements
 max_settlements = 4
 
-b_saddlebridge = castle
+b_saddlebridge = tribal
 b_inkburrow = city
 #b_lemonlow = temple
 #b_kingshill = castle

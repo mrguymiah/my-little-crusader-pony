@@ -6,7 +6,7 @@ title = c_maneford
 # Settlements
 max_settlements = 5
 
-b_maneford = castle
+b_maneford = tribal
 b_tumpingotn = city
 b_appleseed_hill = temple
 #b_haltsteed = castle

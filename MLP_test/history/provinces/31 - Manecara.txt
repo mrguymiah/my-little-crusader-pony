@@ -6,7 +6,7 @@ title = c_manecara
 # Settlements
 max_settlements = 3
 
-b_manecara = castle
+b_manecara = tribal
 #b_manecara_2 = city
 #b_manecara_3 = temple
 

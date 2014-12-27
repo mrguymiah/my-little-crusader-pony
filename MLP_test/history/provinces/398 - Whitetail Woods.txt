@@ -6,7 +6,7 @@ title = c_whitetail_woods
 # Settlements
 max_settlements = 3
 
-b_whitetail_woods = castle
+b_whitetail_woods = tribal
 #b_whitetail_woods_2 = city
 #b_whitetail_woods_3 = temple
 

@@ -75,6 +75,7 @@
 1602 = { 
 	name = "Malakpash"
 	dynasty = 1602
+	father=1604
 	religion = "buffalo_religion"
 	culture = "tazapan"
 	add_trait = "buffalo"
@@ -89,6 +90,7 @@
 1603 = { 
 	name = "Malakpash"
 	female = yes
+	father=1604
 	dynasty = 1602
 	religion = "buffalo_religion"
 	culture = "tazapan"
@@ -108,16 +110,17 @@
 	culture = "tazapan"
 	add_trait = "buffalo"
 	add_trait = "tough_soldier"
-	95.1.1 = {
-		birth = "95.1.1"
+	65.1.1 = {
+		birth = "65.1.1"
 	}
-	145.1.1 = {
-		death = "145.1.1"
+	125.1.1 = {
+		death = "125.1.1"
 	}
 }
 1605 = { 
 	name = "Malakpash"
 	dynasty = 1602
+	father=1604
 	religion = "buffalo_religion"
 	culture = "tazapan"
 	add_trait = "buffalo"
@@ -132,6 +135,7 @@
 1606 = { 
 	name = "Malakpash"
 	dynasty = 1602
+	father=1604
 	religion = "buffalo_religion"
 	culture = "tazapan"
 	add_trait = "buffalo"

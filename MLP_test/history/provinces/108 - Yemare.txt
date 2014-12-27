@@ -6,7 +6,7 @@ title = c_yemare
 # Settlements
 max_settlements = 6
 
-b_yemare = castle
+b_yemare = tribal
 #b_yemare_2 = city
 #b_yemare_3 = temple
 #b_yemare_4 = castle

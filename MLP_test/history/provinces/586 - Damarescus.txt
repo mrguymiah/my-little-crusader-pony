@@ -6,7 +6,7 @@ title = c_damarescus
 # Settlements
 max_settlements = 7
 
-b_damarescus = castle
+b_damarescus = tribal
 #b_damarescus_2 = city
 #b_damarescus_3 = temple
 #b_damarescus_4 = castle

@@ -6,7 +6,7 @@ title = c_yerapern
 # Settlements
 max_settlements = 7
 
-b_yerapern = castle
+b_yerapern = tribal
 #b_yerapern_2 = city
 #b_yerapern_3 = temple
 #b_yerapern_4 = castle

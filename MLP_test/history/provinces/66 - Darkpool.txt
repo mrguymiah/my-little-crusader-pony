@@ -6,7 +6,7 @@ title = c_darkpool
 # Settlements
 max_settlements = 3
 
-b_darkpool = castle
+b_darkpool = tribal
 #b_darkpool_2 = city
 #b_darkpool_3 = temple
 

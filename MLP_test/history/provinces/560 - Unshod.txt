@@ -6,7 +6,7 @@ title = c_unshod
 # Settlements
 max_settlements = 4
 
-b_unshod = castle
+b_unshod = tribal
 #b_unshod_2 = city
 #b_unshod_3 = temple
 #b_unshod_4 = castle

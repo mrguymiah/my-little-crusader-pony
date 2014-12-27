@@ -6,7 +6,7 @@ title = c_aitrotabad
 # Settlements
 max_settlements = 4
 
-b_aitrotabad = castle
+b_aitrotabad = tribal
 #b_aitrotabad_2 = city
 #b_aitrotabad_3 = temple
 #b_aitrotabad_4 = castle

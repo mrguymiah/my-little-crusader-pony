@@ -6,7 +6,7 @@ title = c_medlesburg
 # Settlements
 max_settlements = 3
 
-b_medlesburg = castle
+b_medlesburg = tribal
 #b_medlesburg_2 = city
 #b_medlesburg_3 = temple
 

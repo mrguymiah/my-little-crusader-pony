@@ -6,7 +6,7 @@ title = c_vanhoover
 # Settlements
 max_settlements = 7
 
-b_vanhoover = city
+b_vanhoover = tribal
 b_antlerkeep = castle
 b_vanwood = temple
 b_buckmond = city

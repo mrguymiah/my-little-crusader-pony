@@ -6,7 +6,7 @@ title = c_maresteganem
 # Settlements
 max_settlements = 3
 
-b_maresteganem = castle
+b_maresteganem = tribal
 #b_maresteganem_2 = city
 #b_maresteganem_3 = temple
 

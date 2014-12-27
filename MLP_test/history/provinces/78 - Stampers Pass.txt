@@ -6,7 +6,7 @@ title = c_stampers_pass
 # Settlements
 max_settlements = 3
 
-b_stampers_pass = castle
+b_stampers_pass = tribal
 #b_stampers_pass_2 = city
 #b_stampers_pass_3 = temple
 

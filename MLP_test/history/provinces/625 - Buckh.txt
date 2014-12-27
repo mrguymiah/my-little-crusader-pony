@@ -6,7 +6,7 @@ title = c_buckh
 # Settlements
 max_settlements = 4
 
-b_buckh = castle
+b_buckh = tribal
 #b_buckh_2 = city
 #b_buckh_3 = temple
 #b_buckh_4 = castle

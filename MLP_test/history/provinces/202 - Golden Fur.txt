@@ -6,7 +6,7 @@ title = c_golden_fur
 # Settlements
 max_settlements = 3
 
-b_golden_fur = castle
+b_golden_fur = tribal
 #b_golden_fur_2 = city
 #b_golden_fur_3 = temple
 

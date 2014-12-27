@@ -6,7 +6,7 @@ title = c_clatclop
 # Settlements
 max_settlements = 3
 
-b_clatclop = castle
+b_clatclop = tribal
 #b_clatclop_2 = city
 #b_clatclop_3 = temple
 

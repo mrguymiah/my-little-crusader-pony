@@ -1,12 +1,12 @@
-# c_baltimare
+# c_lemonshire
 
 # County Title
-title = c_baltimare
+title = c_lemonshire
 
 # Settlements
 max_settlements = 7
 
-b_baltiham = castle
+b_baltiham = tribal
 b_baltamare = city
 b_firewood_hill = temple
 #b_sparrows_point = castle

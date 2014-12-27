@@ -6,7 +6,7 @@ title = c_bridle_dar
 # Settlements
 max_settlements = 3
 
-b_bridle_dar1 = castle
+b_bridle_dar1 = tribal
 b_bridle_dar2 = city
 b_bridle_dar3 = temple
 

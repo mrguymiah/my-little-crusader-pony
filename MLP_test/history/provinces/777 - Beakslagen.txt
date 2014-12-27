@@ -6,7 +6,7 @@ title = c_beakslagen
 # Settlements
 max_settlements = 3
 
-b_beakslagen = castle
+b_beakslagen = tribal
 #b_beakslagen_2 = city
 #b_beakslagen_3 = temple
 

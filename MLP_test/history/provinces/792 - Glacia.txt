@@ -6,7 +6,7 @@ title = c_glacia
 # Settlements
 max_settlements = 2
 
-b_glacia = castle
+b_glacia = tribal
 #b_glacia_2 = city
 
 # Misc

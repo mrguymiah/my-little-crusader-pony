@@ -6,7 +6,7 @@ title = c_deadhooves
 # Settlements
 max_settlements = 2
 
-b_deadhooves = castle
+b_deadhooves = tribal
 #b_deadhooves_2 = city
 
 # Misc

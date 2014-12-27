@@ -6,7 +6,7 @@ title = c_goldslopes
 # Settlements
 max_settlements = 3
 
-b_goldslopes = castle
+b_goldslopes = tribal
 #b_goldslopes_2 = city
 #b_goldslopes_3 = temple
 

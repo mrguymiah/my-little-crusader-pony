@@ -6,7 +6,7 @@ title = c_klamount
 # Settlements
 max_settlements = 3
 
-b_klamount = castle
+b_klamount = tribal
 #b_klamount_2 = city
 #b_klamount_3 = temple
 

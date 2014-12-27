@@ -6,7 +6,7 @@ title = c_wichitrot
 # Settlements
 max_settlements = 3
 
-b_wichitrot = castle
+b_wichitrot = tribal
 #b_wichitrot_2 = city
 #b_wichitrot_3 = temple
 

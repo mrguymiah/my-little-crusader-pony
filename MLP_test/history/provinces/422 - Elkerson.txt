@@ -6,7 +6,7 @@ title = c_elkerson
 # Settlements
 max_settlements = 3
 
-b_elkerson = castle
+b_elkerson = tribal
 #b_elkerson_2 = city
 #b_elkerson_3 = temple
 

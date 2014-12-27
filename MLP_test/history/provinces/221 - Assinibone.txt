@@ -6,7 +6,7 @@ title = c_assinibone
 # Settlements
 max_settlements = 3
 
-b_assinibone = castle
+b_assinibone = tribal
 #b_assinibone_2 = city
 #b_assinibone_3 = temple
 

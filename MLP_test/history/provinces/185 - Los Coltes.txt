@@ -6,7 +6,7 @@ title = c_los_coltes
 # Settlements
 max_settlements = 3
 
-b_los_coltes = castle
+b_los_coltes = tribal
 #b_los_coltes_2 = city
 #b_los_coltes_3 = temple
 

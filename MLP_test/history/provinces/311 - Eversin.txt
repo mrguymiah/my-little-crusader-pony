@@ -6,7 +6,7 @@ title = c_eversin
 # Settlements
 max_settlements = 5
 
-b_eversin = castle
+b_eversin = tribal
 #b_eversin_2 = city
 #b_eversin_3 = temple
 #b_eversin_4 = castle

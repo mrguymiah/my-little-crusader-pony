@@ -6,7 +6,7 @@ title = c_airheart_mountains
 # Settlements
 max_settlements = 3
 
-b_airheart_mountains = castle
+b_airheart_mountains = tribal
 #b_airheart_mountains_2 = city
 #b_airheart_mountains_3 = temple
 

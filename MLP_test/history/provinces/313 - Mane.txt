@@ -6,7 +6,7 @@ title = c_mane
 # Settlements
 max_settlements = 6
 
-b_mane = castle
+b_mane = tribal
 #b_mane_2 = city
 #b_mane_3 = temple
 #b_mane_4 = castle

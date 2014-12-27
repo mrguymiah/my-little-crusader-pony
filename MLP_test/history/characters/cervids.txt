@@ -26,7 +26,7 @@
 	intrigue=6
 	learning=6
 	religion="doskiphanum"
-	culture="elapho_culture"
+	culture="whitetail"
 	add_trait="brilliant_strategist"
 	add_trait="zealous"
 	add_trait="cruel"
@@ -277,13 +277,14 @@
 	religion="agniphanum"
 	culture="fallow"
 	add_trait="zealous"
-	89.3.6 = {
-		birth="89.3.6"
+	70.3.6 = {
+		birth="70.3.6"
 	}
 }
 2101 = {
 	name="Coltiar"
 	dynasty=2009
+	father=2100
 	diplomacy=5
 	martial=5
 	stewardship=5
@@ -505,13 +506,14 @@
 	religion="agniphanum"
 	culture="fallow"
 	add_trait="zealous"
-	89.3.6 = {
-		birth="89.3.6"
+	70.3.6 = {
+		birth="70.3.6"
 	}
 }
 2301 = {
 	name="Rano"
 	dynasty=2022
+	father=2300
 	diplomacy=5
 	martial=5
 	stewardship=5
@@ -522,6 +524,7 @@
 	add_trait="zealous"
 	89.3.6 = {
 		birth="89.3.6"
+		
 	}
 }
 2302 = {
@@ -640,13 +643,14 @@
 	religion="agniphanum"
 	culture="cephalo"
 	add_trait="zealous"
-	89.3.6 = {
-		birth="89.3.6"
+	70.3.6 = {
+		birth="70.3.6"
 	}
 }
 2404 = {
 	name="Mash'to"
 	dynasty=2031
+	father=2403
 	diplomacy=5
 	martial=5
 	stewardship=5

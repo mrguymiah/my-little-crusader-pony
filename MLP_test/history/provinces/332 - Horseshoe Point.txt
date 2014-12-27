@@ -6,7 +6,7 @@ title = c_horseshoe_point
 # Settlements
 max_settlements = 6
 
-b_hoofcliff = castle
+b_hoofcliff = tribal
 b_horseshoe_point = city
 b_saddalding = temple
 #b_laughborough = castle

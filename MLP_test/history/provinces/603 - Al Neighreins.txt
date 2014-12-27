@@ -6,7 +6,7 @@ title = c_al_neighreins
 # Settlements
 max_settlements = 6
 
-b_al_neighreins = castle
+b_al_neighreins = tribal
 #b_al_neighreins_2 = city
 #b_al_neighreins_3 = temple
 #b_al_neighreins_4 = castle

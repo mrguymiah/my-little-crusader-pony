@@ -6,7 +6,7 @@ title = c_oldgrove
 # Settlements
 max_settlements = 3
 
-b_oldgrove = castle
+b_oldgrove = tribal
 #b_oldgrove_2 = city
 #b_oldgrove_3 = temple
 

@@ -6,7 +6,7 @@ title = c_zebroitan
 # Settlements
 max_settlements = 3
 
-b_zebroitan = castle
+b_zebroitan = tribal
 #b_zebroitan_2 = city
 #b_zebroitan_3 = temple
 

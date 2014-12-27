@@ -6,7 +6,7 @@ title = c_moskato
 # Settlements
 max_settlements = 3
 
-b_moskato = castle
+b_moskato = tribal
 #b_moskato_2 = city
 #b_moskato_3 = temple
 

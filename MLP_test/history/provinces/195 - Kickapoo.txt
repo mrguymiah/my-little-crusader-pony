@@ -6,7 +6,7 @@ title = c_kickapoo
 # Settlements
 max_settlements = 3
 
-b_kickapoo = castle
+b_kickapoo = tribal
 #b_kickapoo_2 = city
 #b_kickapoo_3 = temple
 

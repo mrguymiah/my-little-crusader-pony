@@ -6,7 +6,7 @@ title = c_vex
 # Settlements
 max_settlements = 3
 
-b_vex = castle
+b_vex = tribal
 #b_vex_2 = city
 #b_vex_3 = temple
 

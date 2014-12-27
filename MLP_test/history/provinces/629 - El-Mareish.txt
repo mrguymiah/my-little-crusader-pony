@@ -6,7 +6,7 @@ title = c_el_mareish
 # Settlements
 max_settlements = 2
 
-b_el_mareish = castle
+b_el_mareish = tribal
 #b_el_mareish_2 = city
 
 # Misc

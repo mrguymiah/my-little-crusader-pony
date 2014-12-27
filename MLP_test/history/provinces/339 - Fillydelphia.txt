@@ -6,7 +6,7 @@ title = c_fillydelphia
 # Settlements
 max_settlements = 7
 
-b_earthen_palace = castle
+b_earthen_palace = tribal
 b_fillydelphia = city
 b_coltswood = temple
 b_coltdam = city

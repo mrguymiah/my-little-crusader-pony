@@ -6,7 +6,7 @@ title = c_buckonagen
 # Settlements
 max_settlements = 3
 
-b_buckonagen = castle
+b_buckonagen = tribal
 #b_buckonagen_2 = city
 #b_buckonagen_3 = temple
 

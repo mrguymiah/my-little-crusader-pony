@@ -6,7 +6,7 @@ title = c_greenback_island
 # Settlements
 max_settlements = 3
 
-b_greenback_island = castle
+b_greenback_island = tribal
 #b_greenback_island_2 = city
 #b_greenback_island_3 = temple
 

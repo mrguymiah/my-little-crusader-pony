@@ -6,7 +6,7 @@ title = c_mortmane
 # Settlements
 max_settlements = 5
 
-b_mortmane = castle
+b_mortmane = tribal
 #b_mortmane_2 = city
 #b_mortmane_3 = temple
 #b_mortmane_4 = castle

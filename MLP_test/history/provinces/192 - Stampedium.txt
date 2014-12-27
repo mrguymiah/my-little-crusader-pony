@@ -6,7 +6,7 @@ title = c_stampedium
 # Settlements
 max_settlements = 3
 
-b_stampedium = castle
+b_stampedium = tribal
 #b_stampedium_2 = city
 #b_stampedium_3 = temple
 

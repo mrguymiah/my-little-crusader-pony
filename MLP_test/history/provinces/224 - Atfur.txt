@@ -6,7 +6,7 @@ title = c_atfur
 # Settlements
 max_settlements = 3
 
-b_atfur = castle
+b_atfur = tribal
 #b_atfur_2 = city
 #b_atfur_3 = temple
 

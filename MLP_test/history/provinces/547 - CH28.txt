@@ -6,7 +6,7 @@ title = c_ch28
 # Settlements
 max_settlements = 3
 
-b_ch28 = castle
+b_ch28 = tribal
 #b_ch28_2 = city
 #b_ch28_3 = temple
 

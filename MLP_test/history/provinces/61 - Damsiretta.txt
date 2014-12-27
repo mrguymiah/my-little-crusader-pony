@@ -6,7 +6,7 @@ title = c_damsiretta
 # Settlements
 max_settlements = 3
 
-b_damsiretta = castle
+b_damsiretta = tribal
 #b_damsiretta_2 = city
 #b_damsiretta_3 = temple
 

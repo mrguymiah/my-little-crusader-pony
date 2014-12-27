@@ -6,7 +6,7 @@ title = c_antlerdon
 # Settlements
 max_settlements = 2
 
-b_antlerdon = castle
+b_antlerdon = tribal
 #b_antlerdon_2 = city
 
 # Misc

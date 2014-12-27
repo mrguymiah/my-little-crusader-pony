@@ -6,7 +6,7 @@ title = c_whiterush
 # Settlements
 max_settlements = 3
 
-b_whiterush = castle
+b_whiterush = tribal
 #b_whiterush_2 = city
 #b_whiterush_3 = temple
 

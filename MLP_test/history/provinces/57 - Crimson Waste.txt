@@ -6,7 +6,7 @@ title = c_crimson_waste
 # Settlements
 max_settlements = 3
 
-b_crimson_waste = castle
+b_crimson_waste = tribal
 #b_crimson_waste_2 = city
 #b_crimson_waste_3 = temple
 

@@ -6,7 +6,7 @@ title = c_crystalshire
 # Settlements
 max_settlements = 4
 
-b_crystalshire = castle
+b_crystalshire = tribal
 #b_crystalshire_2 = city
 #b_crystalshire_3 = temple
 #b_crystalshire_4 = castle

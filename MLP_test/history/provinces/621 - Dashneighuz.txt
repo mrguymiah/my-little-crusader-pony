@@ -6,7 +6,7 @@ title = c_dashneighuz
 # Settlements
 max_settlements = 5
 
-b_dashneighuz = castle
+b_dashneighuz = tribal
 #b_dashneighuz_2 = city
 #b_dashneighuz_3 = temple
 #b_dashneighuz_4 = castle

@@ -6,7 +6,7 @@ title = c_vanhoover_island
 # Settlements
 max_settlements = 3
 
-b_vanhoover_island = castle
+b_vanhoover_island = tribal
 #b_vanhoover_island_2 = city
 #b_vanhoover_island_3 = temple
 

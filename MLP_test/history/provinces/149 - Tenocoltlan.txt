@@ -6,7 +6,7 @@ title = c_tenocoltlan
 # Settlements
 max_settlements = 3
 
-b_tenocoltlan = castle
+b_tenocoltlan = tribal
 #b_tenocoltlan_2 = city
 #b_tenocoltlan_3 = temple
 

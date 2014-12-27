@@ -6,7 +6,7 @@ title = c_rockmarsh
 # Settlements
 max_settlements = 3
 
-b_rockmarsh = castle
+b_rockmarsh = tribal
 #b_rockmarsh_2 = city
 #b_rockmarsh_3 = temple
 

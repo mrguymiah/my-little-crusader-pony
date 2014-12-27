@@ -6,7 +6,7 @@ title = c_coltoulouse
 # Settlements
 max_settlements = 6
 
-b_coltoulouse = castle
+b_coltoulouse = tribal
 #b_coltoulouse_2 = city
 #b_coltoulouse_3 = temple
 #b_coltoulouse_4 = castle

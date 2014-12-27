@@ -6,7 +6,7 @@ title = c_tazapan19
 # Settlements
 max_settlements = 3
 
-b_tazapan19 = castle
+b_tazapan19 = tribal
 #b_tazapan19_2 = city
 #b_tazapan19_3 = temple
 

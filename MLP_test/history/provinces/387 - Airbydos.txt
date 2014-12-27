@@ -6,7 +6,7 @@ title = c_airbydos
 # Settlements
 max_settlements = 4
 
-b_airbydos = castle
+b_airbydos = tribal
 #b_airbydos_2 = city
 #b_airbydos_3 = temple
 #b_airbydos_4 = castle

@@ -6,7 +6,9 @@ title = c_swamptown
 # Settlements
 max_settlements = 3
 
-b_swamptwon = castle
+b_swamptwon = tribal
+#b_swamptown = city
+#b_swamptown_2 = temple
 
 # Misc
 culture = taruca

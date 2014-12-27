@@ -6,7 +6,7 @@ title = c_barngundy
 # Settlements
 max_settlements = 3
 
-b_barngundy = castle
+b_barngundy = tribal
 #b_barngundy_2 = city
 #b_barngundy_3 = temple
 

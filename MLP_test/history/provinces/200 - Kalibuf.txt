@@ -6,7 +6,7 @@ title = c_kalibuf
 # Settlements
 max_settlements = 3
 
-b_kalibuf = castle
+b_kalibuf = tribal
 #b_kalibuf_2 = city
 #b_kalibuf_3 = temple
 

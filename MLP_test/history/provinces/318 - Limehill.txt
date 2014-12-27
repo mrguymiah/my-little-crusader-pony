@@ -6,7 +6,7 @@ title = c_limehill
 # Settlements
 max_settlements = 6
 
-b_limehill = castle
+b_limehill = tribal
 #b_limehill_2 = city
 #b_limehill_3 = temple
 #b_limehill_4 = castle

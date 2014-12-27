@@ -6,7 +6,7 @@ title = c_grazeland
 # Settlements
 max_settlements = 3
 
-b_grazeland = castle
+b_grazeland = tribal
 #b_grazeland_2 = city
 #b_grazeland_3 = temple
 

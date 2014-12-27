@@ -6,7 +6,7 @@ title = c_appletide
 # Settlements
 max_settlements = 3
 
-b_appletide = castle
+b_appletide = tribal
 #b_appletide_2 = city
 #b_appletide_3 = temple
 

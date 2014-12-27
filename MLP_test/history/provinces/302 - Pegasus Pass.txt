@@ -6,7 +6,7 @@ title = c_pegasus_pass
 # Settlements
 max_settlements = 4
 
-b_pegasus_pass = castle
+b_pegasus_pass = tribal
 #b_pegasus_pass_2 = city
 #b_pegasus_pass_3 = temple
 #b_pegasus_pass_4 = castle

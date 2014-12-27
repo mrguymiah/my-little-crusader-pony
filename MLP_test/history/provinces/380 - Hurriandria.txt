@@ -6,7 +6,7 @@ title = c_hurriandria
 # Settlements
 max_settlements = 4
 
-b_hurriandria = castle
+b_hurriandria = tribal
 #b_hurriandria_2 = city
 #b_hurriandria_3 = temple
 #b_hurriandria_4 = castle

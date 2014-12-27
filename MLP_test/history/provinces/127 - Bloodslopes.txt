@@ -6,7 +6,7 @@ title = c_bloodslopes
 # Settlements
 max_settlements = 2
 
-b_bloodslopes = castle
+b_bloodslopes = tribal
 #b_bloodslopes_2 = city
 
 # Misc

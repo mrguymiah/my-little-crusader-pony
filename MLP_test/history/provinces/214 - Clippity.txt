@@ -6,7 +6,7 @@ title = c_clippity
 # Settlements
 max_settlements = 3
 
-b_clippity = castle
+b_clippity = tribal
 #b_clippity_2 = city
 #b_clippity_3 = temple
 

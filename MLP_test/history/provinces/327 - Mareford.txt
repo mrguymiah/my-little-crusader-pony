@@ -6,7 +6,7 @@ title = c_mareford
 # Settlements
 max_settlements = 5
 
-b_mareford = castle
+b_mareford = tribal
 b_maredeen = city
 b_clover_hill = temple
 #b_woodsbrook = castle

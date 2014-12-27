@@ -6,7 +6,7 @@ title = c_al_buckri
 # Settlements
 max_settlements = 3
 
-b_buckri = castle
+b_buckri = tribal
 b_mare_al_zur = city
 b_horsrhoene = temple
 

@@ -6,7 +6,7 @@ title = c_bergundy
 # Settlements
 max_settlements = 2
 
-b_bergundy = castle
+b_bergundy = tribal
 #b_bergundy_2 = city
 
 # Misc

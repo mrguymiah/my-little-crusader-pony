@@ -6,7 +6,7 @@ title = c_feathara
 # Settlements
 max_settlements = 5
 
-b_feathara = castle
+b_feathara = tribal
 #b_feathara_2 = city
 #b_feathara_3 = temple
 #b_feathara_4 = castle

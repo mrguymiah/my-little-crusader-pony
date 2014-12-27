@@ -6,7 +6,7 @@ title = c_muscanter
 # Settlements
 max_settlements = 7
 
-b_muscanter = castle
+b_muscanter = tribal
 #b_muscanter_2 = city
 #b_muscanter_3 = temple
 #b_muscanter_4 = castle

@@ -6,7 +6,7 @@ title = c_caribou
 # Settlements
 max_settlements = 3
 
-b_caribou = castle
+b_caribou = tribal
 #b_caribou_2 = city
 #b_caribou_3 = temple
 

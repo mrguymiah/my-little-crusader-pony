@@ -6,7 +6,7 @@ title = c_skyaluzzo
 # Settlements
 max_settlements = 5
 
-b_skyaluzzo = castle
+b_skyaluzzo = tribal
 #b_skyaluzzo_2 = city
 #b_skyaluzzo_3 = temple
 #b_skyaluzzo_4 = castle

@@ -6,7 +6,7 @@ title = c_rainisos
 # Settlements
 max_settlements = 4
 
-b_rainisos = castle
+b_rainisos = tribal
 #b_rainisos_2 = city
 #b_rainisos_3 = temple
 #b_rainisos_4 = castle

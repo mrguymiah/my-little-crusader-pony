@@ -6,7 +6,7 @@ title = c_everville
 # Settlements
 max_settlements = 6
 
-b_everville = castle
+b_everville = tribal
 #b_everville_2 = city
 #b_everville_3 = temple
 #b_everville_4 = castle

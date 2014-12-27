@@ -6,7 +6,7 @@ title = c_greenwater
 # Settlements
 max_settlements = 3
 
-b_greenwater = castle
+b_greenwater = tribal
 #b_greenwater_2 = city
 #b_greenwater_3 = temple
 

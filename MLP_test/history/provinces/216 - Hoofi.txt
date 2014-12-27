@@ -6,7 +6,7 @@ title = c_hoofi
 # Settlements
 max_settlements = 3
 
-b_hoofi = castle
+b_hoofi = tribal
 #b_hoofi_2 = city
 #b_hoofi_3 = temple
 

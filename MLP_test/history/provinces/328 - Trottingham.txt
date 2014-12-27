@@ -6,7 +6,7 @@ title = c_trottingham
 # Settlements
 max_settlements = 6
 
-b_flankstaf_keep = castle
+b_flankstaf_keep = tribal
 b_trottingham = city
 b_bruce_hill = temple
 #b_heartford = castle

@@ -6,7 +6,7 @@ title = c_vejalyk
 # Settlements
 max_settlements = 2
 
-b_vejalyk = castle
+b_vejalyk = tribal
 #b_vejalyk_2 = city
 
 # Misc

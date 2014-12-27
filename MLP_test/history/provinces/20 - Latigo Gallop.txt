@@ -6,7 +6,7 @@ title = c_latigo_gallop
 # Settlements
 max_settlements = 3
 
-b_latigo_gallop = castle
+b_latigo_gallop = tribal
 #b_latigo_gallop_2 = city
 #b_latigo_gallop_3 = temple
 

@@ -1,4 +1,4 @@
-###### AUTO GENERATED CONTENT (c) CKTools v11 ######
+###### AUTO GENERATED CONTENT (c) CKTools v13 ######
 
 
 
@@ -1265,6 +1265,14 @@ e_buffalonia = {
 				}
 				b_shepatekata_steps = {
 				}
+				b_mecxicoltto_2 = {
+				}
+				b_mecxicoltto_3 = {
+				}
+				b_mecxicoltto_4 = {
+				}
+				b_mecxicoltto_5 = {
+				}
 			}
 			c_tazapan14 = { # 148
 				color={ 205 191 109 }
@@ -2169,7 +2177,7 @@ e_crystal_empire = {
 		color2={ 255 255 255 }
 		
 		capital = 463 # c_dh1
-		culture = caribou_culture
+		culture = muntjac
 		
 		d_eastgold = {
 			color={ 92 148 152 }
@@ -2681,7 +2689,7 @@ e_crystal_empire = {
 		color2={ 255 255 255 }
 		
 		capital = 503 # c_west_pass
-		culture = caribou_culture
+		culture = crystal_culture
 		
 		d_west_pass = {
 			color={ 120 181 168 }
@@ -3987,19 +3995,19 @@ e_equestria = {
 		color={ 117 115 91 }
 		color2={ 255 255 255 }
 		
-		capital = 322 # c_baltimare
+		capital = 322 # c_lemonshire
 		culture = muntjac
 		
-		d_baltimare = {
+		d_lemonshire = {
 			color={ 97 135 81 }
 			color2={ 255 255 255 }
 			
 			allow = {
 				any_demesne_province = { OR = { province_id = 322 province_id = 323 province_id = 324 province_id = 325 } }
 			}
-			capital = 322 # c_baltimare
+			capital = 322 # c_lemonshire
 			
-			c_baltimare = { # 322
+			c_lemonshire = { # 322
 				color={ 87 145 76 }
 				color2={ 255 255 255 }
 				
@@ -4274,6 +4282,12 @@ e_equestria = {
 				
 				b_ehointon = {
 				}
+				b_linecolt = {
+				}
+				b_linecolt_2 = {
+				}
+				b_linecolt_3 = {
+				}
 			}
 		}
 		d_marecia = {
@@ -4353,7 +4367,7 @@ e_equestria = {
 				
 				b_canterbury = {
 				}
-				b_canterham_b) = {
+				b_canterham = {
 				}
 				b_whitestable = {
 				}
@@ -4458,6 +4472,19 @@ e_equestria = {
 				b_docking_rock = {
 				}
 			}
+			c_baltimare = { # 333
+				color={ 87 153 38 }
+				color2={ 255 255 255 }
+				
+				b_lemoncoln = {
+				}
+				b_woodhall_spa = {
+				}
+				b_mareingham = {
+				}
+				b_skagars_ness = {
+				}
+			}
 			c_horseshoe_point = { # 332
 				color={ 84 140 43 }
 				color2={ 255 255 255 }
@@ -4473,19 +4500,6 @@ e_equestria = {
 				b_high_buckfield = {
 				}
 				b_millhorse = {
-				}
-			}
-			c_lemonshire = { # 333
-				color={ 87 153 38 }
-				color2={ 255 255 255 }
-				
-				b_lemoncoln = {
-				}
-				b_woodhall_spa = {
-				}
-				b_mareingham = {
-				}
-				b_skagars_ness = {
 				}
 			}
 		}
@@ -5116,6 +5130,10 @@ e_equestria = {
 				}
 				b_cloud_ranch = {
 				}
+				b_nimbus_pass = {
+				}
+				b_nimbus_pass_2 = {
+				}
 			}
 			c_cirrus = { # 378
 				color={ 81 67 182 }
@@ -5382,6 +5400,16 @@ e_equestria = {
 				color2={ 255 255 255 }
 				
 				b_leaf_farm = {
+				}
+				b_greenvale = {
+				}
+				b_greenvale_2 = {
+				}
+				b_greenvale_3 = {
+				}
+				b_greenvale_4 = {
+				}
+				b_greenvale_5 = {
 				}
 			}
 			c_ramming_rock_ridge = { # 299
@@ -5723,6 +5751,14 @@ e_equestria = {
 				color2={ 255 255 255 }
 				
 				b_dusk_star_rise = {
+				}
+				b_gemglass = {
+				}
+				b_gemglass_2 = {
+				}
+				b_gemglass_3 = {
+				}
+				b_gemglass_4 = {
 				}
 			}
 		}
@@ -8334,6 +8370,10 @@ e_hayseed = {
 				
 				b_ehpasrd = {
 				}
+				b_greater_markamear = {
+				}
+				b_greater_markamear_2 = {
+				}
 			}
 			c_lesser_markamear = { # 98
 				color={ 212 214 120 }
@@ -8469,6 +8509,10 @@ e_hayseed = {
 				color2={ 255 255 255 }
 				
 				b_swamptwon = {
+				}
+				b_swamptown = {
+				}
+				b_swamptown_2 = {
 				}
 			}
 		}
@@ -8636,6 +8680,8 @@ e_hayseed = {
 				b_sandenfort = {
 				}
 				b_dodge_junction = {
+				}
+				b_dodgeland = {
 				}
 			}
 		}
@@ -9416,6 +9462,8 @@ e_saddle_arabia = {
 				}
 				b_turuneigh = {
 				}
+				b_marecca_2 = {
+				}
 			}
 			c_neighjaz = { # 557
 				color={ 133 164 39 }
@@ -10173,6 +10221,8 @@ e_saddle_arabia = {
 				}
 				b_latifillya = {
 				}
+				b_buckdad_2 = {
+				}
 			}
 			c_karcantala = { # 614
 				color={ 59 130 35 }
@@ -10201,6 +10251,8 @@ e_saddle_arabia = {
 				}
 				b_hoofit = {
 				}
+				b_mareir = {
+				}
 			}
 			c_samarea = { # 613
 				color={ 65 137 40 }
@@ -10215,6 +10267,8 @@ e_saddle_arabia = {
 				b_bucklad = {
 				}
 				b_amareli = {
+				}
+				b_samarea = {
 				}
 			}
 		}
@@ -10255,6 +10309,8 @@ e_saddle_arabia = {
 				b_raneigh = {
 				}
 				b_coltrtan = {
+				}
+				b_kirbuck = {
 				}
 			}
 			c_lunaristan = { # 610
@@ -10472,6 +10528,8 @@ e_saddle_arabia = {
 				}
 				b_halbaneigh = {
 				}
+				b_baalbuck_2 = {
+				}
 			}
 			c_algalloppo = { # 579
 				color={ 148 145 113 }
@@ -10485,6 +10543,10 @@ e_saddle_arabia = {
 				}
 				b_sarmarein = {
 				}
+				b_algalloppo_2 = {
+				}
+				b_algalloppo_3 = {
+				}
 			}
 			c_horsoms = { # 577
 				color={ 168 168 119 }
@@ -10496,6 +10558,10 @@ e_saddle_arabia = {
 				}
 				b_zweneigha = {
 				}
+				b_horsoms_2 = {
+				}
+				b_horsoms_3 = {
+				}
 			}
 			c_manema = { # 578
 				color={ 143 143 105 }
@@ -10506,6 +10572,10 @@ e_saddle_arabia = {
 				b_mareardah = {
 				}
 				b_hamareath = {
+				}
+				b_manema_2 = {
+				}
+				b_manema_3 = {
 				}
 			}
 		}
@@ -11103,12 +11173,32 @@ e_zebrica = {
 				}
 				b_marezquita = {
 				}
+				b_coltoba_2 = {
+				}
+				b_coltoba_3 = {
+				}
+				b_coltoba_4 = {
+				}
+				b_coltoba_5 = {
+				}
 			}
 			c_al_maneia = { # 107
 				color={ 129 167 68 }
 				color2={ 255 255 255 }
 				
 				b_al_maneia = {
+				}
+				b_al_maneia_2 = {
+				}
+				b_al_maneia_3 = {
+				}
+				b_al_maneia_4 = {
+				}
+				b_al_maneia_5 = {
+				}
+				b_al_maneia_6 = {
+				}
+				b_al_maneia_7 = {
 				}
 			}
 			c_yemare = { # 108
@@ -11148,6 +11238,10 @@ e_zebrica = {
 				}
 				b_ponytemple = {
 				}
+				b_wadi_pony_2 = {
+				}
+				b_wadi_pony_3 = {
+				}
 			}
 			c_almaria = { # 111
 				color={ 149 213 47 }
@@ -11186,6 +11280,10 @@ e_zebrica = {
 				b_marebella = {
 				}
 				b_antecrin = {
+				}
+				b_manelaga_2 = {
+				}
+				b_manelaga_3 = {
 				}
 			}
 			c_murasaddala = { # 113
@@ -11535,6 +11633,14 @@ e_zebrica = {
 				color2={ 255 255 255 }
 				
 				b_timbucktu = {
+				}
+				b_timbucktu_2 = {
+				}
+				b_timbucktu_3 = {
+				}
+				b_timbucktu_4 = {
+				}
+				b_timbucktu_5 = {
 				}
 			}
 			c_coltiala = { # 41

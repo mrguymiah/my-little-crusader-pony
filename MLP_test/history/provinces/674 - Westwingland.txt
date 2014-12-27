@@ -6,7 +6,7 @@ title = c_westwingland
 # Settlements
 max_settlements = 4
 
-b_westwingland = castle
+b_westwingland = tribal
 #b_westwingland_2 = city
 #b_westwingland_3 = temple
 #b_westwingland_4 = castle

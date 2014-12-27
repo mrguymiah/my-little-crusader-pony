@@ -6,7 +6,7 @@ title = c_crystal_pass
 # Settlements
 max_settlements = 4
 
-b_crystal_pass = castle
+b_crystal_pass = tribal
 #b_crystal_pass_2 = city
 #b_crystal_pass_3 = temple
 #b_crystal_pass_4 = castle

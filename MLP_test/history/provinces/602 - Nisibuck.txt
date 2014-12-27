@@ -6,7 +6,7 @@ title = c_nisibuck
 # Settlements
 max_settlements = 4
 
-b_nisibuck = castle
+b_nisibuck = tribal
 #b_nisibuck_2 = city
 #b_nisibuck_3 = temple
 #b_nisibuck_4 = castle

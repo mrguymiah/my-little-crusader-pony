@@ -6,8 +6,8 @@ title = c_canterbury
 # Settlements
 max_settlements = 4
 
-b_canterbury = temple
-#b_canterham_b) = city
+b_canterbury = tribal
+b_canterham = castle
 b_whitestable = city
 #b_horseden = castle
 

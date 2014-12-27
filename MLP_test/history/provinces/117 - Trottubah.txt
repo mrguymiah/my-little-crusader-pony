@@ -6,7 +6,7 @@ title = c_trottubah
 # Settlements
 max_settlements = 5
 
-b_trottubah = castle
+b_trottubah = tribal
 #b_trottubah_2 = city
 #b_trottubah_3 = temple
 #b_trottubah_4 = castle

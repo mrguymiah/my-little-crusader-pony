@@ -6,7 +6,7 @@ title = c_upper_firebeak
 # Settlements
 max_settlements = 5
 
-b_upper_firebeak = castle
+b_upper_firebeak = tribal
 #b_upper_firebeak_2 = city
 #b_upper_firebeak_3 = temple
 #b_upper_firebeak_4 = castle

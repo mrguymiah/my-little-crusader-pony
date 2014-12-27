@@ -6,7 +6,7 @@ title = c_mustsex
 # Settlements
 max_settlements = 3
 
-b_bucksbey = castle
+b_bucksbey = tribal
 b_stallionton = city
 #b_saddlestone = temple
 

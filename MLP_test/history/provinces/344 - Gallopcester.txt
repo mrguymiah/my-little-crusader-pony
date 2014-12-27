@@ -6,7 +6,7 @@ title = c_gallopcester
 # Settlements
 max_settlements = 4
 
-b_buckworth = castle
+b_buckworth = tribal
 b_burningwood = city
 b_greenhart_hill = temple
 #b_greenharton = castle

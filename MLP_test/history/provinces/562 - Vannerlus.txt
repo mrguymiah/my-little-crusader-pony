@@ -6,7 +6,7 @@ title = c_vannerlus
 # Settlements
 max_settlements = 4
 
-b_vannerlus = castle
+b_vannerlus = tribal
 #b_vannerlus_2 = city
 #b_vannerlus_3 = temple
 #b_vannerlus_4 = castle

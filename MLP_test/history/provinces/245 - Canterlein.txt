@@ -6,7 +6,7 @@ title = c_canterlein
 # Settlements
 max_settlements = 3
 
-b_canterlein = castle
+b_canterlein = tribal
 #b_canterlein_2 = city
 #b_canterlein_3 = temple
 

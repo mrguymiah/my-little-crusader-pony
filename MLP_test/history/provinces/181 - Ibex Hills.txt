@@ -6,7 +6,7 @@ title = c_ibex_hills
 # Settlements
 max_settlements = 3
 
-b_ibex_hills = castle
+b_ibex_hills = tribal
 #b_ibex_hills_2 = city
 #b_ibex_hills_3 = temple
 

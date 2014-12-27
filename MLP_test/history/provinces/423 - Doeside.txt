@@ -6,7 +6,7 @@ title = c_doeside
 # Settlements
 max_settlements = 3
 
-b_doeside = castle
+b_doeside = tribal
 #b_doeside_2 = city
 #b_doeside_3 = temple
 

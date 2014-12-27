@@ -6,7 +6,7 @@ title = c_trotluch
 # Settlements
 max_settlements = 3
 
-b_trotluch = castle
+b_trotluch = tribal
 #b_trotluch_2 = city
 #b_trotluch_3 = temple
 

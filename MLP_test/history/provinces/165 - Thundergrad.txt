@@ -6,7 +6,7 @@ title = c_thundergrad
 # Settlements
 max_settlements = 3
 
-b_thundergrad = castle
+b_thundergrad = tribal
 #b_thundergrad_2 = city
 #b_thundergrad_3 = temple
 

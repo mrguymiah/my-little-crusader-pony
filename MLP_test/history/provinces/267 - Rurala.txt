@@ -6,7 +6,7 @@ title = c_rurala
 # Settlements
 max_settlements = 3
 
-b_rurala = castle
+b_rurala = tribal
 #b_rurala_2 = city
 #b_rurala_3 = temple
 

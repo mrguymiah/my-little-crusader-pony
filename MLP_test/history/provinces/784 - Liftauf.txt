@@ -6,7 +6,7 @@ title = c_liftauf
 # Settlements
 max_settlements = 3
 
-b_liftauf = castle
+b_liftauf = tribal
 #b_liftauf_2 = city
 #b_liftauf_3 = temple
 

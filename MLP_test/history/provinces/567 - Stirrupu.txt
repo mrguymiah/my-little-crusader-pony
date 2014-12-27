@@ -6,7 +6,7 @@ title = c_stirrupu
 # Settlements
 max_settlements = 4
 
-b_stirrupu = castle
+b_stirrupu = tribal
 #b_stirrupu_2 = city
 #b_stirrupu_3 = temple
 #b_stirrupu_4 = castle
