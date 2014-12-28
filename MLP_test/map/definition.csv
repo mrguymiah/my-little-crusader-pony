@@ -274,7 +274,7 @@ province;red;green;blue;x;x
 273;52;135;128;Everfree8;x
 274;28;61;86;Froggy Bottom;x
 275;28;86;67;Froggy Side;x
-276;13;55;85;Frog Meddow;x
+276;13;55;85;Frog Meadow;x
 277;35;171;109;Everfree1;x
 278;11;170;112;Everfree2;x
 279;53;190;159;Everfree3;x
@@ -288,7 +288,7 @@ province;red;green;blue;x;x
 287;82;180;142;Everfree5;x
 288;12;144;99;Everwatch;x
 289;17;95;66;Everfree7;x
-290;97;169;160;The Palace of the Two Sisters;x
+290;97;169;160;Everfree Heart;x
 291;86;141;134;Rockwood;x
 292;8;49;65;Everfree9;x
 293;36;188;165;Everfree15;x
@@ -304,7 +304,7 @@ province;red;green;blue;x;x
 303;175;106;185;Gemglass;x
 304;158;43;162;Mortmane;x
 305;190;107;193;Roumare;x
-306;172;75;175;Étalux;x
+306;172;75;175;Etalux;x
 307;188;31;227;Galloping Grass;x
 308;152;67;211;Reins;x
 309;225;31;227;Everville;x
@@ -317,10 +317,10 @@ province;red;green;blue;x;x
 316;183;138;189;Poulain;x
 317;172;94;183;Coltoulouse;x
 318;195;86;211;Limehill;x
-319;189;54;80;Manehatten;x
+319;189;54;80;Manehattan;x
 320;154;14;41;Bucklyn;x
 321;209;111;129;Newmane;x
-322;87;145;76;Baltimare;x
+322;87;145;76;Lemonshire;x
 323;128;184;47;Coltford;x
 324;82;151;68;Buckfast;x
 325;54;128;40;Hoofington;x
@@ -331,7 +331,7 @@ province;red;green;blue;x;x
 330;106;171;58;Maresbury;x
 331;105;155;67;Horse Bay;x
 332;84;140;43;Horseshoe Point;x
-333;87;153;38;Lemonshire;x
+333;87;153;38;Baltimare;x
 334;77;120;54;Maneford;x
 335;38;119;22;Summer Hills;x
 336;22;93;9;Reinshire;x
@@ -664,7 +664,7 @@ province;red;green;blue;x;x
 663;141;203;175;Taloneia;x
 664;86;149;120;Eagleia;x
 665;110;166;140;Karthin;x
-666;95;131;101;Griffinten;x
+666;95;131;101;Griffonten;x
 667;131;153;139;Pridea;x
 668;156;174;162;Panthmbino;x
 669;157;184;166;Wbd1;x
