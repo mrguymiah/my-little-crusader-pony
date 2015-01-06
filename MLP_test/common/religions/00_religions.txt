@@ -1,10 +1,11 @@
 equestrian_Rgroup = {
 	playable = yes
+	graphical_culture = westerngfx
 	has_coa_on_barony_only = yes
 	crusade_cb = crusade
 	
 	celestial_religion = {
-		graphical_culture = ponygfx
+		graphical_culture = westerngfx
 
 		icon = 6
 		color = { 0.5 0.4 0.1 }
@@ -13,7 +14,7 @@ equestrian_Rgroup = {
 		
 	}
 	lunar_religion = {
-		graphical_culture = ponygfx
+		graphical_culture = westerngfx
 		
 		icon = 6
 		color = { 0.4 0.9 0.4 }
@@ -26,11 +27,12 @@ equestrian_Rgroup = {
 
 crystal_Rgroup = {
 	playable = yes
+	graphical_culture = westerngfx
 	has_coa_on_barony_only = yes
 	crusade_cb = crusade
 
 	crystal_religion_reformed = {
-		graphical_culture = ponygfx
+		graphical_culture = westerngfx
 
 		icon = 9
 		color = { 0.5 0.5 0.9 }
@@ -38,7 +40,7 @@ crystal_Rgroup = {
 		
 	}
 	crystal_religion = {
-		graphical_culture = ponygfx
+		graphical_culture = westerngfx
 
 		icon = 8
 		color = { 0.5 0.5 0.9 }
@@ -49,11 +51,12 @@ crystal_Rgroup = {
 }
 earthpony_Rgroup = {
 	playable = yes
+	graphical_culture = westerngfx
 	has_coa_on_barony_only = yes
 	crusade_cb = crusade
 	
 	earth_religion_reformed = {
-		graphical_culture = ponygfx
+		graphical_culture = westerngfx
 
 		icon = 6
 		color = { 0.2 0.8 0.2 }
@@ -62,7 +65,7 @@ earthpony_Rgroup = {
 		
 	}
 	earth_religion= {
-		graphical_culture = ponygfx
+		graphical_culture = westerngfx
 
 		icon = 5
 		color = { 0.2 0.8 0.2 }
@@ -144,11 +147,12 @@ unicorn_Rgroup = {
 
 pegasus_Rgroup = {
 	playable = yes
+	graphical_culture = westerngfx
 	has_coa_on_barony_only = yes
 	crusade_cb = crusade
 	
 	soarastrian_reformed= {
-		graphical_culture = ponygfx
+		graphical_culture = westerngfx
 
 		icon = 8
 		color = { 1 0.2 0.2 }
@@ -163,7 +167,7 @@ pegasus_Rgroup = {
 		
 	}
 	soarastrian= {
-		graphical_culture = ponygfx
+		graphical_culture = westerngfx
 
 		icon = 7 #hellenic
 		color = { 1 0.2 0.2 }
@@ -180,11 +184,12 @@ pegasus_Rgroup = {
 
 zebra_Rgroup = {
 	playable = yes
+	graphical_culture = westerngfx
 	has_coa_on_barony_only = yes
 	crusade_cb = crusade
 	
 	zulhooves_religion_reformed = {
-		graphical_culture = ponygfx
+		graphical_culture = africangfx
 
 		icon = 12
 		color = { 0.8 0.8 0.6 }
@@ -207,7 +212,7 @@ zebra_Rgroup = {
 		
 	}
 	zulhooves_religion = {
-		graphical_culture = ponygfx
+		graphical_culture = africangfx
 
 		icon = 11
 		color = { 0.8 0.8 0.6 }
@@ -233,7 +238,7 @@ zebra_Rgroup = {
 	}
 	
 	dahomaine_religion_reformed = {
-		graphical_culture = ponygfx
+		graphical_culture = africangfx
 
 		icon = 35
 		color = { 0.4 0.8 0.6 }
@@ -256,7 +261,7 @@ zebra_Rgroup = {
 		
 	}
 	dahomaine_religion = {
-		graphical_culture = ponygfx
+		graphical_culture = africangfx
 
 		icon = 34
 		color = { 0.2 0.8 0.3 }
@@ -285,11 +290,12 @@ zebra_Rgroup = {
 	
 griffon_Rgroup = {
 	playable = yes
+	graphical_culture = westerngfx
 	has_coa_on_barony_only = yes
 	crusade_cb = crusade
 	
 	grifflyreise_reformed = {
-		graphical_culture = ponygfx
+		graphical_culture = norsegfx
 
 		icon = 14
 		heresy_icon = 21
@@ -323,7 +329,7 @@ griffon_Rgroup = {
 		
 	}
 	grifflyreise = {
-		graphical_culture = ponygfx
+		graphical_culture = norsegfx
 
 		icon = 13
 		heresy_icon = 21
@@ -362,11 +368,12 @@ griffon_Rgroup = {
 
 changeling_Rgroup = {
 	playable = yes
-	has_coa_on_barony_only = yes
+	graphical_culture = muslimgfx
+	has_coa_on_barony_only = no
 	crusade_cb = crusade
 
 	changeling_religion_reformed = {
-		graphical_culture = ponygfx
+		graphical_culture = persiangfx
 
 		icon = 16
 		color = { 0.1 0.1 0.1 }
@@ -389,7 +396,7 @@ changeling_Rgroup = {
 		
 	}
 	changeling_religion = {
-		graphical_culture = ponygfx
+		graphical_culture = persiangfx
 
 		icon = 15
 		color = { 0.2 0.2 0.2 }
@@ -417,11 +424,12 @@ changeling_Rgroup = {
 
 buffalo_Rgroup = {
 	playable = yes
+	graphical_culture = westerngfx
 	has_coa_on_barony_only = yes
 	crusade_cb = crusade
 
 	buffalo_religion_reformed = {
-		graphical_culture = ponygfx
+		graphical_culture = mongolgfx
 
 		icon = 19
 		color = { 0.8 0.8 0.6 }
@@ -443,7 +451,7 @@ buffalo_Rgroup = {
 		
 	}
 	buffalo_religion = {
-		graphical_culture = ponygfx
+		graphical_culture = mongolgfx
 
 		icon = 18
 		color = { 0.8 0.8 0.6 }
@@ -469,11 +477,12 @@ buffalo_Rgroup = {
 
 zoroastrian_group = {
 	playable = yes
-	has_coa_on_barony_only = yes
+	has_coa_on_barony_only = no
+	graphical_culture = muslimgfx
 	crusade_cb = crusade
 
 	saddle_arabian_religion_reformed = {
-		graphical_culture = ponygfx
+		graphical_culture = muslimgfx
 
 		icon = 26
 		color = { 0.3 0.3 0.9 }
@@ -496,7 +505,7 @@ zoroastrian_group = {
 		
 	}
 	saddle_arabian_religion = {
-		graphical_culture = ponygfx
+		graphical_culture = muslimgfx
 
 		icon = 25
 		color = { 0.4 0.4 0.8 }
@@ -525,11 +534,12 @@ zoroastrian_group = {
 
 discordian_Rgroup = {
 	playable = yes
+	graphical_culture = westerngfx
 	has_coa_on_barony_only = yes
 	crusade_cb = crusade
 
 	discord_religion1 = {
-		graphical_culture = ponygfx
+		graphical_culture = westerngfx
 		
 		icon = 21
 		color = { 0.8 0.8 0.6 }
@@ -552,7 +562,7 @@ discordian_Rgroup = {
 	}
 	
 	discord_religion2 = {
-		graphical_culture = ponygfx
+		graphical_culture = westerngfx
 
 		icon = 20
 		color = { 0.8 0.8 0.6 }
@@ -578,10 +588,10 @@ discordian_Rgroup = {
 caribou_Rgroup = {
 	playable = yes
 	has_coa_on_barony_only = no
-	graphical_culture = muslimgfx
+	graphical_culture = westerngfx
 
 	mooselam_reformed = {
-		graphical_culture = ponygfx
+		graphical_culture = muslimgfx
 
 		icon = 23 #norse
 		heresy_icon = 21
@@ -607,7 +617,7 @@ caribou_Rgroup = {
 		
 	}
 	mooselam = {
-		graphical_culture = ponygfx
+		graphical_culture = muslimgfx
 
 		icon = 22 #norse
 		heresy_icon = 21
@@ -633,7 +643,7 @@ caribou_Rgroup = {
 		
 	}
 	agniphanum = {
-		graphical_culture = ponygfx
+		graphical_culture = norsegfx
 
 		icon = 24 #norse
 		heresy_icon = 21
@@ -659,7 +669,7 @@ caribou_Rgroup = {
 		
 	}
 	doskiphanum = {
-		graphical_culture = ponygfx
+		graphical_culture = norsegfx
 
 		icon = 24 #norse
 		heresy_icon = 21
@@ -686,7 +696,7 @@ caribou_Rgroup = {
 		
 	}
 	muntura = {
-		graphical_culture = ponygfx
+		graphical_culture = norsegfx
 
 		icon = 24 #norse
 		heresy_icon = 21
@@ -712,7 +722,7 @@ caribou_Rgroup = {
 		
 	}
 	evantol = {
-		graphical_culture = ponygfx
+		graphical_culture = norsegfx
 
 		icon = 24 #norse
 		heresy_icon = 21
@@ -741,12 +751,13 @@ caribou_Rgroup = {
 
 wild_rgroup = {
 	playable = no
-	graphical_culture = ponygfx
+	graphical_culture = westerngfx
 	
 	wildfaith = {
 		icon = 14
 		heresy_icon = 14
 		color = { 0.3 0.1 0.1 }
+		graphical_culture = westerngfx
 		
 		 crusade_name = "CRUSADE"
          scripture_name = THE_BIBLE
