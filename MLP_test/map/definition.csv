@@ -579,10 +579,10 @@ province;red;green;blue;x;x
 578;143;143;105;Manema;x
 579;148;145;113;Algalloppo;x
 580;131;128;99;Amane;x
-581;174;177;134;Al-Stallhmane;x
+581;174;177;134;Al Stallhmane;x
 582;150;148;126;Al Trotters;x
 583;127;126;100;Suwamare;x
-584;144;148;125;Al- Buckri;x
+584;144;148;125;Al Buckri;x
 585;120;116;84;Neighessa;x
 586;171;168;131;Damarescus;x
 587;158;154;112;Az Starqa;x
@@ -1016,3 +1016,5 @@ province;red;green;blue;x;x
 1015;60;105;255;Lake3;x
 1016;98;134;255;Lake4;x
 1017;131;169;118;Lake5;x
+1018;90;176;159;Lake6;x
+1019;27;128;107;Lake7;x

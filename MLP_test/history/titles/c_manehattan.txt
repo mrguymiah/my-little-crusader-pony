@@ -2,6 +2,6 @@
 	law = enatic_cognatic_succession
 	law = succ_gavelkind
 }
-100.1.1={
-	liege=d_manehattan
+100.1.1 = {
+	holder = 2017
 }

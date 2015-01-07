@@ -1,7 +1,6 @@
 namespace = crystal_heart
 
 character_event = {
-
 	id = crystal_heart.001
 	desc = EVTDESCcrystal_heart.001
 	picture = GFX_evt_emissary
@@ -10,14 +9,12 @@ character_event = {
 	prisoner = no
 	
 	trigger = {
-		ROOT = {
-			has_landed_title = c_crystal_city
-			culture = crystal_culture
-			religion_group = crystal_Rgroup
-			NOT = { 
-				has_character_modifier = crystal_heart_protection
-				has_character_modifier = crystal_heart_domination 
-			}
+		has_landed_title = c_crystal_city
+		culture = crystal_culture
+		religion_group = crystal_Rgroup
+		NOT = { 
+			has_character_modifier = crystal_heart_protection
+			has_character_modifier = crystal_heart_domination 
 		}
 	}	
 	
@@ -33,7 +30,6 @@ character_event = {
 }
 
 character_event = {
-
 	id = crystal_heart.002
 	desc = EVTDESCcrystal_heart.002
 	picture = GFX_evt_emissary

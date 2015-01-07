@@ -2,6 +2,8 @@
 	law = enatic_cognatic_succession
 	law = succ_gavelkind
 }
-100.1.1={
-	liege=d_airpius
+100.1.1 = {
+	law = enatic_cognatic_succession
+	holder = 2000
 }
+
