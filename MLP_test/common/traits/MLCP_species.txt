@@ -15,6 +15,7 @@ unicorn = {
 		crystal_pony
 		draconequus
 		alicorn
+		thestral
 		horse
 		griffon
 		zebra
@@ -40,6 +41,7 @@ pegasus = {
 		crystal_pony
 		draconequus
 		alicorn
+		thestral
 		horse
 		griffon
 		zebra
@@ -65,6 +67,7 @@ earth_pony = {
 		crystal_pony
 		draconequus
 		alicorn
+		thestral
 		horse
 		griffon
 		zebra
@@ -93,6 +96,32 @@ crystal_pony = {
 		alicorn
 		horse
 		griffon
+		thestral
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+}
+
+thestral = {
+	birth = 0
+	immortal = yes
+
+	martial = 2
+	intrigue = 1
+
+	opposites = {
+		unicorn
+		pegasus
+		earth_pony
+		crystal_pony
+		horse
+		draconequus
+		griffon
 		zebra
 		changeling
 		buffalo
@@ -105,11 +134,10 @@ crystal_pony = {
 
 alicorn = {
 	birth = 0
-	immortal = yes
 
-	learning = 1
-	intrigue = 1
-	diplomacy = 1
+	learning = 2
+	intrigue = 2
+	diplomacy = 2
 	same_opinion = 1000
 
 	opposites = {
@@ -117,6 +145,7 @@ alicorn = {
 		pegasus
 		earth_pony
 		crystal_pony
+		thestral
 		horse
 		draconequus
 		griffon
@@ -143,6 +172,7 @@ horse = {
 		earth_pony
 		crystal_pony
 		alicorn
+		thestral
 		draconequus
 		griffon
 		zebra
@@ -171,6 +201,7 @@ draconequus = {
 		earth_pony
 		crystal_pony
 		alicorn
+		thestral
 		horse
 		griffon
 		zebra
@@ -185,7 +216,7 @@ draconequus = {
 
 griffon = {
 	birth = 0
-	inherit_chance =100
+	inherit_chance = 100
 	
 	martial = 2
 	stewardship = 1
@@ -197,6 +228,7 @@ griffon = {
 		earth_pony
 		crystal_pony
 		alicorn
+		thestral
 		horse
 		draconequus
 		zebra
@@ -223,6 +255,7 @@ zebra = {
 		earth_pony
 		crystal_pony
 		alicorn
+		thestral
 		horse
 		draconequus
 		griffon
@@ -250,6 +283,7 @@ changeling = {
 		earth_pony
 		crystal_pony
 		alicorn
+		thestral
 		horse
 		draconequus
 		griffon
@@ -274,6 +308,7 @@ changeling_queen = {
 		earth_pony
 		crystal_pony
 		alicorn
+		thestral
 		horse
 		draconequus
 		griffon
@@ -300,6 +335,7 @@ buffalo = {
 		earth_pony
 		crystal_pony
 		alicorn
+		thestral
 		horse
 		draconequus
 		griffon
@@ -325,6 +361,7 @@ caribou = {
 		earth_pony
 		crystal_pony
 		alicorn
+		thestral
 		horse
 		draconequus
 		griffon
@@ -349,6 +386,7 @@ cervid = {
 		earth_pony
 		crystal_pony
 		alicorn
+		thestral
 		horse
 		draconequus
 		griffon
@@ -372,6 +410,7 @@ cephalo_deer = {
 		earth_pony
 		crystal_pony
 		alicorn
+		thestral
 		horse
 		draconequus
 		griffon

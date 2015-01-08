@@ -1,99 +1,99 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-##################################
-# Format:                        #
-#--------------------------------#
-#                                #
-# species_Rgroup                 #
-# scripture                      #
-# god_name(s)                    #
-# species_religion               #
-# species_religion_DESC          #
-# religion_head_title            #
-# species_religion_reformed      #
-# species_religion_reformed_DESC #
-# religion_head_title            #
-# original_heresy                #
-# original_heresy_reformed       #
-#                                #
-##################################
-#
-# Crystal Pony Religion Group
-#
+#;;;;;;;;;;;;;;
+##################################;;;;;;;;;;;;;;
+# Format:                        #;;;;;;;;;;;;;;
+#--------------------------------#;;;;;;;;;;;;;;
+#                                #;;;;;;;;;;;;;;
+# species_Rgroup                 #;;;;;;;;;;;;;;
+# scripture                      #;;;;;;;;;;;;;;
+# god_name(s)                    #;;;;;;;;;;;;;;
+# species_religion               #;;;;;;;;;;;;;;
+# species_religion_DESC          #;;;;;;;;;;;;;;
+# religion_head_title            #;;;;;;;;;;;;;;
+# species_religion_reformed      #;;;;;;;;;;;;;;
+# species_religion_reformed_DESC #;;;;;;;;;;;;;;
+# religion_head_title            #;;;;;;;;;;;;;;
+# original_heresy                #;;;;;;;;;;;;;;
+# original_heresy_reformed       #;;;;;;;;;;;;;;
+#                                #;;;;;;;;;;;;;;
+##################################;;;;;;;;;;;;;;
+#;;;;;;;;;;;;;;
+# Crystal Pony Religion Group;;;;;;;;;;;;;;
+#;;;;;;;;;;;;;;
 crystal_Rgroup;Crystal Religions;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 crystal_religion;Crystaline;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 crystal_religion_DESC;The Crystal Pony religion centers around the worship of the Crystal Heart, with grand ceremonies and rituals to send messages from those in the mortal plane to the fallen in the 'crystal' plane.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 crystal_religion_reformed;Crystaline;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Earth Pony Religion Group
-#
+#;;;;;;;;;;;;;;
+# Earth Pony Religion Group;;;;;;;;;;;;;;
+#;;;;;;;;;;;;;;
 earthpony_Rgroup;Earth Pony Religions;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 earth_religion;Earth Pony Rites;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 earth_religion_reformed;Earth Pony Rites;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Pegasus Religion Group
-#
+#;;;;;;;;;;;;;;
+# Pegasus Religion Group;;;;;;;;;;;;;;
+#;;;;;;;;;;;;;;
 pegasus_Rgroup;Pegasi Religions;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 soarastrian;Soarastrian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 soarastrian_DESC;The Sky Lord, Soaron, gave the gift of flight to the first Pegasi, deigning them as his servants.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 THE_EPICS;The Epics;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 soarastrian_reformed;Soarastrian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Unicorn Religion Group
-#
+#;;;;;;;;;;;;;;
+# Unicorn Religion Group;;;;;;;;;;;;;;
+#;;;;;;;;;;;;;;
 unicorn_Rgroup;Unicorn Religions;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 unicorn_religion;Ponitentum;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 d_ponitentum;The Grand Librarium;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 d_ponitentum_adj;Librarium;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 unicorn_religion_reformed;Ponitentum;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 unicorn_religion_DESC;The Pony Mother, Epona, gave unto unicorns magic, deigning them as her servants upon the world.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Equestrian Religion Group
-#
+#;;;;;;;;;;;;;;
+# Equestrian Religion Group;;;;;;;;;;;;;;
+#;;;;;;;;;;;;;;
 equestrian_Rgroup;Equestrian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 celestial_religion;Celestialism;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 lunar_religion;Lunarism;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Discordian Religion Group
-#
-discordian_Rgroup;Discordian;Religions;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#;;;;;;;;;;;;;;
+# Discordian Religion Group;;;;;;;;;;;;;;
+#;;;;;;;;;;;;;;
+discordian_Rgroup;Discordian Religions;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 discord_religion2;Chaos;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 discord_religion1;Discord;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Buffalo Religion Group
-#
+#;;;;;;;;;;;;;;
+# Buffalo Religion Group;;;;;;;;;;;;;;
+#;;;;;;;;;;;;;;
 buffalo_Rgroup;Buffalo Religions;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 buffalo_religion;Shamanism;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 buffalo_religion_reformed;Shamanism;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Changeling Religion Group
-#
+#;;;;;;;;;;;;;;
+# Changeling Religion Group;;;;;;;;;;;;;;
+#;;;;;;;;;;;;;;
 changeling_Rgroup;Changeling Religions;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 changeling_religion;Hive Gods;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 changeling_religion_reformed;Hive Gods;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Saddle Religion Group
-#
+#;;;;;;;;;;;;;;
+# Saddle Religion Group;;;;;;;;;;;;;;
+#;;;;;;;;;;;;;;
 saddle_arabian_Rgroup;Saddle Arabian Religions;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 saddle_arabian_religion;River God;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 saddle_arabian_religion_reformed;River God;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Griffon Religion Group
-#
+#;;;;;;;;;;;;;;
+# Griffon Religion Group;;;;;;;;;;;;;;
+#;;;;;;;;;;;;;;
 griffon_Rgroup;Griffon Religions;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 grifflyreise;Grifflyreise;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 grifflyreise_reformed;Grifflyreise;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Zebra Religion Group
-#
+#;;;;;;;;;;;;;;
+# Zebra Religion Group;;;;;;;;;;;;;;
+#;;;;;;;;;;;;;;
 zebra_Rgroup;Zebra Religions;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 dahomaine_religion;Dahomaine;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 dahomaine_religion_reformed;Dahomaine;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 zulhooves_religion;Zulhooves;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 zulhooves_religion_reformed;Zulhooves;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Deer Religion Group
-#
+#;;;;;;;;;;;;;;
+# Deer Religion Group;;;;;;;;;;;;;;
+#;;;;;;;;;;;;;;
 caribou_Rgroup;Cervid Religions;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 mooselam;Mooselam;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 mooselam_reformed;Mooselam;FRENCH;GERMAN;;SPANISH;;;;;;;;;x

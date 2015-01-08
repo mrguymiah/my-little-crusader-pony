@@ -5305,6 +5305,7 @@ e_equestria = {
 				color2={ 255 255 255 }
 				
 				b_canterlot = {
+					holy_site = unicorn_religion
 				}
 				b_moonstreat = {
 				}

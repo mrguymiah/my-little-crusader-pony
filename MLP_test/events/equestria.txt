@@ -20,8 +20,7 @@ narrative_event = {
 	
 	option = {
 		name = EVTOPTAequestria.100
-		trigger = 
-		{ 
+		trigger = { 
 			has_landed_title = { e_equestria }
 		}
 		prestige = 500
@@ -29,8 +28,7 @@ narrative_event = {
 	}
 	option = {
 		name = EVTOPTBequestria.100
-		trigger = 
-		{ 
+		trigger = { 
 			NOT = { has_landed_title = { e_equestria } } 
 			OR = 
 			{
@@ -41,137 +39,7 @@ narrative_event = {
 	}
 	option = {
 		name = EVTOPTCequestria.100
-		trigger = 
-		{ 
-			NOT = { has_landed_title = { e_equestria } } 
-			culture_group = equestrian
-			NOT = { culture = crystal_culture }
-		}
-	}
-}
-
-narrative_event = {
-
-	id = equestria.101
-	desc = EVTDESCequestria.101
-	picture = GFX_evt_emissary
-	
-	capable_only = yes
-	prisoner = no
-	
-	is_triggered_only = yes
-	
-	option = {
-		name = EVTOPTAequestria.101
-		trigger = 
-		{ 
-			has_landed_title = { e_equestria }
-		}
-		prestige = 250
-		piety = 150
-	}
-	option = {
-		name = EVTOPTBequestria.101
-		trigger = 
-		{ 
-			NOT = { has_landed_title = { e_equestria } } 
-			OR = 
-			{
-				NOT = { culture_group = equestrian }
-				culture = crystal_culture
-			}
-		}
-	}
-	option = {
-		name = EVTOPTCequestria.101
-		trigger = 
-		{ 
-			NOT = { has_landed_title = { e_equestria } } 
-			culture_group = equestrian
-			NOT = { culture = crystal_culture }
-		}
-	}
-}
-
-narrative_event = {
-
-	id = equestria.102
-	desc = EVTDESCequestria.102
-	picture = GFX_evt_emissary
-	
-	capable_only = yes
-	prisoner = no
-	
-	is_triggered_only = yes
-	
-	option = {
-		name = EVTOPTAequestria.102
-		trigger = 
-		{ 
-			has_landed_title = { e_equestria }
-		}
-		prestige = 250
-		piety = 150
-	}
-	option = {
-		name = EVTOPTBequestria.102
-		trigger = 
-		{ 
-			NOT = { has_landed_title = { e_equestria } } 
-			OR = 
-			{
-				NOT = { culture_group = equestrian }
-				culture = crystal_culture
-			}
-		}
-	}
-	option = {
-		name = EVTOPTCequestria.102
-		trigger = 
-		{ 
-			NOT = { has_landed_title = { e_equestria } } 
-			culture_group = equestrian
-			NOT = { culture = crystal_culture }
-		}
-	}
-}
-
-narrative_event = {
-
-	id = equestria.103
-	desc = EVTDESCequestria.103
-	picture = GFX_evt_emissary
-	
-	capable_only = yes
-	prisoner = no
-	
-	is_triggered_only = yes
-	
-	option = {
-		name = EVTOPTAequestria.103
-		trigger = 
-		{ 
-			has_landed_title = { e_equestria }
-		}
-		prestige = 250
-		piety = 150
-	}
-	option = {
-		name = EVTOPTBequestria.103
-		trigger = 
-		{ 
-			NOT = { has_landed_title = { e_equestria } } 
-			OR = 
-			{
-				NOT = { culture_group = equestrian }
-				culture = crystal_culture
-			}
-		}
-	}
-	option = {
-		name = EVTOPTCequestria.103
-		trigger = 
-		{ 
+		trigger = { 
 			NOT = { has_landed_title = { e_equestria } } 
 			culture_group = equestrian
 			NOT = { culture = crystal_culture }
