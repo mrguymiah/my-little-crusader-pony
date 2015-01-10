@@ -32,35 +32,35 @@ character_event = {
 	option = {
 		name = EVTOPTAponytraits.100
 		trigger = { 
-			gfx_culture = unicorn_culture
+			culture = unicorn_culture
 		}
 		add_trait = unicorn
 	}
 	option = {
 		name = EVTOPTBponytraits.100
 		trigger = { 
-			gfx_culture = earth_pony_culture
+			culture = earth_pony_culture
 		}
 		add_trait = earth_pony
 	}
 	option = {
 		name = EVTOPTCponytraits.100
 		trigger = { 
-			gfx_culture = pegasus_culture
+			culture = pegasus_culture
 		}
 		add_trait = pegasus
 	}
 	option = {
 		name = EVTOPTDponytraits.100
 		trigger = { 
-			gfx_culture = crystal_culture
+			culture = crystal_culture
 		}
 		add_trait = crystal_pony
 	}
 	option = {
 		name = EVTOPTEponytraits.100
 		trigger = { 
-			gfx_culture = thestral_culture
+			culture = thestral_culture
 		}
 		add_trait = thestral
 	}
