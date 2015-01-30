@@ -1,15 +1,15 @@
-# c_manejar
+# c_yemare
 
 # County Title
-title = c_manejar
+title = c_yemare
 
 # Settlements
 max_settlements = 4
 
-b_manejar = tribal
-#b_manejar_2 = city
-#b_manejar_3 = temple
-#b_manejar_4 = castle
+b_yemare = castle
+#b_yemare_2 = city
+#b_yemare_3 = temple
+#b_yemare_4 = castle
 
 # Misc
 culture = saddle_arabian_culture

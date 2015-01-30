@@ -6,7 +6,7 @@ title = c_manema
 # Settlements
 max_settlements = 5
 
-b_manema = tribal
+b_manema = castle
 b_mareardah = city
 b_hamareath = temple
 #b_manema_2 = castle

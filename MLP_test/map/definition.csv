@@ -106,7 +106,7 @@ province;red;green;blue;x;x
 105;19;183;69;Keyside;x
 106;137;184;62;Coltoba;x
 107;129;167;68;Al-Maneia;x
-108;155;202;81;Yemare;x
+108;155;202;81;Manejar;x
 109;152;190;92;Wadi Pony;x
 110;155;206;74;Manelaga;x
 111;149;213;47;Almaria;x
@@ -479,7 +479,7 @@ province;red;green;blue;x;x
 478;48;88;129;White Light;x
 479;29;69;110;DH15;x
 480;96;152;155;East Pass;x
-481;70;129;132;DH16;x
+481;70;129;132;Diamond River Source;x
 482;92;163;166;DH17;x
 483;46;104;120;DH18;x
 484;84;125;167;DH19;x
@@ -571,7 +571,7 @@ province;red;green;blue;x;x
 570;96;118;30;Manehar;x
 571;177;187;92;Rot;x
 572;124;149;50;Manecate;x
-573;164;159;15;Manejar;x
+573;164;159;15;Yemare;x
 574;187;184;92;Marefar;x
 575;90;117;12;Muscanter;x
 576;167;173;140;Baalbuck;x
@@ -873,7 +873,7 @@ province;red;green;blue;x;x
 872;60;58;7;Zebnyati;x
 873;97;206;224;Ungala Lake;x
 874;93;143;152;River Ungala;x
-875;231;63;206;Griffin's Mouth;x
+875;231;63;206;Griffon's Mouth;x
 876;206;95;189;North Griffking;x
 877;145;81;135;East Griffking;x
 878;120;90;115;South Griffking;x
@@ -1018,3 +1018,20 @@ province;red;green;blue;x;x
 1017;131;169;118;Lake5;x
 1018;90;176;159;Lake6;x
 1019;27;128;107;Lake7;x
+1020;219;209;254;Exodus Pass;x
+1021;84;72;131;Unicornium;x
+1022;188;177;229;Occassus;x
+1023;117;105;163;Bevneigha;x
+1024;148;129;220;Haimare;x
+1025;133;124;169;Laeyazlanden;x
+1026;76;50;136;Fooranweyaz;x
+1027;126;110;185;Meojazeard;x
+1028;42;24;113;Celvelsu;x
+1029;78;70;106;Kentrogi;x
+1030;194;185;226;Katogi;x
+1031;77;53;164;Inferiore Terra;x
+1032;100;82;166;Pegasosai;x
+1033;74;60;129;Spairte;x
+1034;42;33;77;Skyrakousai;x
+1035;247;185;185;Everfree Forrest;x
+1036;77;103;164;Soaron Mountain;x

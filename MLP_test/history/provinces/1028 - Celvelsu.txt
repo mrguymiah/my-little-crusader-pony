@@ -1,0 +1,17 @@
+# c_celvelsu
+
+# County Title
+title = c_celvelsu
+
+# Settlements
+max_settlements = 3
+
+b_husatunaz = tribal
+b_ealdwych = tribal
+b_hamstead = tribal
+
+# Misc
+culture = wildling
+religion = wildfaith
+
+#History

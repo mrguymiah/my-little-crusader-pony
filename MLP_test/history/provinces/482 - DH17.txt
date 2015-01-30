@@ -11,7 +11,7 @@ b_dh17 = tribal
 #b_dh17_3 = temple
 
 # Misc
-culture = crystal_culture
-religion = crystal_religion
+culture = wildling
+religion = wildfaith
 
 #History

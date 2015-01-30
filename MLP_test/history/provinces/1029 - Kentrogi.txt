@@ -1,0 +1,17 @@
+# c_kentrogi
+
+# County Title
+title = c_kentrogi
+
+# Settlements
+max_settlements = 3
+
+b_nula = tribal
+b_ficline = tribal
+b_cassina = tribal
+
+# Misc
+culture = wildling
+religion = wildfaith
+
+#History

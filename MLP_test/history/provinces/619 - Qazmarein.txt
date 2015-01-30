@@ -6,7 +6,7 @@ title = c_qazmarein
 # Settlements
 max_settlements = 5
 
-b_qazmarein = tribal
+b_qazmarein = castle
 #b_qazmarein_2 = city
 #b_qazmarein_3 = temple
 #b_qazmarein_4 = castle

@@ -10,7 +10,7 @@ b_west_pass = tribal
 #b_west_pass_2 = city
 
 # Misc
-culture = crystal_culture
-religion = crystal_religion
+culture = wildling
+religion = wildfaith
 
 #History

@@ -6,7 +6,7 @@ title = c_rumamaneah
 # Settlements
 max_settlements = 5
 
-b_rumamaneah = tribal
+b_rumamaneah = castle
 #b_rumamaneah_2 = city
 #b_rumamaneah_3 = temple
 #b_rumamaneah_4 = castle

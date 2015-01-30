@@ -11,7 +11,7 @@ b_kumaresi = tribal
 #b_kumaresi_3 = temple
 
 # Misc
-culture = zebrazen
-religion = dahomaine_religion
+culture = zebradid
+religion = zulhooves_religion
 
 #History

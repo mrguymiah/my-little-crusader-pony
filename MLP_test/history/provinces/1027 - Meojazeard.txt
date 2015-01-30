@@ -1,0 +1,16 @@
+# c_meojazeard
+
+# County Title
+title = c_meojazeard
+
+# Settlements
+max_settlements = 2
+
+b_airthinai = tribal
+b_airkrai = tribal
+
+# Misc
+culture = wildling
+religion = wildfaith
+
+#History

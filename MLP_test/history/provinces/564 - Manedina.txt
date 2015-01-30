@@ -6,7 +6,7 @@ title = c_manedina
 # Settlements
 max_settlements = 5
 
-b_khaybar = tribal
+b_khaybar = castle
 b_marebu = city
 b_manedina = temple
 b_coltbig = city

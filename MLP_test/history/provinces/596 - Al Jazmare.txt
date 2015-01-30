@@ -6,7 +6,7 @@ title = c_al_jazmare
 # Settlements
 max_settlements = 3
 
-b_al_jazmare = tribal
+b_al_jazmare = castle
 #b_al_jazmare_2 = city
 #b_al_jazmare_3 = temple
 

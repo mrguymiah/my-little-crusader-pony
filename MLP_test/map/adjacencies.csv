@@ -198,7 +198,7 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 713;721;major_river;837;-1;-1;-1;-1;EG23-TA5
 713;718;major_river;837;-1;-1;-1;-1;EG23-TA2
 710;717;sea;875;-1;-1;-1;-1;EG22-TA1
-717-718;sea;875;-1;-1;-1;-1;TA1-TA2
+717;718;sea;875;-1;-1;-1;-1;TA1-TA2
 # River Redwing
 661;754;major_river;824;-1;-1;-1;-1;Meerogna-WG24
 661;755;major_river;824;-1;-1;-1;-1;Meerogna-WG25

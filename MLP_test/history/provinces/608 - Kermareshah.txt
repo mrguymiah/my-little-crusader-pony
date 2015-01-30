@@ -6,7 +6,7 @@ title = c_kermareshah
 # Settlements
 max_settlements = 6
 
-b_kermareshah = tribal
+b_kermareshah = castle
 #b_kermareshah_2 = city
 #b_kermareshah_3 = temple
 #b_kermareshah_4 = castle

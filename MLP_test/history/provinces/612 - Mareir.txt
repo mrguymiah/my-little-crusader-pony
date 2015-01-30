@@ -6,7 +6,7 @@ title = c_mareir
 # Settlements
 max_settlements = 6
 
-b_aneigh = tribal
+b_aneigh = castle
 b_rutbah = city
 b_amarebar = temple
 b_saddlerawa = castle

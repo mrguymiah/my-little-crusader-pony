@@ -6,7 +6,7 @@ title = c_kirbuck
 # Settlements
 max_settlements = 5
 
-b_kribuck = tribal
+b_kribuck = castle
 b_coltaquq = city
 b_raneigh = temple
 b_coltrtan = city

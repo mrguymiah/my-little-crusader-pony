@@ -11,7 +11,7 @@ b_redcrest = tribal
 #b_redcrest_3 = temple
 
 # Misc
-culture = blackhoof
-religion = buffalo_religion
+culture = wildling
+religion = wildfaith
 
 #History

@@ -11,7 +11,7 @@ b_dh11 = tribal
 #b_dh11_3 = temple
 
 # Misc
-culture = crystal_culture
-religion = crystal_religion
+culture = muntjac
+religion = muntura
 
 #History

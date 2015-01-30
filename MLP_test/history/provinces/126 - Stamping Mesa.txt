@@ -10,7 +10,7 @@ b_stamping_mesa = tribal
 #b_stamping_mesa_2 = city
 
 # Misc
-culture = blackhoof
-religion = buffalo_religion
+culture = wildling
+religion = wildfaith
 
 #History

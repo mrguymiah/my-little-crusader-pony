@@ -10,7 +10,7 @@ b_amethysia = tribal
 #b_amethysia_2 = city
 
 # Misc
-culture = crystal_culture
-religion = crystal_religion
+culture = wildling
+religion = wildfaith
 
 #History

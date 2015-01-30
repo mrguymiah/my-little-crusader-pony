@@ -6,7 +6,7 @@ title = c_hadib_island
 # Settlements
 max_settlements = 2
 
-b_hadib_island = tribal
+b_hadib_island = castle
 #b_hadib_island_2 = city
 
 # Misc

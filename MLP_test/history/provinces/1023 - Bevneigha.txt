@@ -1,0 +1,16 @@
+# c_bevneigha
+
+# County Title
+title = c_bevneigha
+
+# Settlements
+max_settlements = 2
+
+b_bevneigha = tribal
+b_forum_maneii = tribal
+
+# Misc
+culture = wildling
+religion = wildfaith
+
+#History

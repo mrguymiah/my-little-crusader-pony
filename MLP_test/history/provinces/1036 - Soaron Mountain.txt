@@ -1,0 +1,15 @@
+# c_soaron_mountain
+
+# County Title
+title = c_soaron_mountain
+
+# Settlements
+max_settlements = 1
+
+b_temple_of_soaron = tribal
+
+# Misc
+culture = wildling
+religion = wildfaith
+
+#History

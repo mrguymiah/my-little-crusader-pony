@@ -2,7 +2,7 @@
 	law = enatic_cognatic_succession
 	law = succ_gavelkind
 }
-1080.1.1={
-	liege=d_yemare
+800.1.1={
+	liege=d_gramarea
 }
 

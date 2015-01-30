@@ -10,7 +10,7 @@ b_north2 = tribal
 #b_north2_2 = city
 
 # Misc
-culture = crystal_culture
-religion = crystal_religion
+culture = whitetail
+religion = doskiphanum
 
 #History

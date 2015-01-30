@@ -11,7 +11,7 @@ b_gaitao = tribal
 #b_gaitao_3 = temple
 
 # Misc
-culture = zebrazen
-religion = dahomaine_religion
+culture = zebradid
+religion = zulhooves_religion
 
 #History

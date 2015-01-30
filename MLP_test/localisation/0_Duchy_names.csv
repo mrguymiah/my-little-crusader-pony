@@ -117,6 +117,8 @@ d_emerald_hills;Emerald Hills;Emerald Hills;Emerald Hills;;Emerald Hills;;;;;;;;
 d_emerald_hills_adj;Emerald Hillsian;;Emerald Hillser;;;;;;;;;;;x
 d_emerald_lake;Emerald Lake;Emerald Lake;Emerald Lake;;Emerald Lake;;;;;;;;;x
 d_emerald_lake_adj;Emerald Lakean;;Emerald Laker;;;;;;;;;;;x
+d_ertho;Ertho;Ertho;Ertho;;Ertho;;;;;;;;;x
+d_ertho_adj;Erthian;;erther;;;;;;;;;;;x
 d_estmanedie;Estmanedie;Estmanedie;Estmanedie;;Estmanedie;;;;;;;;;x
 d_estmanedie_adj;Estmanediean;;estmaneder;;;;;;;;;;;x
 d_evanafreeka;Evanafreeka;Evanafreeka;Evanafreeka;;Evanafreeka;;;;;;;;;x
@@ -205,6 +207,8 @@ d_lesser_talonringia;Lesser Talonringia;Lesser Talonringia;Lesser Talonringia;;L
 d_lesser_talonringia_adj;Lesser Talonringian;;Lesser Talonringer;;;;;;;;;;;x
 d_lower_doegon;Lower Doegon;Lower Doegon;Lower Doegon;;Lower Doegon;;;;;;;;;x
 d_lower_doegon_adj;Lower Doegonian;;Lower Doegoner;;;;;;;;;;;x
+d_lowlands;Lowlands;Lowlands;Lowlands;;Lowlands;;;;;;;;;x
+d_lowlands_adj;Lowlandsian;;lowlandser;;;;;;;;;;;x
 d_lowwing_gap;Lowwing Gap;Lowwing Gap;Lowwing Gap;;Lowwing Gap;;;;;;;;;x
 d_lowwing_gap_adj;Lowwing Gapian;;Lowwing Gaper;;;;;;;;;;;x
 d_lyana;Lyana;Lyana;Lyana;;Lyana;;;;;;;;;x
@@ -243,6 +247,8 @@ d_mecxicoltto;Mecxicoltto;Mecxicoltto;Mecxicoltto;;Mecxicoltto;;;;;;;;;x
 d_mecxicoltto_adj;Mecxicolttian;;mecxicoltter;;;;;;;;;;;x
 d_melian;Melian;Melian;Melian;;Melian;;;;;;;;;x
 d_melian_adj;Melianian;;melianer;;;;;;;;;;;x
+d_middlelands;Middlelands;Middlelands;Middlelands;;Middlelands;;;;;;;;;x
+d_middlelands_adj;Middlelandsian;;middlelandser;;;;;;;;;;;x
 d_mustangia;Mustangia;Mustangia;Mustangia;;Mustangia;;;;;;;;;x
 d_mustangia_adj;Mustangian;;mustanger;;;;;;;;;;;x
 d_neighingland;Neighingland;Neighingland;Neighingland;;Neighingland;;;;;;;;;x
@@ -265,12 +271,14 @@ d_omane;Omane;Omane;Omane;;Omane;;;;;;;;;x
 d_omane_adj;Omanean;;omaner;;;;;;;;;;;x
 d_oppadeloka;Oppadeloka;Oppadeloka;Oppadeloka;;Oppadeloka;;;;;;;;;x
 d_oppadeloka_adj;Oppadelokan;;oppadeloker;;;;;;;;;;;x
-d_ostfloy;Ostfløy;Ostfløy;Ostfløy;;Ostfløy;;;;;;;;;x
-d_ostfloy_adj;Ostfløian;;ostfløer;;;;;;;;;;;x
+d_ostfloy;Ostfloy;Ostfloy;Ostfloy;;Ostfloy;;;;;;;;;x
+d_ostfloy_adj;Ostfloian;;ostfloer;;;;;;;;;;;x
 d_owland;Owland;Owland;Owland;;Owland;;;;;;;;;x
 d_owland_adj;Owlandian;;owlander;;;;;;;;;;;x
 d_pegasopolis;Pegasopolis;Pegasopolis;Pegasopolis;;Pegasopolis;;;;;;;;;x
 d_pegasopolis_adj;Pegasopolisian;;pegasopoliser;;;;;;;;;;;x
+d_pegasosai;Pegasosai;Pegasosai;Pegasosai;;Pegasosai;;;;;;;;;x
+d_pegasosai_adj;Pegasosian;;pegasoser;;;;;;;;;;;x
 d_pegasus_pass;Pegasus Pass;Pegasus Pass;Pegasus Pass;;Pegasus Pass;;;;;;;;;x
 d_pegasus_pass_adj;Pegasus Passian;;Pegasus Passer;;;;;;;;;;;x
 d_platinum_fields;Platinum Fields;Platinum Fields;Platinum Fields;;Platinum Fields;;;;;;;;;x
@@ -357,14 +365,16 @@ d_trotledo;Trotledo;Trotledo;Trotledo;;Trotledo;;;;;;;;;x
 d_trotledo_adj;Trotledian;;trotleder;;;;;;;;;;;x
 d_trottingham;Trottingham;Trottingham;Trottingham;;Trottingham;;;;;;;;;x
 d_trottingham_adj;Trottinghamian;;trottinghamer;;;;;;;;;;;x
+d_unicornis;Unicornis;Unicornis;Unicornis;;Unicornis;;;;;;;;;x
+d_unicornis_adj;Unicornisian;;unicorniser;;;;;;;;;;;x
 d_vanhoover;Vanhoover;Vanhoover;Vanhoover;;Vanhoover;;;;;;;;;x
 d_vanhoover_adj;Vanhooverian;;vanhooverer;;;;;;;;;;;x
 d_vanhoover_islands;Vanhoover Islands;Vanhoover Islands;Vanhoover Islands;;Vanhoover Islands;;;;;;;;;x
 d_vanhoover_islands_adj;Vanhoover Islandsian;;Vanhoover Islandser;;;;;;;;;;;x
 d_verenia;Verenia;Verenia;Verenia;;Verenia;;;;;;;;;x
 d_verenia_adj;Verenian;;verener;;;;;;;;;;;x
-d_vestfloy;Vestfløy;Vestfløy;Vestfløy;;Vestfløy;;;;;;;;;x
-d_vestfloy_adj;Vestfløian;;vestfløer;;;;;;;;;;;x
+d_vestfloy;Vestfloy;Vestfloy;Vestfloy;;Vestfloy;;;;;;;;;x
+d_vestfloy_adj;Vestfloian;;vestfloer;;;;;;;;;;;x
 d_west_everfree;West Everfree;West Everfree;West Everfree;;West Everfree;;;;;;;;;x
 d_west_everfree_adj;West Everfreean;;West Everfrer;;;;;;;;;;;x
 d_west_mooseland;West Mooseland;West Mooseland;West Mooseland;;West Mooseland;;;;;;;;;x

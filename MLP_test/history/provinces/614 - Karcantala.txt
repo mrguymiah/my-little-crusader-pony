@@ -6,7 +6,7 @@ title = c_karcantala
 # Settlements
 max_settlements = 4
 
-b_karcantala = tribal
+b_karcantala = castle
 #b_karcantala_2 = city
 #b_karcantala_3 = temple
 #b_karcantala_4 = castle

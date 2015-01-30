@@ -6,7 +6,7 @@ title = c_taruntia
 # Settlements
 max_settlements = 3
 
-b_taruntia = tribal
+b_taruntia = castle
 #b_taruntia_2 = city
 #b_taruntia_3 = temple
 

@@ -1,0 +1,16 @@
+# c_exodus_pass
+
+# County Title
+title = c_exodus_pass
+
+# Settlements
+max_settlements = 2
+
+b_nacantera = tribal
+b_cantapeva = tribal
+
+# Misc
+culture = wildling
+religion = wildfaith
+
+#History

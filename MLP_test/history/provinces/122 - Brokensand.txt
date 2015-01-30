@@ -11,7 +11,7 @@ b_brokensand = tribal
 #b_brokensand_3 = temple
 
 # Misc
-culture = blackhoof
-religion = buffalo_religion
+culture = wildling
+religion = wildfaith
 
 #History

@@ -11,7 +11,7 @@ b_dh19 = tribal
 #b_dh19_3 = temple
 
 # Misc
-culture = crystal_culture
-religion = crystal_religion
+culture = wildling
+religion = wildfaith
 
 #History

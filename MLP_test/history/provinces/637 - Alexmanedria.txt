@@ -6,7 +6,7 @@ title = c_alexmanedria
 # Settlements
 max_settlements = 6
 
-b_alexmanedria = tribal
+b_alexmanedria = castle
 #b_alexmanedria_2 = city
 #b_alexmanedria_3 = temple
 #b_alexmanedria_4 = castle

@@ -21,7 +21,7 @@ narrative_event = {
 	option = {
 		name = EVTOPTAequestria.100
 		trigger = { 
-			has_landed_title = { e_equestria }
+			has_landed_title = e_equestria
 		}
 		prestige = 500
 		piety = 250
@@ -29,7 +29,7 @@ narrative_event = {
 	option = {
 		name = EVTOPTBequestria.100
 		trigger = { 
-			NOT = { has_landed_title = { e_equestria } } 
+			NOT = { has_landed_title = e_equestria } 
 			OR = 
 			{
 				NOT = { culture_group = equestrian }
@@ -40,7 +40,7 @@ narrative_event = {
 	option = {
 		name = EVTOPTCequestria.100
 		trigger = { 
-			NOT = { has_landed_title = { e_equestria } } 
+			NOT = { has_landed_title = e_equestria } 
 			culture_group = equestrian
 			NOT = { culture = crystal_culture }
 		}

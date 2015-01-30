@@ -6,7 +6,7 @@ title = c_samarea
 # Settlements
 max_settlements = 6
 
-b_samrea = tribal
+b_samrea = castle
 b_buckyji = city
 b_trottgrit = temple
 b_bucklad = castle

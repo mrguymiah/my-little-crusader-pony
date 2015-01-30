@@ -10,7 +10,7 @@ b_deadhorse_way = tribal
 #b_deadhorse_way_2 = city
 
 # Misc
-culture = blackhoof
-religion = buffalo_religion
+culture = wildling
+religion = wildfaith
 
 #History

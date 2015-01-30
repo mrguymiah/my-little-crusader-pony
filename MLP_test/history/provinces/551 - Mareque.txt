@@ -6,7 +6,7 @@ title = c_mareque
 # Settlements
 max_settlements = 4
 
-b_mareque = tribal
+b_mareque = castle
 #b_mareque_2 = city
 #b_mareque_3 = temple
 #b_mareque_4 = castle

@@ -10,7 +10,7 @@ b_redsand = tribal
 #b_redsand_2 = city
 
 # Misc
-culture = blackhoof
-religion = buffalo_religion
+culture = wildling
+religion = wildfaith
 
 #History

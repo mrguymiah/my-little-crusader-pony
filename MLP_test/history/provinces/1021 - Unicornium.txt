@@ -1,0 +1,17 @@
+# c_unicornium
+
+# County Title
+title = c_unicornium
+
+# Settlements
+max_settlements = 3
+
+b_unicorna = tribal
+b_manestraton = tribal
+b_trotona = tribal
+
+# Misc
+culture = wildling
+religion = wildfaith
+
+#History

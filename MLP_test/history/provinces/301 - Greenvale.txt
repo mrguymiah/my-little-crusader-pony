@@ -6,7 +6,7 @@ title = c_greenvale
 # Settlements
 max_settlements = 6
 
-b_leaf_farm = tribal
+b_leaf_farm_(u) = city
 #b_greenvale = city
 #b_greenvale_2 = temple
 #b_greenvale_3 = castle

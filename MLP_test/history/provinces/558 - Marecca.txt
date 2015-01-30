@@ -6,7 +6,7 @@ title = c_marecca
 # Settlements
 max_settlements = 6
 
-b_tamane = tribal
+b_tamane = castle
 b_buckddah = city
 b_marecca = temple
 b_johoofa = city

@@ -6,7 +6,7 @@ title = c_az_starqa
 # Settlements
 max_settlements = 3
 
-b_az_starqa = tribal
+b_az_starqa = castle
 #b_az_starqa_2 = city
 #b_az_starqa_3 = temple
 

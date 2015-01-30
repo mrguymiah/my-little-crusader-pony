@@ -6,7 +6,7 @@ title = c_rot
 # Settlements
 max_settlements = 3
 
-b_rot = tribal
+b_rot = castle
 #b_rot_2 = city
 #b_rot_3 = temple
 

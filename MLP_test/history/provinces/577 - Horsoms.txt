@@ -6,7 +6,7 @@ title = c_horsoms
 # Settlements
 max_settlements = 5
 
-b_horsoms = tribal
+b_horsoms = castle
 b_emaresa = city
 b_zweneigha = temple
 #b_horsoms_2 = castle

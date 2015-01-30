@@ -6,7 +6,7 @@ title = c_buckdad
 # Settlements
 max_settlements = 7
 
-b_baqbuck = tribal
+b_baqbuck = castle
 b_iscanteriya = castle
 b_buckdad = temple
 b_hayllah = city

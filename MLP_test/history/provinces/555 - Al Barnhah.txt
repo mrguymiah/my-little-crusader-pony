@@ -6,7 +6,7 @@ title = c_al_barnhah
 # Settlements
 max_settlements = 5
 
-b_al_barnhah = tribal
+b_al_barnhah = castle
 #b_al_barnhah_2 = city
 #b_al_barnhah_3 = temple
 #b_al_barnhah_4 = castle

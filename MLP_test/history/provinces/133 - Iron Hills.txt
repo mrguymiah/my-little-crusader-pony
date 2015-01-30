@@ -10,7 +10,7 @@ b_iron_hills = tribal
 #b_iron_hills_2 = city
 
 # Misc
-culture = blackhoof
-religion = buffalo_religion
+culture = wildling
+religion = wildfaith
 
 #History

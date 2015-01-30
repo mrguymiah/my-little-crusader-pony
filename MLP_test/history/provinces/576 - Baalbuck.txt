@@ -6,7 +6,7 @@ title = c_baalbuck
 # Settlements
 max_settlements = 4
 
-b_baalbuck = tribal
+b_baalbuck = castle
 b_accoltar = city
 b_halbaneigh = temple
 #b_baalbuck_2 = castle

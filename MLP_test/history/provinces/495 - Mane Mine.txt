@@ -10,7 +10,7 @@ b_mane_mine = tribal
 #b_mane_mine_2 = city
 
 # Misc
-culture = crystal_culture
-religion = crystal_religion
+culture = wildling
+religion = wildfaith
 
 #History

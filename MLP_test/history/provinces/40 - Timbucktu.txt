@@ -13,7 +13,7 @@ b_timbucktu = tribal
 #b_timbucktu_5 = city
 
 # Misc
-culture = zebrazen
-religion = dahomaine_religion
+culture = zebradid
+religion = zulhooves_religion
 
 #History
