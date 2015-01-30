@@ -4365,7 +4365,7 @@ e_equestria = {
 				color={ 31 89 26 }
 				color2={ 255 255 255 }
 				
-				b_canterbury_(u) = {
+				b_canterbury = {
 				}
 				b_canterham = {
 				}
@@ -5364,7 +5364,7 @@ e_equestria = {
 				color={ 167 89 170 }
 				color2={ 255 255 255 }
 				
-				b_leaf_farm_(u) = {
+				b_leaf_farm = {
 				}
 				b_greenvale = {
 				}
