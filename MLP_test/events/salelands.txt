@@ -20,26 +20,13 @@ character_event = { #Event for Earth to decide if they want to sell the lands, f
 	
 	option = {
 		name = EVTOPTAsalelands.01
-		c_cloudkonion = {
-			set_de_facto_liege = FROM
-		}
-		if = {
-			c_cloudkonion = {
-				owner = k_earth
-			}
-			any_independent_ruler = {
-				limit = {
-					has_landed_title = k_pegasopolis
-				}
-				grant_title_no_opinion = c_cloudkonion
-			}
-		}		
 		any_independent_ruler = {
 			limit = {
-				has_landed_title = k_pegasopolis
+				has_landed_title - k_pegasopolis
 			}
+			grant_title_no_opinion = c_cloudkonion
 			wealth = -100
-			clr_character_flag = sale_lands
+			clr_character_flag = sale_cloudkonion
 		}
 	}
 	option = {
@@ -67,27 +54,14 @@ character_event = { #Event for Earth to decide if they want to sell the lands, f
 	is_triggered_only = yes
 	
 	option = {
-		name = EVTOPTAsalelands.02
-		c_poniala = {
-			set_de_facto_liege = FROM
-		}
-		if = {
-			c_poniala = {
-				owner = k_earth
-			}
-			any_independent_ruler = {
-				limit = {
-					has_landed_title = k_pegasopolis
-				}
-				grant_title_no_opinion = c_poniala
-			}
-		}
+		name = EVTOPTAsalelands.01
 		any_independent_ruler = {
 			limit = {
-				has_landed_title = k_pegasopolis
+				has_landed_title - k_pegasopolis
 			}
+			grant_title_no_opinion = c_poniala
 			wealth = -100
-			clr_character_flag = sale_lands
+			clr_character_flag = sale_poniala
 		}
 	}
 	option = {
