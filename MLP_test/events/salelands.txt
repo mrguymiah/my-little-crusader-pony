@@ -21,8 +21,19 @@ character_event = { #Event for Earth to decide if they want to sell the lands, f
 	option = {
 		name = EVTOPTAsalelands.01
 		c_cloudkonion = {
-			de_facto_liege = k_pegasopolis
+			set_de_facto_liege = FROM
 		}
+		if = {
+			c_cloudkonion = {
+				owner = k_earth
+			}
+			any_independent_ruler = {
+				limit = {
+					has_landed_title = k_pegasopolis
+				}
+				grant_title_no_opinion = c_cloudkonion
+			}
+		}		
 		any_independent_ruler = {
 			limit = {
 				has_landed_title = k_pegasopolis
@@ -33,6 +44,9 @@ character_event = { #Event for Earth to decide if they want to sell the lands, f
 	}
 	option = {
 		name = EVTOPTBsalelands.01
+		trigger = {
+			ai = no
+		}
 		any_independent_ruler = {
 			limit = {
 				has_landed_title = k_pegasopolis
@@ -55,7 +69,18 @@ character_event = { #Event for Earth to decide if they want to sell the lands, f
 	option = {
 		name = EVTOPTAsalelands.02
 		c_poniala = {
-			de_facto_liege = k_pegasopolis
+			set_de_facto_liege = FROM
+		}
+		if = {
+			c_poniala = {
+				owner = k_earth
+			}
+			any_independent_ruler = {
+				limit = {
+					has_landed_title = k_pegasopolis
+				}
+				grant_title_no_opinion = c_poniala
+			}
 		}
 		any_independent_ruler = {
 			limit = {
@@ -67,6 +92,9 @@ character_event = { #Event for Earth to decide if they want to sell the lands, f
 	}
 	option = {
 		name = EVTOPTBsalelands.02
+		trigger = {
+			ai = no
+		}
 		any_independent_ruler = {
 			limit = {
 				has_landed_title = k_pegasopolis
@@ -90,6 +118,9 @@ character_event = { #If the Earth declines, Pegasi get an event saying they decl
 		name = EVTOPTAsalelands.03
 	}
 	option = {
+		trigger = {
+			ai = no
+		}
 		name = EVTOPTBsalelands.03 #No sale? WAAAARRRRARARARARAR
 		add_claim = c_cloudkonion
 		add_claim = c_poniala
@@ -123,7 +154,7 @@ character_event = { #Now to clear the flag and let them ask again
 	
 	option = {
 		name = EVTOPTAsalelands.05
-		clear_character_flag = sale_poniala
+		clr_character_flag = sale_poniala
 	}
 }
 
@@ -139,8 +170,10 @@ character_event = { #War begins.
 	option = {
 		name = EVTOPTAsalelands.05
 		k_earth = {
-			reverse_war = ROOT
-			casus_belli = claim_all
+			reverse_war = {
+				target = k_earth
+				casus_belli = claim_all
+			}
 		}
 	}
 }
