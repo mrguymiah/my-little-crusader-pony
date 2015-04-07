@@ -22,7 +22,7 @@ character_event = { #Event for Earth to decide if they want to sell the lands, f
 		name = EVTOPTAsalelands.01
 		any_independent_ruler = {
 			limit = {
-				has_landed_title - k_pegasopolis
+				has_landed_title = k_pegasopolis
 			}
 			grant_title_no_opinion = c_cloudkonion
 			wealth = -100
@@ -57,7 +57,7 @@ character_event = { #Event for Earth to decide if they want to sell the lands, f
 		name = EVTOPTAsalelands.01
 		any_independent_ruler = {
 			limit = {
-				has_landed_title - k_pegasopolis
+				has_landed_title = k_pegasopolis
 			}
 			grant_title_no_opinion = c_poniala
 			wealth = -100
