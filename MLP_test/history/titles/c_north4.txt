@@ -3,5 +3,4 @@
 	law = succ_gavelkind
 }
 100.1.1={
-	liege=d_gliming_forest
 }

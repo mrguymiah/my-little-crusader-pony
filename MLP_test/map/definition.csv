@@ -804,71 +804,71 @@ province;red;green;blue;x;x
 803;208;231;49;Changinus;x
 804;49;195;231;Hibrodarbis;x
 805;90;153;169;Chitalinas;x
-806;106;138;146;Hibrodarbis2;x
-807;167;128;225;Neighle1;x
-808;143;123;172;Neighle2;x
-809;159;83;217;Neighle3;x
-810;183;168;205;Neighle4;x
-811;176;163;194;Neighle5;x
-812;159;149;173;Neighle6;x
-813;162;129;188;Neighle7;x
-814;124;74;163;Neighle8;x
-815;131;115;144;Neighle9;x
+806;106;138;146;Hibrodarbis #2;x
+807;167;128;225;Neighle;x
+808;143;123;172;Neighle #2;x
+809;159;83;217;Neighle #3;x
+810;183;168;205;Neighle #4;x
+811;176;163;194;Neighle #5;x
+812;159;149;173;Neighle #6;x
+813;162;129;188;Neighle #7;x
+814;124;74;163;Neighle #8;x
+815;131;115;144;Neighle #9;x
 816;71;128;101;Neighle Mouth;x
-817;130;192;223;Sadalid River1;x
-818;142;170;184;Sadalid River2;x
-819;82;145;177;Sadalid River3;x
+817;130;192;223;Sadalid River;x
+818;142;170;184;Sadalid River #2;x
+819;82;145;177;Sadalid River #3;x
 820;111;135;147;Marecca Sea;x
 821;156;210;190;Trotberiam;x
-822;106;182;154;Maregian Sea1;x
-823;72;181;141;Maregian Sea2;x
-824;218;15;15;Redwing1;x
-825;235;84;84;Redwing2;x
-826;199;141;141;Redwing3;x
-827;183;80;80;Redwing4;x
-828;38;223;38;Grifleb1;x
-829;52;192;52;Grifleb2;x
-830;61;152;61;Grifleb3;x
-831;23;147;23;Grifleb4;x
-832;45;129;45;Grifleb5;x
-833;80;139;80;Grifleb6;x
-834;61;197;106;Nor1;x
-835;112;191;138;Nor2;x
+822;106;182;154;Maregian Sea;x
+823;72;181;141;Maregian Sea #2;x
+824;218;15;15;Redwing;x
+825;235;84;84;Redwing #2;x
+826;199;141;141;Redwing #3;x
+827;183;80;80;Redwing #4;x
+828;38;223;38;Grifleb;x
+829;52;192;52;Grifleb #2;x
+830;61;152;61;Grifleb #3;x
+831;23;147;23;Grifleb #4;x
+832;45;129;45;Grifleb #5;x
+833;80;139;80;Grifleb #6;x
+834;61;197;106;Nor;x
+835;112;191;138;Nor #2;x
 836;138;199;190;Iceka River;x
-837;172;46;225;Greatwing River1;x
-838;137;15;187;Greatwing River2;x
-839;125;68;149;Greatwing River3;x
-840;143;104;159;Greatwing River4;x
-841;158;66;66;Diamond1;x
-842;162;99;99;Diamond2;x
-843;136;45;45;Diamond3;x
-844;125;20;20;Diamond4;x
-845;125;77;21;Iceglass Lake1;x
-846;146;104;56;Iceglass Lake2;x
-847;150;122;89;Iceglass Lake3;x
-848;135;129;31;Crystal River1;x
-849;145;141;71;Crystal River2;x
-850;178;174;110;Crystal River3;x
+837;172;46;225;Greatwing River;x
+838;137;15;187;Greatwing River #2;x
+839;125;68;149;Greatwing River #3;x
+840;143;104;159;Greatwing River #4;x
+841;158;66;66;Diamond;x
+842;162;99;99;Diamond #2;x
+843;136;45;45;Diamond #3;x
+844;125;20;20;Diamond #4;x
+845;125;77;21;Iceglass Lake;x
+846;146;104;56;Iceglass Lake #2;x
+847;150;122;89;Iceglass Lake #3;x
+848;135;129;31;Crystal River;x
+849;145;141;71;Crystal River #2;x
+850;178;174;110;Crystal River #3;x
 851;104;190;121;River Canter;x
-852;0;208;39;Saddle River1;x
+852;0;208;39;Saddle River;x
 853;105;156;115;Saddle Lake;x
-854;17;236;58;Saddle River2;x
-855;51;209;81;Saddle River3;x
-856;127;185;89;Saddle River4;x
-857;134;216;79;Saddle River5;x
-858;137;178;111;Saddle River6;x
-859;26;189;153;Saddle River7;x
+854;17;236;58;Saddle River #2;x
+855;51;209;81;Saddle River #3;x
+856;127;185;89;Saddle River #4;x
+857;134;216;79;Saddle River #5;x
+858;137;178;111;Saddle River #6;x
+859;26;189;153;Saddle River #7;x
 860;182;84;71;Lake Neighagra;x
-861;184;42;14;River Equus1;x
-862;169;73;54;River Equus2;x
-863;168;99;85;River Equus3;x
-864;255;93;62;River Equus4;x
-865;166;74;56;River Equus5;x
+861;184;42;14;River Equus;x
+862;169;73;54;River Equus #2;x
+863;168;99;85;River Equus #3;x
+864;255;93;62;River Equus #4;x
+865;166;74;56;River Equus #5;x
 866;154;25;0;Everstream;x
-867;180;179;115;Hey River1;x
-868;201;200;80;Hey River2;x
-869;221;219;29;Hey River3;x
-870;243;242;132;Hey River4;x
+867;180;179;115;Hay River;x
+868;201;200;80;Hay River #2;x
+869;221;219;29;Hay River #3;x
+870;243;242;132;Hay River #4;x
 871;151;150;60;Zebmajani;x
 872;60;58;7;Zebnyati;x
 873;97;206;224;Ungala Lake;x
@@ -957,8 +957,8 @@ province;red;green;blue;x;x
 956;86;153;148;Ocean75;x
 957;134;125;20;Ocean76;x
 958;156;148;61;Ocean77;x
-959;174;163;36;Ocean76;x
-960;195;184;67;Ocean77;x
+959;174;163;36;Ocean76 #2;x
+960;195;184;67;Ocean77 #2;x
 961;201;186;25;Ocean78;x
 962;167;157;58;Ocean79;x
 963;20;137;105;Ocean80;x
@@ -1033,5 +1033,5 @@ province;red;green;blue;x;x
 1032;100;82;166;Pegasosai;x
 1033;74;60;129;Spairte;x
 1034;42;33;77;Skyrakousai;x
-1035;247;185;185;Everfree Forrest;x
-1036;77;103;164;Soaron Mountain;x
+1035;247;185;185;Everfree Forest;x
+1036;71;101;170;Soaron Mountain;x

@@ -2880,11 +2880,11 @@ e_crystal_empire = {
 				}
 			}
 			c_soaron_mountain = { # 1036
-				color={ 77 103 164 }
+				color={ 71 101 170 }
 				color2={ 255 255 255 }
 				
 				b_temple_of_soaron = {
-					holy_site = soarastrian 
+					holy_site = soarastrian
 					holy_site = soarastrian_reformed
 				}
 			}

@@ -1,4 +1,6 @@
-max_provinces = 1040
+max_provinces = 1037
+# stats:  1036 provinces
+# unused:
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
@@ -14,55 +16,46 @@ region = "region.txt"
 static = "static.txt"
 seasons = "seasons.txt"
 
-# All Seas
-sea_zones = { 797 1012 }
+sea_zones = { 797 1019 }
 
-ocean_region = {	# All Oceans
+ocean_region = {	# Great Ocean
 	sea_zones = { 1 }
 }
 
 # Define which indices in trees.bmp palette which should count as trees for automatic terrain assignment
 tree = { 3 4 7 10 }
+
 major_rivers = 
-{ 
-#Zebra Rivers:
-797 798 799 800 801						#Zebzeben River; connects to Lake Strippas (968)
-802 									#Amzebos River
-#
-#Changeling Rivers:
-803										#Changinus
-804 805 806								#Hibrodarbis and Chitalinas
-#
-#Saddle Arabian Rivers:
-807 808 809 810 811 812 813 814 815 816	#Neighle River
-817 818 819 820							#Sadalid River; connects to Marecca Sea (989)
-#
-#Griffon Rivers:
-821 822 823								#Talonberis; connects to Maregian Sea (991,992)
-824 825 826 827							#Redwing River
-828 829 830 831 832	833					#Griflble River
-834 835									#North Griffon River
-836										#Iceka
-837 338 839	840							#Greatwing River
-#
-#Diamond Hills Rivers:
-841 842	843	844							#Diamond Hills River
-#
-#The North Rivers:
-845 846 847 848 849	850					#Crystal River; connects to Lake Iceglass (1010, 1011, 1012)
-#
-#Unicornia Rivers:
-851 852 853 854 855 856 857 858 859		#River Saddle
-#
-#Earth Rivers:
-860 861 862 863 864	865 866				#River Equus; connects to Everlake (1041) and Lake Neighagra (1024)
-#
-#Hayseed Rivers:
-867 868 869 870 871						#Hay River
-#
-#Badland Rivers:
-872 									#Zebnyati
-#
-#Buffalonian Rivers:
-873 874 								#River Ungala
+{
+	# Great Ocean
+	802  #Amzebos
+	803  #Changinus
+	845 846 847 848 849 850  #Crystal River
+	841 842 843 844  #Diamond
+	860 861 862 863 864 865 866  #Equus
+	837 838 839 840  #Greatwing
+	875 876 877 878 879 880 881  #Griffking
+	828 829 830 831 832 833  #Grifleb
+	867 868 869 870 871  #Hay River
+	804 805 806  #Hibrodarbis
+	836  #Iceka
+	807 808 809 810 811 812 813 814 815 816  #Neighle
+	834 835  #Nor
+	824 825 826 827  #Redwing
+	817 818 819 820  #Sadalid
+	851 852 853 854 855 856 857 858 859  #Saddle River
+	821 822 823  #Trotberiam
+	873 874  #Ungala
+	872  #Zebnyati
+	797 798 799 800 801  #Zebzeben
+	
+	# Lakes
+	1013 # Lake 1
+	1014 # Lake 2
+	1015 # Lake 3
+	1016 # Lake 4
+	1017 # Lake 5
+	1018 # Lake 6
+	1019 # Lake 7
+
 }

@@ -1,4 +1,4 @@
-100.1.1 = {
+100.1.1={
 	law = enatic_cognatic_succession
-	holder = 2000
+	law = succ_gavelkind
 }

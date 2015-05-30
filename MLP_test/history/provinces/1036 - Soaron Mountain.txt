@@ -6,10 +6,10 @@ title = c_soaron_mountain
 # Settlements
 max_settlements = 1
 
-b_temple_of_soaron = temple
+b_temple_of_soaron = tribal
 
 # Misc
-culture = caribou_culture
-religion = mooselam
+culture = pegasus_culture
+religion = soarastrian
 
 #History
