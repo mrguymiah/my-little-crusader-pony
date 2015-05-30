@@ -11,7 +11,7 @@ b_dh22 = tribal
 #b_dh22_3 = temple
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = caribou_culture
+religion = mooselam
 
 #History

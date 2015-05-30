@@ -10,7 +10,7 @@ b_amethysia = tribal
 #b_amethysia_2 = city
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = caribou_culture
+religion = mooselam
 
 #History

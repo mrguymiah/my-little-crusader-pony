@@ -10,7 +10,7 @@ b_east_pass = tribal
 #b_east_pass_2 = city
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = caribou_culture
+religion = mooselam
 
 #History

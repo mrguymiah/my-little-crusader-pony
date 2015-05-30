@@ -10,7 +10,7 @@ b_airthinai = tribal
 b_airkrai = tribal
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = caribou_culture
+religion = mooselam
 
 #History

@@ -11,7 +11,7 @@ b_pegargos = tribal
 b_halkis = tribal
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = caribou_culture
+religion = mooselam
 
 #History

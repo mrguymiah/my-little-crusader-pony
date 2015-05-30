@@ -10,7 +10,7 @@ b_bevneigha = tribal
 b_forum_maneii = tribal
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = caribou_culture
+religion = mooselam
 
 #History

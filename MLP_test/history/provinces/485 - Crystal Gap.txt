@@ -10,7 +10,7 @@ b_crystal_gap = tribal
 #b_crystal_gap_2 = city
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = caribou_culture
+religion = mooselam
 
 #History

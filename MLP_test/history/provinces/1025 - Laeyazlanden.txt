@@ -10,7 +10,7 @@ b_aguntumare = tribal
 b_canteruntum = tribal
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = caribou_culture
+religion = mooselam
 
 #History

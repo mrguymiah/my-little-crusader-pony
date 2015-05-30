@@ -10,7 +10,7 @@ b_scarlet_slopes = tribal
 #b_scarlet_slopes_2 = city
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = tazapan
+religion = buffalo_religion
 
 #History

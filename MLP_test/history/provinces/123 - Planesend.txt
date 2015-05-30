@@ -12,7 +12,7 @@ b_planesend = tribal
 #b_planesend_4 = castle
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = tazapan
+religion = buffalo_religion
 
 #History

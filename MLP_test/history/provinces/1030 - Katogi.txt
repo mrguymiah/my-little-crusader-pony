@@ -10,7 +10,7 @@ b_mareaion = tribal
 b_ponaedestus = tribal
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = caribou_culture
+religion = mooselam
 
 #History

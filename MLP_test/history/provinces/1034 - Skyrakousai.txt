@@ -10,7 +10,7 @@ b_skyrakousai = tribal
 b_lakedairmon = tribal
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = caribou_culture
+religion = mooselam
 
 #History

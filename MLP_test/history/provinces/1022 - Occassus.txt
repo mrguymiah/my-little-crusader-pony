@@ -10,7 +10,7 @@ b_accharbhi = tribal
 b_luni = tribal
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = caribou_culture
+religion = mooselam
 
 #History

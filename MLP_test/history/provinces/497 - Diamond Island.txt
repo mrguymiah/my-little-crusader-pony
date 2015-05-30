@@ -11,7 +11,7 @@ b_diamond_island = tribal
 #b_diamond_island_3 = temple
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = caribou_culture
+religion = mooselam
 
 #History

@@ -10,7 +10,7 @@ b_deadhorse_way = tribal
 #b_deadhorse_way_2 = city
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = tazapan
+religion = buffalo_religion
 
 #History

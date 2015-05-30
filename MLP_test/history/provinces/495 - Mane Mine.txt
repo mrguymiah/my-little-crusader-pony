@@ -10,7 +10,7 @@ b_mane_mine = tribal
 #b_mane_mine_2 = city
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = caribou_culture
+religion = mooselam
 
 #History

@@ -2885,7 +2885,7 @@ e_crystal_empire = {
 				
 				b_temple_of_soaron = {
 					holy_site = soarastrian 
-					 holy_site = soarastrian_reformed
+					holy_site = soarastrian_reformed
 				}
 			}
 			c_spairte = { # 1033
@@ -5954,6 +5954,8 @@ e_griffon_empire = {
 				color2={ 255 255 255 }
 				
 				b_orvalillo = {
+					holy_site = grifflyreise
+					holy_site = grifflyreise_reformed
 				}
 				b_orvalillo_2 = {
 				}
@@ -6494,6 +6496,8 @@ e_griffon_empire = {
 				color2={ 255 255 255 }
 				
 				b_eg19 = {
+					holy_site = grifflyreise
+					holy_site = grifflyreise_reformed
 				}
 				b_eg19_2 = {
 				}
@@ -7123,6 +7127,8 @@ e_griffon_empire = {
 				color2={ 255 255 255 }
 				
 				b_kristoff = {
+					holy_site = grifflyreise
+					holy_site = grifflyreise_reformed
 				}
 				b_kristoff_2 = {
 				}
@@ -7255,6 +7261,8 @@ e_griffon_empire = {
 				color2={ 255 255 255 }
 				
 				b_ta1 = {
+					holy_site = grifflyreise
+					holy_site = grifflyreise_reformed
 				}
 				b_ta1_2 = {
 				}
@@ -7585,6 +7593,8 @@ e_griffon_empire = {
 				color2={ 255 255 255 }
 				
 				b_wg31 = {
+					holy_site = grifflyreise
+					holy_site = grifflyreise_reformed
 				}
 				b_wg31_2 = {
 				}

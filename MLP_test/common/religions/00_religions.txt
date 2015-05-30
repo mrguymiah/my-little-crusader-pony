@@ -647,7 +647,7 @@ caribou_Rgroup = {
 
 		icon = 24 #norse
 		heresy_icon = 21
-		color = { 0.7 0.3 0.3 }
+		color = { 0.7 0.45 0.3 }
 		
 		crusade_name = "CRUSADE"
 		scripture_name = THE_BIBLE

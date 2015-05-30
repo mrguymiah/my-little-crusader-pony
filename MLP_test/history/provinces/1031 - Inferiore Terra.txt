@@ -10,7 +10,7 @@ b_laeyazweald = tribal
 b_stanhofen = tribal
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = caribou_culture
+religion = mooselam
 
 #History

@@ -11,7 +11,7 @@ b_manestraton = tribal
 b_trotona = tribal
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = caribou_culture
+religion = mooselam
 
 #History

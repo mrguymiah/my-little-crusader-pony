@@ -11,7 +11,7 @@ b_ficline = tribal
 b_cassina = tribal
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = caribou_culture
+religion = mooselam
 
 #History

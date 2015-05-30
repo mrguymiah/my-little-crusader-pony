@@ -11,7 +11,7 @@ b_megairlopolis = tribal
 b_hispellum = tribal
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = caribou_culture
+religion = mooselam
 
 #History

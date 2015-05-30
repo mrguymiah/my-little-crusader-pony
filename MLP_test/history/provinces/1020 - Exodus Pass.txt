@@ -10,7 +10,7 @@ b_nacantera = tribal
 b_cantapeva = tribal
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = caribou_culture
+religion = mooselam
 
 #History

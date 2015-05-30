@@ -10,7 +10,7 @@ b_dh26 = tribal
 #b_dh26_2 = city
 
 # Misc
-culture = wildling
-religion = wildfaith
+culture = caribou_culture
+religion = mooselam
 
 #History
