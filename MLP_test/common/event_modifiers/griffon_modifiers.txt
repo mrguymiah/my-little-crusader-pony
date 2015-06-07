@@ -1,0 +1,4 @@
+owns_idol_of_boreas = {
+	monthly_character_prestige = 3.0
+	icon = 17
+}

@@ -221,6 +221,7 @@ griffon = {
 	martial = 2
 	stewardship = 1
 	same_opinion = 5
+	ai_greed = 2
 
 	opposites = {
 		unicorn
