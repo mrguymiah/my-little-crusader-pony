@@ -210,18 +210,20 @@ character_event = {
 		}
 	}
 	
-	desc = {
-		text = EVTDESC_WOL_40
-		trigger = {
-			religion_group = christian
-		}
-	}
-	desc = {
-		text = EVTDESC_WOL_40_NC
-		trigger = {
-			NOT = { religion_group = christian }
-		}
-	}
+	# desc = {
+		# text = EVTDESC_WOL_40
+		# trigger = {
+			# religion_group = christian
+		# }
+	# }
+	# desc = {
+		# text = EVTDESC_WOL_40_NC
+		# trigger = {
+			# NOT = { religion_group = christian }
+		# }
+	# }
+	
+	desc = EVTDESC_WOL_40_NC
 	
 	option = {
 		name = CURSES
@@ -448,8 +450,8 @@ character_event = {
 			limit = {
 				FROM = {
 					is_close_relative = event_target:target_lover_1
-					NOT = { religion = messalian }
-					NOT = { religion = zoroastrian }
+					# NOT = { religion = messalian }
+					# NOT = { religion = zoroastrian }
 				}
 			}
 			set_character_flag = scandal_temp_incest
@@ -475,20 +477,20 @@ character_event = {
 			set_character_flag = scandal_temp_f_homo
 			break = yes
 		}
-		if = {
-			limit = {
-				FROM = {
-					religion_group = christian
-					OR = {
-						is_priest = yes
-						trait = monk
-						trait = nun
-					}
-				}
-			}
-			set_character_flag = scandal_temp_priest
-			break = yes
-		}
+		# if = {
+			# limit = {
+				# FROM = {
+					# religion_group = christian
+					# OR = {
+						# is_priest = yes
+						# trait = monk
+						# trait = nun
+					# }
+				# }
+			# }
+			# set_character_flag = scandal_temp_priest
+			# break = yes
+		# }
 		if = {
 			limit = {
 				FROM = {
@@ -986,32 +988,32 @@ character_event = {
 			}
 		}
 		
-		if = {
-			limit = {
-				religion_group = christian
-				OR = {
-					AND = {
-						is_ruler = yes
-						is_theocracy = yes
-					}
-					trait = monk
-					trait = nun
-				}
-			}
-			tooltip = {
-				add_character_modifier = {
-					name = adulterous_priest
-					years = 20
-				}
-			}
-			piety = -100
-		}
+		# if = {
+			# limit = {
+				# religion_group = christian
+				# OR = {
+					# AND = {
+						# is_ruler = yes
+						# is_theocracy = yes
+					# }
+					# trait = monk
+					# trait = nun
+				# }
+			# }
+			# tooltip = {
+				# add_character_modifier = {
+					# name = adulterous_priest
+					# years = 20
+				# }
+			# }
+			# piety = -100
+		# }
 		
 		if = {
 			limit = {
 				is_close_relative = FROMFROM
-				NOT = { religion = messalian }
-				NOT = { religion = zoroastrian }
+				# NOT = { religion = messalian }
+				# NOT = { religion = zoroastrian }
 			}
 			if = {
 				limit = {
@@ -1045,14 +1047,22 @@ character_event = {
 		if = {
 			limit = {
 				is_female = no
-				is_married = yes
-				NOT = { religion_group = pagan_group }
+				# is_married = yes
+				# NOT = { religion_group = pagan_group }
 			}
 			tooltip = {
 				add_character_modifier = {
 					name = adulterer
 					years = 20
 				}
+			}
+			if = {
+				limit = { is_married = no }
+				piety = -50
+			}
+			if = {
+				limit = { is_married = yes }
+				piety = -100
 			}
 		}
 		
@@ -1160,22 +1170,22 @@ character_event = {
 			}
 		}
 		
-		if = {
-			limit = {
-				religion_group = christian
-				OR = {
-					is_priest = yes
-					trait = monk
-					trait = nun
-				}
-			}
-			tooltip = {
-				add_character_modifier = {
-					name = adulterous_priest
-					years = 20
-				}
-			}
-		}
+		# if = {
+			# limit = {
+				# religion_group = christian
+				# OR = {
+					# is_priest = yes
+					# trait = monk
+					# trait = nun
+				# }
+			# }
+			# tooltip = {
+				# add_character_modifier = {
+					# name = adulterous_priest
+					# years = 20
+				# }
+			# }
+		# }
 		
 		if = {
 			limit = {
@@ -1700,9 +1710,9 @@ character_event = {
 		name = EVTOPTA_WOL_99
 		trigger = {
 			is_female = yes
-			NOT = { religion_group = muslim }
-			NOT = { religion_group = zoroastrian_group }
-			NOT = { religion_group = indian_group }
+			# NOT = { religion_group = muslim }
+			# NOT = { religion_group = zoroastrian_group }
+			# NOT = { religion_group = indian_group }
 		}
 		ai_chance = {
 			factor = 100
@@ -1712,23 +1722,23 @@ character_event = {
 #		log = "WoL.99: [Root.GetTitledName] achieves the lifestyle Seductress!"
 	}
 	
-	option = {
-		name = EVTOPTA_WOL_99_PERS
-		trigger = {
-			is_female = yes
-			OR = {
-				religion_group = muslim
-				religion_group = zoroastrian_group
-				religion_group = indian_group
-			}
-		}
-		ai_chance = {
-			factor = 100
-		}
-		remove_character_modifier = wol_seducer_2
-		add_trait = seductress
-#		log = "WoL.99: [Root.GetTitledName] achieves the lifestyle Seductress!"
-	}
+	# option = {
+		# name = EVTOPTA_WOL_99_PERS
+		# trigger = {
+			# is_female = yes
+			# OR = {
+				# religion_group = muslim
+				# religion_group = zoroastrian_group
+				# religion_group = indian_group
+			# }
+		# }
+		# ai_chance = {
+			# factor = 100
+		# }
+		# remove_character_modifier = wol_seducer_2
+		# add_trait = seductress
+		log = "WoL.99: [Root.GetTitledName] achieves the lifestyle Seductress!"
+	# }
 	
 	option = {
 		name = EVTOPTB_WOL_99
@@ -4927,8 +4937,8 @@ character_event = {
 			modifier = {
 				factor = 0.5
 				is_close_relative = FROM
-				NOT = { religion = messalian }
-				NOT = { religion = zoroastrian }
+				# NOT = { religion = messalian }
+				# NOT = { religion = zoroastrian }
 				NOT = {
 					OR = {
 						trait = arbitrary
@@ -5076,6 +5086,7 @@ character_event = {
 		text = EVTDESC_WOL_306_CR
 		trigger = {
 			is_close_relative = FROM
+			FROM = { female = no }
 		}
 	}
 	
@@ -5083,6 +5094,23 @@ character_event = {
 		text = EVTDESC_WOL_306
 		trigger = {
 			NOT = { is_close_relative = FROM }
+			FROM = { female = no }
+		}
+	}
+
+		desc = {
+		text = EVTDESC_WOL_306_CR_F
+		trigger = {
+			is_close_relative = FROM
+			FROM = { female = yes }
+		}
+	}
+	
+	desc = {
+		text = EVTDESC_WOL_306_F
+		trigger = {
+			NOT = { is_close_relative = FROM }
+			FROM = { female = yes }
 		}
 	}
 	
@@ -5372,7 +5400,14 @@ character_event = {
 		}
 	}
 	desc = {
-		text = EVTDESC_WOL_352_HOMO
+		text = EVTDESC_WOL_352_HOMO_M
+		trigger = {
+			NOT = { is_close_relative = FROM }
+			same_sex = FROM
+		}
+	}
+	desc = {
+		text = EVTDESC_WOL_352_HOMO_F
 		trigger = {
 			NOT = { is_close_relative = FROM }
 			same_sex = FROM
@@ -5415,8 +5450,8 @@ character_event = {
 			modifier = {
 				factor = 0.5
 				is_close_relative = FROM
-				NOT = { religion = messalian }
-				NOT = { religion = zoroastrian }
+				# NOT = { religion = messalian }
+				# NOT = { religion = zoroastrian }
 				NOT = {
 					OR = {
 						trait = arbitrary
@@ -5540,8 +5575,8 @@ character_event = {
 			modifier = {
 				factor = 0.5
 				is_close_relative = FROM
-				NOT = { religion = messalian }
-				NOT = { religion = zoroastrian }
+				# NOT = { religion = messalian }
+				# NOT = { religion = zoroastrian }
 				NOT = {
 					OR = {
 						trait = arbitrary
@@ -5643,8 +5678,8 @@ character_event = {
 			modifier = {
 				factor = 0.5
 				is_close_relative = FROM
-				NOT = { religion = messalian }
-				NOT = { religion = zoroastrian }
+				# NOT = { religion = messalian }
+				# NOT = { religion = zoroastrian }
 				NOT = {
 					OR = {
 						trait = arbitrary
@@ -5752,8 +5787,8 @@ character_event = {
 			modifier = {
 				factor = 0.5
 				is_close_relative = FROM
-				NOT = { religion = messalian }
-				NOT = { religion = zoroastrian }
+				# NOT = { religion = messalian }
+				# NOT = { religion = zoroastrian }
 				NOT = {
 					OR = {
 						trait = arbitrary
@@ -6359,8 +6394,8 @@ character_event = {
 			modifier = {
 				factor = 0.5
 				is_close_relative = FROM
-				NOT = { religion = messalian }
-				NOT = { religion = zoroastrian }
+				# NOT = { religion = messalian }
+				# NOT = { religion = zoroastrian }
 				NOT = {
 					OR = {
 						trait = arbitrary
@@ -6485,8 +6520,8 @@ character_event = {
 			modifier = {
 				factor = 0.5
 				is_close_relative = FROM
-				NOT = { religion = messalian }
-				NOT = { religion = zoroastrian }
+				# NOT = { religion = messalian }
+				# NOT = { religion = zoroastrian }
 				NOT = {
 					OR = {
 						trait = arbitrary
@@ -6589,8 +6624,8 @@ character_event = {
 			modifier = {
 				factor = 0.5
 				is_close_relative = FROM
-				NOT = { religion = messalian }
-				NOT = { religion = zoroastrian }
+				# NOT = { religion = messalian }
+				# NOT = { religion = zoroastrian }
 				NOT = {
 					OR = {
 						trait = arbitrary
@@ -6699,8 +6734,8 @@ character_event = {
 			modifier = {
 				factor = 0.5
 				is_close_relative = FROM
-				NOT = { religion = messalian }
-				NOT = { religion = zoroastrian }
+				# NOT = { religion = messalian }
+				# NOT = { religion = zoroastrian }
 				NOT = {
 					OR = {
 						trait = arbitrary
@@ -8076,7 +8111,7 @@ character_event = {
 	
 	trigger = {
 		has_focus = focus_seduction
-		religion_group = christian
+		#religion_group = christian
 		is_ill = no
 		prisoner = no
 		has_regent = no
@@ -8391,6 +8426,75 @@ character_event = {
 						character_event = { id = WoL.40 days = 7 } # Chance of VD
 					}
 				}
+				if = {
+				limit = { ROOT = { trait = unicorn } }
+				add_trait = unicorn
+				}
+				if = {
+					limit = { ROOT = { trait = pegasus } }
+					add_trait = pegasus
+				}
+				if = {
+					limit = { ROOT = { trait = earth_pony } }
+					add_trait = earth_pony
+				}
+				if = {
+					limit = { ROOT = { trait = crystal_pony } }
+					add_trait = crystal_pony
+				}
+				if = {
+					limit = { ROOT = { trait = thestral } }
+					add_trait = thestral
+				}
+				if = {
+					limit = { ROOT = { trait = alicorn } }
+					random_list = {
+						25 = { add_trait = unicorn }  
+						25 = { add_trait = pegasus }
+						25 = { add_trait = earth_pony }
+						25 = { add_trait = crystal_pony }
+					}
+				}
+				if = {
+					limit = { ROOT = { trait = horse } }
+					add_trait = horse
+				}
+				if = {
+					limit = { ROOT = { trait = draconequus } }
+					add_trait = pegasus
+				}
+				if = {
+					limit = { ROOT = { trait = griffon } }
+					add_trait = griffon
+				}
+				if = {
+					limit = { ROOT = { trait = zebra } }
+					add_trait = zebra
+				}
+				if = {
+					limit = { ROOT = { trait = changeling } }
+					add_trait = changeling
+				}
+				if = {
+					limit = { ROOT = { trait = changeling_queen } }
+					add_trait = changeling
+				}
+				if = {
+					limit = { ROOT = { trait = buffalo } }
+					add_trait = buffalo
+				}
+				if = {
+					limit = { ROOT = { trait = caribou } }
+					add_trait = caribou
+				}
+				if = {
+					limit = { ROOT = { trait = cervid } }
+					add_trait = cervid
+				}
+				if = {
+					limit = { ROOT = { trait = cephalo_deer } }
+					add_trait = cephalo_deer
+				}
 			}
 			
 			# Chance of impregnation
@@ -8566,6 +8670,75 @@ character_event = {
 						character_event = { id = WoL.40 days = 7 } # Chance of VD
 					}
 				}
+				if = {
+					limit = { ROOT = { trait = unicorn } }
+					add_trait = unicorn
+				}
+				if = {
+					limit = { ROOT = { trait = pegasus } }
+					add_trait = pegasus
+				}
+				if = {
+					limit = { ROOT = { trait = earth_pony } }
+					add_trait = earth_pony
+				}
+				if = {
+					limit = { ROOT = { trait = crystal_pony } }
+					add_trait = crystal_pony
+				}
+				if = {
+					limit = { ROOT = { trait = thestral } }
+					add_trait = thestral
+				}
+				if = {
+					limit = { ROOT = { trait = alicorn } }
+					random_list = {
+						25 = { add_trait = unicorn }  
+						25 = { add_trait = pegasus }
+						25 = { add_trait = earth_pony }
+						25 = { add_trait = crystal_pony }
+					}
+				}
+				if = {
+					limit = { ROOT = { trait = horse } }
+					add_trait = horse
+				}
+				if = {
+					limit = { ROOT = { trait = draconequus } }
+					add_trait = pegasus
+				}
+				if = {
+					limit = { ROOT = { trait = griffon } }
+					add_trait = griffon
+				}
+				if = {
+					limit = { ROOT = { trait = zebra } }
+					add_trait = zebra
+				}
+				if = {
+					limit = { ROOT = { trait = changeling } }
+					add_trait = changeling
+				}
+				if = {
+					limit = { ROOT = { trait = changeling_queen } }
+					add_trait = changeling
+				}
+				if = {
+					limit = { ROOT = { trait = buffalo } }
+					add_trait = buffalo
+				}
+				if = {
+					limit = { ROOT = { trait = caribou } }
+					add_trait = caribou
+				}
+				if = {
+					limit = { ROOT = { trait = cervid } }
+					add_trait = cervid
+				}
+				if = {
+					limit = { ROOT = { trait = cephalo_deer } }
+					add_trait = cephalo_deer
+				}
 			}
 		}
 		
@@ -8730,6 +8903,246 @@ character_event = {
 					character_event = { id = WoL.562 days = 240 random = 20 } # A baby is found in the garden!
 				}
 			}
+		}
+	}
+}
+
+character_event = {
+	id = WoL.562
+	desc = EVTDESC_WOL_562
+	picture = GFX_evt_birth
+	border = GFX_event_normal_frame_intrigue
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		hidden_tooltip = { # Hidden so the Pope does not appear as a portrait for affected characters
+			ROOT = {
+				random_list = {
+					50 = {
+						create_character = {
+							dynasty = none
+							religion = ROOT
+							culture = ROOT
+							race = PREV
+							set_mother = none
+							set_father = ROOT
+							female = no
+							age = 0
+							trait = bastard
+							trait = fair
+						}
+						new_character = {
+							save_event_target_as = target_baby
+							if = {
+								limit = { ROOT = { trait = unicorn } }
+								add_trait = unicorn
+							}
+							if = {
+								limit = { ROOT = { trait = pegasus } }
+								add_trait = pegasus
+							}
+							if = {
+								limit = { ROOT = { trait = earth_pony } }
+								add_trait = earth_pony
+							}
+							if = {
+								limit = { ROOT = { trait = crystal_pony } }
+								add_trait = crystal_pony
+							}
+							if = {
+								limit = { ROOT = { trait = thestral } }
+								add_trait = thestral
+							}
+							if = {
+								limit = { ROOT = { trait = alicorn } }
+								random_list = {
+									25 = { add_trait = unicorn }  
+									25 = { add_trait = pegasus }
+									25 = { add_trait = earth_pony }
+									25 = { add_trait = crystal_pony }
+								}
+							}
+							if = {
+								limit = { ROOT = { trait = horse } }
+								add_trait = horse
+							}
+							if = {
+								limit = { ROOT = { trait = draconequus } }
+								add_trait = pegasus
+							}
+							if = {
+								limit = { ROOT = { trait = griffon } }
+								add_trait = griffon
+							}
+							if = {
+								limit = { ROOT = { trait = zebra } }
+								add_trait = zebra
+							}
+							if = {
+								limit = { ROOT = { trait = changeling } }
+								add_trait = changeling
+							}
+							if = {
+								limit = { ROOT = { trait = changeling_queen } }
+								add_trait = changeling
+							}
+							if = {
+								limit = { ROOT = { trait = buffalo } }
+								add_trait = buffalo
+							}
+							if = {
+								limit = { ROOT = { trait = caribou } }
+								add_trait = caribou
+							}
+							if = {
+								limit = { ROOT = { trait = cervid } }
+								add_trait = cervid
+							}
+							if = {
+								limit = { ROOT = { trait = cephalo_deer } }
+								add_trait = cephalo_deer
+							}
+						}
+					}
+					50 = {
+						create_character = {
+							dynasty = none
+							religion = ROOT
+							culture = ROOT
+							race = PREV
+							set_mother = none
+							set_father = ROOT
+							female = yes
+							age = 0
+							trait = bastard
+							trait = fair
+						}
+						new_character = {
+							save_event_target_as = target_baby
+							if = {
+								limit = { ROOT = { trait = unicorn } }
+								add_trait = unicorn
+							}
+							if = {
+								limit = { ROOT = { trait = pegasus } }
+								add_trait = pegasus
+							}
+							if = {
+								limit = { ROOT = { trait = earth_pony } }
+								add_trait = earth_pony
+							}
+							if = {
+								limit = { ROOT = { trait = crystal_pony } }
+								add_trait = crystal_pony
+							}
+							if = {
+								limit = { ROOT = { trait = thestral } }
+								add_trait = thestral
+							}
+							if = {
+								limit = { ROOT = { trait = alicorn } }
+								random_list = {
+									25 = { add_trait = unicorn }  
+									25 = { add_trait = pegasus }
+									25 = { add_trait = earth_pony }
+									25 = { add_trait = crystal_pony }
+								}
+							}
+							if = {
+								limit = { ROOT = { trait = horse } }
+								add_trait = horse
+							}
+							if = {
+								limit = { ROOT = { trait = draconequus } }
+								add_trait = pegasus
+							}
+							if = {
+								limit = { ROOT = { trait = griffon } }
+								add_trait = griffon
+							}
+							if = {
+								limit = { ROOT = { trait = zebra } }
+								add_trait = zebra
+							}
+							if = {
+								limit = { ROOT = { trait = changeling } }
+								add_trait = changeling
+							}
+							if = {
+								limit = { ROOT = { trait = changeling_queen } }
+								add_trait = changeling
+							}
+							if = {
+								limit = { ROOT = { trait = buffalo } }
+								add_trait = buffalo
+							}
+							if = {
+								limit = { ROOT = { trait = caribou } }
+								add_trait = caribou
+							}
+							if = {
+								limit = { ROOT = { trait = cervid } }
+								add_trait = cervid
+							}
+							if = {
+								limit = { ROOT = { trait = cephalo_deer } }
+								add_trait = cephalo_deer
+							}
+						}
+					}
+				}
+			}
+		}
+		
+	}
+	
+	option = {
+		name = EVTOPTA_WOL_562
+		ai_chance = {
+			factor = 100
+		}
+		event_target:target_baby = {
+			set_father = ROOT
+		}
+		
+		if = {
+			limit = { is_married = yes }
+			spouse = {
+				opinion = {
+					who = ROOT
+					modifier = opinion_unfaithful_private
+					years = 10
+				}
+				hidden_tooltip = {
+					event_target:target_baby = {
+						reverse_opinion = {
+							who = PREV
+							modifier = opinion_whorespawn
+							years = 100
+						}
+					}
+				}
+			}
+		}
+		
+		if = {
+			limit = { trait = zealous }
+			random = {
+				chance = 50
+				remove_trait = zealous
+				hidden_tooltip = {
+					character_event = { id = 38310 days = 1 } # Notify zealous lost
+				}
+			}
+		}
+#		log = "WoL.562: [Root.GetTitledName] has rose bush baby [target_baby.GetFirstName] (lunatic)"
+	}
+	
+	option = {
+		name = EVTOPTB_WOL_562
+		ai_chance = {
+			factor = 1
 		}
 	}
 }

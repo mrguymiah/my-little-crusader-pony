@@ -1,0 +1,16 @@
+hunting_white_manticore = {
+	martial = 1
+	icon = 1
+}
+hunting_white_bear = {
+	martial = 1
+	icon = 1
+}
+hunting_white_tiger = {
+	martial = 1
+	icon = 1
+}
+hunting_birch_timberwolf = {
+	martial = 1
+	icon = 1
+}

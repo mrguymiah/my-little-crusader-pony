@@ -1,0 +1,370 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+ACQUISITION_CLAIM;Conquered as a Claimant;Conquis en tant que revendicateur;Erobert als Anspruchsteller;;Conquistado como un pretendiente;;;;;;;;;x
+ACQUISITION_HOST;Conquered as an Adventurer;Conquis en tant qu'aventurier;Erobert als Abenteurer;;Conquistado como un aventurero;;;;;;;;;x
+ACQUISITION_REVOLT;Conquered as Leader of an Uprising;Conquis en tant que chef d'une révolte;Erobert als Anführer eines Aufstands;;Conquistado como líder de un levantamiento;;;;;;;;;x
+ACQUISITION_USURP;Peacefully Usurped;Usurpé en paix;Friedliche Übernahme;;Usurpado pacíficamente;;;;;;;;;x
+ACQUISITION_FACTION_DEMAND;Installed by Faction Demand;Installé sous demande d'une faction;Installiert durch eine Splittergruppe;;Instalado por petición de la facción;;;;;;;;;x
+PERSONAL_OPINION_LOWER_THAN;Personal Opinion lower than ;Opinion personnelle inférieure à ;Pers. Meinung geringer als ;;Opinión personal más baja que;;;;;;;;;x
+PERSONAL_OPINION_AT_LEAST;Personal Opinion of at least ;Opinion personnelle d'au moins ;Pers. Meinung mindestens ;;Opinión personal de por lo menos;;;;;;;;;x
+PERS_OPINION_DIFF_LOWER_THAN;Personal Opinion difference between §Y$FIRST$§! and §Y$SECOND$§! lower than §Y$VAL$§!;La différence d'opinion personnelle entre §Y$FIRST$§! et §Y$SECOND$§! est inférieure à §Y$VAL$§ !;Pers. Meinungsunterschiede zwischen §Y$FIRST$§! und §Y$SECOND$§! geringer als §Y$VAL$§!;;¡Diferencia de opinión personal entre §Y$FIRST$§! y §Y$SECOND$§! más baja que §Y$VAL$§! ;;;;;;;;;x
+PERS_OPINION_DIFF_AT_LEAST;Personal Opinion difference between §Y$FIRST$§! and §Y$SECOND$§! at least §Y$VAL$§!;La différence d'opinion personnelle entre §Y$FIRST$§! et §Y$SECOND$§! est d'au moins §Y$VAL$§ !;Pers. Meinungsunterschiede zwischen §Y$FIRST$§! und §Y$SECOND$§! mindestens §Y$VAL$§!;;¡Diferencia de la opinión personal entre §Y$FIRST$§! y §Y$SECOND$§! de por lo menos §Y$VAL$§! ;;;;;;;;;x
+RULER_OF_TITLE;$RULER$ of $TITLE$;$RULER$ de $TITLE$;$RULER$ von $TITLE$;;$RULER$ de $TITLE$;;;;;;;;;x
+EVTDESC38305;I have grown more trusting, accepting whatever fate has in store for me. I have lost the Paranoid trait.;Je suis désormais plus confiant et j'accepte le sort que le destin me réserve. J'ai perdu la caractéristique Paranoïaque.;Ich bin nun weniger argwöhnisch und nehme hin, was das Schicksal bringt. Ich habe die Eigenschaft Paranoid verloren.;;Me he vuelto más confiado, aceptando lo que el destino me traiga. He perdido el rasgo Paranoico;;;;;;;;;x
+EVTDESC38306;I have become aware of people's duplicity. I have lost the Trusting trait.;J'ai pris conscience de la duplicité de certains. J'ai perdu la caractéristique Confiant(e).;Mir ist die Doppelzüngigkeit der Menschen bewusst geworden. Ich habe die Eigenschaft Treuherzig verloren.;;Me he dado cuenta de la duplicidad de la gente. He perdido el rasgo Confiado.;;;;;;;;;x
+EVTDESC38307;I have suffered enough pain and betrayal. Why help those who hurt me back? I have lost the Kind trait.;J'ai suffisamment souffert des suites de diverses trahisons. Pourquoi devrais-je aider ceux qui me font du mal ? J'ai perdu la caractéristique Aimable.;Ich habe genug Pein und Verrat erfahren. Warum soll ich meinen Neidern helfen? Ich habe die Eigenschaft Gütig verloren.;;He sufrido bastante dolor y traición. ¿Por qué ayudar a aquellos que me haga daño? He perdido el rasgo Amable;;;;;;;;;x
+EVTDESC38308;The wounds have marked me for life. I have gained the Scarred trait.;Mes blessures m'ont marqué(e) pour la vie. J'ai obtenu la caractéristique Marqué.;Die Wunden werden mich ein Leben lang zeichnen. Ich habe die Eigenschaft Vernarbt erhalten.;;Las heridas me han marcado para la vida. He adquirido el rasgo marcado de cicatrices..;;;;;;;;;x
+MEN;men;hommes;Männer;;hombres;;;;;;;;;x
+WOMEN;women;femmes;Frauen;;mujeres;;;;;;;;;x
+MALE;male;mâle;männlich;;hombre;;;;;;;;;x
+FEMALE;female;femelle;weiblich;;mujer;;;;;;;;;x
+ADULTERER;adulterer;homme adultère;Ehebrecher;;adúltero;;;;;;;;;x
+ADULTERESS;adulteress;femme adultère;Ehebrecherin;;adúltera;;;;;;;;;x
+nick_the_unfaithful;the Unfaithful;l'infidèle;der/die Treulose;;el Infiel;;;;;;;;;x
+nick_the_beguiling;the Beguiling;le charmant;der/die Betörende;;el Persuasivo;;;;;;;;;x
+nick_the_temptress;the Temptress;la tentatrice;die Versucherin;;la Tentadora;;;;;;;;;x
+nick_the_seducer;the Seducer;le séducteur;der Verführer;;el Seductor;;;;;;;;;x
+nick_the_lewd;the Lewd;le lubrique;der/die Liederliche;;el Lascivo;;;;;;;;;x
+nick_the_lecher;the Lecher;le débauché;der Lüstling;;el Libidinoso;;;;;;;;;x
+nick_the_unchaste;the Unchaste;l'impudique;der/die Unkeusche;;el Impúdico;;;;;;;;;x
+INSULT_OLD;old;sénile;Alte;;viejo;;;;;;;;;x
+INSULT_TADPOLE;tadpole;de couillon;Kaulquappen;;renacuajo;;;;;;;;;x
+INSULT_CHILD;child;de gamin;Kinder;;niño/a;;;;;;;;;x
+INSULT_VILE;vile;infame;Scheusale;;vil;;;;;;;;;x
+INSULT_FOUL;foul;d'être ignoble;Faulige;;asqueroso/a;;;;;;;;;x
+INSULT_FILTHY;filthy;sale;Dreckwühler;;guarro/a;;;;;;;;;x
+INSULT_CLOWN;clown;de clown;Clowns;;mamarracho;;;;;;;;;x
+INSULT_COW;cow;de vache;Kühe;;vaca;;;;;;;;;x
+INSULT_INFIDEL;infidel;infidèle;Ungläubige;;infiel;;;;;;;;;x
+INSULT_HERETIC;heretic;hérétique;Ketzer;;hereje;;;;;;;;;x
+INSULT_GROTESQUE;grotesque;grotesque;Groteske Gestalten;;grotesco;;;;;;;;;x
+INSULT_DWARF;dwarf;de nain;Zwerge;;enano/a;;;;;;;;;x
+INSULT_CLUBFOOT;clubfoot;de pied bot;Klumpfüße;;pie zopo;;;;;;;;;x
+INSULT_LIMPING;limping;de larve;Hinkende;;cojeando;;;;;;;;;x
+INSULT_HARELIP;harelip;de bec-de-lièvre;Hasenschartige;;labio leporino;;;;;;;;;x
+INSULT_CLEFT_LIPPED;cleft-lipped;de bec-de-lièvre;Spaltlippen;;labio hendido;;;;;;;;;x
+INSULT_BASTARD;bastard;de bâtard;Bastarde;;bastardo/a;;;;;;;;;x
+INSULT_BASEBORN;baseborn;d'enfant illégitime;Niedriggeborene;;ilegítimo/a;;;;;;;;;x
+INSULT_KINSLAYER;kinslayer;de fratricide;Sippenmörder;;mataparientes (alt. parricida);;;;;;;;;x
+INSULT_SODOMITE;sodomite;de sodomite;Sodomiten;;sodomita;;;;;;;;;x
+INSULT_DULLARD;dullard;d'abruti;Dummköpfe;;zoquete;;;;;;;;;x
+INSULT_DIM;dim;faible;Dumme;;tonto/a;;;;;;;;;x
+INSULT_VACUOUS;vacuous;stupide;Stumpfsinnige;;vago/a;;;;;;;;;x
+INSULT_NITWIT;nitwit;d'andouille;Schwachköpfe;;bobo/a;;;;;;;;;x
+INSULT_IMBECILE;imbecile;d'imbécile;Imbezile;;imbécil;;;;;;;;;x
+INSULT_FREAK;freak;de monstre;Missgeburten;;fanático;;;;;;;;;x
+INSULT_ABOMINATION;abomination;d'abomination;Scheusale;;aversión;;;;;;;;;x
+INSULT_MONSTROUS;monstrous;terrible;Monströse Gestalten;;monstruoso/a;;;;;;;;;x
+INSULT_HIDEOUS;hideous;affreux;Abscheuliche Gestalten;;espantoso/a;;;;;;;;;x
+INSULT_WEAKLING;weakling;d'avorton;Schwächlinge;;enclenque;;;;;;;;;x
+INSULT_LESBIAN;lesbian;de lesbienne;Lesben;;lesbiana;;;;;;;;;x
+INSULT_SAPPHIC;sapphic;élève de Sappho;Lesbische;;sáfica (since it synonimous of lesbian);;;;;;;;;x
+INSULT_HUNCHBACK;hunchback;de bossu;Bucklige;;jorobado /a;;;;;;;;;x
+INSULT_CROOKED;crooked;malhonnête;Krumme;;torcido/a;;;;;;;;;x
+INSULT_LISPER;lisper;de zozoteur;Lispler;;ceceante;;;;;;;;;x
+INSULT_FALTERING;faltering;indécis;Zögernde Gestalten;;balbuceante;;;;;;;;;x
+INSULT_STUTTERING;stuttering;bègue;Stotterer;;tartamudo;;;;;;;;;x
+INSULT_GORGON;gorgon;de gorgone;Gorgonen;;gorgona;;;;;;;;;x
+INSULT_IDIOT;idiot;idiot;Idioten;;idiota;;;;;;;;;x
+INSULT_TORTURER;torturer;de tortionnaire;Folterer;;torturador/a;;;;;;;;;x
+INSULT_LECHER;lecher;d'obsédé;Lüstlinge;;lascivo;;;;;;;;;x
+INSULT_LECHEROUS;lecherous;dépravé;Lüsterne;;libidinoso;;;;;;;;;x
+INSULT_GLUTTON;glutton;de glouton;Fette;;glotón/ona;;;;;;;;;x
+INSULT_GORGING;gorging;goinfre;Fettwanste;;hartarse;;;;;;;;;x
+INSULT_VENAL;venal;corrompu;Korrupte;;venal;;;;;;;;;x
+INSULT_INDOLENT;indolent;indolent;Träge;;indolente;;;;;;;;;x
+INSULT_EVIL;evil;de diable;Böse;;malo/a;;;;;;;;;x
+INSULT_ENVIOUS;envious;envieux;Neidische;;envidioso/a;;;;;;;;;x
+INSULT_HARRIDAN;harridan;de mégère;Xanthippen;;bruja;;;;;;;;;x
+INSULT_RAGING;raging;enragé;Wüteriche;;furioso/a;;;;;;;;;x
+INSULT_DECEITFUL;deceitful;déloyal;Hinterlistige;;engañoso/a;;;;;;;;;x
+INSULT_CRAVEN;craven;lâche;Feige;;temeroso/a;;;;;;;;;x
+INSULT_COWARD;coward;de veule;Feiglinge;;cobarde;;;;;;;;;x
+INSULT_SCATTERBRAIN;scatterbrain;de tête de linotte;Wirrköpfe;;cabeza de chorlito;;;;;;;;;x
+INSULT_ERRATIC;erratic;imprévisible;Launische;;errático/a;;;;;;;;;x
+INSULT_BIGOT;bigot;de sectaire;Eiferer;;fanático/a;;;;;;;;;x
+INSULT_BIGOTED;bigoted;fanatique;Eifernde;;intolerante;;;;;;;;;x
+INSULT_PARANOID;paranoid;de paranoïaque;Paranoide;;paranoico;;;;;;;;;x
+INSULT_FOOL;fool;de bouffon;Narren;;bobo;;;;;;;;;x
+INSULT_GULLIBLE;gullible;crédule;Naive;;crédulo/a;;;;;;;;;x
+INSULT_CRUEL;cruel;cruel;Grausame;;cruel;;;;;;;;;x
+INSULT_BRUTE;brute;de brute;Ungehobelte;;bruto/a;;;;;;;;;x
+INSULT_FIEND;fiend;de maniaque;Unholde;;amigo;;;;;;;;;x
+INSULT_CALLOUS;callous;insensible;Herzlose;;insensible;;;;;;;;;x
+INSULT_WANTON;wanton;dévergondé;Schamlose;;displicente;;;;;;;;;x
+INSULT_SENILE;senile;sénile;Senile;;senil;;;;;;;;;x
+INSULT_CRIPPLE;cripple;d'éclopé;Krüppel;;inválido/a;;;;;;;;;x
+INSULT_VEGETABLE;vegetable;de légume;Apalliker;;vegetal;;;;;;;;;x
+INSULT_BESOTTED;besotted;follement épris;Berauschte;;embobado/a;;;;;;;;;x
+INSULT_DRUNKARD;drunkard;d'ivrogne;Säufer;;borracho;;;;;;;;;x
+INSULT_UNCLEAN;unclean;impur;Unreine;;sucio/a;;;;;;;;;x
+INSULT_LEPER;leper;de lépreux;Lepröse;;leproso/a;;;;;;;;;x
+INSULT_BAT;bat;de chauve-souris;Wahnwitzige;;murciélago;;;;;;;;;x
+INSULT_DEMONIC;demonic;démoniaque;Dämonische;;demoníaco/a;;;;;;;;;x
+INSULT_DEMENTED;demented;dément;Demente;;loco/a;;;;;;;;;x
+INSULT_LUNATIC;lunatic;lunatique;Irre;;lunático/a;;;;;;;;;x
+INSULT_LUGUBRIOUS;lugubrious;lugubre;Trauerklöße;;lúgubre;;;;;;;;;x
+INSULT_CRAZED;crazed;dingue;Durchgedrehte;;delirante;;;;;;;;;x
+INSULT_DEVIL_WOMAN;devil-woman;de femme du diable;Teufelsweiber;;diablesa;;;;;;;;;x
+INSULT_WARLOCK;warlock;de démoniste;Hexer;;brujo;;;;;;;;;x
+INSULT_EFFEMINATE;effeminate;efféminé;Weibische;;afeminado/a;;;;;;;;;x
+INSULT_UNMANNED;unmanned;émasculé;Entmannte;;castrado;;;;;;;;;x
+INSULT_EUNUCH;eunuch;d'eunuque;Eunuchen;;eunuco;;;;;;;;;x
+INSULT_BLIND;blind;d'aveugle;Blinde;;ciego;;;;;;;;;x
+INSULT_PEASANT;peasant;de paysan;Bauern;;campesino;;;;;;;;;x
+INSULT_PEASANT_WOMAN;peasant woman;de paysanne;Bäuerinnen;;campesina;;;;;;;;;x
+INSULT_LOWBORN;lowborn;de plébéien;Niedriggeborene;;de humilde cuna;;;;;;;;;x
+INSULT_HERESIARCH;heresiarch;d'hérésiarque;Häresiarchen;;heresiarca;;;;;;;;;x
+INSULT_SYBARITE;sybarite;de sybarite;Schlemmer;;sibarita;;;;;;;;;x
+INSULT_DECADENT;decadent;de décadent;Dekadente;;decadente;;;;;;;;;x
+INSULT_WHOREMONGER;whoremonger;de fornicateur;Hurengänger;;putero;;;;;;;;;x
+INSULT_WHORING;whoring;de cochon;Hurende;;putear;;;;;;;;;x
+INSULT_DEBASED;debased;avili;Heruntergekommene;;degradar;;;;;;;;;x
+INSULT_TEMPTRESS;temptress;de tentatrice;Verführerinnen;;tentadora;;;;;;;;;x
+INSULT_DODDERER;dodderer;de débris;Tattrige;;tembloroso;;;;;;;;;x
+INSULT_DEBAUCHER;debaucher;de débauché;Schwelger;;corruptor;;;;;;;;;x
+INSULT_LITTLE;little;feluette;Kleine;;pequeño;;;;;;;;;x
+INSULT_DEGENERATE;degenerate;dégénéré;Degenerierte;;degenerado/a;;;;;;;;;x
+INSULT_PERVERTED;perverted;pervers;Perverse;;pervertido/a;;;;;;;;;x
+INSULT_TROLLOP;trollop;de traînée;Flittchen;;mujerzuela;;;;;;;;;x
+INSULT_PRUNE;prune;de rabat-joie;Sauertöpfige;;atontado/a;;;;;;;;;x
+INSULT_PRUDE;prude;de prude;Prüde;;mojigato/a;;;;;;;;;x
+INSULT_PRUDISH;prudish;pudibond;Zimperliesen;;mojigato/a;;;;;;;;;x
+INSULT_BORE;bore;d'emmerdeur;Langweiler;;pesado;;;;;;;;;x
+INSULT_IDLER;idler;de fainéant;Nichtsnutze;;ocioso/a;;;;;;;;;x
+INSULT_COVETOUS;covetous;avare;Gierschlunde;;codicioso/a;;;;;;;;;x
+INSULT_SOFT;soft;mollasson;Weichliche Gestalten;;tonto/a;;;;;;;;;x
+INSULT_SPIDER;spider;d'araignée;Spinnen;;araña;;;;;;;;;x
+INSULT_WUSSY;wussy;de chochotte;Memmen;;nenaza;;;;;;;;;x
+INSULT_TIMID;timid;timide;Zaghafte;;tímido/a;;;;;;;;;x
+INSULT_COY;coy;offensé;Schüchterne;;reservado/a;;;;;;;;;x
+INSULT_RAPACIOUS;rapacious;de rapace;Raubgierige;;rapaz;;;;;;;;;x
+INSULT_GRASPING;grasping;cupide;Habgierige;;avaricioso/a;;;;;;;;;x
+INSULT_UNBELIEVER;unbeliever;de mécréant;Ungläubige;;no creyente;;;;;;;;;x
+INSULT_NARROWMINDED;narrow-minded;borné;Engstirnige;;estrecho de miras;;;;;;;;;x
+COMPL_VIVACIOUS;vivacious;enjoué;lebhafte;;vivaz;;;;;;;;;x
+COMPL_DEMURE;demure;discret;züchtige;;remilgado/a;;;;;;;;;x
+COMPL_SINCERE;sincere;sincère;aufrichtige;;sincero/a;;;;;;;;;x
+COMPL_FORTHRIGHT;forthright;franc;aufrechte;;directo/a;;;;;;;;;x
+COMPL_ROGUE;rogue;fripouille;skrupellose;;pícaro/a;;;;;;;;;x
+COMPL_RAFFISH;raffish;canaille;verwegene;;disoluto/a;;;;;;;;;x
+COMPL_AFFABLE;affable;affable;umgängliche;;afable;;;;;;;;;x
+COMPL_WIT;wit;intelligent;scharfsinnige;;ingenioso;;;;;;;;;x
+COMPL_DEVIL;devil;ténébreux;teuflische;;demonio;;;;;;;;;x
+COMPL_IMPISH;impish;espiègle;schelmische;;travieso;;;;;;;;;x
+COMPL_PIRATE;pirate;pirate;piratenhafte;;pirata;;;;;;;;;x
+COMPL_BERSERKER;berserker;fou furieux;berserkerhafte;;berserker;;;;;;;;;x
+COMPL_SAOSHYANT;Saoshyant;Saoshyant;saoschjante;;Saoshyant;;;;;;;;;x
+COMPL_VALKYRIE;valkyrie;valkyrie;walkürenhafte;;Valquiria;;;;;;;;;x
+COMPL_VIKING;viking;viking;wikingerhafte;;vikingo/a;;;;;;;;;x
+COMPL_FAIR;fair;juste;hübsche;;limpio/a;;;;;;;;;x
+COMPL_BEAUTY;beauty;beauté;schöne;;belleza;;;;;;;;;x
+COMPL_HANDSOME;handsome;beau;stattliche;;guapo/a;;;;;;;;;x
+COMPL_BRILLIANT;brilliant;brillant;brillante;;brillante;;;;;;;;;x
+COMPL_GENIUS;genius;génie;geniale;;genio;;;;;;;;;x
+COMPL_STRONG;strong;fort;starke;;fuerte;;;;;;;;;x
+COMPL_SCHOLAR;scholar;intellectuel;belesene;;erudito;;;;;;;;;x
+COMPL_LEARNED;learned;éduqué;gebildete;;distinguido/a;;;;;;;;;x
+COMPL_MYSTIC;mystic;mystique;mystisch interessierte;;místico;;;;;;;;;x
+COMPL_POET;poet;poète;poetische;;poeta/poetisa;;;;;;;;;x
+COMPL_CHASTE;chaste;chaste;keusche;;casto/a;;;;;;;;;x
+COMPL_GOOD;good;bon;gute;;bueno/a;;;;;;;;;x
+COMPL_DILIGENT;diligent;assidu;fleißige;;diligente;;;;;;;;;x
+COMPL_KINDLY;kindly;bienveillant;nette;;amable;;;;;;;;;x
+COMPL_KINDHEARTED;kindhearted;au grand cœur;gutherzige;;amable;;;;;;;;;x
+COMPL_BRAVE;brave;brave;mutige;;valiente;;;;;;;;;x
+COMPL_PROUD;proud;fier;stolze;;orgulloso/a;;;;;;;;;x
+COMPL_HUMBLE;humble;humble;demütige;;humilde;;;;;;;;;x
+COMPL_JUST;just;juste;gerechte;;justo/a;;;;;;;;;x
+COMPL_RIGHTEOUS;righteous;vertueux;rechtschaffene;;virtuoso/a;;;;;;;;;x
+COMPL_SAYYID;Sayyid;Sayyid;sayyidische;;Sayyid;;;;;;;;;x
+COMPL_SAYYIDA;Sayyida;Sayyida;sayyidahafte;;Sayyida;;;;;;;;;x
+COMPL_PILGRIM;pilgrim;pèlerin;pilgerhafte;;peregrino;;;;;;;;;x
+COMPL_MIRZA;mirza;mirza;mirzahafte;;mirza;;;;;;;;;x
+COMPL_HAJJAJ;Hajjaj;Hajjaj;hadschihafte;;Hajjaj;;;;;;;;;x
+COMPL_MUJAHID;Mujahid;Moudjahidine;mudschahedinnische;;Mujahid;;;;;;;;;x
+COMPL_CRUSADER;Crusader;Croisé;kreuzritterhafte;;Cruzado;;;;;;;;;x
+COMPL_HAFIZ;Hafiz;Hafiz;hafizhafte;;Hafiz;;;;;;;;;x
+COMPL_FAQIH;Faqih;Faqih;faqihhafte;;Faqih;;;;;;;;;x
+COMPL_WISE;wise;sage;weise;;sabio/a;;;;;;;;;x
+COMPL_PURPLE_BORN;purple-born;né dans le pourpre;purpurngeborene;;nacido/a en la púrpura;;;;;;;;;x
+COMPL_AUGUSTUS;Augustus;Auguste;augustinische;;Augusto;;;;;;;;;x
+COMPL_HOLY_WARRIOR;holy warrior;guerrier saint;heiligekriegerhafte;;guerrero sagrado;;;;;;;;;x
+COMPL_MONK;monk;moine;mönchische;;monje;;;;;;;;;x
+COMPL_NUN;nun;nonne;nonnenhafte;;monja;;;;;;;;;x
+COMPL_CHARMER;charmer;charmeur;charmante;;encantador/a;;;;;;;;;x
+COMPL_CHARMING;charming;charmant;charmante;;encantador/a;;;;;;;;;x
+COMPL_RAVISHING;ravishing;ravissante;hinreißende;;deslumbrante;;;;;;;;;x
+COMPL_ENCHANTRESS;enchantress;enchantresse;bezaubernde;;seductora;;;;;;;;;x
+COMPL_FETCHING;fetching;superbe;reizende;;atractivo/a;;;;;;;;;x
+COMPL_GREAT;great;éminent;große;;gran;;;;;;;;;x
+COMPL_SWEET;sweet;doux;süße;;dulce;;;;;;;;;x
+COMPL_DEAR;dear;cher;liebliche;;querido/a;;;;;;;;;x
+COMPL_LORD;lord;seigneur;fürstliche;;señor;;;;;;;;;x
+COMPL_LADY;lady;dame;fürstliche;;señora;;;;;;;;;x
+COMPL_SEDUCER;seducer;séducteur;verführische;;seductor;;;;;;;;;x
+COMPL_PLEASANT;pleasant;plaisant;angenehme;;agradable;;;;;;;;;x
+COMPL_LEVELHEADED;levelheaded;calme;nüchterne;;sensato/a;;;;;;;;;x
+COMPL_WRY;wry;narquois;krumme;;irónico;;;;;;;;;x
+AIREASON_UNFAITHFULNESS;Unfaithfulness;Infidélité;Untreue;;Infidelidad;;;;;;;;;x
+HAS_NOT_POLYGAMY;Does not have Polygamy;Ne possède pas polygamie;Hat keine Polygamie;;No tiene poligamia;;;;;;;;;x
+HAS_POLYGAMY;Has Polygamy;Possède polygamie;Hat Polygamie;;Tiene poligamia;;;;;;;;;x
+HAS_NOT_CONCUBINAGE;Does not have Concubinage;Ne possède pas concubinage;Hat kein Konkubinat;;No tiene concubinato;;;;;;;;;x
+HAS_CONCUBINAGE;Has Concubinage;Possède concubinage;Hat ein Konkubinat;;Tiene concubinato;;;;;;;;;x
+DIVORCE_INTERACTION_2;Divorce §Y[Recipient.GetTitledFirstName]§! for her proven unfaithfulness! Her close relatives will still be insulted (§R$OPINION$§! opinion)...;Divorcer de §Y[Recipient.GetTitledFirstName]§! pour son infidélité irréfutable ! Ses proches se sentiront quand même insultés (opinion §R$OPINION$§!)...;Scheidung von §Y[Recipient.GetTitledFirstName]§! aufgrund ihrer erwiesenen Untreue. Ihre nahen Verwandten werden dies trotzdem als Beleidigung auffassen (§R$OPINION$§! Meinung).;;¡Divórciate de §Y[Recipient.GetTitledFirstName] por su probada infidelidad! Sus parientes cercanos se seguirán sintiendo insultados (§R$OPINION$§! opinion)...;;;;;;;;;x
+ASK_FOR_DIVORCE_INTERACTION_2;Ask §Y[Actor.RelHead.GetTitledFirstName]§W for a divorce from §Y[Actor.Spouse.GetFirstName]§W. Due to [Actor.Spouse.GetPossPronoun] unfaithfulness, the request will not be denied and will cost nothing. However, it will still be viewed as an insult by [Actor.Spouse.GetPossPronoun] relatives.;Demander à §Y[Actor.RelHead.GetTitledFirstName]§W de divorcer de §Y[Actor.Spouse.GetFirstName]§W. En raison de son infidélité, la demande ne coûtera rien, et ne sera pas rejetée. Cependant, cela sera toujours perçu comme une insulte par ses proches.;Bittet §Y[Actor.RelHead.GetTitledFirstName]§W um eine Scheidung von §Y[Actor.Spouse.GetFirstName]§W. Wegen [Actor.Spouse.GetPossPronoun] Untreue wird das Ersuchen erfolgreich und kostenlos sein. [Actor.Spouse.GetPossPronoun] Verwandten werden es dennoch als Beleidigung auffassen.;; Pida a §Y[Actor.RelHead.GetTitledFirstName]§Y el divorcio de §Y[Actor.Spouse.GetFirstName]§Y. Debido a la infidelidad de [Actor.Spouse.GetPossPronoun], la solicitud no se le puede negar y no costará nada. Sin embargo, todavía será visto como un insulto por los parientes de [Actor.Spouse.GetPossPronoun]. ;;;;;;;;;x
+EVTOPTA301_DESC;[From.GetFirstName] is declared a legitimate [From.GetSonDaughter] with full inheritance rights.\n;[From.GetFirstName] est désormais un/une [From.GetSonDaughter] légitime, et bénéficie des droits complets d'héritage.;[From.GetFirstName] wird als [From.GetSonDaughter] anerkannt und erhält das uneingeschränkte Recht zu erben.;;[From.GetFirstName] es proclamado [From.GetSonDaughter] legítimo, con todos los derechos de herencia.;;;;;;;;;x
+EVTOPTB301_DESC;[From.GetFirstName] remains illegitimate, but is sanctioned as my [From.GetSonDaughter] and can be married off to form alliances. If [From.GetSubjectPronoun] ever has children, a new dynasty will be created for that line.\n;[From.GetFirstName] demeure illégitime, mais est considéré(e) comme mon/ma [From.GetSonDaughter], et peut être marié(e) pour forger des alliances. Si [From.GetSubjectPronoun] a des enfants, une nouvelle dynastie sera créée pour cette lignée.;[From.GetFirstName] bleibt illegitim, wird aber als [From.GetSonDaughter] anerkannt und kann zu Bündniszwecken verheiratet werden. Sollte [From.GetSubjectPronoun] Kinder haben, wird aus dieser Linie eine neue Dynastie entstehen.;;[From.GetFirstName] sigue siendo ilegítimo, pero se aprueba como mi [From.GetSonDaughter] y puede casarse para formar alianzas. Si [From.GetSubjectPronoun] alguna vez tendrá niños, nacerá una nueva dinastía será creado de esa línea.;;;;;;;;;x
+EVTOPTC301_DESC;[From.GetFirstName] is denounced as a bastard with an unknown father, having no official connection to me at all.\n;[From.GetFirstName] est dénoncé(e) comme enfant illégitime issu(e) d'un père inconnu, et ne possède aucun lien officiel avec ma personne.;[From.GetFirstName] wird als Bastard eines Unbekannten gebrandmarkt und hat offiziell keinerlei Beziehung zu mir.;;[From.GetFirstName] es proclamado como un bastardo de padre desconocido, sin ninguna conexión oficial conmigo en absoluto.;;;;;;;;;x
+EVTDESC404_KF;My [GetFromRelation] [From.GetFirstName] is pregnant and I can't possible be the father! The realm is already astir with gossip - everyone knows [From.FatherOfUnborn.GetTitledName] is the real father.;Ma [GetFromRelation] [From.GetFirstName] est enceinte et il est impossible que je sois le père ! Les rumeurs courent déjà dans tout le royaume, et tout le monde sait que [From.FatherOfUnborn.GetTitledName] est le vrai père.;Meine [GetFromRelation] [From.GetFirstName] ist schwanger und ich kann unmöglich der Vater sein! Das Reich ist voller Gerüchte. Jeder weiß, dass in Wirklichkeit [From.FatherOfUnborn.GetTitledName] der Vater ist.;;Mi [GetFromRelation] [From.GetFirstName] está embarazada ¡Y no puedo ser el padre, por nada! El reino ya bulle de chismes -todos saben que [From.FatherOfUnborn.GetTitledName] es el verdadero padre.;;;;;;;;;x
+EVTDESC404_2;My [GetFromRelation] [From.GetFirstName] tells me she is pregnant, but that can't be right, can it?;Ma [GetFromRelation] [From.GetFirstName] me dit qu'elle est enceinte, mais cela doit être une erreur, n'est-ce pas ?;Meine [GetFromRelation] [From.GetFirstName] ist schwanger. Aber da stimmt doch etwas nicht, oder?;;Mi [GetFromRelation] [From.GetFirstName] dice estar embarazada, pero eso no puede ser, ¿no?;;;;;;;;;x
+EVTOPTB404;Denounce them both as traitors!;Les dénoncer tous les deux en tant que traîtres !;Stellt sie beide als Verräter bloß!;;¡Condenad a ambos como traidores! ;;;;;;;;;x
+EVTDESC21001;I have thought it over, and I cannot be the father of my [GetFromRelation] [From.GetFirstName]'s baby. As it grows in her belly, I have trouble sleeping. I must put this matter to rest!;J'ai réfléchi. C'est pratiquement impossible que l'enfant de ma [GetFromRelation] [From.GetFirstName] soit le mien. Alors que le bébé grandit dans son ventre, je peine à dormir. Je dois oublier tout ça !;Wenn ich darüber nachdenke, kann ich unmöglich der Vater des Kindes meiner [GetFromRelation] [From.GetFirstName] sein. Der Gedanke an dieses Kind, das in ihrem Bauch heranwächst, raubt mir den Schlaf. Die Sache muss aus der Welt geschafft werden!;;Lo he pensado, y no puedo ser el padre del bebé de mi [GetFromRelation] [From.GetFirstName]. Mientras crece en su vientre, me cuesta dormir. ¡Debo poner fin a este asunto! ;;;;;;;;;x
+EVTOPTA21001;Hire someone to find out;Engager quelqu'un pour le découvrir;Jemanden anwerben, um Nachforschungen anzustellen;;Contrata a alguien para averiguarlo;;;;;;;;;x
+EVTOPTB21001;No, I trust her word!;Non, j'ai confiance en elle !;Nein, ich vertraue ihr!;;¡No, confío en su palabra! ;;;;;;;;;x
+EVTDESC21003;The maid I paid to spy on my [GetFromRelation] has confirmed my suspicions - [From.FatherOfUnborn.GetTitledName] is [From.GetFirstName]'s lover and the real father of the child!;La domestique que j'ai payée pour espionner [GetFromRelation] a confirmé mes soupçons : [From.FatherOfUnborn.GetTitledName] est l'amant de [From.GetFirstName] et le vrai père de l'enfant !;Die Magd, die ich als Spionin auf meine [GetFromRelation] angesetzt habe, bestätigt meinen Verdacht. [From.FatherOfUnborn.GetTitledName] ist der Liebhaber von [From.GetFirstName] und in Wirklichkeit der Vater des Kindes!;;¡La criada que pagué para espiar a mi [GetFromRelation] ha confirmado mis sospechas – [From.FatherOfUnborn.GetTitledName] es amante de [From.GetFirstName] y el verdadero padre del niño! ;;;;;;;;;x
+EVTDESC21003_CR;The woman I hired to spy on my [GetFromRelation] [From.GetFirstName] has found out the shocking truth about her pregnancy. I was right, I am not the father... [From.FatherOfUnborn.GetTitledFirstName] is, her own [GetFromVsFatherOfUnbornRelation]!;La femme que j'ai engagée pour espionner ma [GetFromRelation] [From.GetFirstName] a découvert la vérité troublante de sa grossesse. J'avais raison, je ne suis pas le père... C'est [From.FatherOfUnborn.GetTitledFirstName] qui l'est, son propre [GetFromVsFatherOfUnbornRelation] !;Die Frau, die ich auf meine [GetFromRelation] [From.GetFirstName] angesetzt habe, hat die schreckliche Wahrheit über ihre Schwangerschaft herausgefunden. Ich hatte recht. Ich bin nicht der Vater, sondern [From.FatherOfUnborn.GetTitledFirstName] ist es, ihr eigener [GetFromVsFatherOfUnbornRelation]!;;La mujer que contraté para espiar a mi [GetFromRelation] [From.GetFirstName] ha encontrado a la escandalosa verdad sobre su embarazo. Yo estaba en lo cierto, no soy el padre... ¡Sino [From.FatherOfUnborn.GetTitledFirstName], su propio [GetFromVsFatherOfUnbornRelation]! ;;;;;;;;;x
+EVTOPTA21003;By [Root.Religion.GetRandomGodName], I had better keep this quiet!;Nom de [Root.Religion.GetRandomGodName], je ferais bien de ne pas parler de ceci !;Bei [Root.Religion.GetRandomGodName]. Ich muss diese Sache unter Verschluss halten!;;¡Por [Root.Religion.GetRandomGodName]debería guardar esto en secreto! ;;;;;;;;;x
+EVTOPTB21003;Unholy! Expose the traitors!;Blasphème ! Dénoncez les traitres !;Welch eine Gottlosigkeit! Prangert die Verräter öffentlich an!;;¡Impío! ¡Exponed a los traidores! ;;;;;;;;;x
+EVTOPTC21003;Holy... but treasonous. Expose them!;Sacré... mais perfide. Dénoncez-les !;Heiliger B... aber dennoch: Verrat. Macht es öffentlich!;;Pío... Pero traicionero. ¡Exponedlos! ;;;;;;;;;x
+EVTOPTD21003;This is High Treason!;Ceci relève de la haute trahison !;Das ist Hochverrat!;;¡Esto es alta traición! ;;;;;;;;;x
+EVTDESC21005;My [GetFromRelation] just stormed in, roaring and smashing chairs. He knows about my affair with [Root.FatherOfUnborn.GetTitledFirstName]. He knows the child I carry is not his...;Mon [GetFromRelation] vient tout juste de rentrer, hurlant et brisant des chaises à tout bout de champ. Il est au courant de ma liaison avec [Root.FatherOfUnborn.GetTitledFirstName]. Il sait aussi que l'enfant que je porte n'est pas le sien…;Mein [GetFromRelation] stürmte soeben wutentbrannt in meine Gemächer. Er weiß von meiner Affäre mit [Root.FatherOfUnborn.GetTitledFirstName]. Und er weiß, dass das Kind nicht von ihm ist ...;;Mi [GetFromRelation] ha entrado violentamente, gritando y destrozando sillas. Conoce mi relación con [Root.FatherOfUnborn.GetTitledFirstName]. Sabe el niño que llevo no es el suyo...;;;;;;;;;x
+EVTOPTA21005;The flesh is weak...;La chair est faible…;Das Fleisch ist schwach...;;La carne es débil...;;;;;;;;;x
+EVTDESC21006;[From.GetTitledName] knows about my affair with [FromFrom.GetTitledFirstName]. He knows the child she carries is actually mine...;[From.GetTitledName] est au courant de ma liaison avec [FromFrom.GetTitledFirstName]. Il sait que l'enfant qu'elle porte est en fait le mien...;[From.GetTitledName] weiß von meiner Affäre mit [FromFrom.GetTitledFirstName]. Er weiß nun, dass sie von mir schwanger ist.;;[From.GetTitledName] sabe de mi aventura con [FromFrom.GetTitledFirstName]. Sabe que el niño que lleva es mío en realidad...;;;;;;;;;x
+EVTOPTA21006;This could spell my doom!;Ceci pourrait être ma fin !;Das könnte mein Untergang sein!;;¡Esto podría ser mi perdición! ;;;;;;;;;x
+EVTOPTB21006;How embarrassing!;Comme c'est embarrassant !;Wie peinlich!;;¡Qué vergüenza! ;;;;;;;;;x
+EVTDESC21010;The maid I hired to gain my [GetFromRelation] [From.GetFirstName]'s confidence has not found anything at all suspicious about her pregnancy.;La domestique que j'ai engagée pour gagner la confiance de ma [GetFromRelation] [From.GetFirstName] n'a rien trouvé de suspect vis-à-vis de sa grossesse.;Die Magd, die sich mit meiner [GetFromRelation] [From.GetFirstName] anfreunden sollte, hat nichts Verdächtiges bezüglich ihrer Schwangerschaft bemerkt.;;La criada que contraté para ganar la confianza de [GetFromRelation] [From.GetFirstName] no ha encontrado nada sospechoso en su embarazo.;;;;;;;;;x
+EVTOPTA21010;That's a relief!;Quel soulagement !;Das ist erleichternd!;;¡Qué alivio! ;;;;;;;;;x
+EVTOPTB21010;I must KNOW. I will confront her directly!;Je dois SAVOIR. Je vais la confronter directement !;Ich muss es wissen. Ich werde sie direkt darauf ansprechen!;;Tengo que saber. ¡Me enfrentaré a ella directamente! ;;;;;;;;;x
+EVTOPTC21010;Hire more spies!;Engager plus d'espions !;Heuert mehr Spione an!;;¡Contratad a más espías! ;;;;;;;;;x
+EVTOPTD21010;Lay a trap for her;Lui tendre un piège;Lockt sie in eine Falle;;Tendedle una trampa;;;;;;;;;x
+EVTDESC21011;The spies I hired at great expense to discover anything suspicious about my [GetFromRelation] [From.GetFirstName] and her pregnancy have failed to turn up anything at all.;Les espions que j'ai engagés à prix fort pour découvrir les secrets de ma [GetFromRelation] [From.GetFirstName] et de sa grossesse n'ont pas réussi à trouver quoi que ce soit.;Die Spione, die ich für viel Geld angeheuert habe, konnten nichts Verdächtiges über meine [GetFromRelation] [From.GetFirstName] und ihre Schwangerschaft herausfinden.;;Los espías que contraté al gran costo para descubrir algo sospechoso sobre mi [GetFromRelation] [From.GetFirstName]y su embarazo no han podido levantar algo en absoluto.;;;;;;;;;x
+EVTOPTA21011;I guess the child must be mine then..?;J'imagine que l'enfant est, dans ce cas, le mien... ?;Dann ist das Kind wohl doch von mir, oder?;;Supongo que el niño debe ser el mío entonces...;;;;;;;;;x
+EVTDESC21012;My dear [GetFromRelation] [From.GetFirstName] is suspicious of my pregnancy. He is here right now asking me if the child is really his!;Mon cher [GetFromRelation] [From.GetFirstName] porte des soupçons à l'égard de ma grossesse. Il me demande si l'enfant est bien le sien !;Mein lieber [GetFromRelation] [From.GetFirstName] schöpft Verdacht wegen meiner Schwangerschaft. Er fragt mich nun, ob dieses Kind wirklich von ihm ist!;;Mi querido [GetFromRelation] [From.GetFirstName] sospecha de mi embarazo. ¡Está aquí ahora preguntando si el niño es realmente suyo. ;;;;;;;;;x
+EVTOPTA21012;Ensure him of my faithfulness!;L'assurer de ma fidélité !;Ich versichere ihm, niemals untreu gewesen zu sein!;;¡Aseguradle mi fidelidad! ;;;;;;;;;x
+EVTOPTB21012;Tearfully admit my affair with [Root.FatherOfUnborn.GetTitledFirstName];Fondre en larmes et admettre ma liaison avec [Root.FatherOfUnborn.GetTitledFirstName];Ich gebe unter Tränen zu, eine Affäre mit [Root.FatherOfUnborn.GetTitledFirstName] gehabt zu haben.;;Admitir mi romance con [Root.FatherOfUnborn.GetTitledFirstName] con lágrimas en los ojos.;;;;;;;;;x
+EVTOPTC21012;He's such a baby. Wrap him around my finger.;Il est pire qu'un enfant. L'entourlouper.;Er ist so ein Baby. Ich werde ihn um den kleinen Finger wickeln.;;Es un bebé. Lo tengo en mis manos.;;;;;;;;;x
+EVTDESC21013;[From.GetFirstName] started crying when I asked her if she's being unfaithful. She profusely ensures me of her undying love, virtue and steadfastness...;[From.GetFirstName] s'est mise à pleurer quand je lui ai demandé si elle m'avait été infidèle. Elle me garantit avec profusion son amour éternel, sa vertu et sa constance ...;[From.GetFirstName] begann zu weinen, als ich sie auf die Schwangerschaft ansprach und versicherte mir, dass sie mich unsterblich liebe und mir unverbrüchlich treu sei...;;[From.GetFirstName] se echó a llorar cuando le pregunté si ella es infiel. Ella me asegura profusamente su amor eterno, virtud y firmeza;;;;;;;;;x
+EVTOPTA21013;I'll never be entirely sure...;Je ne pourrai jamais être sûr...;Ich werde nie ganz sicher sein...;;Nunca estaré seguro del todo...;;;;;;;;;x
+EVTDESC21003_CONF;When asked outright, my [GetFromRelation] [From.GetFirstName] broke down and tearfully admitted to having an affair with [From.FatherOfUnborn.GetTitledName], blubbering about mercy and forgiveness!;Quand je lui ai demandé face à face, ma [GetFromRelation] [From.GetFirstName] a éclaté en sanglots et m'a avoué sa liaison avec [From.FatherOfUnborn.GetTitledName], pleurnichant sur la clémence et mon pardon !;Als ich sie direkt darauf ansprach, brach meine [GetFromRelation] [From.GetFirstName] zusammen und gestand unter Tränen eine Affäre mit [From.FatherOfUnborn.GetTitledName]. Anschließend plapperte sie etwas von Gnade und Vergebung!;;¡Cuando se le preguntó directamente, mi [GetFromRelation] [From.GetFirstName] se vino abajo y llorosa confesó tener una aventura con [From.FatherOfUnborn.GetTitledName] llorando sobre misericordia y perdón! ;;;;;;;;;x
+EVTDESC21003_CONF_CR;When asked outright, my [GetFromRelation] [From.GetFirstName] broke down and tearfully admitted to having an affair with [From.FatherOfUnborn.GetTitledName] - her own [GetFromVsFatherOfUnbornRelation]!;Quand je lui ai demandé face à face, ma [GetFromRelation] [From.GetFirstName] a éclaté en sanglots et a admis sa liaison avec [From.FatherOfUnborn.GetTitledName], son propre [GetFromVsFatherOfUnbornRelation] !;Als ich sie direkt darauf ansprach, brach meine [GetFromRelation] [From.GetFirstName] zusammen und gestand unter Tränen eine Affäre mit [From.FatherOfUnborn.GetTitledName], ihrem eigenen [GetFromVsFatherOfUnbornRelation]!;;Cuando se le preguntó directamente,mi [ GetFromRelation][From.GetFirstName], se vino abajo y llorando admitió tener un aventura con [From.FatherOfUnborn.GetTitledName] ¡su propio [GetFromVsFatherOfUnbornRelation]! ;;;;;;;;;x
+EVTDESC21015;[From.GetFirstName] got angry when I confronted her about the pregnancy, saying she lives in a prison and that I am denying her even the most basic freedoms...;[From.GetFirstName] s'est mise en colère quand je l'ai confrontée à propos de sa grossesse. Elle affirme qu'elle vit dans une prison, et que je la prive des libertés les plus élémentaires...;[From.GetFirstName] reagierte ärgerlich auf meine Fragen zu ihrer Schwangerschaft und behauptete, sie lebe wie in einem Gefängnis, in dem ihr nicht einmal die geringste Freiheit gegönnt sei.;;[From.GetFirstName] se enojó cuando me enfrenté a ella sobre el embarazo, diciendo que vive en una prisión y que le niego incluso las libertades más básicas.;;;;;;;;;x
+EVTOPTA21015;Now I feel guilty...;Maintenant, je me sens coupable...;Nun fühle ich mich schuldig...;;Ahora me siento culpable ...;;;;;;;;;x
+EVTDESC21016;I found a note from my beloved [Root.FatherOfUnborn.GetTitledFirstName] to meet him behind the smithy today, but it was my [GetFromRelation] [From.GetFirstName] who waited for me there!;J'ai trouvé un mot de la part de mon cher [Root.FatherOfUnborn.GetTitledFirstName] disant de le rejoindre derrière la forge aujourd'hui, mais c'était mon [GetFromRelation] [From.GetFirstName] qui m'attendait sur le lieu de rendez-vous !;Ich fand eine Nachricht meines geliebten [Root.FatherOfUnborn.GetTitledFirstName]. Hinter der Schmiede solle ich mich heute mit ihm treffen, doch mein [GetFromRelation] [From.GetFirstName] war es, der dort auf mich wartete!;;¡Encontré una nota de mi amado [Root.FatherOfUnborn.GetTitledFirstName] para reunirme hoy con él detrás de la herrería, pero era mi [GetFromRelation] [From.GetFirstName] el que me esperaba allí! ;;;;;;;;;x
+EVTOPTA21016;Darling, I can explain!;Chéri, je peux tout expliquer !;Liebling, ich kann alles erklären!;;¡Querido, te lo puedo explicar! ;;;;;;;;;x
+EVTTOOLTIP21003_TRAP;[This.GetFirstName] flies into a rage!;[This.GetFirstName] entre dans une colère noire !;[This.GetFirstName] beginnt zu toben!;;¡[This.GetFirstName] es presa de la rabia! ;;;;;;;;;x
+EVTDESC21003_TRAP;I planted a note in my [GetFromRelation]'s bedroom, instructing her to meet her lover behind the smithy. I stood there waiting, hoping she wouldn't come... but she did. She confessed to an affair with [From.FatherOfUnborn.GetTitledName]!;J'ai mis un mot dans la chambre de ma [GetFromRelation], en lui disant de rejoindre son amant derrière la forge. Je me tenais au point de rendez-vous, espérant qu'elle ne viendrait pas... mais en vain. Elle a admis sa liaison avec [From.FatherOfUnborn.GetTitledName] !;Ich habe im Schlafzimmer meiner [GetFromRelation] eine Nachricht hinterlassen, in der von einem Treffen mit ihrem Geliebten hinter der Schmiede die Rede war. Dort wartete ich auf sie, auch wenn ich hoffte, dass sie nicht erscheinen würde. Doch sie erschien und gestand eine Affäre mit [From.FatherOfUnborn.GetTitledName]!;;Puse una nota en la alcoba de mi [GetFromRelation] instruyéndola para encontrar a su amante detrás de la herrería. Me puse allí para esperarla, esperando que no viniera... pero hizo. ¡Admitió una aventura con [From.FatherOfUnborn.GetTitledName]! ;;;;;;;;;x
+EVTDESC21003_TRAP_CR;I planted a note in my [GetFromRelation]'s bedroom, instructing her to meet her lover behind the smithy. She came alright, and brokenly confessed to an affair with [From.FatherOfUnborn.GetTitledName] - her own [GetFromVsFatherOfUnbornRelation]!;J'ai mis un mot dans la chambre de ma [GetFromRelation], en lui disant de rejoindre son amant derrière la forge. Elle est venue sans faute, et a désespérément admis sa liaison avec [From.FatherOfUnborn.GetTitledName], son propre [GetFromVsFatherOfUnbornRelation] !;Ich habe im Schlafzimmer meiner [GetFromRelation] eine Nachricht hinterlassen, in der von einem Treffen mit ihrem Geliebten hinter der Schmiede die Rede war. Sie erschien tatsächlich dort und gestand eine Affäre mit [From.FatherOfUnborn.GetTitledName], ihrem eigenen [GetFromVsFatherOfUnbornRelation]!;;Yo planté una nota en mi [GetFromRelation] dormitorio instruyéndola de encontrar a su amante detrás de la herrería. Ella vino, y confesó tener un romance con [FatherOfUnborn.GetTitledName] ¡su propia [GetFromVsFatherOfUnbornRelation]! ;;;;;;;;;x
+EVTTOOLTIP64046;[This.GetFirstName] and [Root.GetTitledFirstNameNoRegnal] break off their love affair;[This.GetFirstName] et [Root.GetTitledFirstNameNoRegnal] mettent fin à leur liaison;[This.GetFirstName] und [Root.GetTitledFirstNameNoRegnal] beenden ihre Affäre;;[This.GetFirstName] y [Root.GetTitledFirstNameNoRegnal] rompen su relación amorosa.;;;;;;;;;x
+alert_no_focus_name;Pick a Focus;Choisir un objectif;Wählt einen Fokus;;Escoge un enfoque;;;;;;;;;x
+alert_no_focus_instant;§YPick a Character Focus§!;§YChoisir un intérêt de personnage§!;§YWählt einen Charakterfokus§!;;§YEscoge un enfoque de carácter§! ;;;;;;;;;x
+alert_no_focus_delayed;You should pick a Focus for your character;Vous devriez choisir un intérêt pour votre personnage;Ihr müsst einen Fokus für Euren Charakter auswählen;;Debes elegir un enfoque para tu personaje;;;;;;;;;x
+opinion_unfaithful_wife;Unfaithful Harlot;Traînée infidèle;Untreues Flittchen;;Ramera Infiel;;;;;;;;;x
+opinion_unfaithful_husband;Unfaithful Lecher;Obsédé infidèle;Untreuer Lüstling;;Libertino Infiel;;;;;;;;;x
+opinion_cuckolded;Cuckolded;Cocu;Betrogen;;Cornudo;;;;;;;;;x
+opinion_chasing_friend;Seducing my Friend;Séduire mon ami(e);Verführung meines Freundes;;Seduciendo a mi Amigo;;;;;;;;;x
+opinion_chasing_spouse;Seducing my Spouse;Séduire mon époux(se);Verführung meines Ehepartners;;Seduciendo a mi Cónyuge;;;;;;;;;x
+opinion_chasing_child;Seducing my Child;Séduire mon enfant;Verführung meines Kindes;;Seduciendo a mi Hijo/Hija;;;;;;;;;x
+adulterer;Adulterer;Homme adultère;Ehebrecher;;Adúltero;;;;;;;;;x
+adulteress;Adulteress;Femme adultère;Ehebrecherin;;Adúltera;;;;;;;;;x
+known_sodomite;Known Sodomite;Sodomite reconnu;Bekannter Sodomit;;Conocido Sodomita;;;;;;;;;x
+cradle_robber;Cradle Robber;Amateur de chair fraîche;Kindsräuber;;Asaltacunas;;;;;;;;;x
+incestuous_adulterer;Incestuous Adulterer;Adultère incestueux;Inzestuöser Ehebrecher;;Adúltero incestuoso;;;;;;;;;x
+incestuous_adulteress;Incestuous Adulteress;Adultère incestueuse;Inzestuöse Ehebrecherin;;Adúltera Incestuosa;;;;;;;;;x
+opinion_suspected_adultery;Suspected Adultery;Adultère soupçonné;Vermeintlicher Ehebruch;;Sospecha de adulterio;;;;;;;;;x
+opinion_regrets_accusation;Regrets Accusation;Regrette ses accusations;Bereut die Anschuldigungen;;Lamenta acusación;;;;;;;;;x
+opinion_advance_rejected;Advance Rejected;Avances rejetées;Avancen zurückgewiesen;;Avances Rechazado;;;;;;;;;x
+opinion_killed_lover;Killed Lover;A tué son amant;Ermordet Geliebte/n;;Amante muerto;;;;;;;;;x
+adulterous_priest;Adulterous Priest;Prêtre adultère;Ehebrechender Priester;;Sacerdote Adúltero;;;;;;;;;x
+wol_seducer_1;Aspiring Seducer;Séducteur en herbe;Angehender Verführer;;Aspirante a seductor;;;;;;;;;x
+desc_wol_seducer_1;This character is learning the arts of attraction and the thrill of the chase...;Ce personnage apprend l'art de l'attraction et l'excitation de courtiser...;Diese Person lernt die Kunst der Verführung und den Nervenkitzel der Jagd.;;Este personaje está aprendiendo el arte de la atracción y la emoción de la persecución...;;;;;;;;;x
+wol_seducer_2;Seducer;Séducteur;Verführer;;Seductor;;;;;;;;;x
+desc_wol_seducer_2;This character is a well known seducer and heartbreaker.;Ce personnage est un séducteur reconnu, et un bourreau des cœurs.;Diese Person versteht sich aufs Verführen und hat schon so manches Herz gebrochen.;;Este personaje es un conocido seductor y rompecorazones;;;;;;;;;x
+wol_court_tomcat;Court Tomcat;Coureur de la cour;Hofcasanova;;Mujeriego de la corte;;;;;;;;;x
+desc_wol_court_tomcat;This man is a notorious tail chaser who runs circles around jealous husbands and lovers.;Cet homme est connu pour courir les jupons et pour éviter les maris et amants jaloux.;Dieser Mann ist ein notorischer Schürzenjäger, der eifersüchtige Ehemänner und Liebhaber locker austrickst.;;Este hombre es un célebre cazafaldas que da vueltas en torno a maridos y amantes celosos.;;;;;;;;;x
+wol_court_vixen;Court Vixen;Diablesse de la cour;Hofluder;;Arpía de la Corte;;;;;;;;;x
+desc_wol_court_vixen;This lady is a notorious minx who knows all about outmanoeuvring jealous wives and lovers.;Cette dame est une mijaurée très connue, experte dans l'art de manipuler les femmes et les maîtresses jalouses.;Diese Dame ist eine echte Schlampe, die alles über den Umgang mit eifersüchtigen Ehefrauen und Liebhabern weiß.;;Esta dama célebre descarada que lo sabe todo sobre superar a esposas y amantes celosas.;;;;;;;;;x
+wol_refused_duel;Refused to Duel;A refusé un duel;Duell abgelehnt;;Rechazado a duelo;;;;;;;;;x
+desc_wol_refused_duel;Challenged to an honorably duel, this character cravenly refused.;Au défi d'un duel honorable, ce personnage a lâchement refusé.;Diese Person hat die Aufforderung zum Duell feige ausgeschlagen.;;Desafiado a un duelo honorable duelo, este personaje cobarde se negó.;;;;;;;;;x
+FOCUS;Focus;Intérêt;Fokus;;Foco;;;;;;;;;x
+MILADY;Milady;Ma Dame;Milady;;Milady;;;;;;;;;x
+MILORD;Milord;Mon Sieur;Milord;;Milord;;;;;;;;;x
+CHOOSE_FOCUS_OR_AMBITION;Choose Focus or Ambition;Choisir l'intérêt ou l'ambition;Fokus oder Ambition wählen;;Elije Foco o Ambición;;;;;;;;;x
+FOCUSABORTED_SETUP;Focus Abandoned;Intérêt abandonné;Fokus aufgegeben;;Foco Abandonado;;;;;;;;;x
+FOCUSABORTED_LOG;§Y$CHARNAME$§! can no longer focus on §Y$FOCUS$§!.;§Y$CHARNAME$§! ne peut plus se concentrer sur §Y$FOCUS$§!.;§Y$CHARNAME$§! kann den Fokus §Y$FOCUS$§! nicht beibehalten.;;¡§Y$CHARNAME$§! ya no se puede centrarse en §Y$FOCUS$§! ;;;;;;;;;x
+FOCUSABORTED_LETTER;My current situation prevents me from focusing on $FOCUS$.;Ma situation actuelle m'empêche de me concentrer sur $FOCUS$.;Meine aktuelle Situation macht den Fokus auf $FOCUS$ unmöglich.;;Mi situación actual me impide enfocarme $FOCUS$;;;;;;;;;x
+HAS_FOCUS;Focusing on §Y$FOCUS$§!;Je me concentre sur §Y$FOCUS$§!;Fokus auf §Y$FOCUS$§!;;Enfocar §Y$FOCUS$§! ;;;;;;;;;x
+HAS_A_FOCUS;Has a Focus;A un intérêt;Hat einen Fokus;;Tiene un Foco;;;;;;;;;x
+HAS_NO_FOCUS;Has no Focus;N'a aucun intérêt;Hat keinen Fokus;;No tiene Foco;;;;;;;;;x
+SET_FOCUS_EFFECT;$CHAR$ gets the Focus §Y$FOCUS$§!\n;$CHAR$ obtient l'intérêt §Y$FOCUS$§!\n;$CHAR$ erhält den Fokus §Y$FOCUS$§!\n;;$CHAR$ consigue el Foco §Y$FOCUS$§! \n;;;;;;;;;x
+focus_rulership_title;Rulership;Souveraineté;Herrschaft;;Regencia;;;;;;;;;x
+focus_rulership_desc;[This.GetTitledFirstName] spends [This.GetPossPronoun] time and effort trying to govern well.;[This.GetTitledFirstName] passe son temps et ses efforts à essayer d'être un bon suzerain.;[This.GetTitledFirstName] verwendet [This.GetPossPronoun] Zeit und Energie auf die Steigerung der Führungsqualitäten.;;[This.GetTitledFirstName] invierte [This.GetPossPronoun] tiempo y esfuerzo tratando de gobernar bien.;;;;;;;;;x
+RULERSHIP_FOCUS;Rulership Focus;Intérêt de souveraineté;Herrschaftsfokus;;Foco de Regencia;;;;;;;;;x
+focus_business_title;Business;Affaires;Wirtschaft;;Negocios;;;;;;;;;x
+focus_business_desc;[This.GetTitledFirstName] fraternizes with burghers and merchants, seeking to unravel the enigma of gold.;[This.GetTitledFirstName] fraternise avec les citadins et les marchands dans l'espoir de résoudre l'énigme de l'or...;[This.GetTitledFirstName] verbrüdert sich mit Bürgern und Händlern, um alles über Wege zum Reichtum zu erfahren.;;[This.GetTitledFirstName] fraterniza con burgueses y comerciantes, tratando de desentrañar el enigma del oro...;;;;;;;;;x
+BUSINESS_FOCUS;Business Focus;Intérêt d'affaires;Wirtschaftsfokus;;Foco del Negocio;;;;;;;;;x
+focus_seduction_title;Seduction;Séduction;Verführung;;Seducción;;;;;;;;;x
+focus_seduction_desc;[This.GetTitledFirstName] hones [This.GetPossPronoun] skills of attraction, for thrills and power. This Focus unlocks the §YSeduce§! option vs suitable targets.;[This.GetTitledFirstName] aiguise ses talents d'attraction en quête de sensations fortes et de puissance.\nCet intérêt débloque l'option §YSéduction§! contre les cibles applicables.;[This.GetTitledFirstName] verfeinert [This.GetPossPronoun] Anziehungskraft aus Gründen des Nervenkitzels und des Machtgefühls.\nDieser Fokus schaltet die Option §YVerführen§! gegenüber passenden Zielpersonen frei.;;[This.GetTitledFirstName] afilia [This.GetPossPronoun] habilidades de atracción, por emociones y poder. \nEste enfoque desbloquea la opción §YSeduce§! contra objetivos adecuados.;;;;;;;;;x
+SEDUCTION_FOCUS;Seduction Focus;Intérêt de séduction;Verführungsfokus;;Foco de Seducción;;;;;;;;;x
+focus_intrigue_title;Intrigue;Intrigue;Intrige;;Intrigar;;;;;;;;;x
+#focus_intrigue_desc;[This.GetTitledFirstName] seeks to become a better schemer, spending most of [This.GetPossPronoun] time engrossed in court intrigue. This Focus unlocks the §YAbduct§! option vs suitable targets.;[This.GetTitledFirstName] aspire à maîtriser l'art de la stratégie, et passe son temps à dénouer les intrigues de la cour.\nCet intérêt débloque l'option §YEnlèvement§! contre les cibles adéquates.;[This.GetTitledFirstName] möchte die Fähigkeit zum Ränkeschmieden verbessern und verbringt den Großteil [This.GetPossPronoun] Zeit mit Hofintrigen.\nDieser Fokus schaltet die Option §YEntführen§! bei passenden Zielpersonen frei.;;[This.GetTitledFirstName] procura hacerse un mejor intrigante, pasando la mayor parte de [This.GetPossPronoun] tiempo absorto en intrigas de la corte.\nEste Foco desbloquea el §Ysecuestrar§! opción contra objetivos adecuados.;;;;;;;;;x
+INTRIGUE_FOCUS;Intrigue Focus;Intérêt d'intrigue;Intrigenfokus;;Foco de la Intriga;;;;;;;;;x
+focus_hunting_title;Hunting;Chasse;Jagd;;Caza;;;;;;;;;x
+focus_hunting_desc;[This.GetTitledFirstName] travels the realm making friends and killing off [This.Religion.GetHighGodName]'s creatures.;[This.GetTitledFirstName] voyage dans le royaume, tout en se faisant des amis et en éliminant les créatures de [This.Religion.GetRandomGodName].;[This.GetTitledFirstName] bereist das Reich, gewinnt Freunde und bringt dabei  die Geschöpfe von [This.Religion.GetRandomGodName] zur Strecke.;;[This.GetTitledFirstName] viaja por el mundo haciendo amigos y matando criaturas de [This.Religion.GetRandomGodName];;;;;;;;;x
+HUNTING_FOCUS;Hunting Focus;Intérêt de chasse;Jagdfokus;;Foco de Caza;;;;;;;;;x
+focus_war_title;War;Guerre;Krieg;;Guerra;;;;;;;;;x
+focus_war_desc;[This.GetTitledFirstName] engages in all things martial, from melee training to reading the works of ancient generals. This Focus unlocks the §YDuel§! action vs rivals and foes.;[This.GetTitledFirstName] s'engage dans les arts de la guerre, depuis l'entraînement au corps à corps jusqu'aux stratégies des anciens généraux.;[This.GetTitledFirstName] beschäftigt sich mit der Kriegskunst, vom Nahkampftraining bis zur Lektüre der Werke uralter Generäle.;;[This.GetTitledFirstName] participa en todo lo marcial, de entrenamiento en combate cuerpo a cuerpo a leer las obras de antiguos generales.;;;;;;;;;x
+WAR_FOCUS;War Focus;Intérêt de guerre;Kriegsfokus;;Foco de Guerra;;;;;;;;;x
+focus_carousing_title;Carousing;Popularité;Zecherei;;Juerguista;;;;;;;;;x
+focus_carousing_desc;[This.GetTitledFirstName] strives to become more popular and outgoing by hosting wild parties. This Focus unlocks the §YInvite to Carousing§! option vs suitable targets.;[This.GetTitledFirstName] cherche à devenir plus populaire et plus sociable en organisant de grandes fêtes.;[This.GetTitledFirstName] möchte beliebter und geselliger werden und veranstaltet deshalb wilde Feste.;;[This.GetTitledFirstName] se esfuerza por hacerse más popular y sociable acogiendo fiestas salvajes.;;;;;;;;;x
+CAROUSING_FOCUS;Carousing Focus;Intérêt de popularité;Zechereifokus;;Foco de Juerga;;;;;;;;;x
+focus_family_title;Family;Famille;Familie;;Familia;;;;;;;;;x
+focus_family_desc;[This.GetTitledFirstName] concentrates on family life, ensuring better relations between all family members.;[This.GetTitledFirstName] se concentre sur sa famille, garantissant ainsi de meilleures relations entre tous les membres de cette dernière.;[This.GetTitledFirstName] konzentriert sich auf das Familienleben, um für eine bessere Beziehung zwischen allen Familienmitgliedern zu sorgen.;;[This.GetTitledFirstName] se centra en la vida familiar para asegurar mejores relaciones entre todos los miembros de la familia;;;;;;;;;x
+FAMILY_FOCUS;Family Focus;Intérêt de famille;Familienfokus;;Foco de la Familia;;;;;;;;;x
+focus_scholarship_title;Scholarship;Éducation;Gelehrsamkeit;;Beca;;;;;;;;;x
+focus_scholarship_desc;[This.GetTitledFirstName] buries [This.GetPossPronoun] nose in dusty old tomes, seeking knowledge and learning.;[This.GetTitledFirstName] plonge le nez dans de vieux tomes à la recherche de connaissances et de savoir.;[This.GetTitledFirstName] steckt [This.GetPossPronoun] Nase in alte Wälzer und strebt nach Wissen und Weisheit.;;[This.GetTitledFirstName] mete [This.GetPossPronoun] nariz en tomos polvorientos antiguos, buscando conocimiento y aprendizaje.;;;;;;;;;x
+SCHOLARSHIP_FOCUS;Scholarship Focus;Intérêt d'éducation;Gelehrsamkeitsfokus;;Foco de la Beca;;;;;;;;;x
+focus_theology_title;Theology;Théologie;Theologie;;Teología ;;;;;;;;;x
+focus_theology_desc;[This.GetTitledFirstName] leads a religious life of contemplation, prayer and meditation.;[This.GetTitledFirstName] mène une vie religieuse pleine de contemplation, de prières et de méditation.;[This.GetTitledFirstName] führt ein Leben, das der Religion, der Besinnung und der Meditation gewidmet ist.;;[This.GetTitledFirstName] lleva una vida religiosa de contemplación, rezo y meditación.;;;;;;;;;x
+THEOLOGY_FOCUS;Theology Focus;Intérêt de théologie;Theologiefokus;;Foco de la Teología;;;;;;;;;x
+seduce_decision;Seduce;Séduction;Verführung;;Seducir;;;;;;;;;x
+seduce_decision_desc;Focus your seduction efforts on §Y[This.GetTitledFirstName]§! in the hopes of gaining a new lover...;Concentrez vos efforts de séduction sur §Y[This.GetTitledFirstName]§! dans l'espoir de gagner son cœur...;Konzentriert Eure Verführungskünste auf §Y[This.GetTitledFirstName]§!, um so womöglich einen neuen Liebhaber zu finden.;;Enfoca tus esfuerzos de la seducción en §Y[This.GetTitledFirstName]! esperando obtener un nuevo amante...;;;;;;;;;x
+DIP_PERFORM_ACTION;Do it!;Allons-y !;Aber sicher!;;¡Hazlo! ;;;;;;;;;x
+opinion_seducing;Seducing;Séduction;Verführt;;Seducir;;;;;;;;;x
+opinion_seduced_attracted;Attracted;Attiré;Angezogen;;Atraído;;;;;;;;;x
+opinion_seduced_repelled;Repelled;Rejeté;Abgestoßen;;Rechazado;;;;;;;;;x
+opinion_seduced_yearning;Yearning;Envieux;Sehnsüchtig;;Ansioso;;;;;;;;;x
+seducer;Master Seducer;Maître séducteur;Meisterverführer;;Maestro Seductor;;;;;;;;;x
+seducer_desc;This man is a notorious rake and debaucher who leaves a trail of broken hearts - and bastards - in his wake.;Cet homme est un tombeur et un débauché de renom qui laisse derrière lui une trainée de cœurs brisés (et d'enfants bâtards).;Dieser Mann ist ein notorischer Wüstling und Schwerenöter, der viele gebrochene Herzen und so manchen Bastard zu verantworten hat.;;Este hombre es un famoso vividor y libertino que deja un rastro de corazones rotos -y bastardos– a su paso.;;;;;;;;;x
+seductress;Master Seductress;Maîtresse séductrice;Meisterverführerin;;Maestra seductora;;;;;;;;;x
+seductress_desc;This woman is an infamous siren and temptress whose virtue is certainly in doubt...;Cette femme est une sirène et tentatrice reconnue dont la vertu est fort douteuse...;Diese Frau ist eine berüchtigte Sirene und Verführerin, deren Tugend mehr als zweifelhaft ist.;;Esta mujer es una sirena infame y tentadora cuya virtud está ciertamente en duda...;;;;;;;;;x
+administrator;Administrator;Administrateur;Verwalter;;Administrador;;;;;;;;;x
+administrator_desc;This character is a devoted administrator who loves order and efficiency above all things.;Ce personnage est un administrateur dévoué qui adore l'ordre et l'efficacité par-dessus tout.;Diese Person ist ein pflichtbewusster Verwalter, die in allen Dingen die Ordnung und Effizienz liebt.;;Este personaje es un administrador dedicado que ama el orden y la eficiencia por encima de todo.;;;;;;;;;x
+architect;Architect;Architecte;Architekt;;Arquitecto/a;;;;;;;;;x
+architect_desc;This character loves buildings, architecture and machinery, particularly anything related to siege warfare.;Ce personnage adore les bâtiments, l'architecture et la machinerie, particulièrement tout ce qui concerne la guerre de siège.;Diese Person liebt Gebäude, Architektur und Maschinen, besonders wenn sie für den Belagerungskrieg verwendet werden können.;;A este personaje le encantan los edificios, arquitectura y la maquinaria, especialmente todo lo relacionado a la guerra de asedio.;;;;;;;;;x
+strategist;Strategist;Stratège;Stratege;;Estratega;;;;;;;;;x
+strategist_desc;This character loves planning campaigns and analyzing the current state of affairs.;Ce personnage adore préparer des campagnes et analyser l'état actuel des affaires.;Diese Person liebt das Planen von Feldzügen und die Analyse der aktuellen Situation.;;A este personaje le encanta planificar de campañas y analizar el estado actual de las relaciones internacionales.;;;;;;;;;x
+socializer;Socializer;Socialisateur;Gesellschaftsmensch;;Amistoso;;;;;;;;;x
+socializer_desc;This character is committed to being well liked, and spends most spare time in the company of others.;Ce personnage s'applique à être bien aimé des gens et passe la majorité de son temps en compagnie des autres.;Diese Person möchte beliebt sein und verbringt den Großteil ihrer Zeit in der Gesellschaft anderer.;;Este carácter está comprometido en ser muy apreciado y pasa la mayor parte del tiempo en compañía de otros.;;;;;;;;;x
+#schemer;Schemer;Conspirateur;Intrigant;;Intrigante;;;;;;;;;x
+schemer_desc;This character leads a life of intrigue and manipulation.;Ce personnage mène une vie pleine d'intrigues et de manipulations.;Diese Person lebt ein Leben, das von Intrigen und Manipulation bestimmt wird.;;Este personaje lleva una vida de intrigas y manipulación.;;;;;;;;;x
+HAS_ANY_OPINION_MOD;Has the '§Y$MOD$§!' Opinion of Anyone;Possède l'opinion '§Y$MOD$§!' de n'importe qui;Hat die Meinung '§Y$MOD$§!' von anderen;;Tiene el '§Y$MOD$§!' 'opinión de cualquiera;;;;;;;;;x
+HAS_NO_OPINION_MOD;Does not have the '§Y$MOD$§!' Opinion of Anyone;Ne possède pas l'opinion '§Y$MOD$§!' de n'importe qui;Hat nicht die Meinung '§Y$MOD$§!' von anderen;;No tiene '§Y$MOD$§! 'opinión de cualquiera;;;;;;;;;x
+AGE_DIFF_AT_LEAST;Age Difference at least ;La différence d'âge est d'au moins ;Altersunterschied wenigstens ;;Diferencia de edad por lo menos;;;;;;;;;x
+AGE_DIFF_LESS_THAN;Age Difference less than ;La différence d'âge est inférieure à ;Altersunterschied weniger als ;;Diferencia de edad inferior a;;;;;;;;;x
+converts_to_castle;Will convert to §Y$NAME$§! when upgraded to a castle.;Se convertit en §Y$NAME$§! après amélioration en château.;Wird beim Ausbau zu einer Burg konvertieren zu §Y$NAME$§!.;;Se convertirá en §Y$NAME$§! al actualizarse a castillo.;;;;;;;;;x
+converts_to_city;Will convert to §Y$NAME$§! when upgraded to a city.;Se convertit en §Y$NAME$§! après amélioration en cité.;Wird beim Ausbau zu einer Stadt konvertieren zu §Y$NAME$§!.;;Se convertirá en §Y$NAME$§! al actualizarse a ciudad. ;;;;;;;;;x
+converts_to_temple;Will convert to §Y$NAME$§! when upgraded to a temple.;Se convertit en §Y$NAME$§! après amélioration en temple.;Wird beim Ausbau zu einem Tempel konvertieren zu §Y$NAME$§!.;;Se convertirá en §Y$NAME$§! al actualizarse a templo.;;;;;;;;;x
+converts_to_tribal;Will convert to §Y$NAME$§! when upgraded to a tribal.;Se convertit en §Y$NAME$§! après amélioration en système tribal.;Wird beim Ausbau zu einem Stamm konvertieren zu §Y$NAME$§!.;;Se convertirá en §Y$NAME$§! al actualizarse a tribu.;;;;;;;;;x
+convert_settlement_to_castle;§Y$SETTLEMENT$§! will be upgraded to a castle.;§Y$SETTLEMENT$§! est sur le point d'être amélioré en château.;§Y$SETTLEMENT$§! wird zur Burg ausgebaut.;;§Y$SETTLEMENT$§!Se actualizará a un castillo.;;;;;;;;;x
+convert_settlement_to_city;§Y$SETTLEMENT$§! will be upgraded to a city.;§Y$SETTLEMENT$§! est sur le point d'être amélioré en cité.;§Y$SETTLEMENT$§! wird zur Stadt ausgebaut.;;§Y$SETTLEMENT$§!se actualizará a una ciudad.;;;;;;;;;x
+convert_settlement_to_temple;§Y$SETTLEMENT$§! will be upgraded to a temple.;§Y$SETTLEMENT$§! est sur le point d'être amélioré en temple.;§Y$SETTLEMENT$§! wird zum Tempel ausgebaut.;;§Y$SETTLEMENT$§!se actualizarán a un templo;;;;;;;;;x
+convert_settlement_to_tribal;§Y$SETTLEMENT$§! will be upgraded to a tribe.;§Y$SETTLEMENT$§! est sur le point d'être amélioré en système tribal.;§Y$SETTLEMENT$§! wird zum Stamm ausgebaut.;;§Y$SETTLEMENT$§!se actualizará a una tribu.;;;;;;;;;x
+NOT_ENOUGH_GOLD;(§RX§!) Has §G$COST$§! Gold;(§RX§!) Dispose de §G$COST$§! pièces d’or;(§RX§!) Hat §G$COST$§! Gold;;(§RX§!) Tiene §G$COST$§! en oro;;;;;;;;;x
+IS_BUILDING;(§RX§!) Holding is not building anything;(§RX§!) La colonie ne construit rien;(§RX§!) Siedlung erbaut gerade nichts;;(§RX§!) El asentamiento no construye nada.;;;;;;;;;x
+NOT_ENOUGH_PRESTIGE;(§RX§!) Has §G$COST$§! Prestige;(§RX§!) a un coût de §G$COST$§! en Prestige;(§RX§!) Hat §G$COST$§! Prestige;;(§RX§!) Tiene §G$COST$§! Prestigio;;;;;;;;;x
+ALLOW_FREE_VICEROY_REVOKATION_ON;Revocation of viceroyalty duchy titles free.\n;La révocation des titres de duché de vice-royauté est gratuite.\n;Freier Entzug von Herzogtiteln des Vizekönigreichs.\n;;Revocación de títulos de ducado de virreinato gratis.;;;;;;;;;x
+ALLOW_FREE_VICEROY_REVOKATION_OFF;Revocation of viceroyalty duchy titles no longer free.\n;La révocation des titres de duché de vice-royauté n'est plus gratuite.\n;Kein freier Entzug von Herzogtiteln des Vizekönigreichs.\n;;Revocación de títulos de ducado de virreinato ya no son gratis.;;;;;;;;;x
+REVOKE_TITLE_INTERACTION_2J;Our Imperial administration allows us to revoke viceroyalty Duchies without objections from the aristocracy.;Notre administration impériale nous permet de retirer les vice-royautés sans objection de la part de l'aristocratie.;Unsere kaiserliche Verwaltung ermöglicht es uns, Herzogtümer von Vizekönigreichen ohne Einwände der Aristokratie zu widerrufen.;;Nuestra administración Imperial nos permite revocar virreinatos ducados sin objeciones por parte de la aristocracia.;;;;;;;;;x
+action_build_zeal_desc;Have your [GetLordSpiritualName] whip up religious zeal among the people, increasing your Piety and possibly even attracting some holy warriors. If you don't use these troops for religious wars, they will get angry at you and you will lose piety.;Demandez à [GetTreasurerName] de réveiller le zèle religieux de la populace, ce qui augmentera votre piété et pourra même susciter quelques vocations militaires. Si vous n'utilisez pas ces troupes pour les guerres religieuses, elles perdront le moral et vous perdrez de la piété.;Beauftragt Euren [GetLordSpiritualName] damit, den religiösen Eifer in Eurem Volk anzufachen, um so Eure Pietät zu mehren und Glaubenskrieger anzuwerben. Wenn Ihr diese Truppen nicht in heiligen Kriegen einsetzt, werden sie wütend auf Euch und Ihr werdet Pietät verlieren.;;Haz que tu [GetLordSpiritualName] fustigue fervor religioso entre la gente, incrementando su piedad y posiblemente incluso atrayendo algunos guerreros sagrados. Si no usas estas tropas para las guerras de religión, se enfadarán contigo y perderás piedad.;;;;;;;;;x
+action_organize_raid_desc;Have your [GetMarshalName] gather men for a great raid, for plunder and glory! If you don't use these troops for raiding, they will get angry at you and take your gold instead.;Demandez à votre [GetMarshalName] d'organiser une grande attaque, pillage et gloire au menu ! Si vous n'utilisez pas ces troupes pour vos pillages, elles perdront le moral et s'attaqueront à vous et à votre or.;Beauftragt Euren [GetMarshalName], Männer für einen großen Raubzug zu sammeln. Für Beute und Ruhm! Wenn Ihr diese Truppen nicht bei Raubzügen einsetzt, werden sie wütend auf Euch sein und Euer Gold stehlen.;;¡Que tu [GetMarshalName] reclute hombres para una gran incursión en busca de botín y gloria! Si no usas estas tropas una incursión, se enfadarán contigo y en su lugar se llevarán tu oro.;;;;;;;;;x
+action_build_legend_desc;Have your [GetTreasurerName] build your legend among the people, increasing your Prestige and possibly even raising some eager warriors. If you don't use these troops and go to war, they will get angry at you and you will lose prestige.;Demandez à [GetTreasurerName] de diffuser votre légende dans la populace, ce qui augmentera votre prestige et pourra même susciter quelques vocations militaires. Si vous n'utilisez pas ces troupes pour partir en guerre, elles perdront patience et vous perdrez du prestige.;Beauftragt Euren [GetTreasurerName] damit, Euren Namen zur Legende zu machen. So erhöht sich Euer Prestige und möglicherweise finden sich sogar kampfeswillige Recken. Wenn Ihr diese Truppen nicht in Kriegen einsetzt, werden sie wütend auf Euch und Ihr werdet Prestige verlieren.;;Haz que tu [GetTreasurerName] aumente tu leyenda entre la gente, aumentando tu prestigio e incluso consiguiendo algunos guerreros impacientes. Si no usas a estas tropas y vas a la guerra, se enfadarán contigo y perderás prestigio.;;;;;;;;;x
