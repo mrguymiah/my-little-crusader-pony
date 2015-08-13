@@ -127,15 +127,6 @@ categories =  {
 
 		supply_limit = 2
 		bottleneck_chance = 5
-	}
-
-	glacial = {
-		movement_cost = 1.5
-		max_attrition = 0.2
-		defence = 1
-		color = { 150 150 150 }
-		supply_limit = 0
-		bottleneck_chance = 15
 	}	
 }
 
@@ -154,9 +145,9 @@ text_9	= { type = mountain color = { 	9	 } priority = 	9	 }
 text_10	= { type = mountain color = { 	10	 } priority = 	10	 }
 text_11	= { type = mountain color = { 	11	 } priority = 	11	 }
 
-text_12	= { type = jungle 	color = { 	12	 } priority = 	12	 }
-text_13	= { type = marsh 	color = { 	13	 } priority = 	13	 }
-text_14	= { type = glacial	color = { 	14	 } priority = 	14	 }
+text_12	= { type = jungle color = { 	12	 } priority = 	12	 }
+text_13	= { type = coastal_desert color = { 	13	 } priority = 	13	 }
+text_14	= { type = coastal_desert color = { 	14	 } priority = 	14	 }
 text_15	= { type = coastal_desert color = { 	15	 } priority = 	15	 }
 
 # Need to be here to identify forest

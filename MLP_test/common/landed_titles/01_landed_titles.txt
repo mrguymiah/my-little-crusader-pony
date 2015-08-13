@@ -56,9 +56,10 @@ e_buffalonia = {
 			c_planesend = { # 123
 				color={ 204 189 104 }
 				color2={ 255 255 255 }
-				
+
+				holy_site = buffalo_religion
+
 				b_planesend = {
-					holy_site = buffalo_religion
 				}
 				b_planesend_2 = {
 				}
@@ -243,8 +244,9 @@ e_buffalonia = {
 				color={ 131 125 54 }
 				color2={ 255 255 255 }
 				
+				holy_site = buffalo_religion
+				
 				b_greatstamp = {
-					holy_site = buffalo_religion
 				}
 				b_greatstamp_2 = {
 				}
@@ -486,8 +488,9 @@ e_buffalonia = {
 				color={ 193 182 54 }
 				color2={ 255 255 255 }
 				
+				holy_site = buffalo_religion
+					
 				b_ibex_hills = {
-					holy_site = buffalo_religion
 				}
 				b_ibex_hills_2 = {
 				}
@@ -673,8 +676,9 @@ e_buffalonia = {
 				color={ 171 191 74 }
 				color2={ 255 255 255 }
 				
+				holy_site = buffalo_religion
+				
 				b_standing_rock = {
-					holy_site = buffalo_religion
 				}
 				b_standing_rock_2 = {
 				}
@@ -820,8 +824,9 @@ e_buffalonia = {
 				color={ 187 155 30 }
 				color2={ 255 255 255 }
 				
+				holy_site = buffalo_religion
+				
 				b_stampedium = {
-					holy_site = buffalo_religion
 				}
 				b_stampedium_2 = {
 				}
@@ -1447,8 +1452,9 @@ e_changeling = {
 				color={ 114 173 95 }
 				color2={ 255 255 255 }
 				
+				holy_site = changeling_religion
+				
 				b_ch2 = {
-					holy_site = changeling_religion
 				}
 				b_ch2_2 = {
 				}
@@ -1510,8 +1516,9 @@ e_changeling = {
 				color={ 40 153 42 }
 				color2={ 255 255 255 }
 				
+				holy_site = changeling_religion
+				
 				b_ch23 = {
-					holy_site = changeling_religion
 				}
 				b_ch23_2 = {
 				}
@@ -1715,8 +1722,9 @@ e_changeling = {
 				color={ 82 122 80 }
 				color2={ 255 255 255 }
 				
+				holy_site = changeling_religion
+
 				b_the_island = {
-					holy_site = changeling_religion
 				}
 				b_the_island_2 = {
 				}
@@ -1734,8 +1742,9 @@ e_changeling = {
 				color={ 78 144 75 }
 				color2={ 255 255 255 }
 				
+				holy_site = changeling_religion
+				
 				b_ch8 = {
-					holy_site = changeling_religion
 				}
 				b_ch8_2 = {
 				}
@@ -1807,9 +1816,10 @@ e_changeling = {
 			c_ch30 = { # 549
 				color={ 21 142 1 }
 				color2={ 255 255 255 }
+
+				holy_site = changeling_religion
 				
 				b_ch30 = {
-					holy_site = changeling_religion
 				}
 				b_ch30_2 = {
 				}
@@ -1854,15 +1864,16 @@ e_crystal_empire = {
 				color={ 211 139 187 }
 				color2={ 255 255 255 }
 				
+				holy_site = crystal_religion 
+				holy_site = crystal_religion_reformed 
+				holy_site = unicorn_religion 
+				holy_site = unicorn_religion_reformed 
+				holy_site = soarastrian 
+				holy_site = soarastrian_reformed 
+				holy_site = earth_religion 
+				holy_site = earth_religion_reformed
+				
 				b_crystal_palace = {
-					holy_site = crystal_religion 
-					 holy_site = crystal_religion_reformed 
-					 holy_site = unicorn_religion 
-					 holy_site = unicorn_religion_reformed 
-					 holy_site = soarastrian 
-					 holy_site = soarastrian_reformed 
-					 holy_site = earth_religion 
-					 holy_site = earth_religion_reformed
 				}
 				b_crystal_city = {
 				}
@@ -1896,9 +1907,10 @@ e_crystal_empire = {
 				color={ 178 121 159 }
 				color2={ 255 255 255 }
 				
+				holy_site = crystal_religion 
+				holy_site = crystal_religion_reformed
+
 				b_neighagra_falls = {
-					holy_site = crystal_religion 
-					 holy_site = crystal_religion_reformed
 				}
 				b_neighagra_falls_2 = {
 				}
@@ -2049,10 +2061,11 @@ e_crystal_empire = {
 			c_platinum_fields = { # 460
 				color={ 174 63 125 }
 				color2={ 255 255 255 }
+
+				holy_site = crystal_religion 
+				holy_site = crystal_religion_reformed
 				
 				b_platinum_fields = {
-					holy_site = crystal_religion 
-					 holy_site = crystal_religion_reformed
 				}
 				b_platinum_fields_2 = {
 				}
@@ -2787,9 +2800,10 @@ e_crystal_empire = {
 				color={ 148 129 220 }
 				color2={ 255 255 255 }
 				
+				holy_site = earth_religion 
+				holy_site = earth_religion_reformed
+				
 				b_velzna = {
-					holy_site = earth_religion 
-					 holy_site = earth_religion_reformed
 				}
 				b_anth = {
 				}
@@ -2883,9 +2897,10 @@ e_crystal_empire = {
 				color={ 71 101 170 }
 				color2={ 255 255 255 }
 				
+				holy_site = soarastrian
+				holy_site = soarastrian_reformed
+				
 				b_temple_of_soaron = {
-					holy_site = soarastrian
-					holy_site = soarastrian_reformed
 				}
 			}
 			c_spairte = { # 1033
@@ -2937,11 +2952,12 @@ e_crystal_empire = {
 				color={ 84 72 131 }
 				color2={ 255 255 255 }
 				
+				holy_site = unicorn_religion 
+				holy_site = unicorn_religion_reformed 
+				holy_site = crystal_religion 
+				holy_site = crystal_religion_reformed
+				
 				b_unicorna = {
-					holy_site = unicorn_religion 
-					 holy_site = unicorn_religion_reformed 
-					 holy_site = crystal_religion 
-					 holy_site = crystal_religion_reformed
 				}
 				b_manestraton = {
 				}
@@ -3019,11 +3035,12 @@ e_deeria = {
 				color={ 24 132 142 }
 				color2={ 255 255 255 }
 				
+				holy_site = unicorn_religion 
+				holy_site = unicorn_religion_reformed 
+				holy_site = agniphanum 
+				holy_site = doskiphanum
+				
 				b_whitetail_woods = {
-					holy_site = unicorn_religion 
-					 holy_site = unicorn_religion_reformed 
-					 holy_site = agniphanum 
-					 holy_site = doskiphanum
 				}
 				b_whitetail_woods_2 = {
 				}
@@ -3414,11 +3431,12 @@ e_deeria = {
 			c_vanhoover_island = { # 446
 				color={ 138 156 166 }
 				color2={ 255 255 255 }
+
+				holy_site = soarastrian 
+				holy_site = soarastrian_reformed 
+				holy_site = doskiphanum
 				
 				b_vanhoover_island = {
-					holy_site = soarastrian 
-					 holy_site = soarastrian_reformed 
-					 holy_site = doskiphanum
 				}
 				b_vanhoover_island_2 = {
 				}
@@ -3703,11 +3721,12 @@ e_deeria = {
 			c_smokey_mountain = { # 424
 				color={ 49 152 150 }
 				color2={ 255 255 255 }
+
+				holy_site = soarastrian 
+				holy_site = soarastrian_reformed 
+				holy_site = doskiphanum
 				
 				b_smokey_mountain = {
-					holy_site = soarastrian 
-					 holy_site = soarastrian_reformed 
-					 holy_site = doskiphanum
 				}
 				b_smokey_mountain_2 = {
 				}
@@ -3888,15 +3907,16 @@ e_equestria = {
 			c_everfree_heart = { # 290
 				color={ 97 169 160 }
 				color2={ 255 255 255 }
+
+				holy_site = celestial_religion 
+				holy_site = lunar_religion 
+				holy_site = unicorn_religion 
+				holy_site = unicorn_religion_reformed  
+				holy_site = agniphanum 
+				holy_site = evantol 
+				holy_site = muntura
 				
 				b_everfree_heart = {
-					holy_site = celestial_religion 
-					 holy_site = lunar_religion 
-					 holy_site = unicorn_religion 
-					 holy_site = unicorn_religion_reformed  
-					 holy_site = agniphanum 
-					 holy_site = evantol 
-					 holy_site = muntura
 				}
 				b_everfree_heart_2 = {
 				}
@@ -4092,8 +4112,9 @@ e_equestria = {
 				color={ 32 139 21 }
 				color2={ 255 255 255 }
 				
+				holy_site = muntura
+				
 				b_mount_emerald = {
-					holy_site = muntura
 				}
 				b_mount_emerald_2 = {
 				}
@@ -4164,10 +4185,11 @@ e_equestria = {
 				color={ 150 177 56 }
 				color2={ 255 255 255 }
 				
+				holy_site = evantol 
+				holy_site = muntura 
+				holy_site = agniphanum
+				
 				b_earthen_palace = {
-					holy_site = evantol 
-					 holy_site = muntura 
-					 holy_site = agniphanum
 				}
 				b_fillydelphia = {
 				}
@@ -4378,11 +4400,12 @@ e_equestria = {
 				color={ 34 89 12 }
 				color2={ 255 255 255 }
 				
+				holy_site = earth_religion 
+				holy_site = earth_religion_reformed 
+				holy_site = crystal_religion 
+				holy_site = crystal_religion_reformed
+				
 				b_mustangingburg = {
-					holy_site = earth_religion 
-					 holy_site = earth_religion_reformed 
-					 holy_site = crystal_religion 
-					 holy_site = crystal_religion_reformed
 				}
 				b_mustangton = {
 				}
@@ -4676,11 +4699,12 @@ e_equestria = {
 			c_manehattan = { # 319
 				color={ 189 54 80 }
 				color2={ 255 255 255 }
+
+				holy_site = earth_religion 
+				holy_site = earth_religion_reformed 
+				holy_site = muntura
 				
 				b_manehatten = {
-					holy_site = earth_religion 
-					 holy_site = earth_religion_reformed 
-					 holy_site = muntura
 				}
 				b_tortbetica = {
 				}
@@ -5049,9 +5073,10 @@ e_equestria = {
 			c_airheart_mountains = { # 386
 				color={ 24 20 120 }
 				color2={ 255 255 255 }
-				
+
+				holy_site = doskiphanum
+					
 				b_airheart_mountains = {
-					holy_site = doskiphanum
 				}
 				b_airheart_mountains_2 = {
 				}
@@ -5263,16 +5288,17 @@ e_equestria = {
 			c_canterlot = { # 294
 				color={ 156 94 177 }
 				color2={ 255 255 255 }
+
+				holy_site = celestial_religion 
+				holy_site = lunar_religion 
+				holy_site = unicorn_religion 
+				holy_site = unicorn_religion_reformed 
+				holy_site = earth_religion_reformed 
+				holy_site = earth_religion 
+				holy_site = soarastrian_reformed 
+				holy_site = soarastrian
 				
 				b_canterlot = {
-					holy_site = celestial_religion 
-					 holy_site = lunar_religion 
-					 holy_site = unicorn_religion 
-					 holy_site = unicorn_religion_reformed 
-					 holy_site = earth_religion_reformed 
-					 holy_site = earth_religion 
-					 holy_site = soarastrian_reformed 
-					 holy_site = soarastrian
 				}
 				b_moonstreat = {
 				}
@@ -5953,9 +5979,10 @@ e_griffon_empire = {
 				color={ 188 165 186 }
 				color2={ 255 255 255 }
 				
+				holy_site = grifflyreise
+				holy_site = grifflyreise_reformed
+				
 				b_orvalillo = {
-					holy_site = grifflyreise
-					holy_site = grifflyreise_reformed
 				}
 				b_orvalillo_2 = {
 				}
@@ -6495,9 +6522,10 @@ e_griffon_empire = {
 				color={ 88 96 105 }
 				color2={ 255 255 255 }
 				
+				holy_site = grifflyreise
+				holy_site = grifflyreise_reformed
+				
 				b_eg19 = {
-					holy_site = grifflyreise
-					holy_site = grifflyreise_reformed
 				}
 				b_eg19_2 = {
 				}
@@ -7125,10 +7153,11 @@ e_griffon_empire = {
 			c_kristoff = { # 786
 				color={ 40 76 93 }
 				color2={ 255 255 255 }
+
+				holy_site = grifflyreise
+				holy_site = grifflyreise_reformed
 				
 				b_kristoff = {
-					holy_site = grifflyreise
-					holy_site = grifflyreise_reformed
 				}
 				b_kristoff_2 = {
 				}
@@ -7259,10 +7288,11 @@ e_griffon_empire = {
 			c_ta1 = { # 717
 				color={ 200 179 137 }
 				color2={ 255 255 255 }
+
+				holy_site = grifflyreise
+				holy_site = grifflyreise_reformed
 				
 				b_ta1 = {
-					holy_site = grifflyreise
-					holy_site = grifflyreise_reformed
 				}
 				b_ta1_2 = {
 				}
@@ -7591,10 +7621,11 @@ e_griffon_empire = {
 			c_wg31 = { # 761
 				color={ 63 74 133 }
 				color2={ 255 255 255 }
+
+				holy_site = grifflyreise
+				holy_site = grifflyreise_reformed
 				
 				b_wg31 = {
-					holy_site = grifflyreise
-					holy_site = grifflyreise_reformed
 				}
 				b_wg31_2 = {
 				}
@@ -8078,9 +8109,10 @@ e_hayseed = {
 			c_frogsgrove = { # 80
 				color={ 155 167 55 }
 				color2={ 255 255 255 }
+
+				holy_site = evantol
 				
 				b_frogsgrove = {
-					holy_site = evantol
 				}
 				b_frogsgrove_2 = {
 				}
@@ -8159,10 +8191,11 @@ e_hayseed = {
 			c_greenroot = { # 92
 				color={ 17 115 38 }
 				color2={ 255 255 255 }
+
+				holy_site = agniphanum 
+				holy_site = evantol
 				
 				b_greenroot = {
-					holy_site = agniphanum 
-					 holy_site = evantol
 				}
 				b_greenroot_2 = {
 				}
@@ -8751,12 +8784,13 @@ e_hayseed = {
 			c_oldgrove = { # 240
 				color={ 88 48 202 }
 				color2={ 255 255 255 }
+
+				holy_site = agniphanum 
+				holy_site = doskiphanum 
+				holy_site = evantol 
+				holy_site = muntura
 				
 				b_oldgrove = {
-					holy_site = agniphanum 
-					 holy_site = doskiphanum 
-					 holy_site = evantol 
-					 holy_site = muntura
 				}
 				b_oldgrove_2 = {
 				}
@@ -9044,10 +9078,11 @@ e_mooseland = {
 			c_berrdon = { # 795
 				color={ 67 133 124 }
 				color2={ 255 255 255 }
+
+				holy_site = mooselam 
+				holy_site = mooselam_reformed
 				
 				b_berrdon = {
-					holy_site = mooselam 
-					 holy_site = mooselam_reformed
 				}
 			}
 			c_vejalyk = { # 796
@@ -9369,9 +9404,10 @@ e_saddle_arabia = {
 			c_marecca = { # 558
 				color={ 143 148 63 }
 				color2={ 255 255 255 }
-				
+
+				holy_site = saddle_arabian_religion
+					
 				b_tamane = {
-					holy_site = saddle_arabian_religion
 				}
 				b_buckddah = {
 				}
@@ -9407,9 +9443,10 @@ e_saddle_arabia = {
 			c_yemare = { # 573
 				color={ 164 159 15 }
 				color2={ 255 255 255 }
+
+				holy_site = saddle_arabian_religion
 				
 				b_yemare = {
-					holy_site = saddle_arabian_religion
 				}
 				b_yemare_2 = {
 				}
@@ -9654,9 +9691,10 @@ e_saddle_arabia = {
 			c_alexmanedria = { # 637
 				color={ 137 181 51 }
 				color2={ 255 255 255 }
+
+				holy_site = saddle_arabian_religion
 				
 				b_alexmanedria = {
-					holy_site = saddle_arabian_religion
 				}
 				b_alexmanedria_2 = {
 				}
@@ -9963,9 +10001,10 @@ e_saddle_arabia = {
 			c_buckdad = { # 611
 				color={ 51 143 20 }
 				color2={ 255 255 255 }
+
+				holy_site = saddle_arabian_religion
 				
 				b_baqbuck = {
-					holy_site = saddle_arabian_religion
 				}
 				b_iscanteriya = {
 				}
@@ -10438,9 +10477,10 @@ e_saddle_arabia = {
 			c_damarescus = { # 586
 				color={ 171 168 131 }
 				color2={ 255 255 255 }
+
+				holy_site = saddle_arabian_religion
 				
 				b_damarescus = {
-					holy_site = saddle_arabian_religion
 				}
 				b_damarescus_2 = {
 				}
@@ -10746,10 +10786,11 @@ e_zebrica = {
 			c_ring_sour = { # 12
 				color={ 182 186 184 }
 				color2={ 255 255 255 }
+
+				holy_site = zulhooves_religion 
+				holy_site = zulhooves_religion_reformed
 				
 				b_ring_sour1 = {
-					holy_site = zulhooves_religion 
-					 holy_site = zulhooves_religion_reformed
 				}
 				b_ring_sour2 = {
 				}
@@ -10839,10 +10880,11 @@ e_zebrica = {
 			c_herdeta = { # 6
 				color={ 183 191 193 }
 				color2={ 255 255 255 }
+
+				holy_site = zulhooves_religion 
+				holy_site = zulhooves_religion_reformed
 				
 				b_herdeta1 = {
-					holy_site = zulhooves_religion 
-					 holy_site = zulhooves_religion_reformed
 				}
 				b_herdeta2 = {
 				}
@@ -10878,10 +10920,11 @@ e_zebrica = {
 			c_coltoba = { # 106
 				color={ 137 184 62 }
 				color2={ 255 255 255 }
+
+				holy_site = dahomaine_religion 
+				holy_site = dahomaine_religion_reformed
 				
 				b_coltoba = {
-					holy_site = dahomaine_religion 
-					 holy_site = dahomaine_religion_reformed
 				}
 				b_almanebra = {
 				}
@@ -11000,10 +11043,11 @@ e_zebrica = {
 			c_murasaddala = { # 113
 				color={ 130 192 30 }
 				color2={ 255 255 255 }
+
+				holy_site = dahomaine_religion 
+				holy_site = dahomaine_religion_reformed
 				
 				b_murasaddala = {
-					holy_site = dahomaine_religion 
-					 holy_site = dahomaine_religion_reformed
 				}
 				b_murasaddala_2 = {
 				}
@@ -11207,9 +11251,10 @@ e_zebrica = {
 				color={ 180 188 185 }
 				color2={ 255 255 255 }
 				
+				holy_site = zulhooves_religion 
+				holy_site = zulhooves_religion_reformed
+				
 				b_tamare = {
-					holy_site = zulhooves_religion 
-					 holy_site = zulhooves_religion_reformed
 				}
 				b_tamare_2 = {
 				}
@@ -11288,10 +11333,11 @@ e_zebrica = {
 			c_gaitao = { # 36
 				color={ 131 125 120 }
 				color2={ 255 255 255 }
+
+				holy_site = zulhooves_religion 
+				holy_site = zulhooves_religion_reformed
 				
 				b_gaitao = {
-					holy_site = zulhooves_religion 
-					 holy_site = zulhooves_religion_reformed
 				}
 				b_gaitao_2 = {
 				}
@@ -11330,10 +11376,11 @@ e_zebrica = {
 			c_timbucktu = { # 40
 				color={ 199 205 204 }
 				color2={ 255 255 255 }
+
+				holy_site = zulhooves_religion 
+				holy_site = zulhooves_religion_reformed
 				
 				b_timbucktu = {
-					holy_site = zulhooves_religion 
-					 holy_site = zulhooves_religion_reformed
 				}
 				b_timbucktu_2 = {
 				}
@@ -11417,10 +11464,11 @@ e_zebrica = {
 			c_mareya = { # 46
 				color={ 116 109 54 }
 				color2={ 255 255 255 }
-				
+
+				holy_site = dahomaine_religion 
+				holy_site = dahomaine_religion_reformed
+					 
 				b_mareya = {
-					holy_site = dahomaine_religion 
-					 holy_site = dahomaine_religion_reformed
 				}
 				b_mareya_2 = {
 				}
@@ -11591,9 +11639,10 @@ e_zebrica = {
 				color={ 183 175 89 }
 				color2={ 255 255 255 }
 				
+				holy_site = dahomaine_religion 
+				holy_site = dahomaine_religion_reformed
+				
 				b_el_tailif = {
-					holy_site = dahomaine_religion 
-					 holy_site = dahomaine_religion_reformed
 				}
 				b_el_tailif_2 = {
 				}
@@ -11785,10 +11834,11 @@ e_zebrica = {
 			c_damsiretta = { # 61
 				color={ 185 183 115 }
 				color2={ 255 255 255 }
+
+				holy_site = dahomaine_religion 
+				holy_site = dahomaine_religion_reformed
 				
 				b_damsiretta = {
-					holy_site = dahomaine_religion 
-					 holy_site = dahomaine_religion_reformed
 				}
 				b_damsiretta_2 = {
 				}

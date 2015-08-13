@@ -1,0 +1,20 @@
+# c_greenvale
+
+# County Title
+title = c_greenvale
+
+# Settlements
+max_settlements = 6
+
+b_leaf_farm_(u) = city
+#b_greenvale = city
+#b_greenvale_2 = temple
+#b_greenvale_3 = castle
+#b_greenvale_4 = city
+#b_greenvale_5 = temple
+
+# Misc
+culture = fallow
+religion = agniphanum
+
+#History

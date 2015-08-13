@@ -55,6 +55,7 @@ decisions = {
 		
 		effect = {
 			e_equestria = {
+				activate_title = { title = THIS status = yes }
 				grant_title = ROOT
 			}
 			k_unicornia = { de_jure_liege = e_equestria }
