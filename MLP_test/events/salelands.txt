@@ -11,15 +11,15 @@ namespace = salelands
 
 character_event = { #Event for Earth to decide if they want to sell the lands, for now AI always sells
 
-	id = salelands.01
-	title = EVTTITsalelands.01
-	desc = EVTDESCsalelands.01
+	id = salelands.1
+	title = EVTTITsalelands.1
+	desc = EVTDESCsalelands.1
 	picture = GFX_evt_emissary
 	
 	is_triggered_only = yes
 	
 	option = {
-		name = EVTOPTAsalelands.01
+		name = EVTOPTAsalelands.1
 		any_independent_ruler = {
 			limit = {
 				has_landed_title = k_pegasopolis
@@ -30,7 +30,7 @@ character_event = { #Event for Earth to decide if they want to sell the lands, f
 		}
 	}
 	option = {
-		name = EVTOPTBsalelands.01
+		name = EVTOPTBsalelands.1
 		trigger = {
 			ai = no
 		}
@@ -38,34 +38,36 @@ character_event = { #Event for Earth to decide if they want to sell the lands, f
 			limit = {
 				has_landed_title = k_pegasopolis
 			}
-			character_event = { id = salelands.03 days = 2 }
-			character_event = { id = salelands.04 months = 5 }
+			character_event = { id = salelands.3 days = 2 }
+			character_event = { id = salelands.4 months = 5 }
 		}
 	}
 }
 
 character_event = { #Event for Earth to decide if they want to sell the lands, for now AI always sells
 
-	id = salelands.02
-	title = EVTTITsalelands.02
-	desc = EVTDESCsalelands.02
+	id = salelands.2
+	title = EVTTITsalelands.2
+	desc = EVTDESCsalelands.2
 	picture = GFX_evt_emissary
 	
 	is_triggered_only = yes
 	
 	option = {
-		name = EVTOPTAsalelands.01
+		name = EVTOPTAsalelands.1
 		any_independent_ruler = {
 			limit = {
 				has_landed_title = k_pegasopolis
 			}
-			grant_title_no_opinion = c_poniala
+			c_poniala = {
+				grant_title_no_opinion = { target = PREV }
+			}
 			wealth = -100
 			clr_character_flag = sale_poniala
 		}
 	}
 	option = {
-		name = EVTOPTBsalelands.02
+		name = EVTOPTBsalelands.2
 		trigger = {
 			ai = no
 		}
@@ -73,76 +75,78 @@ character_event = { #Event for Earth to decide if they want to sell the lands, f
 			limit = {
 				has_landed_title = k_pegasopolis
 			}
-			character_event = { id = salelands.03 days = 2 }
-			character_event = { id = salelands.05 months = 5 }
+			character_event = { id = salelands.3 days = 2 }
+			character_event = { id = salelands.5 months = 5 }
 		}
 	}	
 }
 
 character_event = { #If the Earth declines, Pegasi get an event saying they declined
 
-	id = salelands.03
-	title = EVTTITsalelands.03
-	desc = EVTDESCsalelands.03
+	id = salelands.3
+	title = EVTTITsalelands.3
+	desc = EVTDESCsalelands.3
 	picture = GFX_evt_emissary
 	
 	is_triggered_only = yes
 	
 	option = {
-		name = EVTOPTAsalelands.03
+		name = EVTOPTAsalelands.3
 	}
 	option = {
 		trigger = {
 			ai = no
 		}
-		name = EVTOPTBsalelands.03 #No sale? WAAAARRRRARARARARAR
-		add_claim = c_cloudkonion
-		add_claim = c_poniala
-		character_event = { id = salelands.06 days = 10 }
+		name = EVTOPTBsalelands.3 #No sale? WAAAARRRRARARARARAR
+		ROOT = {
+			add_claim = c_cloudkonion
+			add_claim = c_poniala
+		}
+		character_event = { id = salelands.6 days = 10 }
 	}
 }
 
 character_event = { #Now to clear the flag and let them ask again
 
-	id = salelands.04
-	title = EVTTITsalelands.04
-	desc = EVTDESCsalelands.04
+	id = salelands.4
+	title = EVTTITsalelands.4
+	desc = EVTDESCsalelands.4
 	picture = GFX_evt_emissary
 	
 	is_triggered_only = yes
 	
 	option = {
-		name = EVTOPTAsalelands.04
+		name = EVTOPTAsalelands.4
 		clr_character_flag = sale_cloudkonion
 	}
 }
 
 character_event = { #Now to clear the flag and let them ask again
 
-	id = salelands.05
-	title = EVTTITsalelands.05
-	desc = EVTDESCsalelands.05
+	id = salelands.5
+	title = EVTTITsalelands.5
+	desc = EVTDESCsalelands.5
 	picture = GFX_evt_emissary
 	
 	is_triggered_only = yes
 	
 	option = {
-		name = EVTOPTAsalelands.05
+		name = EVTOPTAsalelands.5
 		clr_character_flag = sale_poniala
 	}
 }
 
 character_event = { #War begins.
 
-	id = salelands.06
-	title = EVTTITsalelands.05
-	desc = EVTDESCsalelands.05
+	id = salelands.6
+	title = EVTTITsalelands.5
+	desc = EVTDESCsalelands.5
 	picture = GFX_evt_emissary
 	
 	is_triggered_only = yes
 	
 	option = {
-		name = EVTOPTAsalelands.05
+		name = EVTOPTAsalelands.5
 		k_earth = {
 			reverse_war = {
 				target = k_earth
