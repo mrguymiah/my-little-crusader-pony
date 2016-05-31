@@ -1,0 +1,17 @@
+# c_ponica
+
+# County Title
+title = c_ponica
+
+# Settlements
+max_settlements = 3
+
+b_ponica = tribal
+#b_ponica_2 = city
+#b_ponica_3 = temple
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

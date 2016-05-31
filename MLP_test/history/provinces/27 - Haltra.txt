@@ -1,0 +1,17 @@
+# c_haltra
+
+# County Title
+title = c_haltra
+
+# Settlements
+max_settlements = 3
+
+b_haltra = tribal
+#b_haltra_2 = city
+#b_haltra_3 = temple
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

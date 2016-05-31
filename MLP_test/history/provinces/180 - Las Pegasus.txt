@@ -1,0 +1,21 @@
+# c_las_pegasus
+
+# County Title
+title = c_las_pegasus
+
+# Settlements
+max_settlements = 7
+
+b_las_pegasus = tribal
+#b_las_pegasus_2 = city
+#b_las_pegasus_3 = temple
+#b_las_pegasus_4 = castle
+#b_las_pegasus_5 = city
+#b_las_pegasus_6 = temple
+#b_las_pegasus_7 = castle
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

@@ -123,7 +123,7 @@ song = {
 		factor = 2
 		modifier = {
 			factor = 0
-			NOT = { culture = pegasoplite }
+			NOT = { culture = pegasus_culture }
 		}
 	}
 }
@@ -136,7 +136,7 @@ song = {
 		factor = 2
 		modifier = {
 			factor = 0
-			NOT = { culture = unicornian }
+			NOT = { culture = unicorn_culture }
 		}
 	}
 }

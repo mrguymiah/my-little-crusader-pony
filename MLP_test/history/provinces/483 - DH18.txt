@@ -1,0 +1,15 @@
+# c_dh18
+
+# County Title
+title = c_dh18
+
+# Settlements
+max_settlements = 1
+
+b_dh18 = tribal
+
+# Misc
+culture = caribou_culture
+religion = mooselam
+
+#History

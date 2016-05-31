@@ -1,0 +1,17 @@
+# c_barngundy
+
+# County Title
+title = c_barngundy
+
+# Settlements
+max_settlements = 3
+
+b_barngundy = tribal
+#b_barngundy_2 = city
+#b_barngundy_3 = temple
+
+# Misc
+culture = cephalo
+religion = agniphanum
+
+#History

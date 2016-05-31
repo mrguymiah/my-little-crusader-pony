@@ -1,0 +1,17 @@
+# c_goldville
+
+# County Title
+title = c_goldville
+
+# Settlements
+max_settlements = 3
+
+b_goldville = tribal
+#b_goldville_2 = city
+#b_goldville_3 = temple
+
+# Misc
+culture = cephalo
+religion = agniphanum
+
+#History

@@ -343,7 +343,8 @@ succession_laws = {
 			
 			holder_scope = { 
 				OR ={
-					religion = ponitentum
+					religion = unicorn_religion 
+					religion = unicorn_religion_reformed
 				}
 				is_merchant_republic = no
 			}

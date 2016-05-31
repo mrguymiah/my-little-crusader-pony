@@ -1,0 +1,17 @@
+# c_dh25
+
+# County Title
+title = c_dh25
+
+# Settlements
+max_settlements = 3
+
+b_dh25 = tribal
+#b_dh25_2 = city
+#b_dh25_3 = temple
+
+# Misc
+culture = caribou_culture
+religion = mooselam
+
+#History

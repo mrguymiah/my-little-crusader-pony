@@ -1,0 +1,17 @@
+# c_agister
+
+# County Title
+title = c_agister
+
+# Settlements
+max_settlements = 3
+
+b_agister1 = tribal
+b_agister2 = city
+b_agister3 = temple
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

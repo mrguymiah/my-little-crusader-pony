@@ -1,4 +1,0 @@
-# k_applewood
-800.1.1={
-	liege=k_applewood
-}

@@ -1,0 +1,17 @@
+# c_elkutat
+
+# County Title
+title = c_elkutat
+
+# Settlements
+max_settlements = 3
+
+b_elkutat = tribal
+#b_elkutat_2 = city
+#b_elkutat_3 = temple
+
+# Misc
+culture = whitetail
+religion = doskiphanum
+
+#History

@@ -1,0 +1,17 @@
+# c_flawlessa
+
+# County Title
+title = c_flawlessa
+
+# Settlements
+max_settlements = 3
+
+b_flawlessa = tribal
+#b_flawlessa_2 = city
+#b_flawlessa_3 = temple
+
+# Misc
+culture = crystal_culture
+religion = crystal_religion
+
+#History

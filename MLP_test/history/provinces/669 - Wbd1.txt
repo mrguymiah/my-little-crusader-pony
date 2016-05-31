@@ -1,0 +1,19 @@
+# c_wbd1
+
+# County Title
+title = c_wbd1
+
+# Settlements
+max_settlements = 5
+
+b_wbd1 = tribal
+#b_wbd1_2 = city
+#b_wbd1_3 = temple
+#b_wbd1_4 = castle
+#b_wbd1_5 = city
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

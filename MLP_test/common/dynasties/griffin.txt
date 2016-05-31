@@ -1,6 +1,6 @@
 3500 = { #Skydanavian
 	name = "High Claw"
-	culture = northgriffon
+	culture = high_griffon
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -15,43 +15,43 @@
 }
 3501 = {
 	name = "af Greenback"
-	culture = northgriffon
+	culture = high_griffon
 }
 3502 = {
 	name = "Bloodtalon"
-	culture = northgriffon
+	culture = high_griffon
 }
 3503 = {
 	name = "Break Wing"
-	culture = northgriffon
+	culture = high_griffon
 }
 3504 = {
 	name = "Ostkun"
-	culture = northgriffon
+	culture = high_griffon
 }
 3505 = {
 	name = "Farwing"
-	culture = northgriffon
+	culture = high_griffon
 }
 3506 = {
 	name = "af Gizzar"
-	culture = northgriffon
+	culture = high_griffon
 }
 3507 = {
 	name = "Novik"
-	culture = northgriffon
+	culture = high_griffon
 }
 3508 = {
 	name = "Talonald"
-	culture = northgriffon
+	culture = high_griffon
 }
 3509 = {
 	name = "Freeclaw"
-	culture = northgriffon
+	culture = high_griffon
 }
 
 #Low Griffin
 3600 = {
 	name = "Clovatin"
-	culture = northgriffon
+	culture = low_griffon
 }

@@ -1,0 +1,18 @@
+# c_emeraldwick
+
+# County Title
+title = c_emeraldwick
+
+# Settlements
+max_settlements = 4
+
+b_emeraldwick = tribal
+#b_emeraldwick_2 = city
+#b_emeraldwick_3 = temple
+#b_emeraldwick_4 = castle
+
+# Misc
+culture = muntjac
+religion = muntura
+
+#History

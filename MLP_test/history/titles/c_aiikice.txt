@@ -1,4 +1,0 @@
-# k_ruby_heights
-800.1.1={
-	liege=d_highfarm
-}

@@ -1,4 +1,0 @@
-# k_the_range
-800.1.1={
-	liege=d_dogs_climb
-}

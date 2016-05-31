@@ -1,0 +1,17 @@
+# c_shyerstan
+
+# County Title
+title = c_shyerstan
+
+# Settlements
+max_settlements = 3
+
+b_shyerstan = tribal
+#b_shyerstan_2 = city
+#b_shyerstan_3 = temple
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

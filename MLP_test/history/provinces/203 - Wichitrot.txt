@@ -1,0 +1,17 @@
+# c_wichitrot
+
+# County Title
+title = c_wichitrot
+
+# Settlements
+max_settlements = 3
+
+b_wichitrot = tribal
+#b_wichitrot_2 = city
+#b_wichitrot_3 = temple
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

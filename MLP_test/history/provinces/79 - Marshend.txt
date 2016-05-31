@@ -1,0 +1,17 @@
+# c_marshend
+
+# County Title
+title = c_marshend
+
+# Settlements
+max_settlements = 3
+
+b_marshend = tribal
+#b_marshend_2 = city
+#b_marshend_3 = temple
+
+# Misc
+culture = taruca
+religion = evantol
+
+#History

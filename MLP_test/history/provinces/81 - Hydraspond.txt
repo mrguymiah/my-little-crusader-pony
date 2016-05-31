@@ -1,0 +1,17 @@
+# c_hydraspond
+
+# County Title
+title = c_hydraspond
+
+# Settlements
+max_settlements = 3
+
+b_hydraspond = tribal
+#b_hydraspond_2 = city
+#b_hydraspond_3 = temple
+
+# Misc
+culture = taruca
+religion = evantol
+
+#History

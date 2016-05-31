@@ -1,0 +1,17 @@
+# c_dh15
+
+# County Title
+title = c_dh15
+
+# Settlements
+max_settlements = 3
+
+b_dh15 = tribal
+#b_dh15_2 = city
+#b_dh15_3 = temple
+
+# Misc
+culture = muntjac
+religion = muntura
+
+#History

@@ -1,0 +1,17 @@
+# c_north_point
+
+# County Title
+title = c_north_point
+
+# Settlements
+max_settlements = 3
+
+b_north_point = tribal
+#b_north_point_2 = city
+#b_north_point_3 = temple
+
+# Misc
+culture = taruca
+religion = evantol
+
+#History

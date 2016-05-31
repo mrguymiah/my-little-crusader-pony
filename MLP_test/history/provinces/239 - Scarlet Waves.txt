@@ -1,0 +1,17 @@
+# c_scarlet_waves
+
+# County Title
+title = c_scarlet_waves
+
+# Settlements
+max_settlements = 3
+
+b_scarlet_waves = tribal
+#b_scarlet_waves_2 = city
+#b_scarlet_waves_3 = temple
+
+# Misc
+culture = cephalo
+religion = agniphanum
+
+#History

@@ -1,0 +1,19 @@
+# c_ta11
+
+# County Title
+title = c_ta11
+
+# Settlements
+max_settlements = 5
+
+b_ta11 = tribal
+#b_ta11_2 = city
+#b_ta11_3 = temple
+#b_ta11_4 = castle
+#b_ta11_5 = city
+
+# Misc
+culture = low_griffon
+religion = grifflyreise
+
+#History

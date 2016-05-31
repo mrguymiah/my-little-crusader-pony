@@ -1,0 +1,17 @@
+# c_numnah
+
+# County Title
+title = c_numnah
+
+# Settlements
+max_settlements = 3
+
+b_numnah = tribal
+#b_numnah_2 = city
+#b_numnah_3 = temple
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

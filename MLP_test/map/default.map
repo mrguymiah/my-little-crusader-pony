@@ -1,5 +1,5 @@
-max_provinces = 493
-# stats:  492 provinces
+max_provinces = 1037
+# stats:  1036 provinces
 # unused:
 definitions = "definition.csv"
 provinces = "provinces.bmp"
@@ -14,18 +14,13 @@ adjacencies = "adjacencies.csv"
 climate = "climate.txt"
 region = "island_region.txt"
 geographical_region = "geographical_region.txt"
-static = "statics"
+static = "static.txt"
 seasons = "seasons.txt"
 
-sea_zones = { 490 491 }
-sea_zones = { 492 492 }
+sea_zones = { 797 1019 }
 
-ocean_region = {	# OCEAN
+ocean_region = {	# Great Ocean
 	sea_zones = { 1 }
-}
-
-ocean_region = {	# RIVER
-	sea_zones = { 2 }
 }
 
 # Define which indices in trees.bmp palette which should count as trees for automatic terrain assignment
@@ -33,9 +28,35 @@ tree = { 3 4 7 10 }
 
 major_rivers = 
 {
-	# OCEAN
-	490  #Celestial Sea
-	491 
-	# RIVER
-	492 
+	# Great Ocean
+	802  #Amzebos
+	803  #Changinus
+	845 846 847 848 849 850  #Crystal River
+	841 842 843 844  #Diamond
+	860 861 862 863 864 865 866  #Equus
+	837 838 839 840  #Greatwing
+	875 876 877 878 879 880 881  #Griffking
+	828 829 830 831 832 833  #Grifleb
+	867 868 869 870 871  #Hay River
+	804 805 806  #Hibrodarbis
+	836  #Iceka
+	807 808 809 810 811 812 813 814 815 816  #Neighle
+	834 835  #Nor
+	824 825 826 827  #Redwing
+	817 818 819 820  #Sadalid
+	851 852 853 854 855 856 857 858 859  #Saddle River
+	821 822 823  #Trotberiam
+	873 874  #Ungala
+	872  #Zebnyati
+	797 798 799 800 801  #Zebzeben
+	
+	# Lakes
+	1013 # Lake 1
+	1014 # Lake 2
+	1015 # Lake 3
+	1016 # Lake 4
+	1017 # Lake 5
+	1018 # Lake 6
+	1019 # Lake 7
+
 }

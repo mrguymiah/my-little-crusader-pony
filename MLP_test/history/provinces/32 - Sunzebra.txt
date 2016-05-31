@@ -1,0 +1,17 @@
+# c_sunzebra
+
+# County Title
+title = c_sunzebra
+
+# Settlements
+max_settlements = 3
+
+b_sunzebra = tribal
+#b_sunzebra_2 = city
+#b_sunzebra_3 = temple
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

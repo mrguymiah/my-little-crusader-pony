@@ -1,0 +1,15 @@
+# c_everfree2
+
+# County Title
+title = c_everfree2
+
+# Settlements
+max_settlements = 1
+
+b_everfree2 = tribal
+
+# Misc
+culture = fallow
+religion = agniphanum
+
+#History

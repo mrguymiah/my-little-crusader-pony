@@ -1,0 +1,20 @@
+# c_saddleville
+
+# County Title
+title = c_saddleville
+
+# Settlements
+max_settlements = 6
+
+b_saddleville = tribal
+#b_saddleville_2 = city
+#b_saddleville_3 = temple
+#b_saddleville_4 = castle
+#b_saddleville_5 = city
+#b_saddleville_6 = temple
+
+# Misc
+culture = unicorn_culture
+religion = unicorn_religion
+
+#History

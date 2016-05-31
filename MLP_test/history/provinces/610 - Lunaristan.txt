@@ -1,0 +1,20 @@
+# c_lunaristan
+
+# County Title
+title = c_lunaristan
+
+# Settlements
+max_settlements = 6
+
+b_lunaristan = castle
+#b_lunaristan_2 = city
+#b_lunaristan_3 = temple
+#b_lunaristan_4 = castle
+#b_lunaristan_5 = city
+#b_lunaristan_6 = temple
+
+# Misc
+culture = saddle_arabian_culture
+religion = saddle_arabian_religion
+
+#History

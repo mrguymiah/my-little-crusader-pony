@@ -1,4 +1,0 @@
-# k_griffain
-800.1.1={
-	liege=d_ceressex
-}

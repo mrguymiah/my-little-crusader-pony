@@ -9,7 +9,6 @@ namespace = equestria
 
 narrative_event = {
 
-	title = "EVENTS"
 	id = equestria.100
 	desc = EVTDESCequestria.100
 	picture = GFX_evt_emissary
@@ -33,8 +32,8 @@ narrative_event = {
 			NOT = { has_landed_title = e_equestria } 
 			OR = 
 			{
-				NOT = { culture_group = equestrian_group }
-				culture = crystaline
+				NOT = { culture_group = equestrian }
+				culture = crystal_culture
 			}
 		}
 	}
@@ -42,8 +41,8 @@ narrative_event = {
 		name = EVTOPTCequestria.100
 		trigger = { 
 			NOT = { has_landed_title = e_equestria } 
-			culture_group = equestrian_group
-			NOT = { culture = crystaline }
+			culture_group = equestrian
+			NOT = { culture = crystal_culture }
 		}
 	}
 }

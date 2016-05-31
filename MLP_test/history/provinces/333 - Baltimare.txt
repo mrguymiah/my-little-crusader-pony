@@ -1,0 +1,18 @@
+# c_baltimare
+
+# County Title
+title = c_baltimare
+
+# Settlements
+max_settlements = 4
+
+b_lemoncoln = tribal
+b_woodhall_spa = temple
+b_mareingham = city
+#b_skagars_ness = castle
+
+# Misc
+culture = muntjac
+religion = muntura
+
+#History

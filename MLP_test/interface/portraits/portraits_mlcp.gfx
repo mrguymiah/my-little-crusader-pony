@@ -1,7 +1,7 @@
 # hair, mouth, chin, nose, eyes, cheek, ear, neck
 spriteTypes = {
 
-	### pony MALE ####
+### pony MALE ####
 	
 	# CULTURE_INDEX: 0 = clothes behind, 1 = headgear behind, 2 = clothes, 3 = headgear mid, 4 = clothes infront, 5 = headgear
 	
@@ -659,9 +659,29 @@ spriteTypes = {
 		effectFile = "gfx/FX/portrait.lua"
 		layer = { # GFX_TYPE:[d|p]INDEX:COLOR_LINK:DONT_REFRESH_IF_VALID:CULTURE_INDEX
 			"GFX_character_background:p0"
-			"GFX_deertrue_base:p2"
-			"GFX_deertrue_color:p3"
-			"GFX_deertrue_eyes:p4"
+			"GFX_pony_male_clothes_behind:p3:c0"
+			"GFX_blank:p1:h:y"
+			"GFX_blank:p5:c1"
+			"GFX_blank:p1:y"
+			"GFX_cervid_placeholder:p2"
+			"GFX_blank:d0"
+			"GFX_blank:d2"
+			"GFX_blank:d3"
+			"GFX_blank:d4"
+			"GFX_blank:d6"
+			"GFX_character_scars:p7"
+			"GFX_character_reddots:p8"
+			"GFX_character_boils:p9"
+			"GFX_blank:p10"
+			"GFX_blank:p3:c2"
+			"GFX_blank:p5:c3"
+			"GFX_blank:d7"			
+			"GFX_blank:p4:h:y"
+		   	"GFX_blank:p1:h:y"
+			"GFX_blank:p3:c4"
+			
+			"GFX_character_imprisoned:p6"
+			"GFX_player_overlay:p11"
 		}
 		hair_color_index = 8
 		hair_color = { # dark, base, highlight
@@ -669,7 +689,7 @@ spriteTypes = {
 			
 		}
 
-		eye_color_index = 3
+		eye_color_index = 9
 		eye_color = {
 			{ 99 49 131}
 			{ 96 189 80 }

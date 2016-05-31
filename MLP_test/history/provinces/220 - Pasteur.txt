@@ -1,0 +1,17 @@
+# c_pasteur
+
+# County Title
+title = c_pasteur
+
+# Settlements
+max_settlements = 3
+
+b_pasteur = tribal
+#b_pasteur_2 = city
+#b_pasteur_3 = temple
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

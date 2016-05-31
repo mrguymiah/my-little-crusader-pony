@@ -1,4 +1,0 @@
-# k_diamond_plateau
-800.1.1={
-	liege=d_everwinter_grove
-}

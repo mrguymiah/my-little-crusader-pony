@@ -1,0 +1,19 @@
+# c_arcus
+
+# County Title
+title = c_arcus
+
+# Settlements
+max_settlements = 5
+
+b_arcus = tribal
+#b_arcus_2 = city
+#b_arcus_3 = temple
+#b_arcus_4 = castle
+#b_arcus_5 = city
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

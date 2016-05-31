@@ -1,0 +1,17 @@
+# c_raggrich
+
+# County Title
+title = c_raggrich
+
+# Settlements
+max_settlements = 3
+
+b_raggrich = tribal
+#b_raggrich_2 = city
+#b_raggrich_3 = temple
+
+# Misc
+culture = taruca
+religion = evantol
+
+#History

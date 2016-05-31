@@ -1,0 +1,17 @@
+# c_ramzarba
+
+# County Title
+title = c_ramzarba
+
+# Settlements
+max_settlements = 3
+
+b_ramzarba = tribal
+#b_ramzarba_2 = city
+#b_ramzarba_3 = temple
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

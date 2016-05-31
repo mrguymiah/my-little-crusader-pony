@@ -1,4 +1,0 @@
-# k_smokey_mountains
-800.1.1={
-	liege=d_smokey_valley
-}

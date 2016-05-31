@@ -1,0 +1,17 @@
+# c_chicacharge
+
+# County Title
+title = c_chicacharge
+
+# Settlements
+max_settlements = 3
+
+b_chicacharge = tribal
+#b_chicacharge_2 = city
+#b_chicacharge_3 = temple
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

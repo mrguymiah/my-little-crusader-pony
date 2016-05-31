@@ -1,0 +1,18 @@
+# c_saddleside
+
+# County Title
+title = c_saddleside
+
+# Settlements
+max_settlements = 4
+
+b_saddlebridge = tribal
+b_inkburrow = city
+#b_lemonlow = temple
+#b_kingshill = castle
+
+# Misc
+culture = muntjac
+religion = muntura
+
+#History

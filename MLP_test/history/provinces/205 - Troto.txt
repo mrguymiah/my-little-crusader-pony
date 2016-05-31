@@ -1,0 +1,17 @@
+# c_troto
+
+# County Title
+title = c_troto
+
+# Settlements
+max_settlements = 3
+
+b_troto = tribal
+#b_troto_2 = city
+#b_troto_3 = temple
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

@@ -1,0 +1,18 @@
+# c_northmareton
+
+# County Title
+title = c_northmareton
+
+# Settlements
+max_settlements = 4
+
+b_northmareton = tribal
+b_buckford = city
+b_mereton_keynes = temple
+#b_bichester = castle
+
+# Misc
+culture = muntjac
+religion = muntura
+
+#History

@@ -12,6 +12,10 @@ the_wilds = { #Only for The Wilds
 hearth_warmer = {
 	same_opinion = 125
 	monthly_character_prestige = 0.5
+	tolerates_pegasus_Rgroup = yes
+	tolerates_unicorn_Rgroup = yes
+	tolerates_earthpony_Rgroup = yes
+	tolerates_equestrian_Rgroup = yes
 	
 	customizer = no
 	random = no

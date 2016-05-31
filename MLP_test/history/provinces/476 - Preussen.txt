@@ -1,0 +1,17 @@
+# c_preussen
+
+# County Title
+title = c_preussen
+
+# Settlements
+max_settlements = 3
+
+b_preussen = tribal
+#b_preussen_2 = city
+#b_preussen_3 = temple
+
+# Misc
+culture = muntjac
+religion = muntura
+
+#History

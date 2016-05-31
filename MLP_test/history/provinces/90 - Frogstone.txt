@@ -1,0 +1,17 @@
+# c_frogstone
+
+# County Title
+title = c_frogstone
+
+# Settlements
+max_settlements = 3
+
+b_frogstone = tribal
+#b_frogstone_2 = city
+#b_frogstone_3 = temple
+
+# Misc
+culture = taruca
+religion = evantol
+
+#History

@@ -1,0 +1,17 @@
+# c_euthe
+
+# County Title
+title = c_euthe
+
+# Settlements
+max_settlements = 3
+
+b_euthe = tribal
+#b_euthe_2 = city
+#b_euthe_3 = temple
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

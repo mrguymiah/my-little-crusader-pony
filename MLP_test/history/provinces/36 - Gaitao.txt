@@ -1,0 +1,17 @@
+# c_gaitao
+
+# County Title
+title = c_gaitao
+
+# Settlements
+max_settlements = 3
+
+b_gaitao = tribal
+#b_gaitao_2 = city
+#b_gaitao_3 = temple
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

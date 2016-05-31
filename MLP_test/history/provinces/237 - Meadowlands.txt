@@ -1,0 +1,17 @@
+# c_meadowlands
+
+# County Title
+title = c_meadowlands
+
+# Settlements
+max_settlements = 3
+
+b_meadowlands = tribal
+#b_meadowlands_2 = city
+#b_meadowlands_3 = temple
+
+# Misc
+culture = cephalo
+religion = agniphanum
+
+#History

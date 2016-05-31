@@ -16,8 +16,10 @@ feudal_governments = {
 			tribal_government
 		}
 		potential = {
-			NOT = {
+			NAND = {
 				controls_religion = yes
+				# NOT = { religion_group = muslim }
+				# NOT = { religion = norse_pagan_reformed }
 			}
 			# NOT = {	religion_group = muslim	}
 			is_patrician = no
@@ -56,8 +58,10 @@ feudal_governments = {
 		}
 		frame_suffix = "_iqta"
 		potential = {
-			NOT = {
+			NAND = {
 				controls_religion = yes
+				# NOT = { religion_group = muslim }
+				# NOT = { religion = norse_pagan_reformed }
 			}
 			# religion_group = muslim
 			is_patrician = no

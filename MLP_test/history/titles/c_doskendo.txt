@@ -1,4 +1,0 @@
-# k_stone_falls
-800.1.1={
-	liege=d_chattle_valley
-}

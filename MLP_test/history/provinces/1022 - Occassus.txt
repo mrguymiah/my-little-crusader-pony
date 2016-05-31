@@ -1,0 +1,16 @@
+# c_occassus
+
+# County Title
+title = c_occassus
+
+# Settlements
+max_settlements = 2
+
+b_accharbhi = tribal
+b_luni = tribal
+
+# Misc
+culture = caribou_culture
+religion = mooselam
+
+#History

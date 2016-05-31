@@ -1,0 +1,18 @@
+# c_manelitene
+
+# County Title
+title = c_manelitene
+
+# Settlements
+max_settlements = 4
+
+b_manelitene = tribal
+#b_manelitene_2 = city
+#b_manelitene_3 = temple
+#b_manelitene_4 = castle
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

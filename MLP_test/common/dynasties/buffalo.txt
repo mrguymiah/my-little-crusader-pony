@@ -1,45 +1,45 @@
 #BUFFALO DYNASTIES#
 #1500 - 1999 RESERVED#
-#Blackhoofs
+#Blackhoof
 1500 = {
 	name = "Blackhoof"
-	culture = buffalo
+	culture = blackhoof
 }
 1501 = {
 	name = "Strongheart"
-	culture = buffalo
+	culture = blackhoof
 }
 1502 = {
 	name = "Yeggagalwa"
-	culture = buffalo
+	culture = blackhoof
 }
 #Tazapan
 1600 = {
 	name = "Zapamearpan"
-	culture = buffalo
+	culture = tazapan
 }
 1601 = {
 	name = "Xachapan"
-	culture = buffalo
+	culture = tazapan
 }
 1602 = {
 	name = "Malakpash"
-	culture = buffalo
+	culture = tazapan
 }
 #Sioxen
 1700 = {
 	name = "Evanfreeka"
-	culture = buffalo
+	culture = sioxen
 }
 1701 = {
 	name = "Tepakanan"
-	culture = buffalo
+	culture = sioxen
 }
 1702 = {
 	name = "Hekkaonapkan"
-	culture = buffalo
+	culture = sioxen
 }
 1703 = {
 	name = "Negakapaken"
-	culture = buffalo
+	culture = sioxen
 }

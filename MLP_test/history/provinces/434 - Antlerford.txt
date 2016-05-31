@@ -1,0 +1,19 @@
+# c_antlerford
+
+# County Title
+title = c_antlerford
+
+# Settlements
+max_settlements = 5
+
+b_antlerford = tribal
+#b_antlerford_2 = city
+#b_antlerford_3 = temple
+#b_antlerford_4 = castle
+#b_antlerford_5 = city
+
+# Misc
+culture = whitetail
+religion = doskiphanum
+
+#History

@@ -1,0 +1,17 @@
+# c_goldslopes
+
+# County Title
+title = c_goldslopes
+
+# Settlements
+max_settlements = 3
+
+b_goldslopes = tribal
+#b_goldslopes_2 = city
+#b_goldslopes_3 = temple
+
+# Misc
+culture = muntjac
+religion = muntura
+
+#History

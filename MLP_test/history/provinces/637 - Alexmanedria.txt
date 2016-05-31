@@ -1,0 +1,20 @@
+# c_alexmanedria
+
+# County Title
+title = c_alexmanedria
+
+# Settlements
+max_settlements = 6
+
+b_alexmanedria = castle
+#b_alexmanedria_2 = city
+#b_alexmanedria_3 = temple
+#b_alexmanedria_4 = castle
+#b_alexmanedria_5 = city
+#b_alexmanedria_6 = temple
+
+# Misc
+culture = saddle_arabian_culture
+religion = saddle_arabian_religion
+
+#History

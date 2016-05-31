@@ -1,0 +1,17 @@
+# c_ch7
+
+# County Title
+title = c_ch7
+
+# Settlements
+max_settlements = 3
+
+b_ch7 = tribal
+#b_ch7_2 = city
+#b_ch7_3 = temple
+
+# Misc
+culture = changeling_culture
+religion = changeling_religion
+
+#History

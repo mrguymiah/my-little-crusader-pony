@@ -1,7 +1,0 @@
-# e_equestria
-500.1.1={
-	law = agnatic_succession
-}
-800.1.1={
-	liege=d_neighagara
-}

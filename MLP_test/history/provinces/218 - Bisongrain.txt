@@ -1,0 +1,17 @@
+# c_bisongrain
+
+# County Title
+title = c_bisongrain
+
+# Settlements
+max_settlements = 3
+
+b_bisongrain = tribal
+#b_bisongrain_2 = city
+#b_bisongrain_3 = temple
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

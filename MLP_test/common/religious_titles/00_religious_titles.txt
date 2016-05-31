@@ -13,7 +13,7 @@
 #	The other fields are all character modifiers.
 
 title_unicorn_religion_cardinal = {
-	religion = ponitentum
+	religion = unicorn_religion
 	can_elect_head = yes
 	
 	grant_limit = 9
@@ -28,9 +28,57 @@ title_unicorn_religion_cardinal = {
 	monthly_prestige = 0.5
 	
 	allow = {
-		religion = ponitentum
+		religion = unicorn_religion
 		is_theocracy = yes
+		
+		NOT = {
+			top_liege = {
+				any_vassal = {
+					any_claim = {
+						title = d_ponitentum
+					}
+				}
+			}
+		}
+	}
+	
+	gain_effect = {
+	}
+	
+	lose_effect = {
+	}
 
+	message = yes
+}
+
+title_unicorn_religion_reformed_cardinal = {
+	religion = unicorn_religion_reformed
+	can_elect_head = yes
+	
+	grant_limit = 9
+	
+	realm_in_name = no
+	show_as_title = yes
+	
+	opinion_effect = 20
+	dignity = 0.9
+	
+	monthly_salary = 0.1
+	monthly_prestige = 0.5
+	
+	allow = {
+		religion = unicorn_religion_reformed
+		is_theocracy = yes
+		
+		NOT = {
+			top_liege = {
+				any_vassal = {
+					any_claim = {
+						title = d_ponitentum_reformed
+					}
+				}
+			}
+		}
 	}
 	
 	gain_effect = {

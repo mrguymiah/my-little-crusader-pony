@@ -1,0 +1,17 @@
+# c_amberstead
+
+# County Title
+title = c_amberstead
+
+# Settlements
+max_settlements = 3
+
+b_amberstead = tribal
+#b_amberstead_2 = city
+#b_amberstead_3 = temple
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

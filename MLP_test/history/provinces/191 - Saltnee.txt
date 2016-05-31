@@ -1,0 +1,17 @@
+# c_saltnee
+
+# County Title
+title = c_saltnee
+
+# Settlements
+max_settlements = 3
+
+b_saltnee = tribal
+#b_saltnee_2 = city
+#b_saltnee_3 = temple
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

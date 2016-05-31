@@ -1,0 +1,17 @@
+# c_autumnsborough
+
+# County Title
+title = c_autumnsborough
+
+# Settlements
+max_settlements = 3
+
+b_autumnsborough = tribal
+#b_autumnsborough_2 = city
+#b_autumnsborough_3 = temple
+
+# Misc
+culture = cephalo
+religion = agniphanum
+
+#History

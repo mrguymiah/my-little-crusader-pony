@@ -1,0 +1,16 @@
+# c_skyrakousai
+
+# County Title
+title = c_skyrakousai
+
+# Settlements
+max_settlements = 2
+
+b_skyrakousai = tribal
+b_lakedairmon = tribal
+
+# Misc
+culture = caribou_culture
+religion = mooselam
+
+#History

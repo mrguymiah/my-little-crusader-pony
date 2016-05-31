@@ -1,0 +1,17 @@
+# c_meadowburg
+
+# County Title
+title = c_meadowburg
+
+# Settlements
+max_settlements = 3
+
+b_meadowburg = tribal
+#b_meadowburg_2 = city
+#b_meadowburg_3 = temple
+
+# Misc
+culture = cephalo
+religion = agniphanum
+
+#History

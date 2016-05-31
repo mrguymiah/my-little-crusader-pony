@@ -1,0 +1,17 @@
+# c_mongerrnest
+
+# County Title
+title = c_mongerrnest
+
+# Settlements
+max_settlements = 3
+
+b_mongerrnest = tribal
+#b_mongerrnest_2 = city
+#b_mongerrnest_3 = temple
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

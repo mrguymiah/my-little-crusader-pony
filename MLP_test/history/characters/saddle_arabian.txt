@@ -1,252 +1,252 @@
-# #HORSES; 4000 - 4999
-# 4000 = {
-	# name="Saddlein"
-	# dynasty=4000
-	# martial=5
-	# diplomacy=12
-	# intrigue=5
-	# stewardship=5
-	# learning=5
-	# religion=saddle_arabian_religion
-	# culture=saddle_arabian_culture
-	# trait="horse"
-	# trait="grey_eminence"
-	# 68.2.3 = {
-		# birth=yes
-	# }
-	# 85.1.2 = {
-		# add_spouse = 4001
-	# }
-	# 119.11.12 = {
-		# death="119.11.12"
-	# }
-# }
-# 4001 = {
-	# name="Reinra"
-	# female=yes
-	# dynasty=0
-	# martial=5
-	# diplomacy=5
-	# intrigue=5
-	# stewardship=5
-	# learning=5
-	# religion=saddle_arabian_religion
-	# culture=saddle_arabian_culture
-	# trait="horse"
-	# 68.2.3 = {
-		# birth=yes
-	# }
-	# 85.1.2 = {
-		# add_spouse = 4000
-	# }
-# }
-# 4002 = {
-	# name="Abdul"
-	# dynasty=4000
-	# martial=5
-	# diplomacy=7
-	# intrigue=5
-	# stewardship=5
-	# learning=5
-	# religion=saddle_arabian_religion
-	# culture=saddle_arabian_culture
-	# trait="horse"
-	# trait="charismatic_negotiator"
-	# father = 4000
-	# mother = 4001
-	# 86.4.7 = {
-		# birth=yes
-	# }
-	# 119.11.12 = {
-		# death="119.11.12"
-	# }
-# }
-# 4003 = {
-	# name="Abdul-Ahmar"
-	# dynasty=4000
-	# martial=5
-	# diplomacy=7
-	# intrigue=5
-	# stewardship=5
-	# learning=5
-	# religion=saddle_arabian_religion
-	# culture=saddle_arabian_culture
-	# trait="horse"
-	# trait="charismatic_negotiator"
-	# trait="twin"
-	# father = 4000
-	# mother = 4001
-	# 88.9.17 = {
-		# birth=yes
-	# }
-	# 119.11.12 = {
-		# death="119.11.12"
-	# }
-# }
-# 4004 = {
-	# name="Abdul-Azraq"
-	# dynasty=4000
-	# martial=5
-	# diplomacy=7
-	# intrigue=5
-	# stewardship=5
-	# learning=5
-	# religion=saddle_arabian_religion
-	# culture=saddle_arabian_culture
-	# trait="horse"
-	# trait="charismatic_negotiator"
-	# trait="twin"
-	# father = 4000
-	# mother = 4001
-	# 88.9.17 = {
-		# birth=yes
-	# }
-	# 119.11.12 = {
-		# death="119.11.12"
-	# }
-# }
-# 4005 = {
-	# name="Hamra"
-	# female=yes
-	# dynasty=4000
-	# martial=5
-	# diplomacy=7
-	# intrigue=5
-	# stewardship=5
-	# learning=5
-	# religion=saddle_arabian_religion
-	# culture=saddle_arabian_culture
-	# trait="horse"
-	# trait="charismatic_negotiator"
-	# father = 4000
-	# mother = 4001
-	# 89.2.12 = {
-		# birth=yes
-	# }
-# }
-# 4006 = {
-	# name="Abdul-Ahdar"
-	# dynasty=4000
-	# martial=5
-	# diplomacy=7
-	# intrigue=5
-	# stewardship=5
-	# learning=5
-	# religion=saddle_arabian_religion
-	# culture=saddle_arabian_culture
-	# trait="horse"
-	# trait="charismatic_negotiator"
-	# father = 4000
-	# mother = 4001
-	# 91.4.1 = {
-		# birth=yes
-	# }
-# }
-# 4007 = {
-	# name="Abdul-Aswad"
-	# dynasty=4000
-	# martial=5
-	# diplomacy=7
-	# intrigue=5
-	# stewardship=5
-	# learning=5
-	# religion=saddle_arabian_religion
-	# culture=saddle_arabian_culture
-	# trait="horse"
-	# trait="charismatic_negotiator"
-	# father = 4000
-	# mother = 4001
-	# 92.1.9 = {
-		# birth=yes
-	# }
-# }
-# 4008 = {
-	# name="Aahil"
-	# dynasty=4000
-	# martial=5
-	# diplomacy=5
-	# intrigue=7
-	# stewardship=5
-	# learning=5
-	# religion=saddle_arabian_religion
-	# culture=saddle_arabian_culture
-	# trait="horse"
-	# trait="elusive_shadow"
-	# trait="impaler"
-	# trait="wroth"
-	# trait="cruel"
-	# father = 4002
-	# 103.4.1 = {
-		# birth=yes
-	# }
-# }
-# 4009 = {
-	# name="Badr"
-	# dynasty=4000
-	# martial=5
-	# diplomacy=7
-	# intrigue=5
-	# stewardship=5
-	# learning=5
-	# religion=saddle_arabian_religion
-	# culture=saddle_arabian_culture
-	# trait="horse"
-	# trait="charismatic_negotiator"
-	# father = 4002
-	# 103.7.3 = {
-		# birth=yes
-	# }
-# }
-# 4010 = {
-	# name="Daniyal"
-	# dynasty=4000
-	# martial=5
-	# diplomacy=7
-	# intrigue=5
-	# stewardship=5
-	# learning=5
-	# religion=saddle_arabian_religion
-	# culture=saddle_arabian_culture
-	# trait="horse"
-	# trait="charismatic_negotiator"
-	# trait="genius"
-	# father = 4003
-	# 106.2.1 = {
-		# birth=yes
-	# }
-# }
-# 4011 = {
-	# name="Daud"
-	# dynasty=4000
-	# martial=5
-	# diplomacy=7
-	# intrigue=5
-	# stewardship=5
-	# learning=5
-	# religion=saddle_arabian_religion
-	# culture=saddle_arabian_culture
-	# trait="horse"
-	# trait="charismatic_negotiator"
-	# trait="zealous"
-	# father = 4004
-	# 107.4.3 = {
-		# birth=yes
-	# }
-# }
-# 4100 = {
-	# name="Marehammed"
-	# dynasty=4100
-	# martial=5
-	# diplomacy=7
-	# intrigue=5
-	# stewardship=5
-	# learning=5
-	# religion=saddle_arabian_religion
-	# culture=saddle_arabian_culture
-	# trait="horse"
-	# trait="brilliant_strategist"
-	# trait="zealous"
-	# 100.1.1 = {
-		# birth=yes
-	# }
-# }
+#HORSES; 4000 - 4999
+4000 = {
+	name="Saddlein"
+	dynasty=4000
+	martial=5
+	diplomacy=12
+	intrigue=5
+	stewardship=5
+	learning=5
+	religion=saddle_arabian_religion
+	culture=saddle_arabian_culture
+	trait="horse"
+	trait="grey_eminence"
+	68.2.3 = {
+		birth=yes
+	}
+	85.1.2 = {
+		add_spouse = 4001
+	}
+	119.11.12 = {
+		death="119.11.12"
+	}
+}
+4001 = {
+	name="Reinra"
+	female=yes
+	dynasty=0
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	learning=5
+	religion=saddle_arabian_religion
+	culture=saddle_arabian_culture
+	trait="horse"
+	68.2.3 = {
+		birth=yes
+	}
+	85.1.2 = {
+		add_spouse = 4000
+	}
+}
+4002 = {
+	name="Abdul"
+	dynasty=4000
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	learning=5
+	religion=saddle_arabian_religion
+	culture=saddle_arabian_culture
+	trait="horse"
+	trait="charismatic_negotiator"
+	father = 4000
+	mother = 4001
+	86.4.7 = {
+		birth=yes
+	}
+	119.11.12 = {
+		death="119.11.12"
+	}
+}
+4003 = {
+	name="Abdul-Ahmar"
+	dynasty=4000
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	learning=5
+	religion=saddle_arabian_religion
+	culture=saddle_arabian_culture
+	trait="horse"
+	trait="charismatic_negotiator"
+	trait="twin"
+	father = 4000
+	mother = 4001
+	88.9.17 = {
+		birth=yes
+	}
+	119.11.12 = {
+		death="119.11.12"
+	}
+}
+4004 = {
+	name="Abdul-Azraq"
+	dynasty=4000
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	learning=5
+	religion=saddle_arabian_religion
+	culture=saddle_arabian_culture
+	trait="horse"
+	trait="charismatic_negotiator"
+	trait="twin"
+	father = 4000
+	mother = 4001
+	88.9.17 = {
+		birth=yes
+	}
+	119.11.12 = {
+		death="119.11.12"
+	}
+}
+4005 = {
+	name="Hamra"
+	female=yes
+	dynasty=4000
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	learning=5
+	religion=saddle_arabian_religion
+	culture=saddle_arabian_culture
+	trait="horse"
+	trait="charismatic_negotiator"
+	father = 4000
+	mother = 4001
+	89.2.12 = {
+		birth=yes
+	}
+}
+4006 = {
+	name="Abdul-Ahdar"
+	dynasty=4000
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	learning=5
+	religion=saddle_arabian_religion
+	culture=saddle_arabian_culture
+	trait="horse"
+	trait="charismatic_negotiator"
+	father = 4000
+	mother = 4001
+	91.4.1 = {
+		birth=yes
+	}
+}
+4007 = {
+	name="Abdul-Aswad"
+	dynasty=4000
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	learning=5
+	religion=saddle_arabian_religion
+	culture=saddle_arabian_culture
+	trait="horse"
+	trait="charismatic_negotiator"
+	father = 4000
+	mother = 4001
+	92.1.9 = {
+		birth=yes
+	}
+}
+4008 = {
+	name="Aahil"
+	dynasty=4000
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=5
+	learning=5
+	religion=saddle_arabian_religion
+	culture=saddle_arabian_culture
+	trait="horse"
+	trait="elusive_shadow"
+	trait="impaler"
+	trait="wroth"
+	trait="cruel"
+	father = 4002
+	103.4.1 = {
+		birth=yes
+	}
+}
+4009 = {
+	name="Badr"
+	dynasty=4000
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	learning=5
+	religion=saddle_arabian_religion
+	culture=saddle_arabian_culture
+	trait="horse"
+	trait="charismatic_negotiator"
+	father = 4002
+	103.7.3 = {
+		birth=yes
+	}
+}
+4010 = {
+	name="Daniyal"
+	dynasty=4000
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	learning=5
+	religion=saddle_arabian_religion
+	culture=saddle_arabian_culture
+	trait="horse"
+	trait="charismatic_negotiator"
+	trait="genius"
+	father = 4003
+	106.2.1 = {
+		birth=yes
+	}
+}
+4011 = {
+	name="Daud"
+	dynasty=4000
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	learning=5
+	religion=saddle_arabian_religion
+	culture=saddle_arabian_culture
+	trait="horse"
+	trait="charismatic_negotiator"
+	trait="zealous"
+	father = 4004
+	107.4.3 = {
+		birth=yes
+	}
+}
+4100 = {
+	name="Marehammed"
+	dynasty=4100
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	learning=5
+	religion=saddle_arabian_religion
+	culture=saddle_arabian_culture
+	trait="horse"
+	trait="brilliant_strategist"
+	trait="zealous"
+	100.1.1 = {
+		birth=yes
+	}
+}

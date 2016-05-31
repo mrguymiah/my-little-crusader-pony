@@ -1,0 +1,18 @@
+# c_baalbuck
+
+# County Title
+title = c_baalbuck
+
+# Settlements
+max_settlements = 4
+
+b_baalbuck = castle
+b_accoltar = city
+b_halbaneigh = temple
+#b_baalbuck_2 = castle
+
+# Misc
+culture = saddle_arabian_culture
+religion = saddle_arabian_religion
+
+#History

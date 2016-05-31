@@ -1,0 +1,17 @@
+# c_stag
+
+# County Title
+title = c_stag
+
+# Settlements
+max_settlements = 3
+
+b_stag = tribal
+#b_stag_2 = city
+#b_stag_3 = temple
+
+# Misc
+culture = whitetail
+religion = doskiphanum
+
+#History

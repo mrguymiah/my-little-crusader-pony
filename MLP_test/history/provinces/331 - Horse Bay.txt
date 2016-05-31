@@ -1,0 +1,19 @@
+# c_horse_bay
+
+# County Title
+title = c_horse_bay
+
+# Settlements
+max_settlements = 5
+
+b_horse_bay = tribal
+b_stallinonton_on_sea = city
+#b_humblestone = temple
+#b_runtford = castle
+#b_docking_rock = city
+
+# Misc
+culture = muntjac
+religion = muntura
+
+#History

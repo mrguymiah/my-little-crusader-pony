@@ -1,0 +1,17 @@
+# c_kalibuf
+
+# County Title
+title = c_kalibuf
+
+# Settlements
+max_settlements = 3
+
+b_kalibuf = tribal
+#b_kalibuf_2 = city
+#b_kalibuf_3 = temple
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

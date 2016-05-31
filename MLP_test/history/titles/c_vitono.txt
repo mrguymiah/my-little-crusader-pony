@@ -1,4 +1,0 @@
-# k_emerald_hills
-800.1.1={
-	liege=d_jos_glimmer
-}

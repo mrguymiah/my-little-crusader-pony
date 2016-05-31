@@ -1,4 +1,0 @@
-# k_doegon
-800.1.1={
-	liege=d_dg_d3
-}

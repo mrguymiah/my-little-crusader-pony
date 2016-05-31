@@ -1,0 +1,19 @@
+# c_gemglass
+
+# County Title
+title = c_gemglass
+
+# Settlements
+max_settlements = 5
+
+b_dusk_star_rise = tribal
+#b_gemglass = city
+#b_gemglass_2 = temple
+#b_gemglass_3 = castle
+#b_gemglass_4 = city
+
+# Misc
+culture = unicorn_culture
+religion = unicorn_religion
+
+#History

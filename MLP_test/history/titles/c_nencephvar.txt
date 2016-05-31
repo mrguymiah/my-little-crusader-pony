@@ -1,4 +1,0 @@
-# k_bev
-800.1.1={
-	liege=d_sariceph
-}

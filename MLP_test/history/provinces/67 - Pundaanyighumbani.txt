@@ -1,0 +1,17 @@
+# c_pundaanyighumbani
+
+# County Title
+title = c_pundaanyighumbani
+
+# Settlements
+max_settlements = 3
+
+b_pundaanyighumbani = tribal
+#b_pundaanyighumbani_2 = city
+#b_pundaanyighumbani_3 = temple
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

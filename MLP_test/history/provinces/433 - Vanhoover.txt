@@ -1,0 +1,21 @@
+# c_vanhoover
+
+# County Title
+title = c_vanhoover
+
+# Settlements
+max_settlements = 7
+
+b_vanhoover = tribal
+b_antlerkeep = castle
+b_vanwood = temple
+b_buckmond = city
+b_staggey = city
+#b_fawnaby = temple
+#b_coltuitlam = castle
+
+# Misc
+culture = whitetail
+religion = doskiphanum
+
+#History

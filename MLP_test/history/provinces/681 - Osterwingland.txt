@@ -1,0 +1,19 @@
+# c_osterwingland
+
+# County Title
+title = c_osterwingland
+
+# Settlements
+max_settlements = 5
+
+b_osterwingland = tribal
+#b_osterwingland_2 = city
+#b_osterwingland_3 = temple
+#b_osterwingland_4 = castle
+#b_osterwingland_5 = city
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

@@ -1,0 +1,17 @@
+# c_kumaresi
+
+# County Title
+title = c_kumaresi
+
+# Settlements
+max_settlements = 3
+
+b_kumaresi = tribal
+#b_kumaresi_2 = city
+#b_kumaresi_3 = temple
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

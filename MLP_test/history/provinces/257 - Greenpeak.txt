@@ -1,0 +1,17 @@
+# c_greenpeak
+
+# County Title
+title = c_greenpeak
+
+# Settlements
+max_settlements = 3
+
+b_greenpeak = tribal
+#b_greenpeak_2 = city
+#b_greenpeak_3 = temple
+
+# Misc
+culture = cephalo
+religion = agniphanum
+
+#History

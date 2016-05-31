@@ -1,0 +1,18 @@
+# c_cloudon
+
+# County Title
+title = c_cloudon
+
+# Settlements
+max_settlements = 4
+
+b_cloudon = tribal
+#b_cloudon_2 = city
+#b_cloudon_3 = temple
+#b_cloudon_4 = castle
+
+# Misc
+culture = whitetail
+religion = doskiphanum
+
+#History

@@ -1,8 +1,8 @@
-# e_equestria
-500.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
+100.1.1={
+	law = enatic_succession
+	law = succ_feudal_elective
 }
-800.1.1={
-	liege=d_pegasopolis
+100.1.1={
+	holder=3
 }
+

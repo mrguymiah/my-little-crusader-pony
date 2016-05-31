@@ -1,0 +1,17 @@
+# c_herden
+
+# County Title
+title = c_herden
+
+# Settlements
+max_settlements = 3
+
+b_herden = tribal
+#b_herden_2 = city
+#b_herden_3 = temple
+
+# Misc
+culture = cephalo
+religion = agniphanum
+
+#History

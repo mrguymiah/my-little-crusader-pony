@@ -1,0 +1,17 @@
+# c_sk13
+
+# County Title
+title = c_sk13
+
+# Settlements
+max_settlements = 3
+
+b_sk13 = tribal
+#b_sk13_2 = city
+#b_sk13_3 = temple
+
+# Misc
+culture = high_griffon
+religion = grifflyreise
+
+#History

@@ -1,0 +1,17 @@
+# c_nuzzleshire
+
+# County Title
+title = c_nuzzleshire
+
+# Settlements
+max_settlements = 3
+
+b_nuzzleshire = tribal
+#b_nuzzleshire_2 = city
+#b_nuzzleshire_3 = temple
+
+# Misc
+culture = cephalo
+religion = agniphanum
+
+#History

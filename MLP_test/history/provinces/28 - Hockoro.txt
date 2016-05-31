@@ -1,0 +1,17 @@
+# c_hockoro
+
+# County Title
+title = c_hockoro
+
+# Settlements
+max_settlements = 3
+
+b_hockoro = tribal
+#b_hockoro_2 = city
+#b_hockoro_3 = temple
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

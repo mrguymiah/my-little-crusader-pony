@@ -1,0 +1,19 @@
+# c_angoulemane
+
+# County Title
+title = c_angoulemane
+
+# Settlements
+max_settlements = 5
+
+b_angoulemane = tribal
+#b_angoulemane_2 = city
+#b_angoulemane_3 = temple
+#b_angoulemane_4 = castle
+#b_angoulemane_5 = city
+
+# Misc
+culture = fallow
+religion = agniphanum
+
+#History

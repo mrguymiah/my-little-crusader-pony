@@ -1,65 +1,65 @@
-# #####################
-# # RELIGIOUS LEADERS #
-# #####################
+#####################
+# RELIGIOUS LEADERS #
+#####################
 
 d_ponitentum = {
-	 color = { 25 40 255 }
-	 color2 = { 255 255 255 }
+	color = { 25 40 255 }
+	color2 = { 255 255 255 }
 	
-	 title = "UNICORN_POPE"
-	 foa = "UNICORN_POPEFOA"
+	title = "UNICORN_POPE"
+	foa = "UNICORN_POPEFOA"
 	
-	 landless = yes
+	landless = yes
 	
-	 controls_religion = unicorn_religion
-	 religion = unicorn_religion
+	controls_religion = unicorn_religion
+	religion = unicorn_religion
 	
-	 primary = yes
+	primary = yes
 	
-	 dynasty_title_names = no
- }
+	dynasty_title_names = no
+}
 
-# #######################
-# # Equestrian Kingdoms #
-# #######################
+#######################
+# Equestrian Kingdoms #
+#######################
 
-# ####################
-# # Griffon Generals #
-# ####################
-	# k_great_carnivore_flight = {
-		# color = {255 0 0 }
-		# color2 = { 255 255 255 }
+####################
+# Griffon Generals #
+####################
+	k_great_carnivore_flight = {
+		color = {255 0 0 }
+		color2 = { 255 255 255 }
 		
-		# culture = south_griffon
+		culture = south_griffon
 		
-		# dignity = 150
+		dignity = 150
 		
-		# d_stone_flight = {
-			# color= {100 100 100}
-			# color2 = { 255 255 255 }
+		d_stone_flight = {
+			color= {100 100 100}
+			color2 = { 255 255 255 }
 			
-			# culture = south_griffon
+			culture = south_griffon
 			
-			# dignity = 50
-		# }
-		# d_iron_flight = {
-			# color= {175 175 175}
-			# color2 = { 255 255 255 }
+			dignity = 50
+		}
+		d_iron_flight = {
+			color= {175 175 175}
+			color2 = { 255 255 255 }
 			
-			# culture = south_griffon
+			culture = south_griffon
 			
-			# dignity = 50
-		# }
-		# d_steel_flight = {
-			# color = {240 240 240}
-			# color2 = {255 255 255}
+			dignity = 50
+		}
+		d_steel_flight = {
+			color = {240 240 240}
+			color2 = {255 255 255}
 			
-			# culture = south_griffon
+			culture = south_griffon
 			
-			# dignity = 50
-		# }
-	# }
+			dignity = 50
+		}
+	}
 
-# ######################
-# # Specialized States #
-# ######################
+######################
+# Specialized States #
+######################

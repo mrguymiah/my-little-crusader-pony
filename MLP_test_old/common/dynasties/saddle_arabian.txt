@@ -1,7 +1,0 @@
-#HORSES; 4000 - 4999
-4000 = {
-	name = "Saddlein"
-}
-4100 = {
-	name = "Marehammedid"
-}

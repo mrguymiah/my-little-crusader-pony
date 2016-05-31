@@ -1,0 +1,19 @@
+#Special Characters#
+
+10 = {
+	name="No One"
+	dynasty=0
+	occluded=yes
+	female=no
+	diplomacy=0
+	martial=0
+	stewardship=0
+	intrigue=0
+	learning=0
+	religion="wildfaith"
+	culture="wildling"
+	add_trait="the_wilds"
+	1.1.1 = {
+		birth="1.1.1"
+	}
+}

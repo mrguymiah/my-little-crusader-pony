@@ -1,0 +1,20 @@
+# c_kermareshah
+
+# County Title
+title = c_kermareshah
+
+# Settlements
+max_settlements = 6
+
+b_kermareshah = castle
+#b_kermareshah_2 = city
+#b_kermareshah_3 = temple
+#b_kermareshah_4 = castle
+#b_kermareshah_5 = city
+#b_kermareshah_6 = temple
+
+# Misc
+culture = saddle_arabian_culture
+religion = saddle_arabian_religion
+
+#History

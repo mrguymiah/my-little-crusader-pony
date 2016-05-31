@@ -1,4 +1,8 @@
-# k_emerald_hills
-800.1.1={
-	liege=k_emerald_hills
+500.1.1={
+	law = enatic_cognatic_succession
+	law = succ_gavelkind
 }
+1080.1.1={
+	liege=k_earth
+}
+

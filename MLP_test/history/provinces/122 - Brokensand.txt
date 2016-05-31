@@ -1,0 +1,17 @@
+# c_brokensand
+
+# County Title
+title = c_brokensand
+
+# Settlements
+max_settlements = 3
+
+b_brokensand = tribal
+#b_brokensand_2 = city
+#b_brokensand_3 = temple
+
+# Misc
+culture = tazapan
+religion = buffalo_religion
+
+#History

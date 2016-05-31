@@ -2,7 +2,7 @@
 #1000 - 1499 reserved
 1000 = { #Crystal Kingdom Holders
 	name = "Mi Amore"
-	culture = crystaline
+	culture = crystal_culture
 	coat_of_arms = { 
 		template = 0
 		layer = {
@@ -17,21 +17,21 @@
 }
 1001 = {
 	name = "of Neighagra"
-	culture = crystaline
+	culture = crystal_culture
 }
 1002 = {
 	name = "Flawlessa"
-	culture = crystaline
+	culture = crystal_culture
 }
 1003 = {
 	name = "of the Gap"
-	culture = crystaline
+	culture = crystal_culture
 }
 1004 = {
 	name = "Shining"
-	culture = crystaline
+	culture = crystal_culture
 }
 1005 = {
 	name = "Diamonde"
-	culture = crystaline
+	culture = crystal_culture
 }

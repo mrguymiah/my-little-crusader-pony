@@ -1,0 +1,21 @@
+# c_neighbela
+
+# County Title
+title = c_neighbela
+
+# Settlements
+max_settlements = 7
+
+b_neighbela = tribal
+#b_neighbela_2 = city
+#b_neighbela_3 = temple
+#b_neighbela_4 = castle
+#b_neighbela_5 = city
+#b_neighbela_6 = temple
+#b_neighbela_7 = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

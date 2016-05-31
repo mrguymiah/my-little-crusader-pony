@@ -1,0 +1,17 @@
+# c_lombucky
+
+# County Title
+title = c_lombucky
+
+# Settlements
+max_settlements = 3
+
+b_lombucky = tribal
+#b_lombucky_2 = city
+#b_lombucky_3 = temple
+
+# Misc
+culture = tazapan
+religion = buffalo_religion
+
+#History

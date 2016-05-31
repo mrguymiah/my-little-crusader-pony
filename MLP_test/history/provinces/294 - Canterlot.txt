@@ -1,0 +1,21 @@
+# c_canterlot
+
+# County Title
+title = c_canterlot
+
+# Settlements
+max_settlements = 7
+
+b_canterlot = tribal
+b_moonstreat = city
+b_irongate = castle
+b_high_rock = temple
+b_hornway = city
+#b_managrove = temple
+#b_whitecliff = castle
+
+# Misc
+culture = unicorn_culture
+religion = unicorn_religion
+
+#History

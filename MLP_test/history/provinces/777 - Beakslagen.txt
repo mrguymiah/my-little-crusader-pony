@@ -1,0 +1,17 @@
+# c_beakslagen
+
+# County Title
+title = c_beakslagen
+
+# Settlements
+max_settlements = 3
+
+b_beakslagen = tribal
+#b_beakslagen_2 = city
+#b_beakslagen_3 = temple
+
+# Misc
+culture = high_griffon
+religion = grifflyreise
+
+#History

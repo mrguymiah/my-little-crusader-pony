@@ -1,0 +1,17 @@
+# c_cabo
+
+# County Title
+title = c_cabo
+
+# Settlements
+max_settlements = 3
+
+b_cabo = tribal
+#b_cabo_2 = city
+#b_cabo_3 = temple
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

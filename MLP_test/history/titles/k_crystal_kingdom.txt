@@ -1,8 +1,5 @@
-# e_crystal_empire
 500.1.1={
-	law = agnatic_succession
+	law = enatic_cognatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
-	liege=e_crystal_empire
-}
+

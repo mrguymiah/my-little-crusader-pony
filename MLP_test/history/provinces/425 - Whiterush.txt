@@ -1,0 +1,17 @@
+# c_whiterush
+
+# County Title
+title = c_whiterush
+
+# Settlements
+max_settlements = 3
+
+b_whiterush = tribal
+#b_whiterush_2 = city
+#b_whiterush_3 = temple
+
+# Misc
+culture = whitetail
+religion = doskiphanum
+
+#History

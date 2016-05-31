@@ -1,0 +1,17 @@
+# c_pinefur
+
+# County Title
+title = c_pinefur
+
+# Settlements
+max_settlements = 3
+
+b_pinefur = tribal
+#b_pinefur_2 = city
+#b_pinefur_3 = temple
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

@@ -164,7 +164,7 @@ alicorn = {
 	}
 }
 
-saddlehorse = {
+horse = {
 	birth = 0
 	inherit_chance = 100
 	

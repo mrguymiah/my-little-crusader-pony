@@ -1,0 +1,17 @@
+# c_stallion_ridge
+
+# County Title
+title = c_stallion_ridge
+
+# Settlements
+max_settlements = 3
+
+b_medford = tribal
+b_princhall = city
+#b_dagger_ridge = temple
+
+# Misc
+culture = earth_pony_culture
+religion = earth_religion
+
+#History

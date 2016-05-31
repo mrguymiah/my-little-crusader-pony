@@ -1,0 +1,19 @@
+# c_firebeakland
+
+# County Title
+title = c_firebeakland
+
+# Settlements
+max_settlements = 5
+
+b_firebeakland = tribal
+#b_firebeakland_2 = city
+#b_firebeakland_3 = temple
+#b_firebeakland_4 = castle
+#b_firebeakland_5 = city
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

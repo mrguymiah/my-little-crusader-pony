@@ -865,30 +865,7 @@ spriteTypes = {
 		norefcount = yes
 		can_be_lowres = yes
 	}
-	
-	spriteType = {
-		name = "GFX_deertrue_base"
-		texturefile = "gfx//characters//deertrue_male//deertrue_male_base.tga"
-		noOfFrames = 1
-		norefcount = yes
-		can_be_lowres = yes
-	}
-	
-	spriteType = {
-		name = "GFX_deertrue_color"
-		texturefile = "gfx//characters//deertrue_male//deertrue_male_color.tga"
-		noOfFrames = 12
-		norefcount = yes
-		can_be_lowres = yes
-	}
-	
-	spriteType = {
-		name = "GFX_deertrue_eyes"
-		texturefile = "gfx//characters//deertrue_male//deertrue_male_eyes.tga"
-		noOfFrames = 4
-		norefcount = yes
-		can_be_lowres = yes
-	}
+
 
 	########
 	#Shared#

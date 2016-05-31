@@ -1,0 +1,17 @@
+# c_plainsgraze
+
+# County Title
+title = c_plainsgraze
+
+# Settlements
+max_settlements = 3
+
+b_plainsgraze = tribal
+#b_plainsgraze_2 = city
+#b_plainsgraze_3 = temple
+
+# Misc
+culture = cephalo
+religion = agniphanum
+
+#History

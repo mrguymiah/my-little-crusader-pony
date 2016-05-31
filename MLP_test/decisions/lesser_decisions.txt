@@ -1,0 +1,60 @@
+decisions = {
+
+	buy_the_lands_cloudkonion = {
+		is_high_prio = yes
+		
+		potential = {
+			has_landed_title = k_pegasopolis
+			NOT = { completely_controls = c_cloudkonion }
+			NOT = { trait = incapable }
+			NOT = { has_character_flag = sale_cloudkonion }
+		}
+		allow = {
+			wealth = 100
+		}
+		
+		effect = {
+			any_independent_ruler = {
+				limit = {
+					OR = {
+						has_landed_title = k_earth
+						any_vassal = {
+							has_landed_title = k_earth
+						}
+					}
+				}
+				character_event = { id = salelands.01 days = 2 }
+			}
+			set_character_flag = sale_cloudkonion
+		}
+	}
+	
+	buy_the_lands_poniala = {
+		is_high_prio = yes
+		
+		potential = {
+			has_landed_title = k_pegasopolis
+			NOT = { completely_controls = c_poniala }
+			NOT = { trait = incapable }
+			NOT = { has_character_flag = sale_poniala }
+		}
+		allow = {
+			wealth = 100
+		}
+		
+		effect = {
+			any_independent_ruler = {
+				limit = {
+					OR = {
+						has_landed_title = k_earth
+						any_vassal = {
+							has_landed_title = k_earth
+						}
+					}
+				}
+				character_event = { id = salelands.02 days = 2 }
+			}
+			set_character_flag = sale_poniala
+		}
+	}
+}
