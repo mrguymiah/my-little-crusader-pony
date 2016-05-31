@@ -1,0 +1,56 @@
+namespace = crystal_heart
+
+character_event = {
+	id = crystal_heart.1
+	desc = EVTDESCcrystal_heart.1
+	picture = GFX_evt_emissary
+		
+	capable_only = yes
+	prisoner = no
+	
+	trigger = {
+		has_landed_title = c_crystal_castle
+		culture = crystal_culture
+		religion_group = crystal_Rgroup
+		NOT = { 
+			has_character_modifier = crystal_heart_protection
+			has_character_modifier = crystal_heart_domination 
+		}
+	}	
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = EVTOPTAcrystal_heart.1
+		scaled_wealth = -0.50
+		character_event = { id = crystal_heart.2 days = 30 tooltip = EVTTOOLTIPcrystal_heart.2 }
+	}
+}
+
+character_event = {
+	id = crystal_heart.2
+	desc = EVTDESCcrystal_heart.2
+	picture = GFX_evt_emissary
+	
+	capable_only = yes
+	prisoner = no
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTAcrystal_heart.2
+		add_character_modifier = {
+			name = "crystal_heart_protection"
+			duration = -1
+		}
+	}
+	option = {
+		name = EVTOPTBcrystal_heart.2
+		add_character_modifier = {
+			name = "crystal_heart_domination"
+			duration = -1
+		}
+	}
+}
