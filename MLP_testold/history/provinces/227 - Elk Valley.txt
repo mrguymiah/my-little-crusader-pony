@@ -1,0 +1,17 @@
+# c_elk_valley
+
+# County Title
+title = c_elk_valley
+
+# Settlements
+max_settlements = 3
+
+b_elk_valley = tribal
+#b_elk_valley_2 = city
+#b_elk_valley_3 = temple
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

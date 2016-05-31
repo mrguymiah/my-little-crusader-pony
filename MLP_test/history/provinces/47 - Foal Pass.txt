@@ -1,0 +1,15 @@
+# c_foal_pass
+
+# County Title
+title = c_foal_pass
+
+# Settlements
+max_settlements = 1
+
+b_foal_pass = castle
+
+# Misc
+culture = pegasoplite
+religion = pegasaero
+
+#History

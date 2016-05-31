@@ -1,0 +1,15 @@
+# c_yaket
+
+# County Title
+title = c_yaket
+
+# Settlements
+max_settlements = 1
+
+b_yaket = tribal
+
+# Misc
+culture = yaket
+religion = wekbo
+
+#History

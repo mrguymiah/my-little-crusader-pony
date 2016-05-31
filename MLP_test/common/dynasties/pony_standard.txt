@@ -6,7 +6,7 @@
 ##EARTH PONY##
 1 = {
 	name = "D'Apple" #Applejack, Pinkie
-	culture = earth_pony_culture
+	culture = earthling
 	coat_of_arms = { 
 		template = 0
 		layer = {
@@ -17,17 +17,17 @@
 			color = 0
 			color = 0
 		}
-		religion="earth_religion"
+		religion="tribunal"
 	}
 }
 ##PEGASI##
 201 = {
 	name = "Swiftwind"
-	culture = pegasus_culture
+	culture = pegasoplite
 }
 202 = {
 	name = "Mistwing" #Fluttershy
-	culture = pegasus_culture
+	culture = pegasoplite
 	coat_of_arms = { 
 		template = 0
 		layer = {
@@ -42,7 +42,7 @@
 }
 203 = {
 	name = "Chroma" #Rainbow Dash
-	culture = pegasus_culture
+	culture = pegasoplite
 	coat_of_arms = { 
 		template = 0
 		layer = {
@@ -58,7 +58,7 @@
 ##UNICORN##
 401 = {
 	name = "Blueblood"
-	culture = unicorn_culture
+	culture = unicornian
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -73,7 +73,7 @@
 }
 402 = {
 	name = "Sparkle" #Twilight
-	culture = unicorn_culture
+	culture = unicornian
 	coat_of_arms = { 
 		template = 0
 		layer = {
@@ -88,7 +88,7 @@
 }
 403 = {
 	name = "Whitegold" #Rarity
-	culture = unicorn_culture
+	culture = unicornian
 	coat_of_arms = { 
 		template = 0
 		layer = {

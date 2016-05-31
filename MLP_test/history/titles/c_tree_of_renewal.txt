@@ -1,0 +1,4 @@
+# k_sacred_grove
+800.1.1={
+	liege=d_sacred_grove
+}

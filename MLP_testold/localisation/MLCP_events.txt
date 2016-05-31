@@ -1,0 +1,8 @@
+#CODE;ENGLISH;;;;;;;;;;;;;;;;x
+CERVIDEXP.100;Cerivds Driven Out;;;;;;;;;;;;;;;;x
+CERVIDEXP.100.DESC;It has taken some time, but the majority of the deer in $PROVINCE$ have finally realized they are not wanted there, and have left.;;;;;;;;;;;;;;;;x
+CERVIDEXP.100.OPTA;Good riddance!;;;;;;;;;;;;;;;;x
+CERVIDEXP.101;Cervid Bribery;;;;;;;;;;;;;;;;x
+CERVIDEXP.101.DESC;Your [Root.GetChancellorName], [Root.job_chancellor.GetTitledFirstName], has alerted you that, for a fee, the cervids of $PROVINCE$ would be willing to move elsewhere.;;;;;;;;;;;;;;;;x
+CERVIDEXP.101.OPTA;Money well spent!;;;;;;;;;;;;;;;;x
+CERVIDEXP.101.OPTB;Paying the deer? Ha!;;;;;;;;;;;;;;;;x

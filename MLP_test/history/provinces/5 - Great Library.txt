@@ -1,0 +1,15 @@
+# c_great_library
+
+# County Title
+title = c_great_library
+
+# Settlements
+max_settlements = 1
+
+b_blackmagus = castle
+
+# Misc
+culture = unicornian
+religion = ponitentum
+
+#History

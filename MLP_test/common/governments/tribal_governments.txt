@@ -25,10 +25,8 @@ tribal_governments = {
 		frame_suffix = "_tribal"
 		title_prefix = "tribal_"
 		potential = {
-			NAND = {
+			NOT = {
 				controls_religion = yes
-				# NOT = { religion_group = muslim }
-				# NOT = { religion = norse_pagan_reformed }
 			}
 			is_patrician = no
 			mercenary = no

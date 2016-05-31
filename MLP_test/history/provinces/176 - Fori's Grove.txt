@@ -1,0 +1,15 @@
+# c_foris_grove
+
+# County Title
+title = c_foris_grove
+
+# Settlements
+max_settlements = 1
+
+b_forismunn = temple
+
+# Misc
+culture = fallow
+religion = agniphanum
+
+#History

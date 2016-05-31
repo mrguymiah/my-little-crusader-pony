@@ -1,0 +1,16 @@
+# c_moosenbaum
+
+# County Title
+title = c_moosenbaum
+
+# Settlements
+max_settlements = 2
+
+b_moosenbaum = tribal
+#b_moosenbaum_2 = city
+
+# Misc
+culture = caribou_culture
+religion = mooselam
+
+#History

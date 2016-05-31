@@ -1,0 +1,16 @@
+# c_fooranweyaz
+
+# County Title
+title = c_fooranweyaz
+
+# Settlements
+max_settlements = 2
+
+b_bulasburh = tribal
+b_staupaztun = tribal
+
+# Misc
+culture = caribou_culture
+religion = mooselam
+
+#History

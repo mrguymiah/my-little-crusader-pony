@@ -1,0 +1,19 @@
+# c_wg18
+
+# County Title
+title = c_wg18
+
+# Settlements
+max_settlements = 5
+
+b_wg18 = tribal
+#b_wg18_2 = city
+#b_wg18_3 = temple
+#b_wg18_4 = castle
+#b_wg18_5 = city
+
+# Misc
+culture = high_griffon
+religion = grifflyreise
+
+#History

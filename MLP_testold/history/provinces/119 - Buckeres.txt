@@ -1,0 +1,18 @@
+# c_buckeres
+
+# County Title
+title = c_buckeres
+
+# Settlements
+max_settlements = 4
+
+b_buckeres = tribal
+#b_buckeres_2 = city
+#b_buckeres_3 = temple
+#b_buckeres_4 = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

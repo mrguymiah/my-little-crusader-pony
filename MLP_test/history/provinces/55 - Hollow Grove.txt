@@ -1,0 +1,15 @@
+# c_hollow_grove
+
+# County Title
+title = c_hollow_grove
+
+# Settlements
+max_settlements = 1
+
+b_q67 = castle
+
+# Misc
+culture = muntjaal
+religion = agniphanum
+
+#History

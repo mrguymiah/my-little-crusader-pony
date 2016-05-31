@@ -1,0 +1,15 @@
+# c_riverport_zeta
+
+# County Title
+title = c_riverport_zeta
+
+# Settlements
+max_settlements = 1
+
+b_castle_zeta = castle
+
+# Misc
+culture = bosh
+religion = taismino
+
+#History

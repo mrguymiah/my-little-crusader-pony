@@ -1,0 +1,17 @@
+# c_umaretilla
+
+# County Title
+title = c_umaretilla
+
+# Settlements
+max_settlements = 3
+
+b_umaretilla = tribal
+#b_umaretilla_2 = city
+#b_umaretilla_3 = temple
+
+# Misc
+culture = whitetail
+religion = doskiphanum
+
+#History

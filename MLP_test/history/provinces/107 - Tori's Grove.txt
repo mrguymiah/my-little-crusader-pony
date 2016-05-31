@@ -1,0 +1,15 @@
+# c_toris_grove
+
+# County Title
+title = c_toris_grove
+
+# Settlements
+max_settlements = 1
+
+b_toris_grove = temple
+
+# Misc
+culture = muntjo
+religion = muntura
+
+#History

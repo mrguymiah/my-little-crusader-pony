@@ -1,0 +1,15 @@
+# c_neighvaran
+
+# County Title
+title = c_neighvaran
+
+# Settlements
+max_settlements = 1
+
+b_neighvaran = temple
+
+# Misc
+culture = muntjaal
+religion = agniphanum
+
+#History

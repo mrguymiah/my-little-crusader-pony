@@ -1,0 +1,18 @@
+# c_canterbury
+
+# County Title
+title = c_canterbury
+
+# Settlements
+max_settlements = 4
+
+b_canterbury = tribal
+b_canterham = castle
+b_whitestable = city
+#b_horseden = castle
+
+# Misc
+culture = earth_pony_culture
+religion = earth_religion
+
+#History

@@ -1,0 +1,17 @@
+# c_hooftaney
+
+# County Title
+title = c_hooftaney
+
+# Settlements
+max_settlements = 3
+
+b_hooftaney = tribal
+#b_hooftaney_2 = city
+#b_hooftaney_3 = temple
+
+# Misc
+culture = whitetail
+religion = doskiphanum
+
+#History

@@ -1,0 +1,16 @@
+# c_laeyazlanden
+
+# County Title
+title = c_laeyazlanden
+
+# Settlements
+max_settlements = 2
+
+b_aguntumare = tribal
+b_canteruntum = tribal
+
+# Misc
+culture = caribou_culture
+religion = mooselam
+
+#History

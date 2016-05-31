@@ -1,0 +1,15 @@
+# c_cattletown
+
+# County Title
+title = c_cattletown
+
+# Settlements
+max_settlements = 1
+
+b_cattletown = tribal
+
+# Misc
+culture = rumin
+religion = taismino
+
+#History

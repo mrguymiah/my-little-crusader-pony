@@ -1,0 +1,17 @@
+# c_thundergounds
+
+# County Title
+title = c_thundergounds
+
+# Settlements
+max_settlements = 3
+
+b_thundergounds = tribal
+#b_thundergounds_2 = city
+#b_thundergounds_3 = temple
+
+# Misc
+culture = tazapan
+religion = buffalo_religion
+
+#History

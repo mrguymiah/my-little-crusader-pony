@@ -1,0 +1,15 @@
+# c_surkari
+
+# County Title
+title = c_surkari
+
+# Settlements
+max_settlements = 1
+
+b_sgddsgdsgsdgsdghre = castle
+
+# Misc
+culture = bev
+religion = weket
+
+#History

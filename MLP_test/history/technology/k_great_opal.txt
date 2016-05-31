@@ -1,0 +1,24 @@
+#GREAT OPAL
+technology = {
+	titles = {
+		d_zarkadio
+		d_go_d1
+		d_go_d2
+		d_go_d3
+		d_go_d4
+		d_go_d5
+		d_north_neighagara
+		d_tribunal_shore
+		d_upshore
+	}
+	2000 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

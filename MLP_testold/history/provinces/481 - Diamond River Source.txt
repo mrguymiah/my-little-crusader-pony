@@ -1,0 +1,17 @@
+# c_diamond_river_source
+
+# County Title
+title = c_diamond_river_source
+
+# Settlements
+max_settlements = 3
+
+b_diamond_river = tribal
+#b_diamond_river_source = city
+#b_diamond_river_source_2 = temple
+
+# Misc
+culture = caribou_culture
+religion = mooselam
+
+#History

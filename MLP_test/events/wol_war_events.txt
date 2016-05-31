@@ -1185,7 +1185,7 @@ character_event = {
 	id = WoL.11100
 	hide_window = yes
 	
-	is_playable = yes
+	ai = no
 	
 	trigger = {
 		has_focus = focus_war

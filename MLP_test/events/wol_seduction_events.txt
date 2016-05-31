@@ -1737,7 +1737,6 @@ character_event = {
 		# }
 		# remove_character_modifier = wol_seducer_2
 		# add_trait = seductress
-		log = "WoL.99: [Root.GetTitledName] achieves the lifestyle Seductress!"
 	# }
 	
 	option = {

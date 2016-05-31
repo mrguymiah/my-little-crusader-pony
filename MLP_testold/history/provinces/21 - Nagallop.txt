@@ -1,0 +1,17 @@
+# c_nagallop
+
+# County Title
+title = c_nagallop
+
+# Settlements
+max_settlements = 3
+
+b_nagallop1 = tribal
+b_nagallop2 = city
+b_nagallop3 = temple
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

@@ -1,0 +1,15 @@
+# c_seven_shallow
+
+# County Title
+title = c_seven_shallow
+
+# Settlements
+max_settlements = 1
+
+b_seven_shallow = castle
+
+# Misc
+culture = diamonddog
+religion = carncanus
+
+#History

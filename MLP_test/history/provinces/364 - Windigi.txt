@@ -1,0 +1,15 @@
+# c_windigi
+
+# County Title
+title = c_windigi
+
+# Settlements
+max_settlements = 1
+
+b_windigi = tribal
+
+# Misc
+culture = yaket
+religion = wekbo
+
+#History

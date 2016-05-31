@@ -1,0 +1,15 @@
+# c_yenars
+
+# County Title
+title = c_yenars
+
+# Settlements
+max_settlements = 1
+
+b_q80 = castle
+
+# Misc
+culture = muntjaal
+religion = agniphanum
+
+#History

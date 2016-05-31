@@ -1,0 +1,15 @@
+# c_alder_dam
+
+# County Title
+title = c_alder_dam
+
+# Settlements
+max_settlements = 1
+
+b_the_alderdam = tribal
+
+# Misc
+culture = bev
+religion = weket
+
+#History

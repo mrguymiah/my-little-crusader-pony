@@ -1,0 +1,15 @@
+# c_alta_agnitan
+
+# County Title
+title = c_alta_agnitan
+
+# Settlements
+max_settlements = 1
+
+b_q63 = castle
+
+# Misc
+culture = muntjaal
+religion = agniphanum
+
+#History

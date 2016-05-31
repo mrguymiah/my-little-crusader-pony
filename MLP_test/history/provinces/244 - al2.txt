@@ -1,0 +1,15 @@
+# c_al2
+
+# County Title
+title = c_al2
+
+# Settlements
+max_settlements = 1
+
+b_nn = castle
+
+# Misc
+culture = roe
+religion = doskiphanum
+
+#History

@@ -1,0 +1,15 @@
+# c_beefsburg
+
+# County Title
+title = c_beefsburg
+
+# Settlements
+max_settlements = 1
+
+b_dshdfjlkdfjsd = castle
+
+# Misc
+culture = rumin
+religion = taismino
+
+#History

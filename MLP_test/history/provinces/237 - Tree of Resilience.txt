@@ -1,0 +1,15 @@
+# c_tree_of_resilience
+
+# County Title
+title = c_tree_of_resilience
+
+# Settlements
+max_settlements = 1
+
+b_tree_of_resilience = temple
+
+# Misc
+culture = roe
+religion = agniphanum
+
+#History

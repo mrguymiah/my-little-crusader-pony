@@ -1,0 +1,17 @@
+# c_senbuck_island
+
+# County Title
+title = c_senbuck_island
+
+# Settlements
+max_settlements = 3
+
+b_senbuck_island = tribal
+#b_senbuck_island_2 = city
+#b_senbuck_island_3 = temple
+
+# Misc
+culture = whitetail
+religion = doskiphanum
+
+#History

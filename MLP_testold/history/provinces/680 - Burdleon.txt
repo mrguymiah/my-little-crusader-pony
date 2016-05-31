@@ -1,0 +1,19 @@
+# c_burdleon
+
+# County Title
+title = c_burdleon
+
+# Settlements
+max_settlements = 5
+
+b_burdleon = tribal
+#b_burdleon_2 = city
+#b_burdleon_3 = temple
+#b_burdleon_4 = castle
+#b_burdleon_5 = city
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

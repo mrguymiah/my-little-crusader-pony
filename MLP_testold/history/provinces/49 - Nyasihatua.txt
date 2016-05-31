@@ -1,0 +1,17 @@
+# c_nyasihatua
+
+# County Title
+title = c_nyasihatua
+
+# Settlements
+max_settlements = 3
+
+b_nyasihatua = tribal
+#b_nyasihatua_2 = city
+#b_nyasihatua_3 = temple
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

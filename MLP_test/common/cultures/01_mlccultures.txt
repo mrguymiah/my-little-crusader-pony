@@ -1,0 +1,735 @@
+#CULTURES PRIMARY FILE
+#All cultures should be listed here
+
+equestrian_group = {
+	graphical_cultures = { ponygfx }
+	
+	#Earth Ponies
+	earthling = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	mustang = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	neighagaran = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	manehattanite = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	#Unicorns
+	unicornian = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	bitalian = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	#Pegasi
+	pegasoplite = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+donum_group = {
+	graphical_cultures = { ponygfx }
+	
+	crystaline = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	alicrian = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	bejeweled = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	donumer = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+deer_group = {
+	graphical_cultures = { ponygfx }
+	
+	fallow = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	whitetail = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	redtail = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	blacktail = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	roe = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	muntjaal = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	muntjo = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	taruca = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+reindeer_group = {
+	graphical_cultures = { ponygfx }
+
+	rein = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	whitestag = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+cephal_group = {
+	graphical_cultures = { ponygfx }
+	
+	cephalo = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+critter_group = {
+	graphical_cultures = { ponygfx }
+	
+	bev = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	rabbit = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	arabb = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+wildbovine_group = {
+	graphical_cultures = { ponygfx }
+	
+	#Yaks
+	yakyak = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	yaket = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	yakku = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	buryak = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	#Other
+	buffalo = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+mino_group = {
+	graphical_cultures = { ponygfx }
+	
+	#Minotaur
+	taurukin = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	#Cattle
+	bosh = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	rumin = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+caprine_group = {
+	graphical_cultures = { ponygfx }
+	
+	gotelander = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+wild_griffon_group = {
+	graphical_cultures = { ponygfx }
+	
+	northgriffon = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+great_canine_group = {
+	graphical_cultures = { ponygfx }
+	
+	diamonddog = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	miniman = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+dragon_group = {
+	graphical_cultures = { ponygfx }
+	
+	westflight = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	gemdrake = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+zebra_group = {
+	graphical_cultures = { ponygfx }
+	
+	zebrazen = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+tyrant_group = {
+	graphical_cultures = { ponygfx }
+	
+	changeling = {
+		graphical_cultures = { ponygfx }
+		color = { 87 174 78 }
+		male_names = { Bob }
+		female_names = { Aerith }
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}

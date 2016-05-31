@@ -1,0 +1,21 @@
+# c_al_maneia
+
+# County Title
+title = c_al_maneia
+
+# Settlements
+max_settlements = 7
+
+b_al_maneia = tribal
+#b_al_maneia_2 = city
+#b_al_maneia_3 = temple
+#b_al_maneia_4 = castle
+#b_al_maneia_5 = city
+#b_al_maneia_6 = temple
+#b_al_maneia_7 = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

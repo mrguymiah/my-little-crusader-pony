@@ -1,0 +1,15 @@
+# c_ulan_udder
+
+# County Title
+title = c_ulan_udder
+
+# Settlements
+max_settlements = 1
+
+b_ulan_udder = tribal
+
+# Misc
+culture = buryak
+religion = wekbo
+
+#History

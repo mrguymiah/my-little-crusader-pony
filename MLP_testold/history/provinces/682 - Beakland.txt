@@ -1,0 +1,21 @@
+# c_beakland
+
+# County Title
+title = c_beakland
+
+# Settlements
+max_settlements = 7
+
+b_beakland = tribal
+#b_beakland_2 = city
+#b_beakland_3 = temple
+#b_beakland_4 = castle
+#b_beakland_5 = city
+#b_beakland_6 = temple
+#b_beakland_7 = castle
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

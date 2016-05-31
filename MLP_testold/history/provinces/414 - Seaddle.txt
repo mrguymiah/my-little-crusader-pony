@@ -1,0 +1,21 @@
+# c_seaddle
+
+# County Title
+title = c_seaddle
+
+# Settlements
+max_settlements = 7
+
+b_saddlestown = tribal
+b_seaddle = city
+b_seawood = temple
+b_stagvew = city
+#b_redmond = city
+#b_woodgrove = temple
+#b_marecer = castle
+
+# Misc
+culture = whitetail
+religion = doskiphanum
+
+#History

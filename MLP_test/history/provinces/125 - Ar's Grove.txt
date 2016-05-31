@@ -1,0 +1,15 @@
+# c_ars_grove
+
+# County Title
+title = c_ars_grove
+
+# Settlements
+max_settlements = 1
+
+b_armunn = temple
+
+# Misc
+culture = muntjaal
+religion = agniphanum
+
+#History

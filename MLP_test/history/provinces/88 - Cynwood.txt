@@ -1,0 +1,15 @@
+# c_cynwood
+
+# County Title
+title = c_cynwood
+
+# Settlements
+max_settlements = 1
+
+b_egfeefes = castle
+
+# Misc
+culture = muntjo
+religion = muntura
+
+#History

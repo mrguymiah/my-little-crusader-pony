@@ -1,0 +1,17 @@
+# c_standing_rock
+
+# County Title
+title = c_standing_rock
+
+# Settlements
+max_settlements = 3
+
+b_standing_rock = tribal
+#b_standing_rock_2 = city
+#b_standing_rock_3 = temple
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

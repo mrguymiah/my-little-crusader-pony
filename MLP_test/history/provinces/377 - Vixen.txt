@@ -1,0 +1,15 @@
+# c_vixen
+
+# County Title
+title = c_vixen
+
+# Settlements
+max_settlements = 1
+
+b_vixen = temple
+
+# Misc
+culture = rein
+religion = nichphanum
+
+#History

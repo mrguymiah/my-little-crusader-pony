@@ -1,0 +1,15 @@
+# c_moosbury
+
+# County Title
+title = c_moosbury
+
+# Settlements
+max_settlements = 1
+
+b_moosbury = tribal
+
+# Misc
+culture = rumin
+religion = taismino
+
+#History

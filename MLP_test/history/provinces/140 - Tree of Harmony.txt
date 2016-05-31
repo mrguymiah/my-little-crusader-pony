@@ -1,0 +1,15 @@
+# c_tree_of_harmony
+
+# County Title
+title = c_tree_of_harmony
+
+# Settlements
+max_settlements = 1
+
+b_agnis_palace = castle
+
+# Misc
+culture = fallow
+religion = agniphanum
+
+#History

@@ -1,0 +1,15 @@
+# c_go11
+
+# County Title
+title = c_go11
+
+# Settlements
+max_settlements = 1
+
+b_vvvvvvv = castle
+
+# Misc
+culture = pegasoplite
+religion = pegasaero
+
+#History

@@ -1,0 +1,15 @@
+# c_turnosi
+
+# County Title
+title = c_turnosi
+
+# Settlements
+max_settlements = 1
+
+b_turnosi = temple
+
+# Misc
+culture = muntjo
+religion = muntura
+
+#History

@@ -1,3 +1,8 @@
-100.1.1 = {
-	holder = 1703
+# k_applewood
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+800.1.1={
+	liege=d_applewood
 }

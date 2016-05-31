@@ -1,0 +1,15 @@
+# c_bf3
+
+# County Title
+title = c_bf3
+
+# Settlements
+max_settlements = 1
+
+b_wwwwwwwwwww = castle
+
+# Misc
+culture = buffalo
+religion = wekbo
+
+#History

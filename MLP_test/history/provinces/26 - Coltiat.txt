@@ -1,0 +1,15 @@
+# c_coltiat
+
+# County Title
+title = c_coltiat
+
+# Settlements
+max_settlements = 1
+
+b_q4 = castle
+
+# Misc
+culture = pegasoplite
+religion = pegasaero
+
+#History

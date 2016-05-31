@@ -1,0 +1,15 @@
+# c_smokey_valley
+
+# County Title
+title = c_smokey_valley
+
+# Settlements
+max_settlements = 1
+
+b_fsdsdsf = castle
+
+# Misc
+culture = diamonddog
+religion = maximan
+
+#History

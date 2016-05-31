@@ -1,0 +1,16 @@
+# c_boneplane
+
+# County Title
+title = c_boneplane
+
+# Settlements
+max_settlements = 2
+
+b_boneplane = tribal
+#b_boneplane_2 = city
+
+# Misc
+culture = tazapan
+religion = buffalo_religion
+
+#History

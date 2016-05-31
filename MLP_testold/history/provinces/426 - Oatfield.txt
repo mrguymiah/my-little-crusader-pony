@@ -1,0 +1,17 @@
+# c_oatfield
+
+# County Title
+title = c_oatfield
+
+# Settlements
+max_settlements = 3
+
+b_oatfield = tribal
+#b_oatfield_2 = city
+#b_oatfield_3 = temple
+
+# Misc
+culture = whitetail
+religion = doskiphanum
+
+#History

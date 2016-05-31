@@ -1,0 +1,15 @@
+# c_mirafulmen
+
+# County Title
+title = c_mirafulmen
+
+# Settlements
+max_settlements = 1
+
+b_heros_hall = castle
+
+# Misc
+culture = pegasoplite
+religion = aeronite
+
+#History

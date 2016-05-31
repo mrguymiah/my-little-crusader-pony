@@ -1,0 +1,20 @@
+# c_coltoulouse
+
+# County Title
+title = c_coltoulouse
+
+# Settlements
+max_settlements = 6
+
+b_coltoulouse = tribal
+#b_coltoulouse_2 = city
+#b_coltoulouse_3 = temple
+#b_coltoulouse_4 = castle
+#b_coltoulouse_5 = city
+#b_coltoulouse_6 = temple
+
+# Misc
+culture = fallow
+religion = agniphanum
+
+#History

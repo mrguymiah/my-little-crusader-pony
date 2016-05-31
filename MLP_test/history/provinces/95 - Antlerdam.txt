@@ -1,0 +1,15 @@
+# c_antlerdam
+
+# County Title
+title = c_antlerdam
+
+# Settlements
+max_settlements = 1
+
+b_qrwwvsdsvs = castle
+
+# Misc
+culture = muntjo
+religion = muntura
+
+#History

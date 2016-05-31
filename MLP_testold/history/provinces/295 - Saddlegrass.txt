@@ -1,0 +1,20 @@
+# c_saddlegrass
+
+# County Title
+title = c_saddlegrass
+
+# Settlements
+max_settlements = 6
+
+b_saddlegrass = tribal
+#b_saddlegrass_2 = city
+#b_saddlegrass_3 = temple
+#b_saddlegrass_4 = castle
+#b_saddlegrass_5 = city
+#b_saddlegrass_6 = temple
+
+# Misc
+culture = unicorn_culture
+religion = unicorn_religion
+
+#History

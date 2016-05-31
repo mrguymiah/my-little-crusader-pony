@@ -1,0 +1,15 @@
+# c_new_hurricanion
+
+# County Title
+title = c_new_hurricanion
+
+# Settlements
+max_settlements = 1
+
+b_new_hurricanion = castle
+
+# Misc
+culture = pegasoplite
+religion = pegasaero
+
+#History

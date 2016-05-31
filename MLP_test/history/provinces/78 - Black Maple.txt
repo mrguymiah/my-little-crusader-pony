@@ -1,0 +1,15 @@
+# c_black_maple
+
+# County Title
+title = c_black_maple
+
+# Settlements
+max_settlements = 1
+
+b_sdgasg4asg = castle
+
+# Misc
+culture = bev
+religion = weket
+
+#History

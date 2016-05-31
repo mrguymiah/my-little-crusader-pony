@@ -1,0 +1,15 @@
+# c_rn1
+
+# County Title
+title = c_rn1
+
+# Settlements
+max_settlements = 1
+
+b_nnnnnnnnnnnnn = castle
+
+# Misc
+culture = roe
+religion = agniphanum
+
+#History

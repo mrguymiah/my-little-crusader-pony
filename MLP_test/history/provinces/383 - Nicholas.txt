@@ -1,0 +1,15 @@
+# c_nicholas
+
+# County Title
+title = c_nicholas
+
+# Settlements
+max_settlements = 1
+
+b_deep_north = castle
+
+# Misc
+culture = rein
+religion = nichphanum
+
+#History

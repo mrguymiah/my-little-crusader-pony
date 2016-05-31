@@ -1,0 +1,16 @@
+# c_vejalyk
+
+# County Title
+title = c_vejalyk
+
+# Settlements
+max_settlements = 2
+
+b_vejalyk = tribal
+#b_vejalyk_2 = city
+
+# Misc
+culture = caribou_culture
+religion = mooselam
+
+#History

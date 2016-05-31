@@ -1,0 +1,85 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+k_alcesia;Alcesia;Alcesia;Alcesia;;Alcesia;;;;;;;;;x
+k_alcesia_adj;Alcesian;;alceser;;;;;;;;;;;x
+k_antlerdam;Antlerdam;Antlerdam;Antlerdam;;Antlerdam;;;;;;;;;x
+k_antlerdam_adj;Antlerdamian;;antlerdamer;;;;;;;;;;;x
+k_appala;Appala;Appala;Appala;;Appala;;;;;;;;;x
+k_appala_adj;Appalan;;appaler;;;;;;;;;;;x
+k_applewood;Applewood;Applewood;Applewood;;Applewood;;;;;;;;;x
+k_applewood_adj;Applewoodian;;applewooder;;;;;;;;;;;x
+k_balanya;Balanya;Balanya;Balanya;;Balanya;;;;;;;;;x
+k_balanya_adj;Balanyan;;balaner;;;;;;;;;;;x
+k_bev;Bev;Bev;Bev;;Bev;;;;;;;;;x
+k_bev_adj;Bevian;;bever;;;;;;;;;;;x
+k_boshia;Boshia;Boshia;Boshia;;Boshia;;;;;;;;;x
+k_boshia_adj;Boshian;;bosher;;;;;;;;;;;x
+k_buffantania;Buffantania;Buffantania;Buffantania;;Buffantania;;;;;;;;;x
+k_buffantania_adj;Buffantanian;;buffantaner;;;;;;;;;;;x
+k_buryakia;Buryakia;Buryakia;Buryakia;;Buryakia;;;;;;;;;x
+k_buryakia_adj;Buryakian;;buryaker;;;;;;;;;;;x
+k_cephvar;Cephvar;Cephvar;Cephvar;;Cephvar;;;;;;;;;x
+k_cephvar_adj;Cephvarian;;cephvarer;;;;;;;;;;;x
+k_crystal_kingdom;Crystal Kingdom;Crystal Kingdom;Crystal Kingdom;;Crystal Kingdom;;;;;;;;;x
+k_crystal_kingdom_adj;Crystal Kingdomian;;Crystal Kingdomer;;;;;;;;;;;x
+k_diamond_plateau;Diamond Plateau;Diamond Plateau;Diamond Plateau;;Diamond Plateau;;;;;;;;;x
+k_diamond_plateau_adj;Diamond Platian;;Diamond Plater;;;;;;;;;;;x
+k_doegon;Doegon;Doegon;Doegon;;Doegon;;;;;;;;;x
+k_doegon_adj;Doegonian;;doegoner;;;;;;;;;;;x
+k_donum;Donum;Donum;Donum;;Donum;;;;;;;;;x
+k_donum_adj;Donumian;;donumer;;;;;;;;;;;x
+k_earth;Earth;Earth;Earth;;Earth;;;;;;;;;x
+k_earth_adj;Earthian;;earther;;;;;;;;;;;x
+k_emerald_hills;Emerald Hills;Emerald Hills;Emerald Hills;;Emerald Hills;;;;;;;;;x
+k_emerald_hills_adj;Emerald Hillsian;;Emerald Hillser;;;;;;;;;;;x
+k_everfree;Everfree;Everfree;Everfree;;Everfree;;;;;;;;;x
+k_everfree_adj;Everfreean;;everfrer;;;;;;;;;;;x
+k_great_opal;Great Opal;Great Opal;Great Opal;;Great Opal;;;;;;;;;x
+k_great_opal_adj;Great Opalian;;Great Opaler;;;;;;;;;;;x
+k_gregorland;Gregorland;Gregorland;Gregorland;;Gregorland;;;;;;;;;x
+k_gregorland_adj;Gregorlandian;;gregorlander;;;;;;;;;;;x
+k_griffain;Griffain;Griffain;Griffain;;Griffain;;;;;;;;;x
+k_griffain_adj;Griffainian;;griffainer;;;;;;;;;;;x
+k_jingol;Jingol;Jingol;Jingol;;Jingol;;;;;;;;;x
+k_jingol_adj;Jingolian;;jingoler;;;;;;;;;;;x
+k_lost_grove;Lost Grove;Lost Grove;Lost Grove;;Lost Grove;;;;;;;;;x
+k_lost_grove_adj;Lost Grovean;;Lost Grover;;;;;;;;;;;x
+k_munjal;Munjal;Munjal;Munjal;;Munjal;;;;;;;;;x
+k_munjal_adj;Munjalian;;munjaler;;;;;;;;;;;x
+k_muntjo;Muntjo;Muntjo;Muntjo;;Muntjo;;;;;;;;;x
+k_muntjo_adj;Muntjian;;muntjer;;;;;;;;;;;x
+k_pegasopolis;Pegasopolis;Pegasopolis;Pegasopolis;;Pegasopolis;;;;;;;;;x
+k_pegasopolis_adj;Pegasopolisian;;pegasopoliser;;;;;;;;;;;x
+k_rabb;Rabb;Rabb;Rabb;;Rabb;;;;;;;;;x
+k_rabb_adj;Rabbian;;rabber;;;;;;;;;;;x
+k_rangifask;Rangifask;Rangifask;Rangifask;;Rangifask;;;;;;;;;x
+k_rangifask_adj;Rangifaskian;;rangifasker;;;;;;;;;;;x
+k_ruby_heights;Ruby Heights;Ruby Heights;Ruby Heights;;Ruby Heights;;;;;;;;;x
+k_ruby_heights_adj;Ruby Heightsian;;Ruby Heightser;;;;;;;;;;;x
+k_rumina;Rumina;Rumina;Rumina;;Rumina;;;;;;;;;x
+k_rumina_adj;Ruminan;;ruminer;;;;;;;;;;;x
+k_sacred_grove;Sacred Grove;Sacred Grove;Sacred Grove;;Sacred Grove;;;;;;;;;x
+k_sacred_grove_adj;Sacred Grovean;;Sacred Grover;;;;;;;;;;;x
+k_sapphire_valley;Sapphire Valley;Sapphire Valley;Sapphire Valley;;Sapphire Valley;;;;;;;;;x
+k_sapphire_valley_adj;Sapphire Valleian;;Sapphire Valleer;;;;;;;;;;;x
+k_smokey_mountains;Smokey Mountains;Smokey Mountains;Smokey Mountains;;Smokey Mountains;;;;;;;;;x
+k_smokey_mountains_adj;Smokey Mountainsian;;Smokey Mountainser;;;;;;;;;;;x
+k_stone_falls;Stone Falls;Stone Falls;Stone Falls;;Stone Falls;;;;;;;;;x
+k_stone_falls_adj;Stone Fallsian;;Stone Fallser;;;;;;;;;;;x
+k_the_badlands;The Badlands;The Badlands;The Badlands;;The Badlands;;;;;;;;;x
+k_the_badlands_adj;The Badlandsian;;The Badlandser;;;;;;;;;;;x
+k_the_range;The Range;The Range;The Range;;The Range;;;;;;;;;x
+k_the_range_adj;The Rangean;;The Ranger;;;;;;;;;;;x
+k_the_shoe;The Shoe;The Shoe;The Shoe;;The Shoe;;;;;;;;;x
+k_the_shoe_adj;The Shoean;;The Sher;;;;;;;;;;;x
+k_unicornia;Unicornia;Unicornia;Unicornia;;Unicornia;;;;;;;;;x
+k_unicornia_adj;Unicornian;;unicorner;;;;;;;;;;;x
+k_whitetail;Whitetail;Whitetail;Whitetail;;Whitetail;;;;;;;;;x
+k_whitetail_adj;Whitetailian;;whitetailer;;;;;;;;;;;x
+k_yaket;Yaket;Yaket;Yaket;;Yaket;;;;;;;;;x
+k_yaket_adj;Yaketian;;yaketer;;;;;;;;;;;x
+k_yakku_tuva;Yakku Tuva;Yakku Tuva;Yakku Tuva;;Yakku Tuva;;;;;;;;;x
+k_yakku_tuva_adj;Yakku Tuvan;;Yakku Tuver;;;;;;;;;;;x
+k_yakyakistan;Yakyakistan;Yakyakistan;Yakyakistan;;Yakyakistan;;;;;;;;;x
+k_yakyakistan_adj;Yakyakistanian;;yakyakistaner;;;;;;;;;;;x
+k_yarcol;Yarcol;Yarcol;Yarcol;;Yarcol;;;;;;;;;x
+k_yarcol_adj;Yarcolian;;yarcoler;;;;;;;;;;;x

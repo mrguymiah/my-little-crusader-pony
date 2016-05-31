@@ -1,4 +1,8 @@
-100.1.1 = {
-	holder = 2108
+# k_bev
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
 }
-
+800.1.1={
+	liege=d_ramming_rock
+}

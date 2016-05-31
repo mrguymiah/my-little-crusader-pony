@@ -1,0 +1,15 @@
+# c_olcolt
+
+# County Title
+title = c_olcolt
+
+# Settlements
+max_settlements = 1
+
+b_olcolt = city
+
+# Misc
+culture = neighagaran
+religion = tribunal
+
+#History

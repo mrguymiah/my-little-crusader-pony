@@ -1,0 +1,15 @@
+# c_yy4
+
+# County Title
+title = c_yy4
+
+# Settlements
+max_settlements = 1
+
+b_yy4 = castle
+
+# Misc
+culture = yakyak
+religion = wekbo
+
+#History

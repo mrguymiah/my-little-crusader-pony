@@ -1,0 +1,19 @@
+# c_airthniai
+
+# County Title
+title = c_airthniai
+
+# Settlements
+max_settlements = 5
+
+b_airthniai = tribal
+#b_airthniai_2 = city
+#b_airthniai_3 = temple
+#b_airthniai_4 = castle
+#b_airthniai_5 = city
+
+# Misc
+culture = pegasus_culture
+religion = soarastrian
+
+#History

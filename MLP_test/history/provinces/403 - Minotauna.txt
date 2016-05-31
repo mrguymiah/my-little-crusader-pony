@@ -1,0 +1,15 @@
+# c_minotauna
+
+# County Title
+title = c_minotauna
+
+# Settlements
+max_settlements = 1
+
+b_castle_moukas = castle
+
+# Misc
+culture = taurukin
+religion = taismino
+
+#History

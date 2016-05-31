@@ -1,0 +1,15 @@
+# c_infenikio
+
+# County Title
+title = c_infenikio
+
+# Settlements
+max_settlements = 1
+
+b_ifenikio = temple
+
+# Misc
+culture = fallow
+religion = agniphanum
+
+#History

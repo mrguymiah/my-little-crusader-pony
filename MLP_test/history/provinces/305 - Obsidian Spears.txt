@@ -1,0 +1,15 @@
+# c_obsidian_spears
+
+# County Title
+title = c_obsidian_spears
+
+# Settlements
+max_settlements = 1
+
+b_fort_obsidian = castle
+
+# Misc
+culture = yakku
+religion = wekbo
+
+#History

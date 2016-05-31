@@ -1,0 +1,17 @@
+# c_hayq
+
+# County Title
+title = c_hayq
+
+# Settlements
+max_settlements = 3
+
+b_hayq1 = tribal
+b_hayq2 = city
+b_hayq3 = temple
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

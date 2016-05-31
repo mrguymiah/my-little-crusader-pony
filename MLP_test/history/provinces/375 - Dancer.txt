@@ -1,0 +1,15 @@
+# c_dancer
+
+# County Title
+title = c_dancer
+
+# Settlements
+max_settlements = 1
+
+b_dancer = temple
+
+# Misc
+culture = rein
+religion = nichphanum
+
+#History

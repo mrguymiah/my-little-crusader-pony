@@ -1,0 +1,15 @@
+# c_platinum_pass
+
+# County Title
+title = c_platinum_pass
+
+# Settlements
+max_settlements = 1
+
+b_deinetri = castle
+
+# Misc
+culture = unicornian
+religion = tribunal
+
+#History

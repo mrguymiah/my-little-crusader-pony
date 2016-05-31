@@ -1,0 +1,15 @@
+# c_rockwood
+
+# County Title
+title = c_rockwood
+
+# Settlements
+max_settlements = 1
+
+b_rockwood = tribal
+
+# Misc
+culture = fallow
+religion = agniphanum
+
+#History

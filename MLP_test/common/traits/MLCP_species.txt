@@ -34,11 +34,6 @@ pegasus = {
 	martial = 2
 	diplomacy = 1
 	same_opinion = 5
-	command_modifier = {
-		speed = 0.05
-	}
-
-	
 	
 	opposites = {
 		unicorn
@@ -164,7 +159,7 @@ alicorn = {
 	}
 }
 
-horse = {
+saddlehorse = {
 	birth = 0
 	inherit_chance = 100
 	

@@ -1,0 +1,15 @@
+# c_ap4
+
+# County Title
+title = c_ap4
+
+# Settlements
+max_settlements = 1
+
+b_cccccccc = castle
+
+# Misc
+culture = redtail
+religion = doskiphanum
+
+#History

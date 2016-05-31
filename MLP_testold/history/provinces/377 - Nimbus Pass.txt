@@ -1,0 +1,18 @@
+# c_nimbus_pass
+
+# County Title
+title = c_nimbus_pass
+
+# Settlements
+max_settlements = 4
+
+b_wind_acre_keep = tribal
+b_cloud_ranch = city
+#b_nimbus_pass = temple
+#b_nimbus_pass_2 = castle
+
+# Misc
+culture = whitetail
+religion = doskiphanum
+
+#History

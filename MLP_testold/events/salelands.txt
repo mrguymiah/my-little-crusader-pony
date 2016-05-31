@@ -1,0 +1,162 @@
+###########################################################################################
+#
+# Namespace Reserved for events directly related to formation or other high level events.
+# 100-199 Reserved for events relating to the formation of Equestria and dejure expansion
+#
+###########################################################################################
+
+#created by cziken20
+
+namespace = salelands
+
+character_event = { #Event for Earth to decide if they want to sell the lands, for now AI always sells
+
+	id = salelands.01
+	title = EVTTITsalelands.01
+	desc = EVTDESCsalelands.01
+	picture = GFX_evt_emissary
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTAsalelands.01
+		any_independent_ruler = {
+			limit = {
+				has_landed_title = k_pegasopolis
+			}
+			grant_title_no_opinion = c_cloudkonion
+			wealth = -100
+			clr_character_flag = sale_cloudkonion
+		}
+	}
+	option = {
+		name = EVTOPTBsalelands.01
+		trigger = {
+			ai = no
+		}
+		any_independent_ruler = {
+			limit = {
+				has_landed_title = k_pegasopolis
+			}
+			character_event = { id = salelands.03 days = 2 }
+			character_event = { id = salelands.04 months = 5 }
+		}
+	}
+}
+
+character_event = { #Event for Earth to decide if they want to sell the lands, for now AI always sells
+
+	id = salelands.02
+	title = EVTTITsalelands.02
+	desc = EVTDESCsalelands.02
+	picture = GFX_evt_emissary
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTAsalelands.01
+		any_independent_ruler = {
+			limit = {
+				has_landed_title = k_pegasopolis
+			}
+			grant_title_no_opinion = c_poniala
+			wealth = -100
+			clr_character_flag = sale_poniala
+		}
+	}
+	option = {
+		name = EVTOPTBsalelands.02
+		trigger = {
+			ai = no
+		}
+		any_independent_ruler = {
+			limit = {
+				has_landed_title = k_pegasopolis
+			}
+			character_event = { id = salelands.03 days = 2 }
+			character_event = { id = salelands.05 months = 5 }
+		}
+	}	
+}
+
+character_event = { #If the Earth declines, Pegasi get an event saying they declined
+
+	id = salelands.03
+	title = EVTTITsalelands.03
+	desc = EVTDESCsalelands.03
+	picture = GFX_evt_emissary
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTAsalelands.03
+	}
+	option = {
+		trigger = {
+			ai = no
+		}
+		name = EVTOPTBsalelands.03 #No sale? WAAAARRRRARARARARAR
+		add_claim = c_cloudkonion
+		add_claim = c_poniala
+		character_event = { id = salelands.06 days = 10 }
+	}
+}
+
+character_event = { #Now to clear the flag and let them ask again
+
+	id = salelands.04
+	title = EVTTITsalelands.04
+	desc = EVTDESCsalelands.04
+	picture = GFX_evt_emissary
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTAsalelands.04
+		clr_character_flag = sale_cloudkonion
+	}
+}
+
+character_event = { #Now to clear the flag and let them ask again
+
+	id = salelands.05
+	title = EVTTITsalelands.05
+	desc = EVTDESCsalelands.05
+	picture = GFX_evt_emissary
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTAsalelands.05
+		clr_character_flag = sale_poniala
+	}
+}
+
+character_event = { #War begins.
+
+	id = salelands.06
+	title = EVTTITsalelands.05
+	desc = EVTDESCsalelands.05
+	picture = GFX_evt_emissary
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTAsalelands.05
+		k_earth = {
+			reverse_war = {
+				target = k_earth
+				casus_belli = claim_all
+			}
+		}
+	}
+}
+
+
+
+
+
+
+
+
+

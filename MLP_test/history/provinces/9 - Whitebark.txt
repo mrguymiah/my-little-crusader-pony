@@ -1,0 +1,15 @@
+# c_whitebark
+
+# County Title
+title = c_whitebark
+
+# Settlements
+max_settlements = 1
+
+b_fort_whitebark = castle
+
+# Misc
+culture = unicornian
+religion = tribunal
+
+#History

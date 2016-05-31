@@ -1,0 +1,25 @@
+#WHITETAIL
+technology = {
+	titles = {
+		d_tree_of_prayers
+		d_duvuac
+		d_east_whitetail
+		d_eastern_forest
+		d_fenari
+		d_hyel
+		d_jullinnu
+		d_west_whitetail
+		d_whitetail
+		d_zeloena
+	}
+	2000 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

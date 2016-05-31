@@ -1,0 +1,15 @@
+# c_timberwolf
+
+# County Title
+title = c_timberwolf
+
+# Settlements
+max_settlements = 1
+
+b_zeigarsinurn = temple
+
+# Misc
+culture = fallow
+religion = agniphanum
+
+#History

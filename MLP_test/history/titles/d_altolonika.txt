@@ -1,8 +1,8 @@
+# e_equestria
 500.1.1={
-	law = enatic_cognatic_succession
+	law = agnatic_succession
 	law = succ_gavelkind
 }
-1080.1.1={
+800.1.1={
 	liege=k_pegasopolis
 }
-

@@ -1,0 +1,216 @@
+2000 = {
+	name = "Agni'phanti"
+	culture = whitetail
+}
+2001 = {
+	name = "Doski'phanti"
+	culture = fallow
+}	
+2002 = {
+	name = "Whitetail"
+	culture = whitetail
+}
+2003 = {
+	name = "Doe'ga"
+	culture = whitetail
+}
+2004 = {
+	name = "Goldleaf"
+	culture = whitetail
+}
+2005 = {
+	name = "Del Norte"
+	culture = whitetail
+}
+2006 = {
+	name = "Grenock"
+	culture = whitetail
+}
+2007 = {
+	name = "Cran'bar"
+	culture = whitetail
+}
+2008 = {
+	name = "Ev'sin"
+	culture = whitetail
+}
+2009 = {
+	name = "di Limehill"
+	culture = fallow
+}
+2010 = {
+	name = "Coltiar"
+	culture = fallow
+}
+2011 = {
+	name = "Smo'mount"
+	culture = whitetail
+}
+2012 = {
+	name = "Tash'to"
+	culture = whitetail
+}
+2013 = {
+	name = "Clat'na"
+	culture = whitetail
+}
+2014 = {
+	name = "Rein"
+	culture = fallow
+}
+2015 = {
+	name = "Balt"
+	culture = fallow
+}
+2016 = {
+	name = "Pant'ag"
+	culture = fallow
+}
+2017 = {
+	name = "Anala'g"
+	culture = fallow
+}
+2018 = {
+	name = "Hurricani"
+	culture = whitetail
+}
+2019 = {
+	name = "Renfask"
+	culture = fallow
+}
+2020 = {
+	name = "Estmal"
+	culture = fallow
+}
+2021 = {
+	name = "Bital"
+	culture = fallow
+}
+2022 = {
+	name = "Radi"
+	culture = cephalo
+}
+2023 = {
+	name = "Pesh'kal"
+	culture = cephalo
+}
+2024 = {
+	name = "Cephal'phanti"
+	culture = cephalo
+}
+2025 = {
+	name = "Pinveil"
+	culture = cephalo
+}
+2026 = {
+	name = "Neis'te"
+	culture = cephalo
+}
+2027 = {
+	name = "Aus'no"
+	culture = muntjac
+}
+2028 = {
+	name = "Jev're"
+	culture = cephalo
+}
+2029 = {
+	name = "Ae'gath"
+	culture = muntjac
+}
+2030 = {
+	name = "Mei'no"
+	culture = muntjac
+}
+2031 = {
+	name = "Mash"
+	culture = muntjac
+}
+2032 = {
+	name = "Muntura'phanti"
+	culture = muntjac
+}
+2033 = {
+	name = "Penshol"
+	culture = taruca
+}
+2034 = {
+	name = "Tien'da"
+	culture = taruca
+}
+2035 = {
+	name = "Lo'gat"
+	culture = taruca
+}
+2036 = {
+	name = "Bel'vi"
+	culture = taruca
+}
+2037 = {
+	name = "Pies'no"
+	culture = taruca
+}
+2038 = {
+	name = "Hez'hro"
+	culture = taruca
+}
+2039 = {
+	name = "Palvan"
+	culture = taruca
+}
+2040 = {
+	name = "Rek'tef"
+	culture = taruca
+}
+2041 = {
+	name = "Reksi"
+	culture = whitetail
+}
+2042 = {
+	name = "Nev'to"
+	culture = whitetail
+}
+2043 = {
+	name = "Kat'el"
+	culture = fallow
+}
+2044 = {
+	name = "Nev'li"
+	culture = fallow
+}
+2045 = {
+	name = "Neh'ken"
+	culture = fallow
+}
+2046 = {
+	name = "Ion'do"
+	culture = fallow
+}
+2047 = {
+	name = "Peno"
+	culture = caribou_culture
+}
+2048 = {
+	name = "Pof"
+	culture = caribou_culture
+}
+2049 = {
+	name = "Rez"
+	culture = caribou_culture
+}
+2050 = {
+	name = "Len'i"
+	culture = whitetail
+}
+2051 = {
+	name = "Pelandos"
+	culture = caribou_culture
+}
+2052 = {
+	name = "Neval"
+	culture = caribou_culture
+}
+2053 = {
+	name = "Ro'shav"
+	culture = caribou_culture
+}

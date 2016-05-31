@@ -1,0 +1,17 @@
+# c_buckonagen
+
+# County Title
+title = c_buckonagen
+
+# Settlements
+max_settlements = 3
+
+b_buckonagen = tribal
+#b_buckonagen_2 = city
+#b_buckonagen_3 = temple
+
+# Misc
+culture = whitetail
+religion = doskiphanum
+
+#History

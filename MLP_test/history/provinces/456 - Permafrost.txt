@@ -1,0 +1,15 @@
+# c_permafrost
+
+# County Title
+title = c_permafrost
+
+# Settlements
+max_settlements = 1
+
+b_permafrost = tribal
+
+# Misc
+culture = buryak
+religion = wekbo
+
+#History

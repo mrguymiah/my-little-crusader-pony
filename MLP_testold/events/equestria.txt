@@ -1,0 +1,48 @@
+###########################################################################################
+#
+# Namespace Reserved for events directly related to formation or other high level events.
+# 100-199 Reserved for events relating to the formation of Equestria and dejure expansion
+#
+###########################################################################################
+
+namespace = equestria
+
+narrative_event = {
+
+	id = equestria.100
+	desc = EVTDESCequestria.100
+	picture = GFX_evt_emissary
+	
+	capable_only = yes
+	prisoner = no
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTAequestria.100
+		trigger = { 
+			has_landed_title = e_equestria
+		}
+		prestige = 500
+		piety = 250
+	}
+	option = {
+		name = EVTOPTBequestria.100
+		trigger = { 
+			NOT = { has_landed_title = e_equestria } 
+			OR = 
+			{
+				NOT = { culture_group = equestrian }
+				culture = crystal_culture
+			}
+		}
+	}
+	option = {
+		name = EVTOPTCequestria.100
+		trigger = { 
+			NOT = { has_landed_title = e_equestria } 
+			culture_group = equestrian
+			NOT = { culture = crystal_culture }
+		}
+	}
+}

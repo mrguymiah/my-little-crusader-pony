@@ -1,0 +1,15 @@
+# c_intalis_grove
+
+# County Title
+title = c_intalis_grove
+
+# Settlements
+max_settlements = 1
+
+b_intalimunn = temple
+
+# Misc
+culture = muntjaal
+religion = agniphanum
+
+#History

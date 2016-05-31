@@ -1,0 +1,15 @@
+# c_manjoor
+
+# County Title
+title = c_manjoor
+
+# Settlements
+max_settlements = 1
+
+b_efweghseheh = castle
+
+# Misc
+culture = muntjo
+religion = muntura
+
+#History

@@ -1,0 +1,15 @@
+# c_ramming_rock_ridge
+
+# County Title
+title = c_ramming_rock_ridge
+
+# Settlements
+max_settlements = 1
+
+b_ridges_blessing = castle
+
+# Misc
+culture = cephalo
+religion = varunphanum
+
+#History

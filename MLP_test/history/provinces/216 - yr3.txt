@@ -1,0 +1,15 @@
+# c_yr3
+
+# County Title
+title = c_yr3
+
+# Settlements
+max_settlements = 1
+
+b_fffffff = castle
+
+# Misc
+culture = whitetail
+religion = doskiphanum
+
+#History

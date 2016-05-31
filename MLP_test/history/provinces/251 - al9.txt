@@ -1,0 +1,15 @@
+# c_al9
+
+# County Title
+title = c_al9
+
+# Settlements
+max_settlements = 1
+
+b_nnnnnnn = castle
+
+# Misc
+culture = rein
+religion = agniphanum
+
+#History

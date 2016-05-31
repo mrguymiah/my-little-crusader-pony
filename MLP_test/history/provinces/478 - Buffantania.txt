@@ -1,0 +1,15 @@
+# c_buffantania
+
+# County Title
+title = c_buffantania
+
+# Settlements
+max_settlements = 1
+
+b_wwwwwwwwwwwwww = castle
+
+# Misc
+culture = buffalo
+religion = wekbo
+
+#History

@@ -1,0 +1,15 @@
+# c_dela
+
+# County Title
+title = c_dela
+
+# Settlements
+max_settlements = 1
+
+b_dela = temple
+
+# Misc
+culture = muntjo
+religion = muntura
+
+#History

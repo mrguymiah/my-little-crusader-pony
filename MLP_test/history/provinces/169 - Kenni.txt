@@ -1,0 +1,15 @@
+# c_kenni
+
+# County Title
+title = c_kenni
+
+# Settlements
+max_settlements = 1
+
+b_kenni = temple
+
+# Misc
+culture = fallow
+religion = doskiphanum
+
+#History

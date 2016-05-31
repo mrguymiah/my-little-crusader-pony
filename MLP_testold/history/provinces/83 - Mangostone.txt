@@ -1,0 +1,17 @@
+# c_mangostone
+
+# County Title
+title = c_mangostone
+
+# Settlements
+max_settlements = 3
+
+b_mangostone = tribal
+#b_mangostone_2 = city
+#b_mangostone_3 = temple
+
+# Misc
+culture = taruca
+religion = evantol
+
+#History

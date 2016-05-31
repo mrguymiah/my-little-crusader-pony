@@ -1,0 +1,19 @@
+#JINGOL
+technology = {
+	titles = {
+		d_topaz_coast
+		d_bloodpoint
+		d_jingol
+		d_rein_isles
+	}
+	2000 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

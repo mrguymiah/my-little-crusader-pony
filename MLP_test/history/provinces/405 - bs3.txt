@@ -1,0 +1,15 @@
+# c_bs3
+
+# County Title
+title = c_bs3
+
+# Settlements
+max_settlements = 1
+
+b_yyyyyyyyyyyyyyy = castle
+
+# Misc
+culture = taurukin
+religion = taismino
+
+#History

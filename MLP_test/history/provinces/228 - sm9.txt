@@ -1,0 +1,15 @@
+# c_sm9
+
+# County Title
+title = c_sm9
+
+# Settlements
+max_settlements = 1
+
+b_sdfsdfsdfdsfsdsf = castle
+
+# Misc
+culture = roe
+religion = agniphanum
+
+#History
