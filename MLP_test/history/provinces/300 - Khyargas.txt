@@ -1,0 +1,15 @@
+# c_khyargas
+
+# County Title
+title = c_khyargas
+
+# Settlements
+max_settlements = 1
+
+b_khyargas = tribal
+
+# Misc
+culture = yakku
+religion = wekbo
+
+#History

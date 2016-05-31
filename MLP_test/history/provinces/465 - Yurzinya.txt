@@ -1,0 +1,15 @@
+# c_yurzinya
+
+# County Title
+title = c_yurzinya
+
+# Settlements
+max_settlements = 1
+
+b_yurzinya = tribal
+
+# Misc
+culture = yakyak
+religion = wekbo
+
+#History

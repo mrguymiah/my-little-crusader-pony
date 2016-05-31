@@ -1,0 +1,15 @@
+# c_the_grem
+
+# County Title
+title = c_the_grem
+
+# Settlements
+max_settlements = 1
+
+b_the_grem = castle
+
+# Misc
+culture = miniman
+religion = carncanus
+
+#History

@@ -1,0 +1,15 @@
+# c_go21
+
+# County Title
+title = c_go21
+
+# Settlements
+max_settlements = 1
+
+b_vvvvvvvvvvvvvvvv = castle
+
+# Misc
+culture = earthling
+religion = tribunal
+
+#History

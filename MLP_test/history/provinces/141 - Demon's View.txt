@@ -1,0 +1,15 @@
+# c_demons_view
+
+# County Title
+title = c_demons_view
+
+# Settlements
+max_settlements = 1
+
+b_menirinfal = temple
+
+# Misc
+culture = cephalo
+religion = varunphanum
+
+#History

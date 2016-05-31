@@ -1,0 +1,17 @@
+# c_greendale
+
+# County Title
+title = c_greendale
+
+# Settlements
+max_settlements = 3
+
+b_greendale = tribal
+#b_greendale_2 = city
+#b_greendale_3 = temple
+
+# Misc
+culture = cephalo
+religion = agniphanum
+
+#History

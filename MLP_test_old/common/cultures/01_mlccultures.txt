@@ -1,0 +1,99 @@
+#CULTURES PRIMARY FILE
+#All cultures should be listed here
+
+equestrian_group = {
+	graphical_cultures = { ponygfx }
+	
+	#Earth Ponies
+	eathling = {}
+	mustang = {}
+	neighagaran = {}
+	manehattanite = {}
+	#Unicorns
+	unicornian = {}
+	bitalian = {}
+	#Pegasi
+	pegasoplite = {}
+}
+
+donum_group = {
+	graphical_cultures = { ponygfx }
+	
+	crystaline = {}
+	alicrian = {}
+	bejeweled = {}
+	donumer = {}
+}
+
+deer_group = {
+	graphical_cultures = { ponygfx }
+	
+	fallow = {}
+	whitetail = {}
+	roe = {}
+	muntjaal = {}
+	muntojo = {}
+	taruca = {}
+}
+
+reindeer_group = {
+	graphical_cultures = { ponygfx }
+
+	rein = {}
+	whitestag = {}
+}
+
+cephal_group = {
+	graphical_cultures = { ponygfx }
+	
+	cephalo = {}
+}
+
+critter_group = {
+	graphical_cultures = { ponygfx }
+	
+	bev = {}
+	rabbit = {}
+	arabb = {}
+}
+
+wildbovine_group = {
+	graphical_cultures = { ponygfx }
+	
+	#Yaks
+	yakyak = {}
+	yaket = {}
+	yakku = {}
+	buryak = {}
+	#Other
+	buffalo = {}
+}
+
+mino_group = {
+	graphical_cultures = { ponygfx }
+	
+	#Minotaur
+	taurukin = {}
+	#Cattle
+	bosh = {}
+	rumin = {}
+}
+
+wild_griffon_group = {
+	graphical_cultures = { ponygfx }
+	
+	northgriffon = {}
+}
+
+great_canine_group = {
+	graphical_cultures = { ponygfx }
+	
+	diamonddog = {}
+	miniman = {}
+}
+
+tyrant_group = {
+	graphical_cultures = { ponygfx }
+	
+	changeling = {}
+}

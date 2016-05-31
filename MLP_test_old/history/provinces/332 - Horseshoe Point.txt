@@ -1,0 +1,20 @@
+# c_horseshoe_point
+
+# County Title
+title = c_horseshoe_point
+
+# Settlements
+max_settlements = 6
+
+b_hoofcliff = tribal
+b_horseshoe_point = city
+b_saddalding = temple
+#b_laughborough = castle
+#b_high_buckfield = city
+#b_millhorse = temple
+
+# Misc
+culture = muntjac
+religion = muntura
+
+#History

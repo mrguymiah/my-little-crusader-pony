@@ -1,0 +1,17 @@
+# c_appleville
+
+# County Title
+title = c_appleville
+
+# Settlements
+max_settlements = 3
+
+b_appleville = tribal
+#b_appleville_2 = city
+#b_appleville_3 = temple
+
+# Misc
+culture = cephalo
+religion = agniphanum
+
+#History

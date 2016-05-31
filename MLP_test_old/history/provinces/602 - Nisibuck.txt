@@ -1,0 +1,18 @@
+# c_nisibuck
+
+# County Title
+title = c_nisibuck
+
+# Settlements
+max_settlements = 4
+
+b_nisibuck = castle
+#b_nisibuck_2 = city
+#b_nisibuck_3 = temple
+#b_nisibuck_4 = castle
+
+# Misc
+culture = saddle_arabian_culture
+religion = saddle_arabian_religion
+
+#History

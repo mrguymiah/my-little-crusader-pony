@@ -1,0 +1,304 @@
+#GRIFFONS#
+#3500 - 3599
+#3600 - 3699
+#3700 - 3799
+#3800 - 3899
+#3900 - 3999
+3500 = {
+	name="Clovis"
+	dynasty=3600
+	martial=11
+	diplomacy=9
+	intrigue=7
+	stewardship=12
+	learning=10
+	religion=grifflyreise
+	culture=low_griffon
+	trait="griffon"
+	trait="diligent"
+	trait="zealous"
+	trait="brilliant_strategist"
+	91.6.15 = {
+		birth="91.6.15"
+	}
+	125.5.12 = {
+		give_nickname=nick_the_great
+	}
+}
+3501 = {
+	name="Gösta"
+	dynasty=3501
+	martial=5
+	diplomacy=3
+	intrigue=2
+	stewardship=5
+	learning=2
+	religion=grifflyreise
+	culture=high_griffon
+	trait="griffon"
+	75.10.8 = {
+		birth="75.10.8"
+	}
+}
+3502 = {
+	name="Gytha"
+	dynasty=3502
+	martial=2
+	diplomacy=10
+	intrigue=1
+	stewardship=5
+	learning=8
+	female=yes
+	religion=grifflyreise
+	culture=high_griffon
+	trait="griffon"
+	82.7.21 = {
+		birth="82.7.21"
+	}
+}
+3503 = {
+	name="Feather Beak"
+	dynasty=3500
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	learning=10
+	religion=grifflyreise
+	culture=high_griffon
+	trait="griffon"
+	trait="scholar"
+	94.12.18 = {
+		birth="94.12.18"
+	}
+}
+3504 = {
+	name="Kló"
+	dynasty=3504
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion=grifflyreise
+	culture=high_griffon
+	trait="griffon"
+	89.1.6 = {
+		birth="89.1.6"
+	}
+}
+
+3505 = {
+	name="Gerhard"
+	dynasty=3505
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion=grifflyreise
+	culture=high_griffon
+	trait="griffon"
+	72.3.17 = {
+		birth="72.3.17"
+	}
+}
+3506 = {
+	name="Greger"
+	dynasty=3506
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion=grifflyreise
+	culture=high_griffon
+	trait="griffon"
+	trait="cynical"
+	trait="underhanded_rogue"
+	85.5.24 = {
+		birth="85.5.24"
+	}
+}
+3507 = {
+	name="Vindur"
+	female=yes
+	dynasty=3509
+	religion=grifflyreise
+	culture=high_griffon
+	trait=fortune_builder
+	82.1.10={
+		birth=yes
+	}
+}
+
+3508 = {
+	name="Georg"
+	dynasty=3508
+	religion=grifflyreise
+	culture=high_griffon
+	martial=7
+	stewardship=7
+	diplomacy=5
+	intrigue=5
+	learning=3
+	trait=wroth
+	trait=hunter
+	trait=strong
+	trait=brave
+	trait=skilled_tactician
+	
+	80.10.4={
+		birth="80.10.4"
+	}
+}
+
+3509 = {
+	name="Draumursoar"
+	female=yes
+	dynasty=3507
+	religion=grifflyreise
+	culture=high_griffon
+	diplomacy = 7
+	martial = 7
+	stewardship = 7
+	intrigue = 5
+	learning = 7
+	trait=fair
+	trait=quick
+	trait=zealous
+	trait=temperate
+	trait=mystic
+	trait=midas_touched
+	84.9.7={
+		birth=yes
+	}
+	100.9.7={
+		add_spouse=3900
+	}
+}
+3510 = {
+	name="Gjurd"
+	dynasty=3503
+	father=3511
+	martial=4
+	diplomacy=8
+	intrigue=5
+	stewardship=2
+	learning=3
+	religion=grifflyreise
+	culture=low_griffon
+	trait="griffon"
+	91.6.15 = {
+		birth="91.6.15"
+	}
+}
+3511 = {
+	name="Gizzard"
+	dynasty=3503
+	martial=9
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	learning=2
+	religion=grifflyreise
+	culture=low_griffon
+	trait="griffon"
+	52.6.15 = {
+		birth="52.6.15"
+	}
+}
+3512 = {
+	name="Bløffmaker"
+	dynasty=3503
+	father=3511
+	martial=3
+	diplomacy=5
+	intrigue=8
+	stewardship=5
+	learning=2
+	religion=grifflyreise
+	culture=low_griffon
+	trait="griffon"
+	87.6.15 = {
+		birth="87.6.15"
+	}
+}
+3900 = { #The High General
+	name="Bloodbeak"
+	dynasty=3507
+	religion=grifflyreise
+	culture=south_griffon
+	diplomacy = 6
+	martial = 11
+	stewardship = 6
+	intrigue = 6
+	learning = 6
+	trait=hunter
+	trait=quick
+	trait=wroth
+	trait=ambitious
+	trait=brilliant_strategist
+	84.2.9={
+		birth=yes
+	}
+	100.9.7={
+		add_spouse=3507
+	}
+}
+3901 = {
+	name="Stoneclaw"
+	female=yes
+	dynasty=3507
+	mother=3509
+	father=3900
+	religion=grifflyreise
+	culture=south_griffon
+	diplomacy = 6
+	martial = 11
+	stewardship = 6
+	intrigue = 6
+	learning = 6
+	trait=hunter
+	trait=ambitious
+	trait=brilliant_strategist
+	101.6.4={
+		birth=yes
+	}
+}
+3902 = {
+	name="Ironwing"
+	dynasty=3507
+	mother=3509
+	father=3900
+	religion=grifflyreise
+	culture=south_griffon
+	diplomacy = 6
+	martial = 11
+	stewardship = 6
+	intrigue = 6
+	learning = 6
+	trait=hunter
+	trait=ambitious
+	trait=brilliant_strategist
+	102.7.4={
+		birth=yes
+	}
+}
+3903 = {
+	name="Steeltalon"
+	female=yes
+	dynasty=3507
+	mother=3509
+	father=3900
+	religion=grifflyreise
+	culture=south_griffon
+	diplomacy = 6
+	martial = 11
+	stewardship = 6
+	intrigue = 6
+	learning = 6
+	trait=hunter
+	trait=ambitious
+	trait=brilliant_strategist
+	103.5.2={
+		birth=yes
+	}
+}

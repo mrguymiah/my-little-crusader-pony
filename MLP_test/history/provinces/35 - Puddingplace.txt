@@ -1,0 +1,15 @@
+# c_puddingplace
+
+# County Title
+title = c_puddingplace
+
+# Settlements
+max_settlements = 1
+
+b_puddingplace = city
+
+# Misc
+culture = earthling
+religion = tribunal
+
+#History

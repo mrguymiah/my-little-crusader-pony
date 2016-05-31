@@ -1,0 +1,15 @@
+# c_ruby_chasm
+
+# County Title
+title = c_ruby_chasm
+
+# Settlements
+max_settlements = 1
+
+b_boorsmunn = temple
+
+# Misc
+culture = rein
+religion = mooslam
+
+#History

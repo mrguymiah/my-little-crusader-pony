@@ -1,0 +1,15 @@
+# c_icefort
+
+# County Title
+title = c_icefort
+
+# Settlements
+max_settlements = 1
+
+b_icefort = castle
+
+# Misc
+culture = unicornian
+religion = tribunal
+
+#History

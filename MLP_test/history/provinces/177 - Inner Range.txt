@@ -1,0 +1,15 @@
+# c_inner_range
+
+# County Title
+title = c_inner_range
+
+# Settlements
+max_settlements = 1
+
+b_range = castle
+
+# Misc
+culture = diamonddog
+religion = carncanus
+
+#History

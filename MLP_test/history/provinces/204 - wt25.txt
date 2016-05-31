@@ -1,0 +1,15 @@
+# c_wt25
+
+# County Title
+title = c_wt25
+
+# Settlements
+max_settlements = 1
+
+b_aaaaaaa = castle
+
+# Misc
+culture = whitetail
+religion = agniphanum
+
+#History

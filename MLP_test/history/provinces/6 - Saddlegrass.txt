@@ -1,0 +1,15 @@
+# c_saddlegrass
+
+# County Title
+title = c_saddlegrass
+
+# Settlements
+max_settlements = 1
+
+b_saddlegrass = castle
+
+# Misc
+culture = bitalian
+religion = tribunal
+
+#History

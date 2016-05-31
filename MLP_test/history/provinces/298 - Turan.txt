@@ -1,0 +1,15 @@
+# c_turan
+
+# County Title
+title = c_turan
+
+# Settlements
+max_settlements = 1
+
+b_turan = tribal
+
+# Misc
+culture = yakku
+religion = wekbo
+
+#History

@@ -1,0 +1,15 @@
+# c_the_highfarm
+
+# County Title
+title = c_the_highfarm
+
+# Settlements
+max_settlements = 1
+
+b_the_highfarm = castle
+
+# Misc
+culture = earthling
+religion = tribunal
+
+#History

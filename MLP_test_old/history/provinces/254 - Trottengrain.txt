@@ -1,0 +1,17 @@
+# c_trottengrain
+
+# County Title
+title = c_trottengrain
+
+# Settlements
+max_settlements = 3
+
+b_trottengrain = tribal
+#b_trottengrain_2 = city
+#b_trottengrain_3 = temple
+
+# Misc
+culture = cephalo
+religion = agniphanum
+
+#History

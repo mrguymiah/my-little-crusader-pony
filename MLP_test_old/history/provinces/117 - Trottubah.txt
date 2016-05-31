@@ -1,0 +1,19 @@
+# c_trottubah
+
+# County Title
+title = c_trottubah
+
+# Settlements
+max_settlements = 5
+
+b_trottubah = tribal
+#b_trottubah_2 = city
+#b_trottubah_3 = temple
+#b_trottubah_4 = castle
+#b_trottubah_5 = city
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

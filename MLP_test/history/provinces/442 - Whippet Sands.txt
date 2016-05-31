@@ -1,0 +1,15 @@
+# c_whippet_sands
+
+# County Title
+title = c_whippet_sands
+
+# Settlements
+max_settlements = 1
+
+b_whippet_sands = castle
+
+# Misc
+culture = miniman
+religion = maximan
+
+#History

@@ -1,0 +1,15 @@
+# c_coltborne
+
+# County Title
+title = c_coltborne
+
+# Settlements
+max_settlements = 1
+
+b_q29 = castle
+
+# Misc
+culture = neighagaran
+religion = tribunal
+
+#History

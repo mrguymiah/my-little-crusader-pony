@@ -1,0 +1,15 @@
+# c_northmoos
+
+# County Title
+title = c_northmoos
+
+# Settlements
+max_settlements = 1
+
+b_kgodsgodps = castle
+
+# Misc
+culture = rumin
+religion = taismino
+
+#History

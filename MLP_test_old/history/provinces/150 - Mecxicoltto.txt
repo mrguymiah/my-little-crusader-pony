@@ -1,0 +1,21 @@
+# c_mecxicoltto
+
+# County Title
+title = c_mecxicoltto
+
+# Settlements
+max_settlements = 7
+
+b_halmanox_palace = tribal
+b_mecxicoltto = city
+b_shepatekata_steps = temple
+#b_mecxicoltto_2 = castle
+#b_mecxicoltto_3 = city
+#b_mecxicoltto_4 = temple
+#b_mecxicoltto_5 = castle
+
+# Misc
+culture = tazapan
+religion = buffalo_religion
+
+#History

@@ -1,0 +1,17 @@
+# c_firegrass
+
+# County Title
+title = c_firegrass
+
+# Settlements
+max_settlements = 3
+
+b_firegrass = tribal
+#b_firegrass_2 = city
+#b_firegrass_3 = temple
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

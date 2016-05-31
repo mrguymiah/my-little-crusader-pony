@@ -1,0 +1,15 @@
+# c_fetlockport
+
+# County Title
+title = c_fetlockport
+
+# Settlements
+max_settlements = 1
+
+b_q32 = castle
+
+# Misc
+culture = neighagaran
+religion = tribunal
+
+#History

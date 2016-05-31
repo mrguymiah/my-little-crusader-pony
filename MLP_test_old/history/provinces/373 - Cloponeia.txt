@@ -1,0 +1,18 @@
+# c_cloponeia
+
+# County Title
+title = c_cloponeia
+
+# Settlements
+max_settlements = 4
+
+b_cloponeia = tribal
+#b_cloponeia_2 = city
+#b_cloponeia_3 = temple
+#b_cloponeia_4 = castle
+
+# Misc
+culture = whitetail
+religion = doskiphanum
+
+#History

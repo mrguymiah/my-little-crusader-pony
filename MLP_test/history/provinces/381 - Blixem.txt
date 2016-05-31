@@ -1,0 +1,15 @@
+# c_blixem
+
+# County Title
+title = c_blixem
+
+# Settlements
+max_settlements = 1
+
+b_blixem = temple
+
+# Misc
+culture = rein
+religion = mooslam
+
+#History

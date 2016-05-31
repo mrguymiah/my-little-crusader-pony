@@ -1,0 +1,15 @@
+# c_southern_arm
+
+# County Title
+title = c_southern_arm
+
+# Settlements
+max_settlements = 1
+
+b_bbbbbghfg = castle
+
+# Misc
+culture = taruca
+religion = evantol
+
+#History

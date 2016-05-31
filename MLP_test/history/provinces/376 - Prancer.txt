@@ -1,0 +1,15 @@
+# c_prancer
+
+# County Title
+title = c_prancer
+
+# Settlements
+max_settlements = 1
+
+b_prancer = temple
+
+# Misc
+culture = rein
+religion = mooslam
+
+#History

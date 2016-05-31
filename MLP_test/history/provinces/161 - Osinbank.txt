@@ -1,0 +1,15 @@
+# c_osinbank
+
+# County Title
+title = c_osinbank
+
+# Settlements
+max_settlements = 1
+
+b_osinbank = temple
+
+# Misc
+culture = fallow
+religion = doskiphanum
+
+#History

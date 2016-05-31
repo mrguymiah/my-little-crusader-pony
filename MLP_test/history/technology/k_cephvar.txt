@@ -1,0 +1,19 @@
+#CEPHVAR
+technology = {
+	titles = {
+		d_cv_d1
+		d_cv_d2
+		d_cv_d3
+		d_cv_d4
+	}
+	2000 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

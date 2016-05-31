@@ -1,0 +1,18 @@
+# c_orvalillo
+
+# County Title
+title = c_orvalillo
+
+# Settlements
+max_settlements = 4
+
+b_orvalillo = tribal
+#b_orvalillo_2 = city
+#b_orvalillo_3 = temple
+#b_orvalillo_4 = castle
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

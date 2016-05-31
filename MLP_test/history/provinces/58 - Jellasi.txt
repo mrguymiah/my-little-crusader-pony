@@ -1,0 +1,15 @@
+# c_jellasi
+
+# County Title
+title = c_jellasi
+
+# Settlements
+max_settlements = 1
+
+b_q76 = castle
+
+# Misc
+culture = muntjaal
+religion = agniphanum
+
+#History

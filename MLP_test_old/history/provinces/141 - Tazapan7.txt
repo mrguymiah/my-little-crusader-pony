@@ -1,0 +1,17 @@
+# c_tazapan7
+
+# County Title
+title = c_tazapan7
+
+# Settlements
+max_settlements = 3
+
+b_tazapan7 = tribal
+#b_tazapan7_2 = city
+#b_tazapan7_3 = temple
+
+# Misc
+culture = tazapan
+religion = buffalo_religion
+
+#History

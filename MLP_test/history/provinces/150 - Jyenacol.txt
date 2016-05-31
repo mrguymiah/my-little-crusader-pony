@@ -1,0 +1,15 @@
+# c_jyenacol
+
+# County Title
+title = c_jyenacol
+
+# Settlements
+max_settlements = 1
+
+b_jyenacol = temple
+
+# Misc
+culture = fallow
+religion = doskiphanum
+
+#History

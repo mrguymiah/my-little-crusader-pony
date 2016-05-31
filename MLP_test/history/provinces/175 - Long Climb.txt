@@ -1,0 +1,15 @@
+# c_long_climb
+
+# County Title
+title = c_long_climb
+
+# Settlements
+max_settlements = 1
+
+b_long_climb = castle
+
+# Misc
+culture = diamonddog
+religion = maximan
+
+#History

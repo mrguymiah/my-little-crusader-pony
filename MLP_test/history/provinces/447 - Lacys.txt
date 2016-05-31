@@ -1,0 +1,15 @@
+# c_lacys
+
+# County Title
+title = c_lacys
+
+# Settlements
+max_settlements = 1
+
+b_black_lacy = castle
+
+# Misc
+culture = miniman
+religion = maximan
+
+#History

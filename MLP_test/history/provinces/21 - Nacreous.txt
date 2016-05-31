@@ -1,0 +1,15 @@
+# c_nacreous
+
+# County Title
+title = c_nacreous
+
+# Settlements
+max_settlements = 1
+
+b_nacreous = castle
+
+# Misc
+culture = pegasoplite
+religion = pegasaero
+
+#History

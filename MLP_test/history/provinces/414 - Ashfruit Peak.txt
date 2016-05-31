@@ -1,0 +1,15 @@
+# c_ashfruit_peak
+
+# County Title
+title = c_ashfruit_peak
+
+# Settlements
+max_settlements = 1
+
+b_uuuuu = castle
+
+# Misc
+culture = changeling
+religion = hunger
+
+#History

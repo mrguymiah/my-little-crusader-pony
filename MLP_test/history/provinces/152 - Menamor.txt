@@ -1,0 +1,15 @@
+# c_menamor
+
+# County Title
+title = c_menamor
+
+# Settlements
+max_settlements = 1
+
+b_menamor = temple
+
+# Misc
+culture = fallow
+religion = doskiphanum
+
+#History

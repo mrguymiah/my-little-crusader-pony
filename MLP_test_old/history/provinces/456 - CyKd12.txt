@@ -1,0 +1,16 @@
+# c_cykd12
+
+# County Title
+title = c_cykd12
+
+# Settlements
+max_settlements = 2
+
+b_cykd12 = tribal
+#b_cykd12_2 = city
+
+# Misc
+culture = crystal_culture
+religion = crystal_religion
+
+#History

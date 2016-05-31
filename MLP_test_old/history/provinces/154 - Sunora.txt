@@ -1,0 +1,17 @@
+# c_sunora
+
+# County Title
+title = c_sunora
+
+# Settlements
+max_settlements = 3
+
+b_sunora = tribal
+#b_sunora_2 = city
+#b_sunora_3 = temple
+
+# Misc
+culture = tazapan
+religion = buffalo_religion
+
+#History

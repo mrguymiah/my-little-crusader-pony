@@ -1,0 +1,15 @@
+# c_ausijo
+
+# County Title
+title = c_ausijo
+
+# Settlements
+max_settlements = 1
+
+b_ausijo = temple
+
+# Misc
+culture = muntjo
+religion = muntura
+
+#History

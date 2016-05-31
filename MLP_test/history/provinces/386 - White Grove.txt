@@ -1,0 +1,15 @@
+# c_white_grove
+
+# County Title
+title = c_white_grove
+
+# Settlements
+max_settlements = 1
+
+b_munn_whital = temple
+
+# Misc
+culture = whitestag
+religion = mooslam
+
+#History

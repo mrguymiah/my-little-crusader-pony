@@ -1,0 +1,15 @@
+# c_fenaris_grove
+
+# County Title
+title = c_fenaris_grove
+
+# Settlements
+max_settlements = 1
+
+b_fenarimunn = temple
+
+# Misc
+culture = whitetail
+religion = agniphanum
+
+#History

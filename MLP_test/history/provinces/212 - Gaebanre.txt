@@ -1,0 +1,15 @@
+# c_gaebanre
+
+# County Title
+title = c_gaebanre
+
+# Settlements
+max_settlements = 1
+
+b_gaebanre = temple
+
+# Misc
+culture = redtail
+religion = doskiphanum
+
+#History

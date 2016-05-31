@@ -1,0 +1,17 @@
+# c_herdeta
+
+# County Title
+title = c_herdeta
+
+# Settlements
+max_settlements = 3
+
+b_herdeta1 = tribal
+b_herdeta2 = city
+b_herdeta3 = temple
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

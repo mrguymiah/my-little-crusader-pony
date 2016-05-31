@@ -1,0 +1,15 @@
+# c_temple_of_ancients
+
+# County Title
+title = c_temple_of_ancients
+
+# Settlements
+max_settlements = 1
+
+b_ancient_temple = temple
+
+# Misc
+culture = pegasoplite
+religion = heliene
+
+#History

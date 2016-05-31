@@ -1,0 +1,15 @@
+# c_rabbs_fang
+
+# County Title
+title = c_rabbs_fang
+
+# Settlements
+max_settlements = 1
+
+b_the_teeth = tribal
+
+# Misc
+culture = rabbit
+religion = weket
+
+#History

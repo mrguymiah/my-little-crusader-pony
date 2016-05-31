@@ -1,96 +1,96 @@
 3001 = {
 	name="Alpha"
-	culture = changeling_culture
+	culture = changeling
 }
 3002 = {
 	name="Beta"
-	culture = changeling_culture
+	culture = changeling
 }
 3003 = {
 	name="Gamma"
-	culture = changeling_culture
+	culture = changeling
 }
 3004 = {
 	name="Delta"
-	culture = changeling_culture
+	culture = changeling
 }
 3005 = {
 	name="Epsilon"
-	culture = changeling_culture
+	culture = changeling
 }
 3006 = {
 	name="Zeta"
-	culture = changeling_culture
+	culture = changeling
 }
 3007 = {
 	name="Eta"
-	culture = changeling_culture
+	culture = changeling
 }
 3008 = {
 	name="Theta"
-	culture = changeling_culture
+	culture = changeling
 }
 3009 = {
 	name="Iota"
-	culture = changeling_culture
+	culture = changeling
 }
 3010 = {
 	name="Kappa"
-	culture = changeling_culture
+	culture = changeling
 }
 3011 = {
 	name="Lambda"
-	culture = changeling_culture
+	culture = changeling
 }
 3012 = {
 	name="Mu"
-	culture = changeling_culture
+	culture = changeling
 }
 3013 = {
 	name="Nu"
-	culture = changeling_culture
+	culture = changeling
 }
 3014 = {
 	name="Xi"
-	culture = changeling_culture
+	culture = changeling
 }
 3015 = {
 	name="Omicron"
-	culture = changeling_culture
+	culture = changeling
 }
 3016 = {
 	name="Pi"
-	culture = changeling_culture
+	culture = changeling
 }
 3017 = {
 	name="Rho"
-	culture = changeling_culture
+	culture = changeling
 }
 3018 = {
 	name="Sigma"
-	culture = changeling_culture
+	culture = changeling
 }
 3019 = {
 	name="Tau"
-	culture = changeling_culture
+	culture = changeling
 }
 3020 = {
 	name="Upsilon"
-	culture = changeling_culture
+	culture = changeling
 }
 3021 = {
 	name="Phi"
-	culture = changeling_culture
+	culture = changeling
 }
 3022 = {
 	name="Chi"
-	culture = changeling_culture
+	culture = changeling
 }
 3023 = {
 	name="Psi"
-	culture = changeling_culture
+	culture = changeling
 }
 3024 = {
 	name="Omega"
-	culture = changeling_culture
+	culture = changeling
 }

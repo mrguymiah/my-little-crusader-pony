@@ -1,0 +1,15 @@
+# c_jev
+
+# County Title
+title = c_jev
+
+# Settlements
+max_settlements = 1
+
+b_jev = temple
+
+# Misc
+culture = muntjo
+religion = muntura
+
+#History

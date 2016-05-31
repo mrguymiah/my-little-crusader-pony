@@ -1,0 +1,15 @@
+# c_sacra_cervidas
+
+# County Title
+title = c_sacra_cervidas
+
+# Settlements
+max_settlements = 1
+
+b_sacra_cervidas = temple
+
+# Misc
+culture = fallow
+religion = agniphanum
+
+#History

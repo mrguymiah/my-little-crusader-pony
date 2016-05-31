@@ -1,0 +1,17 @@
+# c_appleloosa
+
+# County Title
+title = c_appleloosa
+
+# Settlements
+max_settlements = 3
+
+b_appleloosa = tribal
+#b_appleloosa_2 = city
+#b_appleloosa_3 = temple
+
+# Misc
+culture = tazapan
+religion = buffalo_religion
+
+#History

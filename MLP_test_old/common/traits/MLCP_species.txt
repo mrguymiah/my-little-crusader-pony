@@ -1,0 +1,424 @@
+#######################
+# MLCP SPECIES TRAITS #
+#######################
+
+unicorn = {
+	birth = 0
+	
+	diplomacy = 2
+	learning = 1
+	same_opinion = 5
+
+	opposites = {
+		pegasus
+		earth_pony
+		crystal_pony
+		draconequus
+		alicorn
+		thestral
+		horse
+		griffon
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+}
+
+pegasus = {
+	birth = 0
+	
+	martial = 2
+	diplomacy = 1
+	same_opinion = 5
+	
+	opposites = {
+		unicorn
+		earth_pony
+		crystal_pony
+		draconequus
+		alicorn
+		thestral
+		horse
+		griffon
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+}
+
+earth_pony = {
+	birth = 0
+	
+	stewardship = 2
+	martial = 1
+	same_opinion = 5
+	
+	opposites = {
+		unicorn
+		pegasus
+		crystal_pony
+		draconequus
+		alicorn
+		thestral
+		horse
+		griffon
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+}
+
+crystal_pony = {
+	birth = 0
+	
+	diplomacy = 2
+	stewardship = 1
+	same_opinion = 10
+	
+
+	opposites = {
+		unicorn
+		pegasus
+		earth_pony
+		draconequus
+		alicorn
+		horse
+		griffon
+		thestral
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+}
+
+thestral = {
+	birth = 0
+	immortal = yes
+
+	martial = 2
+	intrigue = 1
+
+	opposites = {
+		unicorn
+		pegasus
+		earth_pony
+		crystal_pony
+		horse
+		draconequus
+		griffon
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+}
+
+alicorn = {
+	birth = 0
+
+	learning = 2
+	intrigue = 2
+	diplomacy = 2
+	same_opinion = 1000
+
+	opposites = {
+		unicorn
+		pegasus
+		earth_pony
+		crystal_pony
+		thestral
+		horse
+		draconequus
+		griffon
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+}
+
+horse = {
+	birth = 0
+	inherit_chance = 100
+	
+	martial = 1
+	stewardship = 1
+	
+	opposites = {
+		unicorn
+		pegasus
+		earth_pony
+		crystal_pony
+		alicorn
+		thestral
+		draconequus
+		griffon
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+}
+
+draconequus = {
+	birth = 0
+	inherit_chance = 0
+	immortal = yes
+
+	martial = 1
+	intrigue = 1
+	stewardship = 1
+	same_opinion = -75
+
+	opposites = {
+		unicorn
+		pegasus
+		earth_pony
+		crystal_pony
+		alicorn
+		thestral
+		horse
+		griffon
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+}
+
+griffon = {
+	birth = 0
+	inherit_chance = 100
+	
+	martial = 2
+	stewardship = 1
+	same_opinion = 5
+	ai_greed = 2
+
+	opposites = {
+		unicorn
+		pegasus
+		earth_pony
+		crystal_pony
+		alicorn
+		thestral
+		horse
+		draconequus
+		zebra
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+}
+
+zebra = {
+	birth = 0
+	inherit_chance =100
+	
+	intrigue = 2
+	learning = 1
+	same_opinion = 5
+
+	opposites = {
+		unicorn
+		pegasus
+		earth_pony
+		crystal_pony
+		alicorn
+		thestral
+		horse
+		draconequus
+		griffon
+		changeling
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+}
+
+changeling = {
+	birth = 0
+	inherit_chance = 100
+	is_health = no
+	is_illness = no
+	intrigue = 2
+	martial = 1
+	same_opinion = 30
+	health = -1
+	opposites = {
+		unicorn
+		pegasus
+		earth_pony
+		crystal_pony
+		alicorn
+		thestral
+		horse
+		draconequus
+		griffon
+		zebra
+		buffalo
+		changeling_queen
+		caribou
+		cervid
+		cephalo_deer
+	}
+}
+changeling_queen = {
+	birth = 0
+	inherit_chance = 100
+	
+	stewardship = 3
+	learning = -3
+	fertility = 2
+	opposites = {
+		unicorn
+		pegasus
+		earth_pony
+		crystal_pony
+		alicorn
+		thestral
+		horse
+		draconequus
+		griffon
+		zebra
+		buffalo
+		changeling
+		caribou
+		cervid
+		cephalo_deer
+	}
+}
+
+buffalo = {
+	birth = 0
+	inherit_chance = 100
+	
+	martial = 2
+	health = 0.5
+	same_opinion = 5
+
+	opposites = {
+		unicorn
+		pegasus
+		earth_pony
+		crystal_pony
+		alicorn
+		thestral
+		horse
+		draconequus
+		griffon
+		zebra
+		changeling
+		caribou
+		cervid
+		cephalo_deer
+	}
+}
+
+caribou = {
+	birth = 0
+	inherit_chance = 100
+	
+	health = 1
+	martial = 1
+	same_opinion = 5
+
+	opposites = {
+		unicorn
+		pegasus
+		earth_pony
+		crystal_pony
+		alicorn
+		thestral
+		horse
+		draconequus
+		griffon
+		zebra
+		changeling
+		buffalo
+		cervid
+		cephalo_deer
+	}
+}
+cervid = {
+	birth = 0
+	inherit_chance = 100
+	learning = 1
+	martial = -2
+	diplomacy = 3
+	same_opinion = 5
+
+	opposites = {
+		unicorn
+		pegasus
+		earth_pony
+		crystal_pony
+		alicorn
+		thestral
+		horse
+		draconequus
+		griffon
+		zebra
+		changeling
+		buffalo
+		cephalo_deer
+	}
+}
+cephalo_deer = {
+	birth = 0
+	inherit_chance = 100
+	learning = 0
+	martial = 1
+	diplomacy = 1
+	same_opinion = 5
+
+	opposites = {
+		unicorn
+		pegasus
+		earth_pony
+		crystal_pony
+		alicorn
+		thestral
+		horse
+		draconequus
+		griffon
+		zebra
+		changeling
+		buffalo
+		caribou
+		cervid
+	}
+}

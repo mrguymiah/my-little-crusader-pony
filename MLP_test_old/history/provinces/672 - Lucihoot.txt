@@ -1,0 +1,18 @@
+# c_lucihoot
+
+# County Title
+title = c_lucihoot
+
+# Settlements
+max_settlements = 4
+
+b_lucihoot = tribal
+#b_lucihoot_2 = city
+#b_lucihoot_3 = temple
+#b_lucihoot_4 = castle
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

@@ -1,0 +1,7 @@
+# k_emerald_hills
+500.1.1={
+	law = agnatic_succession
+}
+800.1.1={
+	liege=d_the_jackal
+}

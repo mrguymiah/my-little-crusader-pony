@@ -1,0 +1,15 @@
+# c_chuulan
+
+# County Title
+title = c_chuulan
+
+# Settlements
+max_settlements = 1
+
+b_chuulan = tribal
+
+# Misc
+culture = buffalo
+religion = wekbo
+
+#History

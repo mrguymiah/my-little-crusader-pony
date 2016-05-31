@@ -1,0 +1,15 @@
+# c_munturna
+
+# County Title
+title = c_munturna
+
+# Settlements
+max_settlements = 1
+
+b_sdfsdfee33 = castle
+
+# Misc
+culture = muntjo
+religion = muntura
+
+#History

@@ -1,0 +1,4 @@
+# k_rumina
+800.1.1={
+	liege=d_cyn
+}

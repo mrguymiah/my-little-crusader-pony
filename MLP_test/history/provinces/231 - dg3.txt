@@ -1,0 +1,15 @@
+# c_dg3
+
+# County Title
+title = c_dg3
+
+# Settlements
+max_settlements = 1
+
+b_gfjhgfjfgjgf = castle
+
+# Misc
+culture = roe
+religion = doskiphanum
+
+#History

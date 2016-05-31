@@ -108,7 +108,7 @@
 }
 2027 = {
 	name = "Aus'no"
-	culture = muntjac
+	culture = muntjaal
 }
 2028 = {
 	name = "Jev're"
@@ -116,19 +116,19 @@
 }
 2029 = {
 	name = "Ae'gath"
-	culture = muntjac
+	culture = muntjaal
 }
 2030 = {
 	name = "Mei'no"
-	culture = muntjac
+	culture = muntjaal
 }
 2031 = {
 	name = "Mash"
-	culture = muntjac
+	culture = muntjaal
 }
 2032 = {
 	name = "Muntura'phanti"
-	culture = muntjac
+	culture = muntjaal
 }
 2033 = {
 	name = "Penshol"
@@ -188,15 +188,15 @@
 }
 2047 = {
 	name = "Peno"
-	culture = caribou_culture
+	culture = rein
 }
 2048 = {
 	name = "Pof"
-	culture = caribou_culture
+	culture = rein
 }
 2049 = {
 	name = "Rez"
-	culture = caribou_culture
+	culture = rein
 }
 2050 = {
 	name = "Len'i"
@@ -204,13 +204,13 @@
 }
 2051 = {
 	name = "Pelandos"
-	culture = caribou_culture
+	culture = rein
 }
 2052 = {
 	name = "Neval"
-	culture = caribou_culture
+	culture = rein
 }
 2053 = {
 	name = "Ro'shav"
-	culture = caribou_culture
+	culture = rein
 }

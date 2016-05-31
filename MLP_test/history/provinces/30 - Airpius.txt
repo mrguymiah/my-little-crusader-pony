@@ -1,0 +1,15 @@
+# c_airpius
+
+# County Title
+title = c_airpius
+
+# Settlements
+max_settlements = 1
+
+b_q17 = castle
+
+# Misc
+culture = pegasoplite
+religion = pegasaero
+
+#History

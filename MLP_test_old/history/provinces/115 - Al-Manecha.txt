@@ -1,0 +1,18 @@
+# c_al_manecha
+
+# County Title
+title = c_al_manecha
+
+# Settlements
+max_settlements = 4
+
+b_al_manecha = tribal
+#b_al_manecha_2 = city
+#b_al_manecha_3 = temple
+#b_al_manecha_4 = castle
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History

@@ -1,0 +1,19 @@
+# c_coltford
+
+# County Title
+title = c_coltford
+
+# Settlements
+max_settlements = 5
+
+b_coltford = tribal
+b_mapolis = city
+b_farvue_hill = temple
+#b_appleapolis = castle
+#b_woodsbury = city
+
+# Misc
+culture = muntjac
+religion = muntura
+
+#History

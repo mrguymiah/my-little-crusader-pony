@@ -1,0 +1,15 @@
+# c_occipoint
+
+# County Title
+title = c_occipoint
+
+# Settlements
+max_settlements = 1
+
+b_jjjjjj = castle
+
+# Misc
+culture = diamonddog
+religion = maximan
+
+#History

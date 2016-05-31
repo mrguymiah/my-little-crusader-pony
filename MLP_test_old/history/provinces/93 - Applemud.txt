@@ -1,0 +1,17 @@
+# c_applemud
+
+# County Title
+title = c_applemud
+
+# Settlements
+max_settlements = 3
+
+b_applemud = tribal
+#b_applemud_2 = city
+#b_applemud_3 = temple
+
+# Misc
+culture = taruca
+religion = evantol
+
+#History

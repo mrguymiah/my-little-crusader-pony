@@ -1,0 +1,15 @@
+# c_rudolph
+
+# County Title
+title = c_rudolph
+
+# Settlements
+max_settlements = 1
+
+b_rudolph = temple
+
+# Misc
+culture = rein
+religion = nichphanum
+
+#History

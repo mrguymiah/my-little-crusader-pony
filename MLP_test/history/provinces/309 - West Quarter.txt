@@ -1,0 +1,15 @@
+# c_west_quarter
+
+# County Title
+title = c_west_quarter
+
+# Settlements
+max_settlements = 1
+
+b_westhold_armory = castle
+
+# Misc
+culture = crystaline
+religion = ofheart
+
+#History

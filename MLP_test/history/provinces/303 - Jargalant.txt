@@ -1,0 +1,15 @@
+# c_jargalant
+
+# County Title
+title = c_jargalant
+
+# Settlements
+max_settlements = 1
+
+b_jargalant = tribal
+
+# Misc
+culture = yakku
+religion = wekbo
+
+#History

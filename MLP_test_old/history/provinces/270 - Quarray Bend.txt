@@ -1,0 +1,17 @@
+# c_quarray_bend
+
+# County Title
+title = c_quarray_bend
+
+# Settlements
+max_settlements = 3
+
+b_quarray_bend = tribal
+#b_quarray_bend_2 = city
+#b_quarray_bend_3 = temple
+
+# Misc
+culture = fallow
+religion = agniphanum
+
+#History

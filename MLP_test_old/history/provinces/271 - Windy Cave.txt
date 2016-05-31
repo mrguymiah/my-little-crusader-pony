@@ -1,0 +1,17 @@
+# c_windy_cave
+
+# County Title
+title = c_windy_cave
+
+# Settlements
+max_settlements = 3
+
+b_windy_cave = tribal
+#b_windy_cave_2 = city
+#b_windy_cave_3 = temple
+
+# Misc
+culture = fallow
+religion = agniphanum
+
+#History

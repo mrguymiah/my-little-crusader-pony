@@ -1,0 +1,21 @@
+# c_romua
+
+# County Title
+title = c_romua
+
+# Settlements
+max_settlements = 7
+
+b_romua = tribal
+#b_romua_2 = city
+#b_romua_3 = temple
+#b_romua_4 = castle
+#b_romua_5 = city
+#b_romua_6 = temple
+#b_romua_7 = castle
+
+# Misc
+culture = south_griffon
+religion = grifflyreise
+
+#History

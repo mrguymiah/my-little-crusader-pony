@@ -1,0 +1,15 @@
+# c_wt11
+
+# County Title
+title = c_wt11
+
+# Settlements
+max_settlements = 1
+
+b_fdhfhf = castle
+
+# Misc
+culture = whitetail
+religion = doskiphanum
+
+#History

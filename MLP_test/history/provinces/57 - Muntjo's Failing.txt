@@ -1,0 +1,15 @@
+# c_muntjos_failing
+
+# County Title
+title = c_muntjos_failing
+
+# Settlements
+max_settlements = 1
+
+b_q73 = castle
+
+# Misc
+culture = muntjaal
+religion = agniphanum
+
+#History

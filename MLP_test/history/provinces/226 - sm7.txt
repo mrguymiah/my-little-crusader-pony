@@ -1,0 +1,15 @@
+# c_sm7
+
+# County Title
+title = c_sm7
+
+# Settlements
+max_settlements = 1
+
+b_wefwef90wef = castle
+
+# Misc
+culture = diamonddog
+religion = carncanus
+
+#History

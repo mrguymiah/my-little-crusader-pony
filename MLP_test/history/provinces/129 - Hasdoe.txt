@@ -1,0 +1,15 @@
+# c_hasdoe
+
+# County Title
+title = c_hasdoe
+
+# Settlements
+max_settlements = 1
+
+b_hasdoe = temple
+
+# Misc
+culture = muntjaal
+religion = agniphanum
+
+#History

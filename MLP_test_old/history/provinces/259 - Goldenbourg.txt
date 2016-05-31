@@ -1,0 +1,17 @@
+# c_goldenbourg
+
+# County Title
+title = c_goldenbourg
+
+# Settlements
+max_settlements = 3
+
+b_goldenbourg = tribal
+#b_goldenbourg_2 = city
+#b_goldenbourg_3 = temple
+
+# Misc
+culture = cephalo
+religion = agniphanum
+
+#History

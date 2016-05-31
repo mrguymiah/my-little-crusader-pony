@@ -1,0 +1,15 @@
+# c_shetland
+
+# County Title
+title = c_shetland
+
+# Settlements
+max_settlements = 1
+
+b_freefort = castle
+
+# Misc
+culture = mustang
+religion = soarastrian
+
+#History

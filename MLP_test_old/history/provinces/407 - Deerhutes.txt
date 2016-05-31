@@ -1,0 +1,17 @@
+# c_deerhutes
+
+# County Title
+title = c_deerhutes
+
+# Settlements
+max_settlements = 3
+
+b_deerhutes = tribal
+#b_deerhutes_2 = city
+#b_deerhutes_3 = temple
+
+# Misc
+culture = whitetail
+religion = doskiphanum
+
+#History

@@ -1,0 +1,15 @@
+# c_sapphire_keep
+
+# County Title
+title = c_sapphire_keep
+
+# Settlements
+max_settlements = 1
+
+b_castle_sapphire = castle
+
+# Misc
+culture = unicornian
+religion = tribunal
+
+#History

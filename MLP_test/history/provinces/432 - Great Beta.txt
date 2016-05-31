@@ -1,0 +1,15 @@
+# c_great_beta
+
+# County Title
+title = c_great_beta
+
+# Settlements
+max_settlements = 1
+
+b_liing_palace = castle
+
+# Misc
+culture = changeling
+religion = hunger
+
+#History

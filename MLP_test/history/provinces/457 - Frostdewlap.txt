@@ -1,0 +1,15 @@
+# c_frostdewlap
+
+# County Title
+title = c_frostdewlap
+
+# Settlements
+max_settlements = 1
+
+b_frostdewlap = tribal
+
+# Misc
+culture = buryak
+religion = wekbo
+
+#History

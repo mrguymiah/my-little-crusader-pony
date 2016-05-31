@@ -1,0 +1,15 @@
+# c_damsfort
+
+# County Title
+title = c_damsfort
+
+# Settlements
+max_settlements = 1
+
+b_damsfort = city
+
+# Misc
+culture = gotelander
+religion = weket
+
+#History

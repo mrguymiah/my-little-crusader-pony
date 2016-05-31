@@ -1736,7 +1736,6 @@ retreat_and_ambush_tactic = {
 		phase = melee
 		horse_archers = 0.2
 		flank_has_leader = yes
-		leader = { culture_group = altaic }
 	}
 
 	mean_time_to_happen = {
@@ -1782,7 +1781,6 @@ berserker_charge_tactic = {
 		phase = melee 
 		heavy_infantry = 0.01
 		flank_has_leader = yes
-		leader = { culture_group = north_germanic }
 	}
 
 	mean_time_to_happen = {
@@ -1822,7 +1820,6 @@ schiltron_formation_tactic = {
 		phase = melee
 		pikemen = 0.01
 		flank_has_leader = yes
-		leader = { culture = scottish }
 	}
 
 	mean_time_to_happen = {
@@ -1901,7 +1898,6 @@ pike_column_advance_tactic = {
 		phase = melee
 		pikemen = 0.01
 		flank_has_leader = yes
-		leader = { culture = italian }
 	}
 
 	mean_time_to_happen = {
@@ -1960,12 +1956,6 @@ massive_longbow_volley_tactic = {
 		phase = skirmish  
 		archers = 0.01
 		flank_has_leader = yes
-		leader = {
-			OR = {
-				culture = english
-				culture = welsh
-			}
-		}
 	}
 
 	mean_time_to_happen = {
@@ -2027,15 +2017,6 @@ couched_lance_charge_tactic = {
 		phase = melee 
 		knights = 0.01
 		flank_has_leader = yes
-		leader = {
-			OR = {
-				culture = frankish
-				culture = occitan
-				culture = norman
-				culture = german
-				culture = breton
-			}
-		}
 	}
 
 	mean_time_to_happen = {
@@ -2098,7 +2079,6 @@ desert_ambush_tactic = {
 		}
 		light_infantry = 0.1
 		flank_has_leader = yes
-		leader = { culture_group = arabic }
 		location = { terrain = desert }
 	}
 
@@ -2170,7 +2150,6 @@ embolon_charge_formation_tactic = {
 		phase = melee 
 		knights = 0.01
 		flank_has_leader = yes
-		leader = { culture_group = byzantine }
 	}
 
 	mean_time_to_happen = {

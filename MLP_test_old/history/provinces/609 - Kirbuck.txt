@@ -1,0 +1,19 @@
+# c_kirbuck
+
+# County Title
+title = c_kirbuck
+
+# Settlements
+max_settlements = 5
+
+b_kribuck = castle
+b_coltaquq = city
+b_raneigh = temple
+b_coltrtan = city
+#b_kirbuck = city
+
+# Misc
+culture = saddle_arabian_culture
+religion = saddle_arabian_religion
+
+#History

@@ -1,0 +1,17 @@
+# c_barnago
+
+# County Title
+title = c_barnago
+
+# Settlements
+max_settlements = 3
+
+b_barnago = tribal
+#b_barnago_2 = city
+#b_barnago_3 = temple
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

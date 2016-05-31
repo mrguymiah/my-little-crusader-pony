@@ -1,0 +1,17 @@
+# c_tenocoltlan
+
+# County Title
+title = c_tenocoltlan
+
+# Settlements
+max_settlements = 3
+
+b_tenocoltlan = tribal
+#b_tenocoltlan_2 = city
+#b_tenocoltlan_3 = temple
+
+# Misc
+culture = tazapan
+religion = buffalo_religion
+
+#History

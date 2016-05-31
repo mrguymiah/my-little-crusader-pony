@@ -1,0 +1,15 @@
+# c_bl4
+
+# County Title
+title = c_bl4
+
+# Settlements
+max_settlements = 1
+
+b_uuuuuuu = castle
+
+# Misc
+culture = changeling
+religion = hunger
+
+#History

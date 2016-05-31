@@ -1,0 +1,15 @@
+# c_zeloenas_grove
+
+# County Title
+title = c_zeloenas_grove
+
+# Settlements
+max_settlements = 1
+
+b_zeloenamunn = temple
+
+# Misc
+culture = whitetail
+religion = agniphanum
+
+#History

@@ -1,0 +1,15 @@
+# c_cloudkonion
+
+# County Title
+title = c_cloudkonion
+
+# Settlements
+max_settlements = 1
+
+b_q14 = castle
+
+# Misc
+culture = earthling
+religion = tribunal
+
+#History

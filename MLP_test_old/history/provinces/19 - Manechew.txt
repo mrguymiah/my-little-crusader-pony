@@ -1,0 +1,17 @@
+# c_manechew
+
+# County Title
+title = c_manechew
+
+# Settlements
+max_settlements = 3
+
+b_manechew = tribal
+#b_manechew_2 = city
+#b_manechew_3 = temple
+
+# Misc
+culture = zebradid
+religion = zulhooves_religion
+
+#History

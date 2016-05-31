@@ -1,0 +1,19 @@
+# c_toumane
+
+# County Title
+title = c_toumane
+
+# Settlements
+max_settlements = 5
+
+b_toumane = tribal
+#b_toumane_2 = city
+#b_toumane_3 = temple
+#b_toumane_4 = castle
+#b_toumane_5 = city
+
+# Misc
+culture = fallow
+religion = agniphanum
+
+#History

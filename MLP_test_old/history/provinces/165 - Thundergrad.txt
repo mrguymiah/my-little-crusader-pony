@@ -1,0 +1,17 @@
+# c_thundergrad
+
+# County Title
+title = c_thundergrad
+
+# Settlements
+max_settlements = 3
+
+b_thundergrad = tribal
+#b_thundergrad_2 = city
+#b_thundergrad_3 = temple
+
+# Misc
+culture = tazapan
+religion = buffalo_religion
+
+#History

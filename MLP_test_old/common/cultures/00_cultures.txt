@@ -1,0 +1,718 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+## Feather Book updated - 18/06/2013
+## Mrguymiah updated - 29/9/2013 - Colour errors and naming tradition errors.
+## HeshieokFasla updated 18/1/'14 - New cultures, block organization, poni poni poni
+## HeshieokFasla added SPECIAL and the wildling culture
+
+#GROUPS (AS OF 22/1/'14)
+#PONY, HORSE, OTHER EQUINE, GRIFFON, CHANGELING, LIVESTOCK, CANINE, CERVID, DRACONIC, SPECIAL
+
+############
+#   PONY   #
+############
+equestrian = {
+	graphical_cultures = { ponygfx }
+	
+	earth_pony_culture = {
+		graphical_cultures = { ponygfx }
+		
+		color = { 87 174 78 }
+		
+		male_names = {
+			Ace Affero Al Apple_Apple Ardent Baritone Bill Black_Black "Black Stone" Blackheart_Blackheart Braeburn Breezy Brindle Bruce "Burnt Iak" Bushel Caboose Caesar_Caesar
+			Caramel Castle_Castle Charlie Cherry Chocolate_Chocolate Classy Cobalt_Cobalt Coconut Concerto Cormano Cosmic Cradty Creme_Creme Davenport Eiffel Emerald_Emerald
+			Felix_Felix Frederick_Frederick Fuzzy Geri Gingerbread Gizmo_Gizmo Goldengrape Grape "Hard Knocks" Harry Herald Hercules Horte Hugh Ice "Icy Drop"
+			Jack_Jack Jeff Jim John_John Karat Kazooie Klein_Klein Lincoln Lucky Master_Master Meadow Melilot Morton Noteworthy Oregon Orion_Orion Parish Persnickety
+			Pigpen Pine "Pine Breeze" Pipe Promontory Rick Rivet Royal_Royal Salt Salty Shamrock Silver_Silver Silverstar Shortround Smokestack Spectrum_Spectrum Star_Star Stary_Stary
+			Steamer Tailor Theon Theo Theodore Tin Trap Vigil_Vigil Vigilance_Vigilance Waddle Walter William Wisp_Wisp Zippy
+		}
+		female_names = {
+			Aloe Ambrosia Apple_Apple "Apple Bloom" Applejack Applesauce Apricot Beauty Bell Belle Berry Blue Bonnie Bottle Candy_Candy Candylicious Caramel Charcoal
+			Cheerilee Chelsea Cherry Chily Cornflower Crescendo "Cup Cake" Curly Dainty Daisy Doseydotes Dosie Elphaba Emerald_Emerald Fiddlesticks Florina Flounder Forest Ginger
+			Giselle Golden_Golden Sew Helia Honey_Honey Honeycome_Honeycome Honeysuckle_Honeysuckle Jangles Jubileena Junebug Lavender_Lavender Lavenderhoof_Lavenderhoof Lemon_Lemon Lilac Lily Lotus Lyra_Lyra Lyrica Mare Magdalena
+			Majesty Mango Marigold Marmalade Maroon Masquerade Maybelline Midnight_Midnight Millie Mint Minuette_Minuette Mjolna Pink_Pink Pinkie_Pinkie Harshwhinny Peachbottom
+			Coldheart_Coldheart Redheart_Redheart Sweetheart_Sweetheart Tenderheart_Tenderheart Oakey Obscurity_Obscurity Octavia Orange Paisley Pampered Peachy Petunia
+			"Pish Posh" Powder Pretty Purple_Purple Quake Raven_Raven Red_Red Reflective Regal_Regal Roma_Roma Romana Rose Roxie Sandy Sapphire_Sapphire Serena Shoeshine
+			Soigne Spring_Spring Starlight_Starlight Stella Storm_Storm Sun_Sun Sundowner Sunset_Sunset Sunshine_Sunshine Surf Swan Sweetie Swift Symphony Toffee
+			Tree Tropical Turf Vanilla_Vanilla Vera Violet_Violet Welly Wildwood Wilma Winter_Winter Wysteria Puddinghead Cookie
+		}
+		from_dynasty_prefix = "of "
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	
+	
+	pegasus_culture = {
+		graphical_cultures = { ponygfx }
+		
+		color = { 163 216 255 }
+		
+		male_names = {
+			Bifrost Blue_Blue "Blue Steel" Brimsotne Brolly Buddy Blaze_Blaze Cappuccino Caesar_Caesar Cloud_Cloud "Cloud Break" Crafty Crescent_Crescent Descent Dewdrop Dollar Dark_Dark Feather Featherus Falcon Fire Firestreak Firebird Fireflash Flash Hornet Jack_Jack
+			Lightning_Lightning Lightningstrike Manerick Mavrick Meteor Milky Prism_Prism Shriker Sidewinder Sightseer Silver_Silver Silverwing Skyflash Soarin Sparrow Storm Storshadow Spectrum Star_Star
+			Starburst Stormfeather Sunburst Sunlight Thorn Thunder Thunderlane Wave Whiplash Hurricane_Hurricane
+		}
+		female_names = {
+			Airheart April "April Showers" Aurora_Aurora Blaze_Blaze Blossomforth Blue_Blue "Blue October" "Blue Skies" Bluebell Bluberry Bluebird "Wild Flower" Cadance_Cadance Candy_Candy Chocolate_Chocolate Cinnamon Cloud_Cloud Cloudkicker Cloudshowers Cloudchaser
+			Creme_Creme Daring Dizzy Drizzle Endless "Endless Clouds" Firefly Fleetfoot Flitter Flutter Golden_Golden Graceful Helia Honey_Honey Honeycome_Honeycome Honeysuckle_Honeysuckle
+			Juicy Laurette Lavender_Lavender Lightning_Lightning "Lightning Bolt" "Lightning Dust" Lime Lilly Lucy Madden Medley Merry Midnight_Midnight Misty Nightingale_Nightingale
+			Opal Parasol Parula Pizzelle Prism_Prism Rain Rainbow Raindrop Riverdance Riverwind Sandstorm Sassaflash Serenity Skyra_Lyra Slipstream Snowflake Spitfire Spring Stardancer Sunny Sunstone Vanilla_Vanilla
+			"Wild Fire" Wing Wish Red_Red
+			Hurricane_Hurricane Pansy_Pansy
+		}
+		from_dynasty_prefix = "of "
+		
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+
+	}
+	
+	unicorn_culture = {
+		graphical_cultures = { ponygfx }
+		
+		color = { 233 147 233 }
+		
+		male_names = {
+			Arpeggio Blue_Blue Blueblood Blueheart Bluestar Black_Black Blackheart_Blackheart Blackstar "Black Marble" Brass Bullion Chocolate_Chocolate Comet Dark_Dark Darkligth Darkheart Darkstar Dream_Dream Dreamer Fancy Faraday Flam Flankin
+			Flim Graphite_Graphite Hors Horte Joe Magnum Master_Master Mochaccino Merlin_Merlin Neon Neo Nero Night_Night Nightlight Orion
+			Perry Parry Pokey Ponet Poppycock Pristine Shining Spectrum_Spectrum Star_Star Stary_Stary Starlight_Starlight "Star Swirl" Thornhoof Vance Writter Written Nebula_Nebula
+		}
+		female_names = {
+			Amethyst_Amethyst Ballad Blue_Blue Cadance_Cadance Cinnabell Cold Coldheart_Coldheart Crystal_Crystal Dimond_Dimond Eliza Elizabeth Faraday Fleur Fly Gold_Gold Golden_Golden Holly
+			Lemon_Lemon Lemony Lucy Lyra_Lyra Marey Maxie Minuette_Minuette Monochrome Nixie Moondancer Ocean Orchid Pixie Primrose Rarity Pearl_Pearl Raty Raven_Raven Rhythm Rococo Rosewood Rosie Royal_Royal
+			Sea Sparkle Spring_Spring Starlight_Starlight Strawberry Sunset Trixie Twilight "Twilight Sparkle" "Twilight Velvet" Twinkleshine Tinker Violet_Violet Velvet Clover_Clover Platinum_Platinum
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 20
+		mother_name_chance = 30
+
+		modifier = default_culture_modifier
+	}
+	
+	crystal_culture = {
+		graphical_cultures = { ponygfx }
+		
+		color = { 0.1 0.0 0.7 }
+		
+		male_names = {
+			Almandin Andradite Alexandrite Andalusite Azinite Benitoite Black_Black Bloodstone Blue_Blue Carnelian Danburite Dioptase Dumortierite Ebony Fire_Fire Goldstone Grossular Granet
+			Graphite_Graphite Hambergite Hematite Hessonite Hollandite Howlite Infinite Jasper Kunzite Kyanite Lapis Lingams Lazuli Lapis-Lazuli Larimar Lavakite Malachite Merlinite_Merlin
+			Moldavite Nebula_Nebula Obsidian Onyx Orbicular Pyrope Quartz Sodalite Spessartine Star_Star Sugilite Tibetan Tiberian Titanium Tourmaline Uvarovite
+		}
+		female_names = {
+			Abalone Agate Amazonite Amber Amethyst_Amethyst Ametrin Angel Aura Angelite Apatite Aqua Aquamarine Bizbite Cassiterite Celestite Chalcedony Charoite Chrysocholla Chrysoprase Crystal_Crystal
+			Diamantina Dimond_Dimond Emerald_Emerald Fuschite Feldspar Gold_Gold Golden_Golden Harlequin Iolite Ivory Kaolinite Labradorite Lapis Lemurian Lightbray Lithium Lodolite Moonstone Morganite Opal
+			Opalite Ouro Pearl_Pearl Pearlspar Peridot Phenacite Pink_Pink Pinkie_Pinkie Petalite Rainbow_Rainbow Red_Red Ruby Seraphinite Shiva Sapphire Sunstone Tanzanite Tanzine Tektites Topaz
+			Turquoise Unakite
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		modifier = default_culture_modifier
+		
+		male_patronym = "semerald "
+		female_patronym = "ssaphire "
+		prefix = no
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+		
+	}
+	thestral_culture = {
+		graphical_cultures = { ponygfx }
+		
+		color = { 0.2 0.2 0.4 }
+		
+		male_names = {
+			Errol Meadowlark Sunshine
+		}	
+		female_names = {
+			Echo Heartbeat Jasmine "Midnight Blossom" Nightshade "Night Watch" Pitaya Speck
+		}
+		
+		from_dynasty_prefix = "von "
+		
+		male_patronym = ""
+		female_patronym = ""
+		
+		modifier = default_culture_modifier
+	}
+}
+#############
+#   HORSE   #
+#############
+saddle_arabian_group = {
+	graphical_cultures = { ponygfx }
+	
+	saddle_arabian_culture = {
+		graphical_cultures = { ponygfx }
+		
+		color = { 0.2 0.3 0.7 }
+		
+		male_names = {
+			Abdul Abdul-Ahmar Abdul-Azraq Ahmar_Red Ahmane Azraq_Blue Chikulata_Chocolate Newrethsetar Nejmh_Star
+		}
+		female_names = {
+			Ahmar_Red Amira Azraq_Blue Mayrein Shams_Sun Qamar_Moon
+		}
+		
+		from_dynasty_prefix = "mn "
+		
+		male_patronym = "ibn "
+		female_patronym = "bint "
+		prefix = yes
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+	}
+}
+####################
+#   OTHER EQUINE   #
+####################
+zebra_group = {
+	graphical_cultures = { ponygfx }
+	
+	zebradid = {
+		graphical_cultures = { ponygfx }
+		
+		color = { 0.4 0.2 0.3 }
+
+		male_names = {
+			Mufasa Simba_Simba
+		}
+		female_names = {
+			Zecora
+		}
+		from_dynasty_prefix = "kwa "
+		
+		male_patronym = "mwan "
+		female_patronym = "bibit "
+		prefix = yes
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+	}
+	
+	zebrazen = {
+		graphical_cultures = { ponygfx }
+		
+		color = { 0.4 0.9 0.4 }
+
+		male_names = {
+			Pumba Simba_Simba Timone
+		}
+		female_names = {
+			Zecora
+		}
+		from_dynasty_prefix = "qwa "
+		
+		male_patronym = "zmwekk "
+		female_patronym = "zbasib "
+		prefix = no
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+	}
+}
+
+
+###############
+#   GRIFFON   #
+###############
+griffon_group = {
+	graphical_cultures = { ponygfx }
+	
+	high_griffon = {
+		graphical_cultures = { ponygfx }
+		
+		color = { 0.5 0.2 0.1 }
+		
+		male_names = {
+			Bløffmaker_Trickster
+			Childeric_Childeric Clovis_Clovis Dagobert_Dagobert Wingbreaker Adolf Rauttnäbb_Redbeak Blárnäbb_Bluebeak Svarturnäbb_Blackbeak Windcaster Kló_Claw
+			Gabriel_Gabriel Georg_Georg Gerhard_Gerrled Gjorg Göran Gösta Göstav Gottfrid_Godfrey Greger Grim_Grim Gudröd_Gudröd Gunnar_Gunnar
+			Gustav_Gustav Gudmund Gunnar Gunne Gizzard_Gizzard Gilbert_Gilbert
+			Sparv Sivfa
+		}
+		female_names = {
+			Arya Dansari Draumursoar Ida Vindur
+			Gilda_Gilda Gytha_Gytha Gyrid
+		}
+		
+		dukes_called_kings = yes
+		
+		from_dynasty_prefix = "af "
+		
+		male_patronym = "sson"
+		female_patronym = "sdottir"
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	south_griffon = {
+		graphical_cultures = { ponygfx }
+		color = { 0.15 0.4 0.55 }
+		
+		male_names = {
+			Redbeak_Redbeak Bluebeak_Bluebeak Blackbeak_Blackbeak Filoumac_Trickster Artaxerxes Childeric_Childeric Clovis_Clovis Cyrus Darius Dagobert_Dagobert Winderwind Griffe_Claw
+			Gaillard Gaufrid Geoffroy_Godfrey Gerald_Gerald Gerard_Gerard Gérard_Gerard Geraud_Gerald Gerbert Gervas Giffard Gilbert_Gilbert Godfrey_Godfrey Goubert Guntard Gustav_Gustav
+		}
+		female_names = {
+			Geva Gilda_Gilda Giselle_Gisela Gohilde Griselda Gundred
+		}
+		
+		male_patronym = "esfils"
+		female_patronym = "esfille"
+		prefix = no
+		
+		from_dynasty_prefix = "de "
+		
+		bastard_dynasty_prefix = "Fitz"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+	
+	low_griffon = {
+		graphical_cultures = { ponygfx }
+	
+		color = { 0.2 0.45 0.65 }
+		
+		male_names = {
+			Rødtnäbb_Redbeak blånäbb_Bluebeak Svartnäbb_Blackbeak
+			Bløffmaker_Trickster
+			Childeric_Childeric Clovis_Clovis Claw_Claw
+			Gabriel_Gabriel Geir Georg_Georg Gjurd Godtfred_Godfrey Gøran Greges Gudbrand Gulbrand Gunne Gustav_Gustav
+			Grim_Grim Gudleik Gudmund_Gudmund Gudrød_Gudröd Gunnar_Gunnar Guttorm_Gorm Gizzard_Gizzard Gilbert_Gilbert
+		}
+		female_names = {
+			Gilda_Gilda Gyda_Gytha Gyrid
+		}
+		
+		dukes_called_kings = yes
+		
+		from_dynasty_prefix = "av "
+		
+		male_patronym = "sson"
+		female_patronym = "sdatter"
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+}
+#################
+#  CHANGELING   #
+#################
+changeling_group = {
+	graphical_cultures = { changelinggfx }
+
+	changeling_culture = {
+		graphical_cultures = { changelinggfx }
+		
+		color = { 0.1 .06 0.7 }
+
+		male_names = {
+			Chitin Cloak Doppel Dagger Maurr Shifter Coxa Shadow_Shadow Ditto
+		}
+		female_names = {
+			Aconita Agave Ambrosia Aurelia Anaxa Calliphora Chrysalis Cocoon Gossamer Miasma Mirror Myxine Phantasma Proxy Pupa Vespine
+		}
+		
+		from_dynasty_prefix = "vrg "
+		founder_named_dynasties = yes
+		
+		male_patronym = "spawn"
+		female_patronym = "spawn"
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 10
+		father_name_chance = 30
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 30
+
+		modifier = default_culture_modifier
+	}
+}
+##############
+#   CANINE   #
+##############
+wolf_group = {
+	timberwolf = {
+		graphical_cultures = { ponygfx }
+		color = { 0.3 0.1 0.1 }
+		
+		male_names = {
+			Bob
+		}
+		female_names = {
+			Erith
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
+great_canine_group = {
+	diamond_dog = {
+		graphical_cultures = { ponygfx }
+		color = { 0.9 0.9 0.7 }
+		
+		male_names = {
+			Bob
+		}
+		female_names = {
+			Erith Saffron
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
+###############
+#   BUFFALO   #
+###############
+buffalo_group = {
+	blackhoof = {
+		graphical_cultures = { ponygfx }
+		color = { 0.7 0.5 0.0 }
+		
+		male_names = {
+			Airbringer_Airbringer Applecruncher_Applecruncher Beetleback_Beetleback Coatclipper_Coatclipper Dreamstamper_Dreamstamper Drumrunner_Drumrunner Duckdiver_Duckdiver 
+			Firestarter_Firestarter Freerunner_Freerunner Greenhooves_Greenhooves Ghostwhisperer_Ghostwhisperer Haymuncher_Haymuncher Landrunner_Landrunner Landstamper_Landstamper
+			Stargazer_Stargazer Twobares_Twobares Thunderhooves_Thunderhooves Thunderbringer_Thunderbringer Wolfdancer_Wolfdancer
+		}
+		female_names = {
+			Stronghart_Stronghart
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	sioxen = {
+			graphical_cultures = { ponygfx }
+		color = { 1.0 0.5 0.0 }
+		
+		male_names = {
+			Wákknbrágr_Airbringer Akášakorza_Applecruncher Batkánágá_Beetleback Kápasadyá_Coatclipper Dreamstamper_Dreamstamper Drumrunner_Drumrunner Duckdiver_Duckdiver 
+			Firestarter_Firestarter Freerunner_Freerunner Greenhalyá_Greenhooves Ghostwhisperer_Ghostwhisperer Haymuncher_Haymuncher Landrunner_Landrunner Landstamper_Landstamper
+			Stargazer_Stargazer Twobares_Twobares Taggáhalyá_Thunderhooves Taggábrágr_Thunderbringer Wolfdancer_Wolfdancer 
+		}
+		female_names = {
+			Skhmóyaggh_Stronghart
+		}
+		
+		from_dynasty_prefix = "wikh "
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	tazapan = {
+		graphical_cultures = { ponygfx }
+		color = { 0.6 0.5 0.2 }
+		
+		male_names = {
+			Achtalwaka_Airbringer Attkalmanza_Applecruncher Battakguarkya_Beetleback Kotakippya_Coatclipper Daxachital_Dreamstamper Tiygatxartl_Drumrunner Quakzakle_Duckdiver 
+			Xachoccol_Firestarter Qizatxartl_Freerunner Akaloztloz_Greenhooves Yagisigzenaggy_Ghostwhisperer Tzakamatalli_Haymuncher Yegroptxartl_Landrunner Yegropeztli_Landstamper
+			Xocohtzin_Stargazer Tezozaca_Twobares Tizactloz_Thunderhooves Tizacalwaka_Thunderbringer Zargagytaz_Wolfdancer 
+		}
+		female_names = {
+			Zagnalotz_Stronghart
+		}
+		
+		from_dynasty_prefix = "zalot "
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
+##############
+#   CERVID   #
+##############
+deer_group = {
+	graphical_cultures = { cervidgfx }
+	
+	whitetail = {
+		graphical_cultures = { cervidgfx }
+		color = { 1.0 0.8 0.8 }
+		
+		male_names = {
+			Agni Agno Agnu Aus'ni Aus'no Aus'nu Aux'ni Aux'no Aux'nu Avni Avno Avnu Ban Bal'in Bal'on Bal'un Baj'ti Baj'to Baj'tu Baz'i Baz'o Baz'u Baz'li Baz'lo Baz'lu Cen'di Cen'do Cen'du Cen'dio Cen'duo Cun'vi Cun'vo Cun'vu Cun'vio Deerid Deerod Deerud De'rin De'ron De'run Elk'i Elk'o Elk'u Elk'io Fas'li Fas'lo Fas'lu Fas'ri Fas'ro Fas'ru Fas'vi Fas'vo Fas'vu Gen'dif Gen'dof Gen'duf Hen'ri_Henry Hen'ro Hen'ru Hes'ri Hes'ro Hes'ru Il'ni Il'no Il'nu Jaf'ti Jaf'to Jaf'tu Kon'bi Kon'bo Kon'bu Men'ri Men'ro Men'ru Menros Nel'ni Nel'no Nel'nu Nelrief O'ni O'no O'nu Paz'ni Paz'no Paz'nu Roe Roe'ni Roe'no Roe'nu Ro'ni Ro'no Ro'nu Rel'ni Rel'no Rel'nu Sev'ni Sev'no Sev'nu Tash'ti Tash'to Tash'tu Tal'ni Tal'no Tal'nu Tar'ni Tar'no Tar'nu Wa'ri Wa'ro Wa'ru 
+		}
+		female_names = {
+			Agni Agna Agne Aus'ni Aus'na Aus'ne Aux'ni Aux'na Aux'ne Avni Avna Avne Bambe Bal'in Bal'an Bal'en Baj'ti Baj'ta Baj'te Baz'i Baz'a Baz'e Baz'li Baz'la Baz'le Cen'di Cen'da Cen'de Cen'dio Cen'dao Cun'vi Cun'va Cun've Cun'vio Deerid Deerad Deered De'rin De'ran De'ren Elk'i Elk'a Elk'e Elk'ia Fas'li Fas'la Fas'le Fas'ri Fas'ra Fas're Fas'vi Fas'va Fas've Gen'dif Gen'daf Gen'def Hen'ri_Henry Hen'ra Hen're Hes'ri Hes'ra Hes're Il'ni Il'na Il'ne Jaf'ti Jaf'ta Jaf'te Kon'bi Kon'ba Kon'be Men'ri Men'ra Men're Menras Nel'ni Nel'na Nel'ne Nelrief O'ni O'na O'ne Paz'ni Paz'na Paz'ne Roea Roe'ni Roe'na Roe'ne Ro'ni Ro'na Ro'ne Rel'ni Rel'na Rel'ne Sev'ni Sev'na Sev'ne Tash'ti Tash'ta Tash'te Tal'ni Tal'na Tal'ne Tar'ni Tar'na Tar'ne Wa'ri Wa'ra Wa're
+		}
+		
+		dynasty_title_names = yes
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+		modifier = default_culture_modifier
+	}
+	
+	fallow = {
+		graphical_cultures = { cervidgfx }
+		color = { 0.7 0.4 0.4 }
+		
+		male_names = {
+			Agni Agno Agnu Aus'ni Aus'no Aus'nu Aux'ni Aux'no Aux'nu Avni Avno Avnu Ban Bal'in Bal'on Bal'un Baj'ti Baj'to Baj'tu Baz'i Baz'o Baz'u Baz'li Baz'lo Baz'lu Cen'di Cen'do Cen'du Cen'dio Cen'duo Cun'vi Cun'vo Cun'vu Cun'vio Deerid Deerod Deerud De'rin De'ron De'run Elk'i Elk'o Elk'u Elk'io Fas'li Fas'lo Fas'lu Fas'ri Fas'ro Fas'ru Fas'vi Fas'vo Fas'vu Gen'dif Gen'dof Gen'duf Hen'ri_Henry Hen'ro Hen'ru Hes'ri Hes'ro Hes'ru Il'ni Il'no Il'nu Jaf'ti Jaf'to Jaf'tu Kon'bi Kon'bo Kon'bu Men'ri Men'ro Men'ru Menros Nel'ni Nel'no Nel'nu Nelrief O'ni O'no O'nu Paz'ni Paz'no Paz'nu Roe Roe'ni Roe'no Roe'nu Ro'ni Ro'no Ro'nu Rel'ni Rel'no Rel'nu Sev'ni Sev'no Sev'nu Tash'ti Tash'to Tash'tu Tal'ni Tal'no Tal'nu Tar'ni Tar'no Tar'nu Wa'ri Wa'ro Wa'ru 
+		}
+		female_names = {
+			Agni Agna Agne Aus'ni Aus'na Aus'ne Aux'ni Aux'na Aux'ne Avni Avna Avne Bambe Bal'in Bal'an Bal'en Baj'ti Baj'ta Baj'te Baz'i Baz'a Baz'e Baz'li Baz'la Baz'le Cen'di Cen'da Cen'de Cen'dio Cen'dao Cun'vi Cun'va Cun've Cun'vio Deerid Deerad Deered De'rin De'ran De'ren Elk'i Elk'a Elk'e Elk'ia Fas'li Fas'la Fas'le Fas'ri Fas'ra Fas're Fas'vi Fas'va Fas've Gen'dif Gen'daf Gen'def Hen'ri_Henry Hen'ra Hen're Hes'ri Hes'ra Hes're Il'ni Il'na Il'ne Jaf'ti Jaf'ta Jaf'te Kon'bi Kon'ba Kon'be Men'ri Men'ra Men're Menras Nel'ni Nel'na Nel'ne Nelrief O'ni O'na O'ne Paz'ni Paz'na Paz'ne Roea Roe'ni Roe'na Roe'ne Ro'ni Ro'na Ro'ne Rel'ni Rel'na Rel'ne Sev'ni Sev'na Sev'ne Tash'ti Tash'ta Tash'te Tal'ni Tal'na Tal'ne Tar'ni Tar'na Tar'ne Wa'ri Wa'ra Wa're
+		}
+		
+		dynasty_title_names = yes
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+		modifier = default_culture_modifier
+	}
+
+	muntjac = {
+		graphical_cultures = { cervidgfx }
+		color = { 0.8 0.4 0.3 }
+		
+		male_names = {
+			Agni Agno Agnu Aus'ni Aus'no Aus'nu Aux'ni Aux'no Aux'nu Avni Avno Avnu Ban Bal'in Bal'on Bal'un Baj'ti Baj'to Baj'tu Baz'i Baz'o Baz'u Baz'li Baz'lo Baz'lu Cen'di Cen'do Cen'du Cen'dio Cen'duo Cun'vi Cun'vo Cun'vu Cun'vio Deerid Deerod Deerud De'rin De'ron De'run Elk'i Elk'o Elk'u Elk'io Fas'li Fas'lo Fas'lu Fas'ri Fas'ro Fas'ru Fas'vi Fas'vo Fas'vu Gen'dif Gen'dof Gen'duf Hen'ri_Henry Hen'ro Hen'ru Hes'ri Hes'ro Hes'ru Il'ni Il'no Il'nu Jaf'ti Jaf'to Jaf'tu Kon'bi Kon'bo Kon'bu Men'ri Men'ro Men'ru Menros Nel'ni Nel'no Nel'nu Nelrief O'ni O'no O'nu Paz'ni Paz'no Paz'nu Roe Roe'ni Roe'no Roe'nu Ro'ni Ro'no Ro'nu Rel'ni Rel'no Rel'nu Sev'ni Sev'no Sev'nu Tash'ti Tash'to Tash'tu Tal'ni Tal'no Tal'nu Tar'ni Tar'no Tar'nu Wa'ri Wa'ro Wa'ru 
+		}
+		female_names = {
+			Agni Agna Agne Aus'ni Aus'na Aus'ne Aux'ni Aux'na Aux'ne Avni Avna Avne Bambe Bal'in Bal'an Bal'en Baj'ti Baj'ta Baj'te Baz'i Baz'a Baz'e Baz'li Baz'la Baz'le Cen'di Cen'da Cen'de Cen'dio Cen'dao Cun'vi Cun'va Cun've Cun'vio Deerid Deerad Deered De'rin De'ran De'ren Elk'i Elk'a Elk'e Elk'ia Fas'li Fas'la Fas'le Fas'ri Fas'ra Fas're Fas'vi Fas'va Fas've Gen'dif Gen'daf Gen'def Hen'ri_Henry Hen'ra Hen're Hes'ri Hes'ra Hes're Il'ni Il'na Il'ne Jaf'ti Jaf'ta Jaf'te Kon'bi Kon'ba Kon'be Men'ri Men'ra Men're Menras Nel'ni Nel'na Nel'ne Nelrief O'ni O'na O'ne Paz'ni Paz'na Paz'ne Roea Roe'ni Roe'na Roe'ne Ro'ni Ro'na Ro'ne Rel'ni Rel'na Rel'ne Sev'ni Sev'na Sev'ne Tash'ti Tash'ta Tash'te Tal'ni Tal'na Tal'ne Tar'ni Tar'na Tar'ne Wa'ri Wa'ra Wa're
+		}
+		
+		dynasty_title_names = yes
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+		modifier = default_culture_modifier
+	}
+	
+	taruca = {
+		graphical_cultures = { cervidgfx }
+		color = { 0.4 0.2 0.1 }
+		
+		male_names = {
+			Agni Agno Agnu Aus'ni Aus'no Aus'nu Aux'ni Aux'no Aux'nu Avni Avno Avnu Ban Bal'in Bal'on Bal'un Baj'ti Baj'to Baj'tu Baz'i Baz'o Baz'u Baz'li Baz'lo Baz'lu Cen'di Cen'do Cen'du Cen'dio Cen'duo Cun'vi Cun'vo Cun'vu Cun'vio Deerid Deerod Deerud De'rin De'ron De'run Elk'i Elk'o Elk'u Elk'io Fas'li Fas'lo Fas'lu Fas'ri Fas'ro Fas'ru Fas'vi Fas'vo Fas'vu Gen'dif Gen'dof Gen'duf Hen'ri_Henry Hen'ro Hen'ru Hes'ri Hes'ro Hes'ru Il'ni Il'no Il'nu Jaf'ti Jaf'to Jaf'tu Kon'bi Kon'bo Kon'bu Men'ri Men'ro Men'ru Menros Nel'ni Nel'no Nel'nu Nelrief O'ni O'no O'nu Paz'ni Paz'no Paz'nu Roe Roe'ni Roe'no Roe'nu Ro'ni Ro'no Ro'nu Rel'ni Rel'no Rel'nu Sev'ni Sev'no Sev'nu Tash'ti Tash'to Tash'tu Tal'ni Tal'no Tal'nu Tar'ni Tar'no Tar'nu Wa'ri Wa'ro Wa'ru 
+		}
+		female_names = {
+			Agni Agna Agne Aus'ni Aus'na Aus'ne Aux'ni Aux'na Aux'ne Avni Avna Avne Bambe Bal'in Bal'an Bal'en Baj'ti Baj'ta Baj'te Baz'i Baz'a Baz'e Baz'li Baz'la Baz'le Cen'di Cen'da Cen'de Cen'dio Cen'dao Cun'vi Cun'va Cun've Cun'vio Deerid Deerad Deered De'rin De'ran De'ren Elk'i Elk'a Elk'e Elk'ia Fas'li Fas'la Fas'le Fas'ri Fas'ra Fas're Fas'vi Fas'va Fas've Gen'dif Gen'daf Gen'def Hen'ri_Henry Hen'ra Hen're Hes'ri Hes'ra Hes're Il'ni Il'na Il'ne Jaf'ti Jaf'ta Jaf'te Kon'bi Kon'ba Kon'be Men'ri Men'ra Men're Menras Nel'ni Nel'na Nel'ne Nelrief O'ni O'na O'ne Paz'ni Paz'na Paz'ne Roea Roe'ni Roe'na Roe'ne Ro'ni Ro'na Ro'ne Rel'ni Rel'na Rel'ne Sev'ni Sev'na Sev'ne Tash'ti Tash'ta Tash'te Tal'ni Tal'na Tal'ne Tar'ni Tar'na Tar'ne Wa'ri Wa'ra Wa're
+		}
+		
+		dynasty_title_names = yes
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+		modifier = default_culture_modifier
+	}
+	
+	cephalo = {
+		graphical_cultures = { cervidgfx }
+		color = { 0.5 0.2 0.4 }
+		
+		male_names = {
+			Agni Agno Agnu Aus'ni Aus'no Aus'nu Aux'ni Aux'no Aux'nu Avni Avno Avnu Ban Bal'in Bal'on Bal'un Baj'ti Baj'to Baj'tu Baz'i Baz'o Baz'u Baz'li Baz'lo Baz'lu Cen'di Cen'do Cen'du Cen'dio Cen'duo Cun'vi Cun'vo Cun'vu Cun'vio Deerid Deerod Deerud De'rin De'ron De'run Elk'i Elk'o Elk'u Elk'io Fas'li Fas'lo Fas'lu Fas'ri Fas'ro Fas'ru Fas'vi Fas'vo Fas'vu Gen'dif Gen'dof Gen'duf Hen'ri_Henry Hen'ro Hen'ru Hes'ri Hes'ro Hes'ru Il'ni Il'no Il'nu Jaf'ti Jaf'to Jaf'tu Kon'bi Kon'bo Kon'bu Men'ri Men'ro Men'ru Menros Nel'ni Nel'no Nel'nu Nelrief O'ni O'no O'nu Paz'ni Paz'no Paz'nu Roe Roe'ni Roe'no Roe'nu Ro'ni Ro'no Ro'nu Rel'ni Rel'no Rel'nu Sev'ni Sev'no Sev'nu Tash'ti Tash'to Tash'tu Tal'ni Tal'no Tal'nu Tar'ni Tar'no Tar'nu Wa'ri Wa'ro Wa'ru 
+		}
+		female_names = {
+			Agni Agna Agne Aus'ni Aus'na Aus'ne Aux'ni Aux'na Aux'ne Avni Avna Avne Bambe Bal'in Bal'an Bal'en Baj'ti Baj'ta Baj'te Baz'i Baz'a Baz'e Baz'li Baz'la Baz'le Cen'di Cen'da Cen'de Cen'dio Cen'dao Cun'vi Cun'va Cun've Cun'vio Deerid Deerad Deered De'rin De'ran De'ren Elk'i Elk'a Elk'e Elk'ia Fas'li Fas'la Fas'le Fas'ri Fas'ra Fas're Fas'vi Fas'va Fas've Gen'dif Gen'daf Gen'def Hen'ri_Henry Hen'ra Hen're Hes'ri Hes'ra Hes're Il'ni Il'na Il'ne Jaf'ti Jaf'ta Jaf'te Kon'bi Kon'ba Kon'be Men'ri Men'ra Men're Menras Nel'ni Nel'na Nel'ne Nelrief O'ni O'na O'ne Paz'ni Paz'na Paz'ne Roea Roe'ni Roe'na Roe'ne Ro'ni Ro'na Ro'ne Rel'ni Rel'na Rel'ne Sev'ni Sev'na Sev'ne Tash'ti Tash'ta Tash'te Tal'ni Tal'na Tal'ne Tar'ni Tar'na Tar'ne Wa'ri Wa'ra Wa're
+		}
+		
+		dynasty_title_names = yes
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+		modifier = default_culture_modifier
+	}
+	
+	caribou_culture = {
+		graphical_cultures = { cervidgfx }
+		color = { 0.3 0.55 0.8 }
+		
+		male_names = {
+			Agni Agno Agnu Aus'ni Aus'no Aus'nu Aux'ni Aux'no Aux'nu Avni Avno Avnu Ban Bal'in Bal'on Bal'un Baj'ti Baj'to Baj'tu Baz'i Baz'o Baz'u Baz'li Baz'lo Baz'lu Cen'di Cen'do Cen'du Cen'dio Cen'duo Cun'vi Cun'vo Cun'vu Cun'vio Deerid Deerod Deerud De'rin De'ron De'run Elk'i Elk'o Elk'u Elk'io Fas'li Fas'lo Fas'lu Fas'ri Fas'ro Fas'ru Fas'vi Fas'vo Fas'vu Gen'dif Gen'dof Gen'duf Hen'ri_Henry Hen'ro Hen'ru Hes'ri Hes'ro Hes'ru Il'ni Il'no Il'nu Jaf'ti Jaf'to Jaf'tu Kon'bi Kon'bo Kon'bu Men'ri Men'ro Men'ru Menros Nel'ni Nel'no Nel'nu Nelrief O'ni O'no O'nu Paz'ni Paz'no Paz'nu Roe Roe'ni Roe'no Roe'nu Ro'ni Ro'no Ro'nu Rel'ni Rel'no Rel'nu Sev'ni Sev'no Sev'nu Tash'ti Tash'to Tash'tu Tal'ni Tal'no Tal'nu Tar'ni Tar'no Tar'nu Wa'ri Wa'ro Wa'ru 
+		}
+		female_names = {
+			Agni Agna Agne Aus'ni Aus'na Aus'ne Aux'ni Aux'na Aux'ne Avni Avna Avne Bambe Bal'in Bal'an Bal'en Baj'ti Baj'ta Baj'te Baz'i Baz'a Baz'e Baz'li Baz'la Baz'le Cen'di Cen'da Cen'de Cen'dio Cen'dao Cun'vi Cun'va Cun've Cun'vio Deerid Deerad Deered De'rin De'ran De'ren Elk'i Elk'a Elk'e Elk'ia Fas'li Fas'la Fas'le Fas'ri Fas'ra Fas're Fas'vi Fas'va Fas've Gen'dif Gen'daf Gen'def Hen'ri_Henry Hen'ra Hen're Hes'ri Hes'ra Hes're Il'ni Il'na Il'ne Jaf'ti Jaf'ta Jaf'te Kon'bi Kon'ba Kon'be Men'ri Men'ra Men're Menras Nel'ni Nel'na Nel'ne Nelrief O'ni O'na O'ne Paz'ni Paz'na Paz'ne Roea Roe'ni Roe'na Roe'ne Ro'ni Ro'na Ro'ne Rel'ni Rel'na Rel'ne Sev'ni Sev'na Sev'ne Tash'ti Tash'ta Tash'te Tal'ni Tal'na Tal'ne Tar'ni Tar'na Tar'ne Wa'ri Wa'ra Wa're
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0	
+
+		modifier = default_culture_modifier
+	}
+}
+################
+#   DRACONIC   #
+################
+
+###############
+#   SPECIAL   #
+###############
+special_group = {
+	wildling = {
+		graphical_cultures = { ponygfx }
+		color = { 0.3 0.1 0.1 }
+		
+		male_names = {
+			"No One" Vacant Empty 404 "Not Found"
+		}
+		female_names = {
+			"No One" Vacant Empty 404 "Not Found"
+		}
+		
+		from_dynasty_prefix = " "
+		
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+		
+		modifier = default_culture_modifier
+	}
+}

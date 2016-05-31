@@ -1,0 +1,15 @@
+# c_baas_camp
+
+# County Title
+title = c_baas_camp
+
+# Settlements
+max_settlements = 1
+
+b_baascamp = city
+
+# Misc
+culture = gotelander
+religion = weket
+
+#History

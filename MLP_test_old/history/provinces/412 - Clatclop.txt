@@ -1,0 +1,17 @@
+# c_clatclop
+
+# County Title
+title = c_clatclop
+
+# Settlements
+max_settlements = 3
+
+b_clatclop = tribal
+#b_clatclop_2 = city
+#b_clatclop_3 = temple
+
+# Misc
+culture = whitetail
+religion = doskiphanum
+
+#History

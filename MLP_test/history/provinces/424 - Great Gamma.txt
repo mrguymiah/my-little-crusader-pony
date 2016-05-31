@@ -1,0 +1,15 @@
+# c_great_gamma
+
+# County Title
+title = c_great_gamma
+
+# Settlements
+max_settlements = 1
+
+b_uuuuuuuuuuuuuuu = castle
+
+# Misc
+culture = changeling
+religion = hunger
+
+#History

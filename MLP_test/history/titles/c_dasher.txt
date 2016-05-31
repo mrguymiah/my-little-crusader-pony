@@ -1,0 +1,4 @@
+# k_jingol
+800.1.1={
+	liege=d_topaz_coast
+}

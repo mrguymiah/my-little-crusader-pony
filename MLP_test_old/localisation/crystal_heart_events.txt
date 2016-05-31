@@ -1,0 +1,22 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#
+# First event informs the player that the Crystal Heart needs charging.
+#
+EVTDESCcrystal_heart.001;The Crystal Heart is now in your hands. However, its power is fading. We must recharge it if we are to utilise it.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTOPTAcrystal_heart.001;Then I will charge it. Prepare the city.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTTOOLTIPcrystal_heart.002;You send for builders and planners to construct the necessary structures.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#
+# Second event informs the player of the ways they can use the newly charged Crystal Heart.
+#
+EVTDESCcrystal_heart.002;With the celebrations over, the Crystal Heart is charged, humming with energy. The powerful magic it possesses can be used in two manners. To promote harmony in your realm or to dominate your subjects' minds and wills.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTOPTAcrystal_heart.002;My subjects shall know peace.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTOPTBcrystal_heart.002;This world will bow down.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#
+# The Modifier localisation. It informs the player which modifier they have and a brief overview of what it does.
+#
+crystal_heart_protection;Crystal Heart - Protection;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+crystal_heart_protection_DESC;You have charged the Crystal Heart and directed its energies to bountiful harvests and protecting your realm.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+crystal_heart_domination;Crystal Heart - Domination;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+crystal_heart_domination_DESC;You have charged the Crystal Heart and directed its energies to conquests and ensuring the utmost loyalty from your subjects.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+
+

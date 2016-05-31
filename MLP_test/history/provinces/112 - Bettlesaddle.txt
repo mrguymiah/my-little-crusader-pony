@@ -1,0 +1,15 @@
+# c_bettlesaddle
+
+# County Title
+title = c_bettlesaddle
+
+# Settlements
+max_settlements = 1
+
+b_bettlesaddle = city
+
+# Misc
+culture = earthling
+religion = tribunal
+
+#History

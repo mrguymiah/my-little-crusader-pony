@@ -1,0 +1,15 @@
+# c_yewsgrove
+
+# County Title
+title = c_yewsgrove
+
+# Settlements
+max_settlements = 1
+
+b_qehfdgag = castle
+
+# Misc
+culture = bev
+religion = weket
+
+#History

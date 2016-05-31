@@ -1,0 +1,17 @@
+# c_keyside
+
+# County Title
+title = c_keyside
+
+# Settlements
+max_settlements = 3
+
+b_keyside = tribal
+#b_keyside_2 = city
+#b_keyside_3 = temple
+
+# Misc
+culture = taruca
+religion = evantol
+
+#History

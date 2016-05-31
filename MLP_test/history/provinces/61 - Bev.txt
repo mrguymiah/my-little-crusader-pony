@@ -1,0 +1,15 @@
+# c_bev
+
+# County Title
+title = c_bev
+
+# Settlements
+max_settlements = 1
+
+b_the_triple_dam = tribal
+
+# Misc
+culture = bev
+religion = weket
+
+#History

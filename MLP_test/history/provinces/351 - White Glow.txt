@@ -1,0 +1,15 @@
+# c_white_glow
+
+# County Title
+title = c_white_glow
+
+# Settlements
+max_settlements = 1
+
+b_white_glow = castle
+
+# Misc
+culture = pegasoplite
+religion = aeronite
+
+#History

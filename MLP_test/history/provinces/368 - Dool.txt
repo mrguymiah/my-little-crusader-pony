@@ -1,0 +1,15 @@
+# c_dool
+
+# County Title
+title = c_dool
+
+# Settlements
+max_settlements = 1
+
+b_dool = tribal
+
+# Misc
+culture = yaket
+religion = wekbo
+
+#History

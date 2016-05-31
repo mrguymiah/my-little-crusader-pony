@@ -1,0 +1,15 @@
+# c_north1
+
+# County Title
+title = c_north1
+
+# Settlements
+max_settlements = 1
+
+b_north1 = tribal
+
+# Misc
+culture = whitetail
+religion = doskiphanum
+
+#History

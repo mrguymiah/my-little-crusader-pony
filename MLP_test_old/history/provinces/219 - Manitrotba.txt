@@ -1,0 +1,17 @@
+# c_manitrotba
+
+# County Title
+title = c_manitrotba
+
+# Settlements
+max_settlements = 3
+
+b_manitrotba = tribal
+#b_manitrotba_2 = city
+#b_manitrotba_3 = temple
+
+# Misc
+culture = sioxen
+religion = buffalo_religion
+
+#History

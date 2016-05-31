@@ -1,0 +1,16 @@
+# c_stamping_mesa
+
+# County Title
+title = c_stamping_mesa
+
+# Settlements
+max_settlements = 2
+
+b_stamping_mesa = tribal
+#b_stamping_mesa_2 = city
+
+# Misc
+culture = tazapan
+religion = buffalo_religion
+
+#History

@@ -1,0 +1,15 @@
+# c_cv10
+
+# County Title
+title = c_cv10
+
+# Settlements
+max_settlements = 1
+
+b_yyyyyyyyyyyyy = castle
+
+# Misc
+culture = muntjaal
+religion = agniphanum
+
+#History

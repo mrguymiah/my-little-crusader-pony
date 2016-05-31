@@ -1,0 +1,15 @@
+# c_dg7
+
+# County Title
+title = c_dg7
+
+# Settlements
+max_settlements = 1
+
+b_rtytruuttur = castle
+
+# Misc
+culture = roe
+religion = agniphanum
+
+#History

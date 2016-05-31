@@ -1,0 +1,15 @@
+# c_rabbs_crown
+
+# County Title
+title = c_rabbs_crown
+
+# Settlements
+max_settlements = 1
+
+b_rabbscrown = castle
+
+# Misc
+culture = rabbit
+religion = weket
+
+#History

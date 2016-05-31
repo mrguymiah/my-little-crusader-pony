@@ -1,0 +1,15 @@
+# c_applewood
+
+# County Title
+title = c_applewood
+
+# Settlements
+max_settlements = 1
+
+b_aaaaaaaaaa = castle
+
+# Misc
+culture = diamonddog
+religion = maximan
+
+#History

@@ -1,0 +1,15 @@
+# c_dunder
+
+# County Title
+title = c_dunder
+
+# Settlements
+max_settlements = 1
+
+b_dunder = temple
+
+# Misc
+culture = rein
+religion = nichphanum
+
+#History

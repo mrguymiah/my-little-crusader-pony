@@ -1,0 +1,15 @@
+# c_everwinter_grove
+
+# County Title
+title = c_everwinter_grove
+
+# Settlements
+max_settlements = 1
+
+b_everwinter_grove = temple
+
+# Misc
+culture = rein
+religion = mooslam
+
+#History

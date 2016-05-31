@@ -1,0 +1,15 @@
+# c_mountains_shadow
+
+# County Title
+title = c_mountains_shadow
+
+# Settlements
+max_settlements = 1
+
+b_q71 = castle
+
+# Misc
+culture = muntjaal
+religion = agniphanum
+
+#History

@@ -1,0 +1,20 @@
+# c_manejar
+
+# County Title
+title = c_manejar
+
+# Settlements
+max_settlements = 6
+
+b_manejar = tribal
+#b_manejar_2 = city
+#b_manejar_3 = temple
+#b_manejar_4 = castle
+#b_manejar_5 = city
+#b_manejar_6 = temple
+
+# Misc
+culture = zebrazen
+religion = dahomaine_religion
+
+#History
