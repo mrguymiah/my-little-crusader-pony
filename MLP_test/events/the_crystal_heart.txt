@@ -1,8 +1,8 @@
 namespace = crystal_heart
 
 character_event = {
-	id = crystal_heart.001
-	desc = EVTDESCcrystal_heart.001
+	id = crystal_heart.1
+	desc = EVTDESCcrystal_heart.1
 	picture = GFX_evt_emissary
 		
 	capable_only = yes
@@ -23,15 +23,15 @@ character_event = {
 	}
 	
 	option = {
-		name = EVTOPTAcrystal_heart.001
+		name = EVTOPTAcrystal_heart.1
 		scaled_wealth = -0.50
-		character_event = { id = crystal_heart.002 days = 30 tooltip = EVTTOOLTIPcrystal_heart.002 }
+		character_event = { id = crystal_heart.2 days = 30 tooltip = EVTTOOLTIPcrystal_heart.2 }
 	}
 }
 
 character_event = {
-	id = crystal_heart.002
-	desc = EVTDESCcrystal_heart.002
+	id = crystal_heart.2
+	desc = EVTDESCcrystal_heart.2
 	picture = GFX_evt_emissary
 	
 	capable_only = yes
@@ -40,14 +40,14 @@ character_event = {
 	is_triggered_only = yes
 	
 	option = {
-		name = EVTOPTAcrystal_heart.002
+		name = EVTOPTAcrystal_heart.2
 		add_character_modifier = {
 			name = "crystal_heart_protection"
 			duration = -1
 		}
 	}
 	option = {
-		name = EVTOPTBcrystal_heart.002
+		name = EVTOPTBcrystal_heart.2
 		add_character_modifier = {
 			name = "crystal_heart_domination"
 			duration = -1

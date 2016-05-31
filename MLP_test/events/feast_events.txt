@@ -737,7 +737,7 @@ character_event = {
 	capable_only = yes
 
 	trigger = {
-		NOT = { religion_group = jewish_group }
+#		NOT = { religion_group = jewish_group }
 		war = no
 		has_character_modifier = holding_large_feast
 		NOT = {
@@ -4522,10 +4522,10 @@ character_event = {
 			}
 			NOT = { trait = chaste }
 		}
-		OR = {
-			religion_group = christian
-			religion_group = jewish_group
-		}
+		# OR = {
+			# religion_group = christian
+			# religion_group = jewish_group
+		# }
 		has_lover = no
 		NOT = { trait = shy }
 		fertility = 0.4
