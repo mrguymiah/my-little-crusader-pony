@@ -1,0 +1,2699 @@
+namespace = stratocracy
+
+character_event = {
+	id = stratocracy.1
+	desc = "EVTDESCstratocracy.1" 
+	picture = GFX_evt_death
+	
+	is_triggered_only = yes
+	hide_window = yes
+	
+	trigger = {
+			independent = yes
+			is_ruler = yes
+			higher_tier_than = DUKE			
+			government = feudal_government #change to stratocracy later
+	}
+	
+	immediate = {
+		any_realm_character = {
+			limit = {
+				NOT = { trait = incapable }		
+				prisoner = no
+				NOT = { trait = in_hiding }
+				
+			}				
+			character_event = { id = stratocracy.2 days = 1 } #CANDIDACY EVENT
+		}
+		set_variable = { which = "election_voters" value = 0 } #only used for logging
+		any_realm_character = {
+			limit = { 
+				liege = { character = ROOT } 	
+				OR = { 
+					has_minor_title = title_commander 					
+					AND = {
+						is_ruler = yes						
+						is_feudal = yes
+					}
+				}
+			}
+			set_character_flag = stratocracy_election_voter	#add this flag to whoever you want to be able to vote		
+			ROOT = { change_variable = { which = "election_voters" value = 1 } }			
+		}		
+		any_realm_character = {
+			limit = { 
+				liege = { character = ROOT } 
+				has_job_title = job_marshal 
+			}
+			set_character_flag = stratocracy_election_marshal
+			ROOT = { change_variable = { which = "election_voters" value = 1 } }	
+			ROOT = {
+				any_demesne_title = {
+					limit = {
+						has_law = succ_feudal_elective #change to stratocracy method later
+					}	
+					set_title_flag = stratocracy_flag_holding_election		
+					usurp_title_plus_barony_if_unlanded_and_vassals = PREVPREV			
+				}
+			}
+			character_event = { id = stratocracy.3 days = 2 } #BEGIN THE ELECTION EVENT	
+			log = "stratocracy.1: Number of voters = [Root.election_voters.GetValue]"				
+			break = yes
+		}
+		random_realm_character = {
+			limit = { 
+				liege = { character = ROOT } 
+				has_minor_title = title_commander 
+			}
+			set_character_flag = stratocracy_election_marshal
+			ROOT = { change_variable = { which = "election_voters" value = 1 } }	
+			ROOT = {
+				any_demesne_title = {
+					limit = {
+						has_law = succ_feudal_elective #change to stratocracy method later
+					}	
+					set_title_flag = stratocracy_flag_holding_election		
+					usurp_title_plus_barony_if_unlanded_and_vassals = PREVPREV			
+				}
+			}
+			character_event = { id = stratocracy.3 days = 2 } #BEGIN THE ELECTION EVENT	
+			log = "stratocracy.1: Number of voters = [Root.election_voters.GetValue]"				
+			break = yes
+		}
+		random_realm_character = {
+			limit = { 
+				liege = { character = ROOT } 
+				AND = {
+					is_ruler = yes						
+					is_feudal = yes
+				}
+			}
+			set_character_flag = stratocracy_election_marshal
+			ROOT = { change_variable = { which = "election_voters" value = 1 } }	
+			ROOT = {
+				any_demesne_title = {
+					limit = {
+						has_law = succ_feudal_elective #change to stratocracy method later
+					}	
+					set_title_flag = stratocracy_flag_holding_election		
+					usurp_title_plus_barony_if_unlanded_and_vassals = PREVPREV			
+				}
+			}
+			character_event = { id = stratocracy.3 days = 2 } #BEGIN THE ELECTION EVENT	
+			log = "stratocracy.1: Number of voters = [Root.election_voters.GetValue]"				
+			break = yes
+		}			
+	}		
+
+	option = {
+		name = OK
+	}
+}
+
+character_event = {
+	id = stratocracy.2
+	desc = "EVTDESCstratocracy.2" 
+	picture = GFX_evt_council
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		if = {
+			limit = {
+				 martial = 12 
+				 OR = {
+				 is_feudal = yes
+				 is_lowborn = yes
+				 }
+				 is_priest = no
+				 is_theocracy = no
+				 is_republic = no
+				 liege = { culture = ROOT }
+			}
+			set_character_flag = stratocracy_eligible_for_election
+		}
+	}	
+	
+	option = {
+		name = "EVTOPTAstratocracy.2" #Cannot participate	
+		trigger = { NOT = { has_character_flag = stratocracy_eligible_for_election } }
+		#custom_tooltip = { text = TOOLTIPTRIARCHY }
+	}
+	
+	option = {
+		name = "EVTOPTBstratocracy.2" #I Put myself forward!
+		trigger = { has_character_flag = stratocracy_eligible_for_election }		
+		ai_chance = {
+			factor = 50
+			modifier = {
+				factor = 5
+				trait = ambitious
+			}		
+			modifier = {
+				factor = 3
+				has_character_flag = stratocracy_election_marshal	
+			}
+			modifier = {
+				factor = 2
+				has_character_flag = stratocracy_election_voter	
+			}			
+			modifier = {
+				factor = 3
+				tier = KING
+			}
+			modifier = {
+				factor = 3		
+				trait = brilliant_strategist					
+			}				
+			modifier = {
+				factor = 2
+				trait = proud
+			}	
+			modifier = {
+				factor = 2
+				trait = brave
+			}
+			modifier = {
+				factor = 2
+				martial = 20
+			}	
+			modifier = {
+				factor = 2			
+				trait = skilled_tactician					
+			}			
+			modifier = {
+				factor = 2
+				tier = DUKE
+			}	
+			modifier = {
+				factor = 2
+				trait = strong	
+			}				
+			modifier = {
+				factor = 1.1
+				prestige = 200
+			}
+			modifier = {
+				factor = 1.1
+				prestige = 300
+			}
+			modifier = {
+				factor = 1.1
+				prestige = 400
+			}
+			modifier = {
+				factor = 1.1
+				prestige = 500
+			}	
+			modifier = {
+				factor = 1.1
+				prestige = 600
+			}
+			modifier = {
+				factor = 1.1
+				prestige = 700
+			}
+			modifier = {
+				factor = 1.1
+				prestige = 800
+			}
+			modifier = {
+				factor = 1.1
+				prestige = 900
+			}	
+			modifier = {
+				factor = 1.2
+				prestige = 1000
+			}			
+		}
+		custom_tooltip = { text = TOOLTIPBstratocracy.2 }
+		clr_character_flag = stratocracy_eligible_for_election		
+		set_character_flag = stratocracy_election_candidate		
+	}
+	
+	option = {
+		name = "EVTOPTCstratocracy.2" #Decline
+		trigger = { has_character_flag = stratocracy_eligible_for_election }		
+		ai_chance = {
+			factor = 50
+			modifier = {
+				factor = 5
+				trait = content
+			}
+			modifier = {
+				factor = 3
+				trait = shy
+			}
+			modifier = {
+				factor = 1.25
+				dynasty = 0
+			}
+			modifier = {
+				factor = 2
+				trait = craven
+			}
+			modifier = {
+				factor = 2
+				trait = slothful
+			}
+			modifier = {
+				factor = 3
+				trait = infirm
+			}			
+			modifier = {
+				factor = 2
+				trait = maimed
+			}	
+			modifier = {
+				factor = 3
+				NOT = { prestige = 1 }
+			}								
+			modifier = {
+				factor = 1.25
+				NOT = { prestige = 100 }
+			}					
+			modifier = {
+				factor = 1.5			
+				NOR = {
+					trait = misguided_warrior
+					trait = tough_soldier
+					trait = skilled_tactician
+					trait = brilliant_strategist					
+				}
+			}
+			modifier = {
+				factor = 1.25
+				trait = weak
+			}			
+			modifier = {
+				factor = 1.25
+				trait = wounded
+			}			
+		}
+		custom_tooltip = { }
+		clr_character_flag = stratocracy_eligible_for_election		
+	}
+	
+}	
+
+character_event = {
+	id = stratocracy.3
+	desc = "EVTDESCstratocracy.3"
+	picture = GFX_evt_election
+	
+	is_triggered_only = yes
+	hide_window = yes
+	
+	trigger = {
+			has_character_flag = stratocracy_election_marshal
+	}
+	
+	immediate = {			
+		set_character_flag = stratocracy_holding_elections
+		set_variable = { which = "election_candidates" value = 0 }			
+		#Add self if eligible
+		if = {
+			limit = { has_character_flag = stratocracy_election_candidate }
+			change_variable = { which = "election_candidates" value = 1 }
+		}
+		#Count rest
+		any_realm_character = {
+			limit = { has_character_flag = stratocracy_election_candidate }	
+			ROOT = { change_variable = { which = "election_candidates" value = 1 } }
+		}
+		log = "stratocracy.3: election_candidates = [Root.election_candidates.GetValue]"		
+		character_event = { id = stratocracy.4 days = 1 } 		
+	}
+
+	option = {
+		name = OK			
+	}	
+	
+}
+
+character_event = {
+	id = stratocracy.4
+	
+	is_triggered_only = yes
+	
+	hide_window = yes
+	
+	immediate = {	
+		#If 6 or less proceed to the election
+		log = "stratocracy.4: election_candidates = [Root.election_candidates.GetValue]"			
+		if = {
+			limit = { NOT = { check_variable = { which = "election_candidates" value = 6 } } }
+			log = "stratocracy.4: election_candidates < 6, firing stratocracy.9"				
+			set_variable = { which = "election_candidates" value = 0 }
+			set_character_flag = stratocracy_candidates_found			
+			character_event = { id = stratocracy.9 days = 1 } 		
+			break = yes
+		}	
+		#if more than 6 assign points to compare
+		if = {
+			limit = { has_character_flag = stratocracy_election_candidate NOT = { has_character_flag = stratocracy_election_points_assigned } }
+			log = "stratocracy.4: firing stratocracy.5 (point assigner) on [Root.GetTitledName] (root)"			
+			character_event = { id = stratocracy.5 days = 1 } 	
+		}
+		any_realm_character = {
+			limit = { has_character_flag = stratocracy_election_candidate NOT = { has_character_flag = stratocracy_election_points_assigned } }	
+			log = "stratocracy.4: firing stratocracy.5 (point assigner) on [This.GetTitledName]"			
+			character_event = { id = stratocracy.5 days = 1 } 	
+		}
+		#run the sorting event		
+		if = {
+			limit = { NOT = { check_variable = { which = "election_sortedcandidates" value = 6 } } }
+			set_variable = { which = election_sortedcandidates which = 0 }
+			log = "stratocracy.4: firing stratocracy.6"				
+			character_event = { id = stratocracy.6 days = 3 } 
+		}		
+		character_event = { id = stratocracy.4 days = 16 } 
+	}
+	
+	option = {
+		name = OK	
+	}
+}
+
+character_event = {
+	id = stratocracy.5
+	desc = "EVTDESCstratocracy.5"
+	
+	is_triggered_only = yes
+	
+	hide_window = yes
+	
+	trigger = {
+		FROM = {
+			NOT = { has_character_flag = stratocracy_candidates_found } 
+		}
+	}
+	
+	immediate = {
+		set_variable = { which = "election_points" value = 0 }
+			if = {
+				limit = { has_character_flag = stratocracy_election_marshal }
+				change_variable = { which = "election_points" value = 2 }				
+			}
+			if = {
+				limit = { tier = KING }
+				change_variable = { which = "election_points" value = 2 }						
+			}
+			if = {
+				limit = { trait = brilliant_strategist }	
+				change_variable = { which = "election_points" value = 6 }						
+			}				
+			if = {
+				limit = { trait = brave }
+				change_variable = { which = "election_points" value = 2 }						
+			}
+			if = {
+				limit = { martial = 13 }
+				change_variable = { which = "election_points" value = 1 }					
+			}
+			if = {
+				limit = { martial = 14 }
+				change_variable = { which = "election_points" value = 1 }					
+			}	
+			if = {
+				limit = { martial = 15 }
+				change_variable = { which = "election_points" value = 1 }					
+			}	
+			if = {
+				limit = { martial = 16 }
+				change_variable = { which = "election_points" value = 1 }					
+			}	
+			if = {
+				limit = { martial = 17 }
+				change_variable = { which = "election_points" value = 1 }					
+			}	
+			if = {
+				limit = { martial = 18 }
+				change_variable = { which = "election_points" value = 1 }					
+			}
+			if = {
+				limit = { martial = 20 }
+				change_variable = { which = "election_points" value = 2 }					
+			}	
+			if = {
+				limit = { martial = 22 }
+				change_variable = { which = "election_points" value = 2 }					
+			}	
+			if = {
+				limit = { martial = 24 }
+				change_variable = { which = "election_points" value = 2 }					
+			}				
+			if = {
+				limit = { trait = skilled_tactician	}	
+				change_variable = { which = "election_points" value = 4 }					
+			}			
+			if = {
+				limit = { tier = DUKE }
+				change_variable = { which = "election_points" value = 1 }				
+			}	
+			if = {
+				limit = { trait = strong }	
+				change_variable = { which = "election_points" value = 2 }				
+			}				
+			if = {
+				limit = { prestige = 300 }
+				change_variable = { which = "election_points" value = 1 }				
+			}
+			if = {
+				limit = { prestige = 400 }
+				change_variable = { which = "election_points" value = 1 }					
+			}
+			if = {
+				limit = { prestige = 500 }
+				change_variable = { which = "election_points" value = 1 }					
+			}
+			if = {
+				limit = { prestige = 600 }
+				change_variable = { which = "election_points" value = 1 }					
+			}	
+			if = {
+				limit = { prestige = 700 }
+				change_variable = { which = "election_points" value = 2 }					
+			}			
+			if = {
+				limit = { prestige = 800 }
+				change_variable = { which = "election_points" value = 2 }					
+			}
+			if = {
+				limit = { prestige = 900 }
+				change_variable = { which = "election_points" value = 2 }					
+			}
+			if = {
+				limit = { prestige = 1000 }
+				change_variable = { which = "election_points" value = 2 }					
+			}			
+			if = {
+				limit = { tier = slothful }
+				change_variable = { which = "election_points" value = -2}						
+			}
+			if = {
+				limit = { trait = shy }	
+				change_variable = { which = "election_points" value = -2 }						
+			}				
+			if = {
+				limit = { trait = craven }
+				change_variable = { which = "election_points" value = -2 }						
+			}				
+			if = {
+				limit = { 	
+					NOR = {
+						trait = misguided_warrior
+						trait = tough_soldier
+						trait = skilled_tactician
+						trait = brilliant_strategist					
+					}
+				}	
+				change_variable = { which = "election_points" value = -4 }					
+			}				
+			if = {
+				limit = { trait = weak }	
+				change_variable = { which = "election_points" value = -2 }				
+			}
+			if = {
+				limit = { trait = infirm }	
+				change_variable = { which = "election_points" value = -2 }				
+			}
+			if = {
+				limit = { trait = maimed }	
+				change_variable = { which = "election_points" value = -2 }				
+			}			
+			if = {
+				limit = { NOT = { prestige = 200 } }
+				change_variable = { which = "election_points" value = -1 }				
+			}
+			if = {
+				limit = { NOT = { prestige = 100 } }
+				change_variable = { which = "election_points" value = -1 }					
+			}
+			if = {
+				limit = { NOT = { prestige = 1 } }
+				change_variable = { which = "election_points" value = -1 }					
+			}			
+			log = "stratocracy.5: [Root.GetTitledName] has [Root.election_points.GetValue] points!"	
+			set_character_flag = stratocracy_election_points_assigned
+	}
+	
+	option = {
+		name = OK
+	}
+}
+
+character_event = {
+	id = stratocracy.6
+	
+	is_triggered_only = yes
+	
+	hide_window = yes
+	trigger = {
+		FROM = {
+			NOT = { has_character_flag = stratocracy_candidates_found }
+		}
+	}
+	
+	immediate = {
+		#fire the event that changes the candidates_sorted flag to election_candidates flag
+		log = "stratocracy.6: begin. election_sortedcandidates at [Root.election_sortedcandidates.GetValue]"					
+		#1. move marshal's election points to temp, so that the election_points can be used as the maximum value of points a character has
+		set_variable = { which = election_points_temp which = election_points }
+		#2. compare the maximum value (marshal's election_points) with the candidate election_points - if candidate's election_points > than marshal's election_points, set marshal's election_points to equal candidate's election_points. However if the marshal has already been removed, use a random candidate. Flag candidates_beingsorted prevents from checking the same candidate more than once and flag candidates_sorted prevents from checking candidates already removed from the sorting
+		if = {
+			limit  = { OR = { has_character_flag = stratocracy_candidates_sorted NOT = { has_character_flag = stratocracy_election_candidate } } }		
+			random_realm_character = {
+				limit = { has_character_flag = stratocracy_election_candidate NOT = { has_character_flag = stratocracy_candidates_sorted } NOT = { has_character_flag = stratocracy_candidates_beingsorted } }	
+				log = "stratocracy.6: marshal already sorted, using [This.GetTitledName] as starter instead"					
+				set_character_flag = stratocracy_candidates_beingsorted
+				ROOT = { set_variable = { which = "election_points" which = PREV } }		
+			}			
+		}
+		log = "stratocracy.6: election_points at [Root.election_points.GetValue]"			
+		any_realm_character = {
+			limit = { has_character_flag = stratocracy_election_candidate NOT = { has_character_flag = stratocracy_candidates_sorted } NOT = { has_character_flag = stratocracy_candidates_beingsorted } }	
+			set_character_flag = stratocracy_candidates_beingsorted
+			log = "stratocracy.6: COMPARING [This.GetTitledName] election_points = [This.election_points.GetValue], ROOT election_points = [Root.election_points.GetValue]"						
+			if = { 
+				log = "stratocracy.6: [This.election_points.GetValue] > [Root.election_points.GetValue], setting higher election_points value"					
+				limit = { check_variable = { which = "election_points" which = ROOT } }
+				ROOT = { set_variable = { which = "election_points" which = PREV } }
+			}	
+		}
+		#3. clear the flag candidates_beingsorted so they can be checked again
+		#4. if we have not yet found 6 candidates with highest points, find the candidate who has the highest points and remove him from the sorting process	
+		log = "stratocracy.6: election_sortedcandidates at [Root.election_sortedcandidates.GetValue]"			
+		if = {
+			limit = { NOT = { check_variable = { which = "election_sortedcandidates" value = 6 } } }
+			log = "stratocracy.6: election_sortedcandidates < 6"			
+			any_realm_character = {
+				limit = { has_character_flag = stratocracy_election_candidate }	
+				clr_character_flag = stratocracy_candidates_beingsorted
+				if = {
+					limit = { is_variable_equal = { which = "election_points" which = ROOT } NOT = { ROOT = { check_variable = { which = "election_sortedcandidates" value = 6 } } } }
+					set_character_flag = stratocracy_candidates_sorted #removal by adding the flag
+					log = "stratocracy.6: removing [This.GetTitledName] from sorting process"						
+					ROOT = {
+						change_variable = { which = election_sortedcandidates value = 1 }	#we need 6 candidates
+					}
+				}
+			}
+			if = {
+				limit = { is_variable_equal = { which = "election_points" which = "election_points_temp" } }
+				set_character_flag = stratocracy_candidates_sorted #removal by adding the flag
+				log = "stratocracy.6: removing [This.GetTitledName] from sorting process"
+				change_variable = { which = election_sortedcandidates value = 1 }	#we need 6 candidates				
+			}
+		}
+		log = "stratocracy.6: election_sortedcandidates at [Root.election_sortedcandidates.GetValue] (after removal)"
+		#5. Move the temp value back to its place		
+		set_variable = { which = election_points_temp which = election_points }	
+		#6. loop the event 6 times
+		if = {
+			limit = { NOT = { check_variable = { which = "election_sortedcandidates" value = 6 } } }
+			character_event = { id = stratocracy.6 days = 1 } 				
+		}
+		if = {
+			limit = { check_variable = { which = "election_sortedcandidates" value = 6 } }
+		    log = "stratocracy.6: election_sortedcandidates = 6, firing stratocracy.7"			
+			character_event = { id = stratocracy.7 days = 1 }
+			break = yes
+		}		
+	}
+	
+	option = {
+		name = OK
+	}
+}
+
+character_event = {
+	id = stratocracy.7
+	
+	is_triggered_only = yes
+	
+	hide_window = yes
+	trigger = {
+		FROM = {
+			NOT = { has_character_flag = stratocracy_candidates_found }
+			check_variable = { which = "election_candidates" value = 6 } 
+		}
+	}
+	
+	immediate = {
+		any_realm_character = {
+			limit = { NOT = { has_character_flag = stratocracy_candidates_sorted } }	
+			clr_character_flag = stratocracy_election_candidate
+			character_event = { id = stratocracy.8 days = 1 }				
+			ROOT = {
+				change_variable = { which = "election_candidates" value = -1 } 
+			}
+		}
+	}
+	
+	option = {
+		name = OK
+	}
+}
+
+character_event = {
+	id = stratocracy.8
+	desc = "EVTDESCstratocracy.8" 
+	picture = GFX_evt_council
+	
+	is_triggered_only = yes
+	show_from_from = yes
+	
+	option = {
+		name = "EVTOPTAstratocracy.8" #Cannot participate	
+		prestige = -10
+	}
+}
+
+character_event = {
+	id = stratocracy.9
+	desc = "EVTDESCstratocracy.9" 
+	picture = GFX_evt_council
+	
+	is_triggered_only = yes
+	hide_window = yes
+	
+	immediate = {
+	}
+	
+	option = {
+		name = "EVTOPTAstratocracy.9" 
+		trigger = {
+			any_realm_character = { has_character_flag = stratocracy_election_candidate } 
+		}
+		# clr_character_flag = stratocracy_election_counting_3rd
+		# clr_character_flag = stratocracy_election_counting_2nd
+		# set_character_flag = stratocracy_election_counting_1st
+		hidden_tooltip = { character_event = { id = stratocracy.13 days = 6 } }		
+		hidden_tooltip = {
+			random_realm_character = {
+				limit = { 	
+					ROOT = { NOT = { has_character_flag = stratocracy_election_candidate } }
+					has_character_flag = stratocracy_election_candidate 
+					NOT = { has_character_flag = stratocracy_election_candidate_contesting }
+				}
+				set_character_flag = stratocracy_candidate_number_found
+				save_event_target_as = candidate_1
+			}
+			random_realm_character = {
+				limit = { 					
+					has_character_flag = stratocracy_election_candidate 
+					NOT = { has_character_flag = stratocracy_election_candidate_contesting }
+					NOT = { has_character_flag = stratocracy_candidate_number_found }
+				}
+				set_character_flag = stratocracy_candidate_number_found
+				save_event_target_as = candidate_2			
+			}
+			random_realm_character = {
+				limit = { 
+					has_character_flag = stratocracy_election_candidate 
+					NOT = { has_character_flag = stratocracy_election_candidate_contesting }
+					NOT = { has_character_flag = stratocracy_candidate_number_found }
+				}
+				set_character_flag = stratocracy_candidate_number_found
+				save_event_target_as = candidate_3
+			}
+			random_realm_character = {
+				limit = { 
+					has_character_flag = stratocracy_election_candidate 
+					NOT = { has_character_flag = stratocracy_election_candidate_contesting }
+					NOT = { has_character_flag = stratocracy_candidate_number_found }
+				}
+				set_character_flag = stratocracy_candidate_number_found
+				save_event_target_as = candidate_4
+			}
+			random_realm_character = {
+				limit = { 
+					has_character_flag = stratocracy_election_candidate 
+					NOT = { has_character_flag = stratocracy_election_candidate_contesting }
+					NOT = { has_character_flag = stratocracy_candidate_number_found }
+				}
+				set_character_flag = stratocracy_candidate_number_found
+				save_event_target_as = candidate_5
+			}
+			random_realm_character = {
+				limit = { 
+					has_character_flag = stratocracy_election_candidate 
+					NOT = { has_character_flag = stratocracy_election_candidate_contesting }
+					NOT = { has_character_flag = stratocracy_candidate_number_found }
+				}
+				set_character_flag = stratocracy_candidate_number_found
+				save_event_target_as = candidate_6
+			}
+			any_realm_character = {
+				limit = { 
+					OR = {
+						has_character_flag = stratocracy_election_voter
+						has_character_flag = stratocracy_election_marshal
+					}
+					NOT = { has_character_flag = stratocracy_election_candidate } 
+				}
+				character_event = { id = stratocracy.10 days = 3 random = 2 }
+			}
+		}
+		if = { #If not a candidate cast a vote instead
+			limit = { 				
+				OR = {
+						has_character_flag = stratocracy_election_voter
+						has_character_flag = stratocracy_election_marshal
+					 }
+			}
+			hidden_tooltip = { character_event = { id = stratocracy.10 days = 3 } }	
+		}
+		clr_character_flag = stratocracy_candidates_found
+		set_character_flag = stratocracy_counting_votes
+	}
+}
+
+###Realm Votes
+character_event = {
+	id = stratocracy.10
+	desc = "EVTDESCstratocracy.10" 
+	picture = GFX_evt_council
+	
+	is_triggered_only = yes
+	capable_only = yes
+	prisoner = no
+	min_age = 15
+	
+	trigger = {
+		FROM = { is_alive = yes }
+		NOT = { has_character_flag = stratocracy_ignore_election }	 	
+	}
+	
+	option = {
+		name = "EVTOPTGstratocracy.10" 
+		trigger = { 
+			OR = {
+				ai = yes
+				NOT = { has_character_flag = stratocracy_more }
+			}
+			FROM = { has_character_flag = stratocracy_election_candidate } 
+		}
+		ai_chance = { 
+			factor = 87
+			modifier = {
+				factor = 1.05
+				FROM = { trait = diligent }
+			}
+			modifier = {
+				factor = 1.25
+				FROM = { age = 30 }
+			}					
+			modifier = {
+				factor = 1.5
+				FROM = { has_character_flag = stratocracy_election_marshal }	
+			}
+			modifier = {
+				factor = 1.5
+				FROM = { tier = KING }
+				FROM = { NOT = { has_character_flag = stratocracy_election_marshal } }
+			}
+			modifier = {
+				factor = 2		
+				FROM = { trait = brilliant_strategist }	 				
+			}				
+			modifier = {
+				factor = 1.5
+				FROM = { trait = brave }
+			}
+			modifier = {
+				factor = 1.1 
+				FROM = { martial = 13 }
+			}
+			modifier = {
+				factor = 1.1
+				FROM = { martial = 14 }
+			}
+			modifier = {
+				factor = 1.1
+				FROM = { martial = 15 }
+			}
+			modifier = {
+				factor = 1.1
+				FROM = { martial = 16 }
+			}
+			modifier = {
+				factor = 1.1
+				FROM = { martial = 17 }
+			} 
+			modifier = {
+				factor = 1.1
+				FROM = { martial = 18 }
+			}			
+			modifier = {
+				factor = 1.1
+				FROM = { martial = 19 }
+			}
+			modifier = {
+				factor = 1.1
+				FROM = { martial = 20 }
+			}		
+			modifier = {
+				factor = 1.1
+				FROM = { martial = 21 }
+			}
+			modifier = {
+				factor = 1.1
+				FROM = { martial = 22 }
+			}
+			modifier = {
+				factor = 1.1
+				FROM = { martial = 23 }
+			}	
+			modifier = {
+				factor = 1.1
+				FROM = { martial = 24 }
+			}			
+			modifier = {
+				factor = 1.5			
+				FROM = { trait = skilled_tactician }					
+			}			
+			modifier = {
+				factor = 1.25
+				FROM = { tier = DUKE }
+				FROM = { NOT = { has_character_flag = stratocracy_election_marshal } }				
+			}	
+			modifier = {
+				factor = 1.25
+				FROM = { trait = strong	}
+			}				
+			modifier = {
+				factor = 1.1
+				prestige = 200
+			}
+			modifier = {
+				factor = 1.1
+				prestige = 300
+			}
+			modifier = {
+				factor = 1.1
+				prestige = 400
+			}
+			modifier = {
+				factor = 1.1
+				prestige = 500
+			}	
+			modifier = {
+				factor = 1.1
+				prestige = 600
+			}
+			modifier = {
+				factor = 1.1
+				prestige = 700
+			}
+			modifier = {
+				factor = 1.1
+				prestige = 800
+			}
+			modifier = {
+				factor = 1.1
+				prestige = 900
+			}	
+			modifier = {
+				factor = 1.2
+				prestige = 1000
+			}			
+			modifier = {
+				factor = 0.25
+				FROM = { trait = craven }
+			}		
+	
+			modifier = {
+				factor = 0.75
+				FROM = { trait = shy }
+			}	
+
+			modifier = {
+				factor = 0.75
+				FROM = { trait = maimed }
+			}	
+
+			modifier = {
+				factor = 0.5
+				FROM = { NOT = { prestige = 1 } }
+			}					
+			
+			modifier = {
+				factor = 0.75
+				FROM = { NOT = { prestige = 100 } }
+			}			
+			modifier = {
+				factor = 0.75
+				FROM = { trait = infirm }
+			}
+			modifier = {
+				factor = 0.75
+				FROM = { NOT = { age = 16 } }
+			}
+			modifier = {
+				factor = 0.8
+				FROM = { NOT = { age = 19 } }
+			}	
+			modifier = {
+				factor = 0.4
+				FROM = { NOT = { reverse_opinion = { who = ROOT value = -99 } } }
+			}
+			modifier = {
+				factor = 0.5
+				FROM = { NOT = { reverse_opinion = { who = ROOT value = -79 } } }
+			}
+			modifier = {
+				factor = 0.66
+				FROM = { NOT = { reverse_opinion = { who = ROOT value = -59 } } }
+			}
+			modifier = {
+				factor = 0.66
+				FROM = { NOT = { reverse_opinion = { who = ROOT value = -39 } } }
+			}
+			modifier = {
+				factor = 0.66
+				FROM = { NOT = { reverse_opinion = { who = ROOT value = -19 } } }
+			}
+			modifier = {
+				factor = 1.5
+				FROM = { reverse_opinion = { who = ROOT value = 20 } }
+			}
+			modifier = {
+				factor = 1.5
+				FROM = { reverse_opinion = { who = ROOT value = 40 } }
+			}
+			modifier = {
+				factor = 1.5
+				FROM = { reverse_opinion = { who = ROOT value = 60 } }
+			}
+			modifier = {
+				factor = 2.5
+				FROM = { reverse_opinion = { who = ROOT value = 80 } }
+			}
+			modifier = {
+				factor = 2.5
+				FROM = { reverse_opinion = { who = ROOT value = 100 } }
+			}
+			modifier = {
+				factor = 3
+				FROM = { dynasty = ROOT }
+			}
+			modifier = {
+				factor = 2
+				FROM = { is_close_relative = ROOT }
+			}
+			modifier = {
+				factor = 0.75
+				FROM = { is_female = 0.75 }
+			}
+			modifier = {
+				factor = 100
+				FROM = { reverse_has_opinion_modifier = { who = ROOT modifier = opinion_loyalty_bought } }
+			}
+			modifier = {
+				factor = 0.3
+				FROM = { 
+					OR = {
+						dynasty = 0
+						NOT = { father_even_if_dead = { always = yes } }
+					}	
+				}
+			}
+		}
+		FROM = { 
+			tooltip = { } 
+			hidden_tooltip = { change_variable = { which = "election_votes" value = 1 } }
+			if = {
+				limit = {
+					ROOT = {
+						NOT = { dynasty = 0 }
+						OR = {
+							is_ruler = yes
+							dynasty = PREV
+						}
+					}
+				}
+				opinion = { who = ROOT modifier = opinion_election_champion }
+			}		
+		}
+	}
+	
+	option = {
+		name = "EVTOPTAstratocracy.10" 
+		trigger = { 
+			OR = {
+				ai = yes
+				NOT = { has_character_flag = stratocracy_more }
+			}
+			event_target:candidate_1 = { is_alive = yes }
+		}
+		ai_chance = { 
+			factor = 50
+			modifier = {
+				factor = 1.05
+				event_target:candidate_1 = { trait = diligent }
+			}
+			modifier = {
+				factor = 1.25
+				event_target:candidate_1 = { age = 30 }
+			}					
+			modifier = {
+				factor = 1.5
+				event_target:candidate_1 = { has_character_flag = stratocracy_election_marshal }	
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_1 = { tier = KING }
+				event_target:candidate_1 = { NOT = { has_character_flag = stratocracy_election_marshal } }				
+			}
+			modifier = {
+				factor = 2		
+				event_target:candidate_1 = { trait = brilliant_strategist }	 				
+			}				
+			modifier = {
+				factor = 1.5
+				event_target:candidate_1 = { trait = brave }
+			}
+			modifier = {
+				factor = 1.1 
+				event_target:candidate_1 = { martial = 13 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_1 = { martial = 14 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_1 = { martial = 15 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_1 = { martial = 16 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_1 = { martial = 17 }
+			} 
+			modifier = {
+				factor = 1.1
+				event_target:candidate_1 = { martial = 18 }
+			}			
+			modifier = {
+				factor = 1.1
+				event_target:candidate_1 = { martial = 19 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_1 = { martial = 20 }
+			}		
+			modifier = {
+				factor = 1.1
+				event_target:candidate_1 = { martial = 21 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_1 = { martial = 22 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_1 = { martial = 23 }
+			}	
+			modifier = {
+				factor = 1.1
+				event_target:candidate_1 = { martial = 24 }
+			}			
+			modifier = {
+				factor = 1.5			
+				event_target:candidate_1 = { trait = skilled_tactician }					
+			}			
+			modifier = {
+				factor = 1.25
+				event_target:candidate_1 = { tier = DUKE }
+				event_target:candidate_1 = { NOT = { has_character_flag = stratocracy_election_marshal } }				
+			}	
+			modifier = {
+				factor = 1.25
+				event_target:candidate_1 = { trait = strong	}
+			}				
+			modifier = {
+				factor = 1.1
+				event_target:candidate_1 = { prestige = 200 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_1 = { prestige = 300 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_1 = { prestige = 400 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_1 = { prestige = 500 }
+			}	
+			modifier = {
+				factor = 1.1
+				event_target:candidate_1 = {  prestige = 600 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_1 = { prestige = 700 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_1 = { prestige = 800 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_1 = { prestige = 900 }
+			}	
+			modifier = {
+				factor = 1.2
+				event_target:candidate_1 = { prestige = 1000 }
+			}			
+			modifier = {
+				factor = 0.25
+				event_target:candidate_1 = { trait = craven }
+			}		
+	
+			modifier = {
+				factor = 0.75
+				event_target:candidate_1 = { trait = shy }
+			}	
+
+			modifier = {
+				factor = 0.75
+				event_target:candidate_1 = { trait = maimed }
+			}	
+
+			modifier = {
+				factor = 0.5
+				event_target:candidate_1 = { NOT = { prestige = 1 } }
+			}					
+			
+			modifier = {
+				factor = 0.75
+				event_target:candidate_1 = { NOT = { prestige = 100 } }
+			}
+			modifier = {
+				factor = 0.75
+				event_target:candidate_1 = { trait = infirm }
+			}
+			modifier = {
+				factor = 0.75
+				event_target:candidate_1 = { NOT = { age = 16 } }
+			}
+			modifier = {
+				factor = 0.8
+				event_target:candidate_1 = { NOT = { age = 19 } }
+			}
+			modifier = {
+				factor = 0.4
+				event_target:candidate_1 = { NOT = { reverse_opinion = { who = ROOT value = -99 } } }
+			}
+			modifier = {
+				factor = 0.5
+				event_target:candidate_1 = { NOT = { reverse_opinion = { who = ROOT value = -79 } } }
+			}
+			modifier = {
+				factor = 0.66
+				event_target:candidate_1 = { NOT = { reverse_opinion = { who = ROOT value = -59 } } }
+			}
+			modifier = {
+				factor = 0.66
+				event_target:candidate_1 = { NOT = { reverse_opinion = { who = ROOT value = -39 } } }
+			}
+			modifier = {
+				factor = 0.66
+				event_target:candidate_1 = { NOT = { reverse_opinion = { who = ROOT value = -19 } } }
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_1 = { reverse_opinion = { who = ROOT value = 20 } }
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_1 = { reverse_opinion = { who = ROOT value = 40 } }
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_1 = { reverse_opinion = { who = ROOT value = 60 } }
+			}
+			modifier = {
+				factor = 2
+				event_target:candidate_1 = { reverse_opinion = { who = ROOT value = 80 } }
+			}
+			modifier = {
+				factor = 2.5
+				event_target:candidate_1 = { reverse_opinion = { who = ROOT value = 100 } }
+			}
+			modifier = {
+				factor = 3
+				NOT = { dynasty = 0 }
+				event_target:candidate_1 = { dynasty = ROOT }
+			}
+			modifier = {
+				factor = 2
+				event_target:candidate_1 = { is_close_relative = ROOT }
+			}
+			modifier = {
+				factor = 0.75
+				event_target:candidate_1 = { is_female = yes }
+			}
+			modifier = {
+				factor = 100
+				event_target:candidate_1 = { reverse_has_opinion_modifier = { who = ROOT modifier = opinion_loyalty_bought } }
+			}
+			modifier = {
+				factor = 0.4
+				event_target:candidate_1 = { dynasty = 0 }
+			}
+		}
+		event_target:candidate_1 = {
+			hidden_tooltip = { change_variable = { which = "election_votes" value = 1 } }
+			if = {
+				limit = {
+					ROOT = {
+						NOT = { dynasty = 0 }
+						OR = {
+							is_ruler = yes
+							dynasty = PREV
+						}
+					}
+				}
+				opinion = { who = ROOT modifier = opinion_election_champion }
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTBstratocracy.10" 
+		trigger = { 
+			OR = {
+				ai = yes
+				NOT = { has_character_flag = stratocracy_more }
+			}
+			event_target:candidate_2 = { is_alive = yes }
+		}
+		ai_chance = { 
+			factor = 50
+			modifier = {
+				factor = 1.05
+				event_target:candidate_2 = { trait = diligent }
+			}
+			modifier = {
+				factor = 1.25
+				event_target:candidate_2 = { age = 30 }
+			}					
+			modifier = {
+				factor = 1.5
+				event_target:candidate_2 = { has_character_flag = stratocracy_election_marshal}	
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_2 = { tier = KING }
+				event_target:candidate_2 = { NOT = { has_character_flag = stratocracy_election_marshal } }						
+			}
+			modifier = {
+				factor = 2		
+				event_target:candidate_2 = { trait = brilliant_strategist }	 				
+			}				
+			modifier = {
+				factor = 1.5
+				event_target:candidate_2 = { trait = brave }
+			}
+			modifier = {
+				factor = 1.1 
+				event_target:candidate_2 = { martial = 13 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_2 = { martial = 14 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_2 = { martial = 15 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_2 = { martial = 16 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_2 = { martial = 17 }
+			} 
+			modifier = {
+				factor = 1.1
+				event_target:candidate_2 = { martial = 18 }
+			}			
+			modifier = {
+				factor = 1.1
+				event_target:candidate_2 = { martial = 19 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_2 = { martial = 20 }
+			}		
+			modifier = {
+				factor = 1.1
+				event_target:candidate_2 = { martial = 21 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_2 = { martial = 22 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_2 = { martial = 23 }
+			}	
+			modifier = {
+				factor = 1.1
+				event_target:candidate_2 = { martial = 24 }
+			}			
+			modifier = {
+				factor = 1.5			
+				event_target:candidate_2 = { trait = skilled_tactician }					
+			}			
+			modifier = {
+				factor = 1.25
+				event_target:candidate_2 = { tier = DUKE }
+				event_target:candidate_2 = { NOT = { has_character_flag = stratocracy_election_marshal } }							
+			}	
+			modifier = {
+				factor = 1.25
+				event_target:candidate_2 = { trait = strong	}
+			}				
+			modifier = {
+				factor = 1.1
+				event_target:candidate_2 = { prestige = 200 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_2 = { prestige = 300 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_2 = { prestige = 400 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_2 = { prestige = 500 }
+			}	
+			modifier = {
+				factor = 1.1
+				event_target:candidate_2 = {  prestige = 600 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_2 = { prestige = 700 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_2 = { prestige = 800 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_2 = { prestige = 900 }
+			}	
+			modifier = {
+				factor = 1.2
+				event_target:candidate_2 = { prestige = 1000 }
+			}
+			modifier = {
+				factor = 0.25
+				event_target:candidate_2 = { trait = craven }
+			}		
+	
+			modifier = {
+				factor = 0.75
+				event_target:candidate_2 = { trait = shy }
+			}	
+
+			modifier = {
+				factor = 0.75
+				event_target:candidate_2 = { trait = maimed }
+			}	
+
+			modifier = {
+				factor = 0.5
+				event_target:candidate_2 = { NOT = { prestige = 1 } }
+			}					
+			
+			modifier = {
+				factor = 0.75
+				event_target:candidate_2 = { NOT = { prestige = 100 } }
+			}
+			modifier = {
+				factor = 0.75
+				event_target:candidate_2 = { trait = infirm }
+			}
+			modifier = {
+				factor = 0.75
+				event_target:candidate_2 = { NOT = { age = 16 } }
+			}
+			modifier = {
+				factor = 0.8
+				event_target:candidate_2 = { NOT = { age = 19 } }
+			}
+			modifier = {
+				factor = 0.4
+				event_target:candidate_2 = { NOT = { reverse_opinion = { who = ROOT value = -99 } } }
+			}
+			modifier = {
+				factor = 0.5
+				event_target:candidate_2 = { NOT = { reverse_opinion = { who = ROOT value = -79 } } }
+			}
+			modifier = {
+				factor = 0.66
+				event_target:candidate_2 = { NOT = { reverse_opinion = { who = ROOT value = -59 } } }
+			}
+			modifier = {
+				factor = 0.66
+				event_target:candidate_2 = { NOT = { reverse_opinion = { who = ROOT value = -39 } } }
+			}
+			modifier = {
+				factor = 0.66
+				event_target:candidate_2 = { NOT = { reverse_opinion = { who = ROOT value = -19 } } }
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_2 = { reverse_opinion = { who = ROOT value = 20 } }
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_2 = { reverse_opinion = { who = ROOT value = 40 } }
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_2 = { reverse_opinion = { who = ROOT value = 60 } }
+			}
+			modifier = {
+				factor = 2
+				event_target:candidate_2 = { reverse_opinion = { who = ROOT value = 80 } }
+			}
+			modifier = {
+				factor = 2.5
+				event_target:candidate_2 = { reverse_opinion = { who = ROOT value = 100 } }
+			}
+			modifier = {
+				factor = 3
+				NOT = { dynasty = 0 }
+				event_target:candidate_2 = { dynasty = ROOT }
+			}
+			modifier = {
+				factor = 2
+				event_target:candidate_2 = { is_close_relative = ROOT }
+			}
+			modifier = {
+				factor = 0.75
+				event_target:candidate_2 = { is_female = yes }
+			}
+			modifier = {
+				factor = 100
+				event_target:candidate_2 = { reverse_has_opinion_modifier = { who = ROOT modifier = opinion_loyalty_bought } }
+			}
+			modifier = {
+				factor = 0.4
+				event_target:candidate_2 = { dynasty = 0 }
+			}
+		}
+		event_target:candidate_2 = {
+			hidden_tooltip = { change_variable = { which = "election_votes" value = 1 } }
+			if = {
+				limit = {
+					ROOT = {
+						NOT = { dynasty = 0 }
+						OR = {
+							is_ruler = yes
+							dynasty = PREV
+						}
+					}
+				}
+				opinion = { who = ROOT modifier = opinion_election_champion }
+			}
+		}	
+	}
+	
+	option = {
+		name = "EVTOPTCstratocracy.10" 
+		trigger = { 
+			OR = {
+				ai = yes
+				NOT = { has_character_flag = stratocracy_more }
+			}
+			
+			event_target:candidate_3 = { is_alive = yes }
+		}
+		ai_chance = { 
+			factor = 50
+			modifier = {
+				factor = 1.05
+				event_target:candidate_3 = { trait = diligent }
+			}
+			modifier = {
+				factor = 1.25
+				event_target:candidate_3 = { age = 30 }
+			}					
+			modifier = {
+				factor = 1.5
+				event_target:candidate_3 = { has_character_flag = stratocracy_election_marshal }	
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_3 = { tier = KING }
+				event_target:candidate_3 = { NOT = { has_character_flag = stratocracy_election_marshal } }							
+			}
+			modifier = {
+				factor = 2		
+				event_target:candidate_3 = { trait = brilliant_strategist }	 				
+			}				
+			modifier = {
+				factor = 1.5
+				event_target:candidate_3 = { trait = brave }
+			}
+			modifier = {
+				factor = 1.1 
+				event_target:candidate_3 = { martial = 13 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_3 = { martial = 14 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_3 = { martial = 15 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_3 = { martial = 16 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_3 = { martial = 17 }
+			} 
+			modifier = {
+				factor = 1.1
+				event_target:candidate_3 = { martial = 18 }
+			}			
+			modifier = {
+				factor = 1.1
+				event_target:candidate_3 = { martial = 19 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_3 = { martial = 20 }
+			}		
+			modifier = {
+				factor = 1.1
+				event_target:candidate_3 = { martial = 21 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_3 = { martial = 22 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_3 = { martial = 23 }
+			}	
+			modifier = {
+				factor = 1.1
+				event_target:candidate_3 = { martial = 24 }
+			}			
+			modifier = {
+				factor = 1.5			
+				event_target:candidate_3 = { trait = skilled_tactician }					
+			}			
+			modifier = {
+				factor = 1.25
+				event_target:candidate_3 = { tier = DUKE }
+				event_target:candidate_3 = { NOT = { has_character_flag = stratocracy_election_marshal } }					
+			}	
+			modifier = {
+				factor = 1.25
+				event_target:candidate_3 = { trait = strong	}
+			}				
+			modifier = {
+				factor = 1.1
+				event_target:candidate_3 = { prestige = 200 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_3 = { prestige = 300 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_3 = { prestige = 400 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_3 = { prestige = 500 }
+			}	
+			modifier = {
+				factor = 1.1
+				event_target:candidate_3 = {  prestige = 600 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_3 = { prestige = 700 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_3 = { prestige = 800 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_3 = { prestige = 900 }
+			}	
+			modifier = {
+				factor = 1.2
+				event_target:candidate_3 = { prestige = 1000 }
+			}
+			modifier = {
+				factor = 0.25
+				event_target:candidate_3 = { trait = craven }
+			}		
+	
+			modifier = {
+				factor = 0.75
+				event_target:candidate_3 = { trait = shy }
+			}	
+
+			modifier = {
+				factor = 0.75
+				event_target:candidate_3 = { trait = maimed }
+			}	
+
+			modifier = {
+				factor = 0.5
+				event_target:candidate_3 = { NOT = { prestige = 1 } }
+			}					
+			
+			modifier = {
+				factor = 0.75
+				event_target:candidate_3 = { NOT = { prestige = 100 } }
+			}
+			modifier = {
+				factor = 0.75
+				event_target:candidate_3 = { trait = infirm }
+			}
+			modifier = {
+				factor = 0.75
+				event_target:candidate_3 = { NOT = { age = 16 } }
+			}
+			modifier = {
+				factor = 0.8
+				event_target:candidate_3 = { NOT = { age = 19 } }
+			}
+			modifier = {
+				factor = 0.4
+				event_target:candidate_3 = { NOT = { reverse_opinion = { who = ROOT value = -99 } } }
+			}
+			modifier = {
+				factor = 0.5
+				event_target:candidate_3 = { NOT = { reverse_opinion = { who = ROOT value = -79 } } }
+			}
+			modifier = {
+				factor = 0.66
+				event_target:candidate_3 = { NOT = { reverse_opinion = { who = ROOT value = -59 } } }
+			}
+			modifier = {
+				factor = 0.66
+				event_target:candidate_3 = { NOT = { reverse_opinion = { who = ROOT value = -39 } } }
+			}
+			modifier = {
+				factor = 0.66
+				event_target:candidate_3 = { NOT = { reverse_opinion = { who = ROOT value = -19 } } }
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_3 = { reverse_opinion = { who = ROOT value = 20 } }
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_3 = { reverse_opinion = { who = ROOT value = 40 } }
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_3 = { reverse_opinion = { who = ROOT value = 60 } }
+			}
+			modifier = {
+				factor = 2
+				event_target:candidate_3 = { reverse_opinion = { who = ROOT value = 80 } }
+			}
+			modifier = {
+				factor = 2.5
+				event_target:candidate_3 = { reverse_opinion = { who = ROOT value = 100 } }
+			}
+			modifier = {
+				factor = 3
+				NOT = { dynasty = 0 }
+				event_target:candidate_3 = { dynasty = ROOT }
+			}
+			modifier = {
+				factor = 2
+				event_target:candidate_3 = { is_close_relative = ROOT }
+			}
+			modifier = {
+				factor = 0.75
+				event_target:candidate_3 = { is_female = yes }
+			}
+			modifier = {
+				factor = 100
+				event_target:candidate_3 = { reverse_has_opinion_modifier = { who = ROOT modifier = opinion_loyalty_bought } }
+			}
+			modifier = {
+				factor = 0.4
+				event_target:candidate_3 = { dynasty = 0 }
+			}
+		}
+		event_target:candidate_3 = {
+			hidden_tooltip = { change_variable = { which = "election_votes" value = 1 } }
+			if = {
+				limit = {
+					ROOT = {
+						NOT = { dynasty = 0 }
+						OR = {
+							is_ruler = yes
+							dynasty = PREV
+						}
+					}
+				}
+				opinion = { who = ROOT modifier = opinion_election_champion }
+			}
+		}
+	}
+	
+	option = {
+		name = "MORE" 
+		trigger = { 
+			ai = no 
+			NOT = { has_character_flag = stratocracy_more }
+			event_target:candidate_4 = { is_alive = yes }
+		}	
+		set_character_flag = stratocracy_more
+		hidden_tooltip = { 
+			repeat_event = { id = stratocracy.10 }
+		}
+	}
+	
+	option = {
+		name = "EVTOPTDstratocracy.10" 
+		trigger = { 
+			OR = {
+				ai = yes
+				has_character_flag = stratocracy_more
+			}
+			
+			event_target:candidate_4 = { is_alive = yes }
+		}
+		ai_chance = { 
+			factor = 50
+			modifier = {
+				factor = 1.05
+				event_target:candidate_4 = { trait = diligent }
+			}
+			modifier = {
+				factor = 1.25
+				event_target:candidate_4 = { age = 30 }
+			}					
+			modifier = {
+				factor = 1.5
+				event_target:candidate_4 = { has_character_flag = stratocracy_election_marshal }	
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_4 = { tier = KING }
+				event_target:candidate_4 = { NOT = { has_character_flag = stratocracy_election_marshal } }					
+			}
+			modifier = {
+				factor = 2		
+				event_target:candidate_4 = { trait = brilliant_strategist }	 				
+			}				
+			modifier = {
+				factor = 1.5
+				event_target:candidate_4 = { trait = brave }
+			}
+			modifier = {
+				factor = 1.1 
+				event_target:candidate_4 = { martial = 13 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_4 = { martial = 14 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_4 = { martial = 15 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_4 = { martial = 16 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_4 = { martial = 17 }
+			} 
+			modifier = {
+				factor = 1.1
+				event_target:candidate_4 = { martial = 18 }
+			}			
+			modifier = {
+				factor = 1.1
+				event_target:candidate_4 = { martial = 19 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_4 = { martial = 20 }
+			}		
+			modifier = {
+				factor = 1.1
+				event_target:candidate_4 = { martial = 21 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_4 = { martial = 22 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_4 = { martial = 23 }
+			}	
+			modifier = {
+				factor = 1.1
+				event_target:candidate_4 = { martial = 24 }
+			}			
+			modifier = {
+				factor = 1.5			
+				event_target:candidate_4 = { trait = skilled_tactician }					
+			}			
+			modifier = {
+				factor = 1.25
+				event_target:candidate_4 = { tier = DUKE }
+				event_target:candidate_4 = { NOT = { has_character_flag = stratocracy_election_marshal } }									
+			}	
+			modifier = {
+				factor = 1.25
+				event_target:candidate_4 = { trait = strong	}
+			}				
+			modifier = {
+				factor = 1.1
+				event_target:candidate_4 = { prestige = 200 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_4 = { prestige = 300 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_4 = { prestige = 400 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_4 = { prestige = 500 }
+			}	
+			modifier = {
+				factor = 1.1
+				event_target:candidate_4 = {  prestige = 600 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_4 = { prestige = 700 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_4 = { prestige = 800 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_4 = { prestige = 900 }
+			}	
+			modifier = {
+				factor = 1.2
+				event_target:candidate_4 = { prestige = 1000 }
+			}
+			modifier = {
+				factor = 0.25
+				event_target:candidate_4 = { trait = craven }
+			}		
+	
+			modifier = {
+				factor = 0.75
+				event_target:candidate_4 = { trait = shy }
+			}	
+
+			modifier = {
+				factor = 0.75
+				event_target:candidate_4 = { trait = maimed }
+			}	
+
+			modifier = {
+				factor = 0.5
+				event_target:candidate_4 = { NOT = { prestige = 1 } }
+			}					
+			
+			modifier = {
+				factor = 0.75
+				event_target:candidate_4 = { NOT = { prestige = 100 } }
+			}
+			modifier = {
+				factor = 0.75
+				event_target:candidate_4 = { trait = infirm }
+			}
+			modifier = {
+				factor = 0.75
+				event_target:candidate_4 = { NOT = { age = 16 } }
+			}
+			modifier = {
+				factor = 0.8
+				event_target:candidate_4 = { NOT = { age = 19 } }
+			}
+			modifier = {
+				factor = 0.4
+				event_target:candidate_4 = { NOT = { reverse_opinion = { who = ROOT value = -99 } } }
+			}
+			modifier = {
+				factor = 0.5
+				event_target:candidate_4 = { NOT = { reverse_opinion = { who = ROOT value = -79 } } }
+			}
+			modifier = {
+				factor = 0.66
+				event_target:candidate_4 = { NOT = { reverse_opinion = { who = ROOT value = -59 } } }
+			}
+			modifier = {
+				factor = 0.66
+				event_target:candidate_4 = { NOT = { reverse_opinion = { who = ROOT value = -39 } } }
+			}
+			modifier = {
+				factor = 0.66
+				event_target:candidate_4 = { NOT = { reverse_opinion = { who = ROOT value = -19 } } }
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_4 = { reverse_opinion = { who = ROOT value = 20 } }
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_4 = { reverse_opinion = { who = ROOT value = 40 } }
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_4 = { reverse_opinion = { who = ROOT value = 60 } }
+			}
+			modifier = {
+				factor = 2
+				event_target:candidate_4 = { reverse_opinion = { who = ROOT value = 80 } }
+			}
+			modifier = {
+				factor = 2.5
+				event_target:candidate_4 = { reverse_opinion = { who = ROOT value = 100 } }
+			}
+			modifier = {
+				factor = 3
+				NOT = { dynasty = 0 }
+				event_target:candidate_4 = { dynasty = ROOT }
+			}
+			modifier = {
+				factor = 2
+				event_target:candidate_4 = { is_close_relative = ROOT }
+			}
+			modifier = {
+				factor = 0.75
+				event_target:candidate_4 = { is_female = yes }
+			}
+			modifier = {
+				factor = 100
+				event_target:candidate_4 = { reverse_has_opinion_modifier = { who = ROOT modifier = opinion_loyalty_bought } }
+			}
+			modifier = {
+				factor = 0.4
+				event_target:candidate_4 = { dynasty = 0 }
+			}
+		}
+		event_target:candidate_4 = {
+			hidden_tooltip = { change_variable = { which = "election_votes" value = 1 } }
+			if = {
+				limit = {
+					ROOT = {
+						NOT = { dynasty = 0 }
+						OR = {
+							is_ruler = yes
+							dynasty = PREV
+						}
+					}
+				}
+				opinion = { who = ROOT modifier = opinion_election_champion }
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTEstratocracy.10" 
+		trigger = { 
+			OR = {
+				ai = yes
+				has_character_flag = stratocracy_more
+			}
+			
+			event_target:candidate_5 = { is_alive = yes }
+		}
+		ai_chance = { 
+			factor = 50
+			modifier = {
+				factor = 1.05
+				event_target:candidate_5 = { trait = diligent }
+			}
+			modifier = {
+				factor = 1.25
+				event_target:candidate_5 = { age = 30 }
+			}					
+			modifier = {
+				factor = 1.5
+				event_target:candidate_5 = { has_character_flag = stratocracy_election_marshal }	
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_5 = { tier = KING }
+				event_target:candidate_5 = { NOT = { has_character_flag = stratocracy_election_marshal } }					
+			}
+			modifier = {
+				factor = 2		
+				event_target:candidate_5 = { trait = brilliant_strategist }	 				
+			}				
+			modifier = {
+				factor = 1.5
+				event_target:candidate_5 = { trait = brave }
+			}
+			modifier = {
+				factor = 1.1 
+				event_target:candidate_5 = { martial = 13 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_5 = { martial = 14 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_5 = { martial = 15 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_5 = { martial = 16 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_5 = { martial = 17 }
+			} 
+			modifier = {
+				factor = 1.1
+				event_target:candidate_5 = { martial = 18 }
+			}			
+			modifier = {
+				factor = 1.1
+				event_target:candidate_5 = { martial = 19 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_5 = { martial = 20 }
+			}		
+			modifier = {
+				factor = 1.1
+				event_target:candidate_5 = { martial = 21 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_5 = { martial = 22 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_5 = { martial = 23 }
+			}	
+			modifier = {
+				factor = 1.1
+				event_target:candidate_5 = { martial = 24 }
+			}			
+			modifier = {
+				factor = 1.5			
+				event_target:candidate_5 = { trait = skilled_tactician }					
+			}			
+			modifier = {
+				factor = 1.25
+				event_target:candidate_5 = { tier = DUKE }
+				event_target:candidate_5 = { NOT = { has_character_flag = stratocracy_election_marshal } }						
+			}	
+			modifier = {
+				factor = 1.25
+				event_target:candidate_5 = { trait = strong	}
+			}				
+			modifier = {
+				factor = 1.1
+				event_target:candidate_5 = { prestige = 200 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_5 = { prestige = 300 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_5 = { prestige = 400 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_5 = { prestige = 500 }
+			}	
+			modifier = {
+				factor = 1.1
+				event_target:candidate_5 = {  prestige = 600 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_5 = { prestige = 700 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_5 = { prestige = 800 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_5 = { prestige = 900 }
+			}	
+			modifier = {
+				factor = 1.2
+				event_target:candidate_5 = { prestige = 1000 }
+			}
+			modifier = {
+				factor = 0.25
+				event_target:candidate_5 = { trait = craven }
+			}		
+	
+			modifier = {
+				factor = 0.75
+				event_target:candidate_5 = { trait = shy }
+			}	
+
+			modifier = {
+				factor = 0.75
+				event_target:candidate_5 = { trait = maimed }
+			}	
+
+			modifier = {
+				factor = 0.5
+				event_target:candidate_5 = { NOT = { prestige = 1 } }
+			}					
+			
+			modifier = {
+				factor = 0.75
+				event_target:candidate_5 = { NOT = { prestige = 100 } }
+			}
+			modifier = {
+				factor = 0.75
+				event_target:candidate_5 = { trait = infirm }
+			}
+			modifier = {
+				factor = 0.75
+				event_target:candidate_5 = { NOT = { age = 16 } }
+			}
+			modifier = {
+				factor = 0.8
+				event_target:candidate_5 = { NOT = { age = 19 } }
+			}
+			modifier = {
+				factor = 0.4
+				event_target:candidate_5 = { NOT = { reverse_opinion = { who = ROOT value = -99 } } }
+			}
+			modifier = {
+				factor = 0.5
+				event_target:candidate_5 = { NOT = { reverse_opinion = { who = ROOT value = -79 } } }
+			}
+			modifier = {
+				factor = 0.66
+				event_target:candidate_5 = { NOT = { reverse_opinion = { who = ROOT value = -59 } } }
+			}
+			modifier = {
+				factor = 0.66
+				event_target:candidate_5 = { NOT = { reverse_opinion = { who = ROOT value = -39 } } }
+			}
+			modifier = {
+				factor = 0.66
+				event_target:candidate_5 = { NOT = { reverse_opinion = { who = ROOT value = -19 } } }
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_5 = { reverse_opinion = { who = ROOT value = 20 } }
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_5 = { reverse_opinion = { who = ROOT value = 40 } }
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_5 = { reverse_opinion = { who = ROOT value = 60 } }
+			}
+			modifier = {
+				factor = 2
+				event_target:candidate_5 = { reverse_opinion = { who = ROOT value = 80 } }
+			}
+			modifier = {
+				factor = 2.5
+				event_target:candidate_5 = { reverse_opinion = { who = ROOT value = 100 } }
+			}
+			modifier = {
+				factor = 3
+				NOT = { dynasty = 0 }
+				event_target:candidate_5 = { dynasty = ROOT }
+			}
+			modifier = {
+				factor = 2
+				event_target:candidate_5 = { is_close_relative = ROOT }
+			}
+			modifier = {
+				factor = 0.75
+				event_target:candidate_5 = { is_female = yes }
+			}
+			modifier = {
+				factor = 100
+				event_target:candidate_5 = { reverse_has_opinion_modifier = { who = ROOT modifier = opinion_loyalty_bought } }
+			}
+			modifier = {
+				factor = 0.4
+				event_target:candidate_5 = { dynasty = 0 }
+			}
+		}
+		event_target:candidate_5 = {
+			hidden_tooltip = { change_variable = { which = "election_votes" value = 1 } }
+			if = {
+				limit = {
+					ROOT = {
+						NOT = { dynasty = 0 }
+						OR = {
+							is_ruler = yes
+							dynasty = PREV
+						}
+					}
+				}
+				opinion = { who = ROOT modifier = opinion_election_champion }
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTFstratocracy.10" 
+		trigger = { 
+			OR = {
+				ai = yes
+				has_character_flag = stratocracy_more
+			}
+			
+			event_target:candidate_6 = { is_alive = yes }
+		}
+		ai_chance = { 
+			factor = 50
+			modifier = {
+				factor = 1.05
+				event_target:candidate_6 = { trait = diligent }
+			}
+			modifier = {
+				factor = 1.25
+				event_target:candidate_6 = { age = 30 }
+			}					
+			modifier = {
+				factor = 1.5
+				event_target:candidate_6 = { has_character_flag = stratocracy_election_marshal }	
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_6 = { tier = KING }
+				event_target:candidate_6 = { NOT = { has_character_flag = stratocracy_election_marshal } }						
+			}
+			modifier = {
+				factor = 2		
+				event_target:candidate_6 = { trait = brilliant_strategist }	 				
+			}				
+			modifier = {
+				factor = 1.5
+				event_target:candidate_6 = { trait = brave }
+			}
+			modifier = {
+				factor = 1.1 
+				event_target:candidate_6 = { martial = 13 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_6 = { martial = 14 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_6 = { martial = 15 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_6 = { martial = 16 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_6 = { martial = 17 }
+			} 
+			modifier = {
+				factor = 1.1
+				event_target:candidate_6 = { martial = 18 }
+			}			
+			modifier = {
+				factor = 1.1
+				event_target:candidate_6 = { martial = 19 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_6 = { martial = 20 }
+			}		
+			modifier = {
+				factor = 1.1
+				event_target:candidate_6 = { martial = 21 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_6 = { martial = 22 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_6 = { martial = 23 }
+			}	
+			modifier = {
+				factor = 1.1
+				event_target:candidate_6 = { martial = 24 }
+			}			
+			modifier = {
+				factor = 1.5			
+				event_target:candidate_6 = { trait = skilled_tactician }					
+			}			
+			modifier = {
+				factor = 1.25
+				event_target:candidate_6 = { tier = DUKE }
+				event_target:candidate_6 = { NOT = { has_character_flag = stratocracy_election_marshal } }							
+			}	
+			modifier = {
+				factor = 1.25
+				event_target:candidate_6 = { trait = strong	}
+			}				
+			modifier = {
+				factor = 1.1
+				event_target:candidate_6 = { prestige = 200 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_6 = { prestige = 300 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_6 = { prestige = 400 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_6 = { prestige = 500 }
+			}	
+			modifier = {
+				factor = 1.1
+				event_target:candidate_6 = {  prestige = 600 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_6 = { prestige = 700 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_6 = { prestige = 800 }
+			}
+			modifier = {
+				factor = 1.1
+				event_target:candidate_6 = { prestige = 900 }
+			}	
+			modifier = {
+				factor = 1.2
+				event_target:candidate_6 = { prestige = 1000 }
+			}
+			modifier = {
+				factor = 0.25
+				event_target:candidate_6 = { trait = craven }
+			}		
+	
+			modifier = {
+				factor = 0.75
+				event_target:candidate_6 = { trait = shy }
+			}	
+
+			modifier = {
+				factor = 0.75
+				event_target:candidate_6 = { trait = maimed }
+			}	
+
+			modifier = {
+				factor = 0.5
+				event_target:candidate_6 = { NOT = { prestige = 1 } }
+			}					
+			
+			modifier = {
+				factor = 0.75
+				event_target:candidate_6 = { NOT = { prestige = 100 } }
+			}
+			modifier = {
+				factor = 0.75
+				event_target:candidate_6 = { trait = infirm }
+			}
+			modifier = {
+				factor = 0.75
+				event_target:candidate_6 = { NOT = { age = 16 } }
+			}
+			modifier = {
+				factor = 0.8
+				event_target:candidate_6 = { NOT = { age = 19 } }
+			}
+			modifier = {
+				factor = 0.4
+				event_target:candidate_6 = { NOT = { reverse_opinion = { who = ROOT value = -99 } } }
+			}
+			modifier = {
+				factor = 0.5
+				event_target:candidate_6 = { NOT = { reverse_opinion = { who = ROOT value = -79 } } }
+			}
+			modifier = {
+				factor = 0.66
+				event_target:candidate_6 = { NOT = { reverse_opinion = { who = ROOT value = -59 } } }
+			}
+			modifier = {
+				factor = 0.66
+				event_target:candidate_6 = { NOT = { reverse_opinion = { who = ROOT value = -39 } } }
+			}
+			modifier = {
+				factor = 0.66
+				event_target:candidate_6 = { NOT = { reverse_opinion = { who = ROOT value = -19 } } }
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_6 = { reverse_opinion = { who = ROOT value = 20 } }
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_6 = { reverse_opinion = { who = ROOT value = 40 } }
+			}
+			modifier = {
+				factor = 1.5
+				event_target:candidate_6 = { reverse_opinion = { who = ROOT value = 60 } }
+			}
+			modifier = {
+				factor = 2
+				event_target:candidate_6 = { reverse_opinion = { who = ROOT value = 80 } }
+			}
+			modifier = {
+				factor = 2.5
+				event_target:candidate_6 = { reverse_opinion = { who = ROOT value = 100 } }
+			}
+			modifier = {
+				factor = 3
+				NOT = { dynasty = 0 }
+				event_target:candidate_6 = { dynasty = ROOT }
+			}
+			modifier = {
+				factor = 2
+				event_target:candidate_6 = { is_close_relative = ROOT }
+			}
+			modifier = {
+				factor = 0.75
+				event_target:candidate_6 = { is_female = yes }
+			}
+			modifier = {
+				factor = 100
+				event_target:candidate_6 = { reverse_has_opinion_modifier = { who = ROOT modifier = opinion_loyalty_bought } }
+			}
+			modifier = {
+				factor = 0.4
+				event_target:candidate_6 = { dynasty = 0 }
+			}
+		}
+		event_target:candidate_6 = {
+			hidden_tooltip = { change_variable = { which = "election_votes" value = 1 } }
+			if = {
+				limit = {
+					ROOT = {
+						NOT = { dynasty = 0 }
+						OR = {
+							is_ruler = yes
+							dynasty = PREV
+						}
+					}
+				}
+				opinion = { who = ROOT modifier = opinion_election_champion }
+			}
+		}
+	}
+	
+	option = {
+		name = "BACK" 
+		trigger = { 
+			ai = no 
+			has_character_flag = stratocracy_more
+		}	
+		clr_character_flag = stratocracy_more
+		hidden_tooltip = { 
+			repeat_event = { id = stratocracy.10 }
+		}
+	}
+}	
+
+character_event = {
+	id = stratocracy.13
+
+	is_triggered_only = yes
+	hide_window = yes
+	
+	immediate = { 			
+		#Find winner
+		#If still candidate check against self		
+		if = {
+			limit = { 
+				NOT = {
+					any_realm_character = {
+						check_variable = { which = "election_votes" which = ROOT }	
+						NOT = { is_variable_equal = { which = "election_votes" which = ROOT } } #check >, not >=							
+						NOT = { character = ROOT }
+					}
+				}
+			}
+			set_character_flag = stratocracy_election_1st 
+		}
+		#If not check against another candidate
+		if = {
+			limit = { NOT = { has_character_flag = stratocracy_election_1st } }
+			random_realm_character = {
+				limit = { 
+					NOT = {
+						ROOT = {
+							any_realm_character = {						
+								check_variable = { which = "election_votes" which = PREVPREV }	
+								NOT = { is_variable_equal = { which = "election_votes" which = PREVPREV } }										
+								NOT = { character = PREVPREV }
+							}
+						}	
+					}
+				}
+				set_character_flag = stratocracy_election_1st 
+			}
+		}
+		character_event = { id = stratocracy.141 } #Finished		
+	}
+	
+	option = {
+		name = OK
+	}
+}		
+
+character_event = {
+	id = stratocracy.141
+	desc = ELECTIONHANDTITLE
+	#desc = "EVTDESCstratocracy.10" 
+	picture = GFX_evt_council
+	
+	is_triggered_only = yes
+	hide_window = yes
+	
+	immediate = { 		
+		#Select Main triarch
+		if = {
+			limit = { 
+					AND = {
+						has_character_flag = stratocracy_election_candidate
+						has_character_flag = stratocracy_election_1st
+					}				
+			}
+			log = "stratocracy.141: Number of voters for [Root.GetTitledName] = [Root.election_votes.GetValue]"
+			set_character_flag = stratocracy_elected_ruler
+			set_character_flag = stratocracy_elected_ruler_found
+		}
+		#If not reelected, the patrician with the most votes becomes new main triarch
+		if = {
+			limit = { NOT = { has_character_flag = stratocracy_elected_ruler_found } }
+			random_realm_character = {
+				limit = { 
+					has_character_flag = stratocracy_election_1st
+					has_character_flag = stratocracy_election_candidate				
+				}
+			    log = "stratocracy.141: Number of voters for [This.GetTitledName] = [This.election_votes.GetValue]"				
+				set_character_flag = stratocracy_elected_ruler
+				ROOT = { set_character_flag = stratocracy_elected_ruler_found }
+			}
+		}
+		if = {
+			limit = { NOT = { has_character_flag = stratocracy_elected_ruler } }
+			random_realm_character = {
+				limit = { 
+					has_character_flag = stratocracy_elected_ruler
+				}
+				ROOT = {
+					any_demesne_title = {
+						limit = { 
+							has_title_flag = stratocracy_flag_holding_election 
+							has_law = succ_feudal_elective #change to stratocracy method later 
+						}			
+						usurp_title_plus_barony_if_unlanded_and_vassals  = PREVPREV
+							clr_title_flag = stratocracy_flag_holding_election						
+					}
+				}
+			}							
+		}		
+	}
+	
+	option = {
+		name = OK
+		###Inform###
+		character_event = { id = stratocracy.20 }
+		any_realm_character = {
+			character_event = { id = stratocracy.20 }
+		}		
+	}
+}
+
+#Inform realm & clear all flags
+character_event = {
+	id = stratocracy.20
+	desc = "EVTDESCstratocracy.20" 
+	picture = GFX_evt_stratocracy
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTAstratocracy.20" 
+		custom_tooltip = { }
+		clr_character_flag = stratocracy_election_marshal
+		clr_character_flag = stratocracy_election_voter
+		clr_character_flag = stratocracy_eligible_for_election
+		clr_character_flag = stratocracy_election_candidate
+		clr_character_flag = stratocracy_holding_elections
+		clr_character_flag = stratocracy_candidates_found
+		clr_character_flag = stratocracy_election_points_assigned
+		clr_character_flag = stratocracy_candidates_beingsorted
+		clr_character_flag = stratocracy_candidates_sorted
+		clr_character_flag = stratocracy_candidate_number_found
+		clr_character_flag = stratocracy_counting_votes
+		clr_character_flag = stratocracy_election_1st
+		clr_character_flag = stratocracy_elected_ruler
+		clr_character_flag = stratocracy_elected_ruler_found
+	}
+}	
+
