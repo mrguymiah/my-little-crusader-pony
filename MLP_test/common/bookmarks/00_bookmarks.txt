@@ -4,6 +4,8 @@ bookmark =
 	desc = "Equestria"
 	date = 120.1.1
 	
+	custom_start = yes
+	
 	selectable_character = {
 		id = 1 # Princess Platinum
 	}
