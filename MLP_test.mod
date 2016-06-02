@@ -5,16 +5,7 @@ replace_path = "common\cultures"
 replace_path = "common\landed_titles"
 replace_path = "common\religions"
 replace_path = "common\religious_titles"
-<<<<<<< HEAD
 replace_path = "common\trade_routes"
 replace_path = "history"
 replace_path = "gfx\flags"
-=======
-replace_path = "common\province_setup"
-replace_path = "history\provinces"
-replace_path = "history\characters"
-replace_path = "history\titles"
-replace_path = "history\technology"
 replace_path = "map"
-replace_path = "gfx\flags"
->>>>>>> origin/master
