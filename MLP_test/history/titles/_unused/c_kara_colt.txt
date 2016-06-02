@@ -1,5 +1,0 @@
-# c_kara_colt @Saddle Arabia|Coltiva|Buckhara
-20.1.1={
-	law = enatic_cognatic_succession
-	law = succ_gavelkind
-}
