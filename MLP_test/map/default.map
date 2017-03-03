@@ -1,4 +1,4 @@
-max_provinces = 493
+max_provinces = 2000
 # stats:  492 provinces
 # unused:
 definitions = "definition.csv"
@@ -14,7 +14,7 @@ adjacencies = "adjacencies.csv"
 climate = "climate.txt"
 region = "island_region.txt"
 geographical_region = "geographical_region.txt"
-static = "statics"
+static = "static.txt"
 seasons = "seasons.txt"
 
 sea_zones = { 490 491 }
