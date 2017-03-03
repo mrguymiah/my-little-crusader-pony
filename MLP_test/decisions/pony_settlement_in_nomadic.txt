@@ -1,0 +1,147 @@
+title_decisions = {
+
+	feudal_pony_settle_nomad_province = {
+		filter = owned
+		ai_target_filter = owned
+		is_high_prio = yes
+		
+		
+		from_potential = {
+			is_feudal = yes
+		}
+		
+		potential = {
+			tier = count
+			holder_scope = {
+				character = FROM
+			}
+			location = {
+				NOT = {
+					num_of_settlements = 1
+				}
+			}
+		}
+		
+		allow = {
+			FROM = {
+				wealth = 200
+			}
+		}
+		
+		effect = {
+			FROM = {
+				wealth = -200
+			}
+			location = {
+				build_holding = {
+					type = castle
+					holder = FROM
+				}
+			}
+			location = {
+				province_event = { id = settle.101 }
+				# random_province_holding = {
+					# add_building = ca_wall_1
+				# }
+			}
+			#refill_holding_levy = yes
+			
+			if = {
+				limit = {
+					location = {
+						num_of_empty_holdings = 2
+					}
+					NOT = {
+						any_direct_de_jure_vassal_title = {
+							holding_type = city
+						}
+					}
+				}
+				location = {
+					build_holding = {
+						type = city
+					}
+				}
+			}
+		}
+			
+		revoke_allowed = {
+			always = no
+		}
+	
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	
+	
+	merchant_pony_settle_nomad_province = {
+		filter = owned
+		ai_target_filter = owned
+		is_high_prio = yes
+		
+		
+		from_potential = {
+			is_merchant_republic = yes
+		}
+		
+		potential = {
+			tier = count
+			holder_scope = {
+				character = FROM
+			}
+			location = {
+				NOT = {
+					num_of_settlements = 1
+				}
+			}
+			
+		}
+		
+		allow = {
+			FROM = {
+				wealth = 200
+			}
+		}
+		
+		effect = {
+			FROM = {
+				wealth = -200
+			}
+			location = {
+				build_holding = {
+				type = city
+				holder = FROM
+				}
+			}
+			#refill_holding_levy = yes
+			
+			if = {
+				limit = {
+					location = {
+						num_of_empty_holdings = 2
+					}
+					NOT = {
+						any_direct_de_jure_vassal_title = {
+							holding_type = castle
+						}
+					}
+				}
+				location = {
+					build_holding = {
+						type = castle
+					}
+				}
+			}
+		}	
+		revoke_allowed = {
+			always = no
+		}
+	
+		ai_will_do = {
+			factor = 1
+		}	
+	}
+
+}
