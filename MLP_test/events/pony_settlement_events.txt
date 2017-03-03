@@ -1,0 +1,32 @@
+namespace = settle
+
+province_event = {
+	id = settle.101
+	# title = settle_castle
+	# desc = EVTDESC_CM_503
+	# border = GFX_event_normal_frame_diplomacy
+
+	desc = OK
+	
+	hide_window = yes
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		# county = {
+			# location = {
+				random_province_holding = {
+					limit = {
+						holding_type = castle
+						NOT = { has_building = ca_wall_1 }
+					}
+					 add_building = ca_wall_1
+				}
+			# }
+		# }
+	}
+	
+	
+	option = { name = OK }
+
+}
