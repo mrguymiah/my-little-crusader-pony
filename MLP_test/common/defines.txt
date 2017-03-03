@@ -1,6 +1,6 @@
 start_date = 100.1.1
 last_start_date = 120.9.16
-end_date = 1600.10.10
+end_date = 10000.10.10
 
 character = {
 }

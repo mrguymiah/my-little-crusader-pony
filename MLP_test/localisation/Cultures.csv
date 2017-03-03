@@ -1,48 +1,73 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-#
-# Equestrian Group
-#
 equestrian;Equestrian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+equestrian_group;Equestrian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 earth_pony_culture;Earth Pony;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 pegasus_culture;Pegasus;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 unicorn_culture;Unicorn;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 crystal_culture;Crystal Pony;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Saddle Arabian Group
-#
+earthling;Earthling;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+mustang;Mustang;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+neighagaran;Neighagaran;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+manehattanite;Manehattanite;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+unicornian;Unicornian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+bitalian;Bitalian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+pegasoplite;Pegasoplite;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+donum;Donum;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+crystaline;Crystaline;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+alicrian;Alicrian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+bejeweled;Bejeweled;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+redtail;Redtail;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+blacktail;Blacktail;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+roe;Roe;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+muntjaal;Muntjaal;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+arabb;Arabb;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+bev;Bev;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+tyrant_group;Tyrant;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+westflight;West Flight;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+gemdrake;Gem Drake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+miniman;Miniman;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+diamonddog;Diamond Dog;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+northgriffon;North Griffon;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+westgriffon;West Griffon;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+gotelander;Gotelander;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+donumer;Donumer;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+caprine_group;Caprine;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+bosh;Bosh;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+taurukin;Taurukin;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+buryak;Buryak;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+yakku;Yakku;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+yaket;Yaket;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+dragon_group;Dragon;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+mino_group;Mino;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+yakyak;Yakyak;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+wildbovine_group;Wild Bovine;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+wild_griffon_group;Wilf Griffon;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+rabbit;Rabbit;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+critter_group;Critter;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+cephal_group;Cephal;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+rumin;Rumin;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+rein;Rein;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+reindeer_group;Reindeer;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+donum_group;Donum;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+whitestag;White Stag;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+muntjo;Muntjo;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 thestral_culture;Thestral;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 saddle_arabian_group;Saddle Arabian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 saddle_arabian_culture;Saddle Arabian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Zebra Group
-#
 zebra_group;Zebra;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 zebra_culture;Zebra;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 zebradid;Zebradid;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 zebrazen;Zebrazen;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Buffalo Group
-#
 buffalo_group;Buffalo;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 blackhoof;Blackhoof;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 sioxen;Sioxen;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 tazapan;Tazapan;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Griffon Group
-#
 griffon_group;Griffon;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 high_griffon;Highland Griffon;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 low_griffon;Lowland Griffon;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 south_griffon;South Griffon;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Changeling Group
-#
 changeling_group;Changeling;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 changeling_culture;Changeling;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Deer Group
-#
 deer_group;Cervid;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 elapho_culture;Elapho;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 caribou_culture;Caribou;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
@@ -51,18 +76,9 @@ fallow;Fallow;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 muntjac;Muntjac;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 taruca;Taruca;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 cephalo;Cephalo;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Canine Group
-#
 great_canine_group;Greater Canines;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 diamond_dog;Diamond Dog;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Wolf Group
-#
 wolf_group;Wolf;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 timberwolf;Timberwolf;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# Wilding Group
-#
 special_group;Special Culture Group;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 wildling;Wildling;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
